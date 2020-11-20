@@ -1,0 +1,23 @@
+|==========| Redmi 4x / Santoni|==========|
+
+Date : 19/11/2020
+
+• Device Changelogs :
+- Update Retro Music
+- Update Kimci Recorder
+- SELinux enforcing
+- Updated most blobs from LA.UM.9.6.2.r1-02500-89xx.0
+- Updated Media configs from LA.UM.9.6.2.r1-02500-89xx.0
+- Updated data-ipa-cfg-mgr from LA.UM.9.6.2.r1-02500-89xx.0
+- Switch Skia rendering backend to Vulkan
+- Moto Dolby support
+- Upstremed Kernel: 4.9.243
+- Misc. Fixes and Improvements
+
+• Known Bug :
+- DT2W
+
+• Notes :
+- Vanilla build
+- BitGApss Recommended
+- Big Thanks to @jabiyeff21 @Sairam60 @Bikram_M @Wikidepia @Halo555555 and my tester
