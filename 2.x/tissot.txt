@@ -1,0 +1,22 @@
+|==========| MIA1 / Tissot |==========|
+
+Date : 20/11/2020
+
+• Device Changelogs :
+- Initial Android 11 Build
+
+• Known Bug :
+- Button Hw Light Dead
+- Hotspot
+- Maybe There's More
+
+• Notes :
+- Vanilla And Gapps Build
+- Use Magisk R
+
+• Credits 
+- Big Thanks To @abhinavgupta371  , @mtpiplod , @CatzBurry , @ThisIsTag
+- And Thanks To My Tester @DarkzXz , @JanganTagGwe , @risjadb
+
+
+
