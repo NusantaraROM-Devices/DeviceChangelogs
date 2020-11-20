@@ -1,0 +1,15 @@
+|==========| Realme 2 Pro / RMX1801|==========|
+
+Date : 19/11/2020
+
+• Device Changelogs :
+- Initial R release
+- Include gcam go, calculator, clock, retro music, and via browser app
+- Fix Hotspot
+- Include RealmeParts
+- Add OTG, FPS Counter and "Game Mode" tile to RealmeParts
+- Upstremed Kernel: 4.4.244
+
+• Notes :
+- Vanilla build
+- Big Thanks to ShubhamB for initial trees
