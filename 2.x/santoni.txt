@@ -16,6 +16,8 @@ Date : 19/11/2020
 
 • Known Bug :
 - DT2W
+- Network lost if calling on dialer. Fix: Remove system_ext/frameworks/qti-telephony-common.jar (need root access)
+• And maybe more
 
 • Notes :
 - Vanilla build
