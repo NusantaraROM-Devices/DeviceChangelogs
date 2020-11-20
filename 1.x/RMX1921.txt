@@ -1,0 +1,23 @@
+|==========| Realme XT / RMX1921 |==========|
+
+Date : 19/11/2020
+
+• Device Changelogs :
+- Bringback NFC. 
+- Drop SnapCam. 
+- Bringback RetroMusicPlayer. 
+- Fix Proximity
+ 
+• Notes : - Use RUI Firmware From C.01 -> C.07. 
+- Vanilla Build, Dont Forget Flash Gapps Before Reboot ( Recommended BitGapps or OpenGapps Nano ). 
+- Clean Flash it mush, Backup Your Data & App First, because you need to format data after flash rom & gapps, or you can to delete all file except "media" in /data. 
+- Change The Animation FOD If you want To use FOD in Notch Hide Thanks @Vj722 for find this 
+- OTA Still Broken. 
+- Report Bug With Proper Log.
+ 
+• Credits : - @StayWithMe69 For Give Me Server For Update This Rom. 
+- @Bava7325 For DT & Vendor. 
+- @pjgowtham For Base Kernel & Meta-Inf For Firmware RUI. 
+- @dev_harsh1998 & pjgowtham For Fix Proximity Blinking. 
+- @Vj722 Thanks To Tester The Rom
+- You:)
