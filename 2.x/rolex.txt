@@ -1,0 +1,19 @@
+|==========| Redmi 4A / Rolex |==========|
+
+Date : 21/11/2020
+
+• Device Changelogs :
+- Remove go properties
+- Remove hmp stuff
+- Upstream kernel to 4.9.244
+
+
+• Known Bug :
+- Deep Sleep
+- Maybe There's More
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Big Thanks To @Nick89786 for initial trees
