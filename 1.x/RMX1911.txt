@@ -1,0 +1,21 @@
+|==========| Realme 5, 5s, 5i / RMX1911 |==========|
+
+Date : 21/11/2020
+
+• Device Changelogs :
+- Revert to c57 base (more stable)
+- Switch to Pixel powerhal
+- Set oppoVersion (19632) as Realme 5 NFC
+- Update build fp and desc to coral november
+
+
+• Known Bug
+- Volte
+- Double Tap To Wake
+- Fingerprint for 5i
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To R5 Lab Group
