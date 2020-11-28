@@ -1,0 +1,18 @@
+|==========| Zenfone Max Pro M1 / X00T |==========|
+
+Date : 28/11/2020
+
+Device Changelogs
+- Initial build 
+- Alot device improvement
+
+Notes
+- SELinux permmisive for now
+- Hide magisk manager to pass CTS
+- Doesnt have inbuilt camera,gallery,etc for now
+- If you find bug, please report to @julprojects with logs.
+
+
+
+
+
