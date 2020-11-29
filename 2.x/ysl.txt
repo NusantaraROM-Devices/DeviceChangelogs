@@ -1,0 +1,31 @@
+|==========| Redmi S2/Y2 / ysl |==========|
+
+Date : 29/11/2020
+
+Device Changelogs
+- Initial build 
+- Import Thermal Blobs from Olive V10.3.5.0.PCNCNXM
+- Import Charger from Redmi 7/Y3
+- Import qti-telephony-common.jar from LA.UM.9.6.2.r1-02500-89xx.0
+- Update Blobs to 11 from LA.UM.9.6.2.r1-02100-89xx.0
+- Address Sepolicy Denials
+- Use dataservices from LOS Q
+- Update Media, Audio Config from LA.UM.9.6.2.r1-02100-89xx.0
+- Update qti_whitelist and privapp-permissions-qti from LA.UM.9.6.2.r1-02100-89xx.0
+- set Zram swap 65% of RAM
+
+What's working
+- WiFi
+- Ril
+- Hotspot
+- Bluetooth
+- Bluetooth Audio
+- VoLTE
+- Cast
+- ETC
+
+Notes
+- SELinux permmisive for now
+- Hide magisk manager to pass CTS
+- Doesnt have inbuilt gallery,etc for now
+- If you find bug, please report to @hats721 with logs.
