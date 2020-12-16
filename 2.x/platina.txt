@@ -1,11 +1,11 @@
 |==========| MI 8 Lite / platina |==========|
 
-Date : 27/11/2020
+Date : 16/12/2020
 
 • Device Changelogs :
 - Upstream kernel
-- Fix Hotspot issue
-- Some improvement
+- Use new powerhal
+- Improve performance a lot
 
 • Notes :
-- Gapps Build
+- Required gapps
