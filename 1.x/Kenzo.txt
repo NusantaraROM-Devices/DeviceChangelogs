@@ -1,0 +1,35 @@
+|==========| Redmi Note 3 Pro/SE / Kenzo |==========|
+
+
+Date : 16/12/2020
+
+- Disabled ZSWAP (its old and deprecated feature, we don't need this anymore).
+- Enabled in kernel LMK (ALMK was disabled in last update to test ZRAM).
+- Enabled IWLAN (Industrial Wireless LAN).
+- Enabled new bluetooth blobs.
+- Fixed a lot of logging spam.
+- Fixed Dex Optimization fail after blobs update.
+- Fixed Power-OFF timer feature (Now your phone can turned on automatically from powered off state in 1 minute before the alarm set-off).
+- Fixed some errors related to device tree.
+- Implemented HotwordEnrollment (Google Assistant is working now, but to use Voice Recognition need to make Google App as a System App).
+- Remove some unwanted things in device tree, now it should be more clean .
+- Some other changes to fix errors or improve device performance.
+- Tuned default ZRAM value to 1.5gb.
+- Update Gcam GO to 1.9.340165459_release.
+- Updated configs from CAF: Carrier, GPS, Time.
+- Updated CarrierConfig from daisy_sprout.
+- Updated blobs - IMS from xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.11.0.QDLMIXM:user/release-keys
+- Updated blobs - CNE, DPM, GNSS (Location), Time Service, Peripheral Manager, Power-OFF Alarm, Thermal, Bluetooth and QMI from daisy_sprout.
+- Updated blobs - Media, IMS, RIL from xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.11.0.QDLMIXM:user/release-keys.
+- Update Wireguard to version 1.0.20201112.
+- Workaround for annoying "HD Capable Device" notification, now it should be no more.
+- Workaround for VoLTE SIM Slot switching issue.
+
+* Notes :
+ - Clean flash is recommended as there is much blobs and config update, but dirty still can be, just don't blame 
+   if you meets weird problem, when others don't.
+ - Thanks to Greatness Gcam for porting latest gcam go, any question about the port you can ask here @GcamGo
+ - As always, I can't thank you enough to Magicxavi who always provide update config/blobs to kenzo,
+   so it's can be still usable and working great until today. 
+ - And as usual, i recommend you to "force" dex optimization process to run as soon as you complete the app setup
+   here : https://telegra.ph/Optimizing-the-Dex-Process-08-27
