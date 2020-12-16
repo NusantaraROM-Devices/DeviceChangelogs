@@ -1,0 +1,11 @@
+Device Changelog:
+- Sync with Latest A10 EOL Source Changes
+- Switch Back to Stock AOSP Kernel (Upstreamed to 4.14.212)
+- Built-in Gapps
+- Fixed Offline Charge
+- Misc. Changes
+
+Notes :
+This is CFW Build. Need to Flash CFW 2.1 !!
+Don't PM Dev, Report bug on Group Support.
+For root use Magisk v20.4
