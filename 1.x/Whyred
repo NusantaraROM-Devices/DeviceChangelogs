@@ -1,0 +1,16 @@
+|==========| Redmi Note 5 / Whyred |==========|
+
+Date : 17/12/2020
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Fixed some apps being not compatible on playstore
+ - Fixed deepsleep problem when bluetooth turned on
+ - Updated buils fingerprint to Coral dec 2020
+ - Update Extended EAS kernel 4.4.238
+ - Some improvements under hood
+
+• Notes :
+ - Clean flash always recommended xD
+ - Recommended to use NikGapps or FlameGapps as always
+ - OldCam build
