@@ -1,0 +1,18 @@
+|==========| Redmi 4X/ santoni |==========|
+
+Date : 17/12/2020
+
+• Device Changelogs :
+- Upstremed Luuvy Kernel 4.9.248
+- Update Coral FP 11 RQ1A.201205.008-6943376
+- Update vendor SPL to match blobs
+- Sync Last Source
+ 
+• Notes : 
+- Vanilla Build, Dont Forget Flash Gapps Before Reboot ( Recommended Nikgapps Core or OpenGapps Nano ). 
+- OTA Still Broken. 
+- Report Bug With Proper Log.
+ 
+• Credits :
+- Thanks to @mekijeewa for testing this ROM
+- Thanks to @Halo555555 for Luuvy Kernel
