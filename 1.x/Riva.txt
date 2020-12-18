@@ -1,0 +1,16 @@
+|==========| Redmi 5A / Riva |==========|
+
+Date : 17/12/2020
+
+• Device Changelogs :
+- Fix VoLTE SIM Slot switching issue
+- Synced with latest source
+
+• Known Bug
+- You tell me with log
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To SunnyRaj for trees and all of you :)
