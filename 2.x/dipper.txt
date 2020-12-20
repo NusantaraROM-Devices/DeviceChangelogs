@@ -1,0 +1,14 @@
+|==========| Mi 8 / dipper |==========|
+
+Date : 19-20/12/2020
+
+• Device Changelogs :
+- Synced with latest source
+- fix some selinux problem
+
+• Known Bug
+- Statusbar Header Image margin
+
+• Notes :
+- Vanilla, gapps, microG Build
+

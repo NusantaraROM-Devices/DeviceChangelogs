@@ -1,0 +1,13 @@
+|==========| Mi 8  / dipper |==========|
+
+Date : 19-20/12/2020
+
+• Device Changelogs :
+- Synced with latest source
+
+• Known Bug
+- Vowifi
+
+• Notes :
+- Vanilla, gapps, microG Build
+
