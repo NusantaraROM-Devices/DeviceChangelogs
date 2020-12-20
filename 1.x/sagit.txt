@@ -4,6 +4,8 @@ Date : 20/12/2020
 
 • Device Changelogs :
 - Upstremed Kernel 4.4.248
+- Action per-app volume
+- December Sec Patch
 - Sync Last Source
 - Drop Gcam
  
