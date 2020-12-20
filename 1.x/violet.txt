@@ -1,0 +1,17 @@
+*******|||| Redmi Note 7 Pro ||||*******
+
+Date : 18/12/2020
+
+Device Changelogs : 
+
+Merged Oreo Fp
+Synced with latest source 
+
+
+Notes : 
+Vanilla Build 
+
+
+Credits : 
+
+Thanks to @Joker_V2_0 for trees and others for helping me 

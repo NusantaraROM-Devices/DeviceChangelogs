@@ -1,0 +1,14 @@
+|==========| Redmi 6A / Cactus |==========|
+
+Date : 17/12/2020
+
+• Device Changelogs :
+- Synced with latest source
+
+• Known Bug
+- Volte
+
+• Notes :
+- Vanilla Build
+- Only for pie vendor (except 11.0.9)
+- Don't use Dolby or ViperFx
