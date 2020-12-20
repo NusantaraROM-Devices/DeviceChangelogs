@@ -1,0 +1,11 @@
+|==========| Mi 6/ sagit |==========|
+
+Date : 20/12/2020
+
+• Device Changelogs :
+- Upstremed Kernel 4.4.248
+- Sync Last Source
+- Drop Gcam
+ 
+• Credits :
+- Thx for all sagit dev.
