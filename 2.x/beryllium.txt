@@ -1,0 +1,16 @@
+|==========| Pocophone F1 / beryllium |==========|
+
+Date : 19-20/12/2020
+
+• Device Changelogs :
+- Synced with latest source
+- switch kernel to old touch driver as default
+- fix some selinux problem
+- update device fingerprint workaround
+
+• Known Bug
+- Statusbar Header Image margin
+
+• Notes :
+- Vanilla, gapps, microG Build
+
