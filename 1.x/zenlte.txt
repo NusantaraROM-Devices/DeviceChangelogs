@@ -1,0 +1,14 @@
+|==========| SM-925x |==========|
+
+Date : 21/12/2020
+
+• Device Changelogs :
+- Use CustomDoze
+- Update mixer path
+- under the hood improvement
+
+• Known Bug
+- Sometimes AOD bugged
+
+• Notes :
+- Vanilla, gapps, microG Build
