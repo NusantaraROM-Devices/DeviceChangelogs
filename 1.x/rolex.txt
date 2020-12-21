@@ -1,0 +1,13 @@
+|==========| Redmi 4A / Rolex |==========|
+
+Date : 21/12/2020
+
+• Device Changelogs :
+- Synced with latest source
+- Upstreamed kernel
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To Nick89786 for initial trees and all of you :)
