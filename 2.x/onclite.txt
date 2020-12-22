@@ -1,0 +1,31 @@
+|==========| Redmi 7 / Onclite |==========|
+Date : 22/12/2020
+
+
+• Device changelog 
+
+- Update build FP to Desember security patch
+
+- SilonT Kernel upstreamed to 4.9.248
+
+- Adjust zram to 2GB
+
+- Update selinux path for nad
+
+
+
+• Know Bug
+
+- Nightlight
+
+- Screen recorder
+
+- More ?
+
+
+
+Notes :
+
+- Use Flame gapps BETA Last ( basic recommended )
+
+- Use MagiskR.zip
