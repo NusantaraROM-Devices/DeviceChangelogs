@@ -1,0 +1,12 @@
+|==========| Redmi Note 7 Pro | violet
+
+• Device Changelogs :
+Added VioletParts
+Added Gcam By default
+Synced with latest source
+
+Bugs : 
+Cast ( Not tested, test and report ), carrier video calling( test and check )
+
+Notes :
+Thanks to all Devs for helping me 
