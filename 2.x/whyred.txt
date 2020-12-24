@@ -1,5 +1,31 @@
 |==========| Redmi Note 5 / whyred |==========|
 
+
+Date : 24/12/2020 - Hotfix
+
+• Device Changelogs :
+- Drop persistent_reconnect, should fixed random wifi disconnection
+- Fixed Bluetooth can't turned on on enforcing selinux
+
+• Known Bug
+- Carrier video calling
+- Miracast wireless display
+- More?
+
+• Notes :
+- Old cam build
+- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp
+- Use Magisk 21.0 and above only
+- Change kernel to reduce lag while screen recording
+- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed
+- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik
+- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher instead if you want
+- Thanks to Genkzsz for deepsleep fix suggestion, and all who testing the broken build.
+
+
+
+|=============================================|
+
 Date : 22/12/2020
 
 • Device Changelogs :
