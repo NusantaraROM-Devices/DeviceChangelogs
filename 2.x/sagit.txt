@@ -1,0 +1,21 @@
+|==========| Mi 6/ sagit |==========|
+
+Date : 24/12/2020
+
+• Device Changelogs :
+    - Initial build
+    - Sync Last Source
+    - Kernel 4.4.248
+    - December Sec Patch
+    - Ship MiuiCam
+    - Enable button backlight
+    - Misc. Fixes and Improvements
+ 
+• Credits :
+    - @sbwml big thanks for trees
+
+• Notes :
+    - Vanilla build
+    - Thx to @m54c1 for helping
+    - Thx for all sagit dev
+    - Thx for all tester
