@@ -1,0 +1,38 @@
+|==========| Xiaomi Redmi Note 7 / Lavender |==========|
+
+Date : 26/12/2020
+
+|===| Kernel 4.4 |===|
+• Device Changelogs :
+  - Revert graphics R blobs
+  - Set selinux to permissive
+
+|===| Kernel 4.14 |===|
+• Device changelogs:
+  - Implement LMKD
+  - Remove tunning cpubw to avoid cpubw conflict
+  - Update Graphics (OpenGL ES) and Vulkan (Android R)
+  - Update qti-telephony from nubia
+  - Increase cpubw in Hint INTERACTION
+
+• Known bug for kernel 4.14:
+  - wifi disconnect after idle
+
+• Notes :
+  - Vanilla build means without gapps
+
+|===| Rom Flashing Steps For kernel 4.14 |===|
+• Must be on A10 FW ( recommended global stable)
+• Reboot to recovery.
+• Format Data , Wipe System, Vendor, Data ,Cache ( in short clean flash)
+• Flash 4.14 Rom
+• Flash GAPPs ( Nik or Bit ) (Optional)
+• Flash ofox 4.14 recovery
+• Reboot.
+• Flash Magisk cu only after first boot.
+
+• To go back 4.4 rom:
+  - clean flash 4.4 rom and flash official ofox which is based on 4.4 kernel
+
+• Ofox 4.14 can download in:
+  - https://t.me/BiancaProjectChannel/19
