@@ -1,0 +1,20 @@
+|==========| Redmi 5 / Rosy |==========|
+Date : 24/12/2020
+
+Device Changelogs:
+ - Enforcing build
+ - FP crosshatch RQ1A.201205.003
+ - Increase ZRAM 1.8GB
+ - Page cluster value changed to 10
+ - Revert audio to 16bit
+ - Synced with Latest NusantaraProject Source (A10 EOL)
+ - Swappiness value changed to 80
+ - Use LineageOS17.1 display hal (glitches should be gone, still testing though)
+
+Credit:
+ - Pulkit077 for his amazing trees
+ - Sagarrokade006 for his display-caf fixes
+
+Notes:
+ - Clean flash is fully recommended
+ - Use bitgapps, opengapps nano, or any gapps that contains SoundPicker (to avoid getting force close when choosing ringtone)
