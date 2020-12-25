@@ -1,0 +1,23 @@
+|==========| Xiaomi Redmi Note 4x / Mido |==========|
+
+Date : 25/12/2020
+
+• Device Changelogs :
+- Tune zram for size and performance 
+- Import LMKD configuration from Pixel
+- Update media_codec from LA.UM.9.6.2.r1-03300-89xx.0
+- Update init_shell from LA.UM.9.6.2.r1-03300-89xx.0 
+- Kang Dex2oat config from aospa
+- Update Libinit from sdm660
+- Import Power-libperfmgr and Thermal from Pixel
+- Bind more service using cpuset 
+- Update Irq_balance from Sailfish
+- Update Perf Stack from Wahoo
+- Update Charger from Xiaomi Redmi 7/Y3
+- Update Blobs from LA.UM.9.6.2.r1-03300-89xx.0 
+
+• Known Bug
+- Hardware Light fully dead as fuck
+
+• Notes :
+- Vanilla build means without gapps
