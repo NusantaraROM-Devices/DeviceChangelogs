@@ -1,0 +1,32 @@
+Changelog:
+
+* December Security Patches
+
+* Updated to Redfin's fp December
+
+* Switched to Stock AOSP Kernel
+
+* Updated camera {aux, priv-app} list
+
+* Switched to OSS IMS & VT Service (Thanks to Zidan & Sahil)
+
+Credits: 
+
+*Thanks for DT @KonohaHokage
+
+*Thanks for Kernel @ZyCxNEETbot
+
+*Thanks for all
+
+Notes:
+
+*Include GApps.
+
+* Use Magisk v21.1 for root.
+
+* Don't forget to install Magisk, otherwise you will enter Fastboot mode.
+
+* This is CFW Build. Need to Flash CFW 3.0. Read Megathread.
+
+* Don't PM Dev. Report bug on Group Support
+
