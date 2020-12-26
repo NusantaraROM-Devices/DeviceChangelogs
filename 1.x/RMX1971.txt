@@ -6,8 +6,8 @@ Date : 19/12/2020
 - Upstreamed Kernel 4.9.247
 
 
-• Known Bug
-- audio issue
+• Bug ?
+- U tell me 
 
 • Notes :
 - Vanilla Build
