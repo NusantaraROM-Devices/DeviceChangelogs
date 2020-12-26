@@ -1,0 +1,17 @@
+|==========| Realme 5 Pro/ RMX1971 |==========|
+
+Date : 19/12/2020
+
+• Device Changelogs :
+- Upstreamed Kernel 4.9.247
+
+
+• Known Bug
+- audio issue
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To @Luckyvii for trees
+- and thanks for all tester.
