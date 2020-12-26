@@ -1,22 +1,17 @@
 |==========| Xiaomi Redmi Note 7 / Lavender |==========|
 
-Date : 26/12/2020
-
-|===| Kernel 4.4 |===|
-• Device Changelogs :
-  - Revert graphics R blobs
-  - Set selinux to permissive
+Date : 27/12/2020
 
 |===| Kernel 4.14 |===|
 • Device changelogs:
-  - Implement LMKD
-  - Remove tunning cpubw to avoid cpubw conflict
-  - Update Graphics (OpenGL ES) and Vulkan (Android R)
-  - Update qti-telephony from nubia
-  - Increase cpubw in Hint INTERACTION
+  - Change HALS audio, display, and media from @kenny3fcb
+  - Set BPF support level
+  - sepolicy: Add swapper to kill
+  - Fixed vibration issue
 
 • Known bug for kernel 4.14:
   - wifi disconnect after idle
+  - Nusantara parts
 
 • Notes :
   - Vanilla build means without gapps
