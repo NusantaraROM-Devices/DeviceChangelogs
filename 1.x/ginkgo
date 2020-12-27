@@ -1,13 +1,28 @@
-|==========| Redmi Note 8/8T Ginkgo |==========|
+|==========| Redmi Note 8/8T Ginkgo/Willow |==========|
 
 Date : 27/12/2020
 
 • Device Changelogs :
  - Synced with latest source changes
  - Prebuilt QuicksilveR kernel
- - Updated buils fingerprint to redfin dec 2020
- - Fixed hdr+ glitch on gcam
+ - Fixed GCam HDR
+ - Implement tianma burnin hack
+ - Use TARGET_SCREEN_DENSITY
+ - Use NotchCutOut from MIA3
+ - Remove unecessary margin
+ - Update blobs from MIUI 12.0.2.0 QCOMIXM
+ - Use redfin dec 2020 build fingerprint
+ - Boost schedtune during bootup
+ - Improvement parts translation
+ - Added KCAL support on parts
+ - Tune post_boot for trinket
+ - Update powerhint from LA.UM.9.11.r1-02100-NICOBAR.0
+ - Update media configs from LA.UM.9.11.r1-02100-NICOBAR.0
+ - Overall improvement and smoothness
 
 • Notes :
  - Clean flash always recommended
  - Vanilla build mean no gapps include
+
+• Credit :
+- Thanks to @ghostrider_reborn for QuicksilveR kernel.
