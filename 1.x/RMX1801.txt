@@ -1,0 +1,15 @@
+|==========| Realme 2 Pro / RMX1801 |==========|
+
+Date : 27/12/2020
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Drop MotoDolby
+ - Update build fingerprint to coral December 2020
+ - Merge latest changes from SubhamB lineage trees
+ - Bring some RealmeParts feature from 11
+ - Address selinux denials
+
+• Notes :
+ - Vanilla Build
+ - Thanks to SubhamB for initial trees
