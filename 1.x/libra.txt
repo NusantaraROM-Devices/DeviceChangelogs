@@ -1,0 +1,16 @@
+|==========| MI 4C / Libra |==========|
+
+Date : 27/12/2020
+
+• Device Changelogs :
+- Initial Build.
+
+• Known Bug
+- Please report with log.
+
+• Notes :
+- Vanilla Build
+- Try to change kernel for better perfomance maybe 🤔
+
+• Credits 
+- This build based on Lineage-17.1 tree by @WJXXBSH
