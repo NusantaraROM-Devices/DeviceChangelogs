@@ -1,0 +1,13 @@
+|==========| Redmi Note 8/8T Ginkgo |==========|
+
+Date : 27/12/2020
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Prebuilt QuicksilveR kernel
+ - Updated buils fingerprint to redfin dec 2020
+ - Fixed hdr+ glitch on gcam
+
+• Notes :
+ - Clean flash always recommended
+ - Vanilla build mean no gapps include
