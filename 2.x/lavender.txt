@@ -1,33 +1,13 @@
 |==========| Xiaomi Redmi Note 7 / Lavender |==========|
 
-Date : 27/12/2020
+Date : 28/12/2020
 
-|===| Kernel 4.14 |===|
+• Release GApps Variant
+
+|===| Kernel 4.4 |===|
 • Device changelogs:
-  - Change HALS audio, display, and media from @kenny3fcb
-  - Set BPF support level
-  - sepolicy: Add swapper to kill
-  - Fixed vibration issue
+  - Change inline kernel
 
 • Known bug for kernel 4.14:
   - wifi disconnect after idle
   - Nusantara parts
-
-• Notes :
-  - Vanilla build means without gapps
-
-|===| Rom Flashing Steps For kernel 4.14 |===|
-• Must be on A10 FW ( recommended global stable)
-• Reboot to recovery.
-• Format Data , Wipe System, Vendor, Data ,Cache ( in short clean flash)
-• Flash 4.14 Rom
-• Flash GAPPs ( Nik or Bit ) (Optional)
-• Flash ofox 4.14 recovery
-• Reboot.
-• Flash Magisk cu only after first boot.
-
-• To go back 4.4 rom:
-  - clean flash 4.4 rom and flash official ofox which is based on 4.4 kernel
-
-• Ofox 4.14 can download in:
-  - https://t.me/BiancaProjectChannel/19
