@@ -20,6 +20,12 @@ Date : 27/12/2020
  - Update media configs from LA.UM.9.11.r1-02100-NICOBAR.0
  - Overall improvement and smoothness
 
+Date : 28/12/2020
+
+• Device Changelogs :
+- Fixed Smartcharging
+- Fixed Offline Charge
+
 • Notes :
  - Clean flash always recommended
  - Vanilla build mean no gapps include
