@@ -1,0 +1,16 @@
+|==========| Redmi Note 5/5 Plus Vince|==========|
+
+Date : 30/12/2020
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Prebuilt Dark Ages Ultimo kernel
+ - Remove Nusantara Parts
+ - Use redfin dec 2020 build fingerprint
+
+• Notes :
+- Vanilla Build
+- Clean Flash is Recommended
+
+• Credit :
+- Thanks to @nenofetch , @attack_dns24 , @iStarsProject for helping me.
