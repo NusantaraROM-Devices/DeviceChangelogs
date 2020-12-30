@@ -1,13 +1,64 @@
 |==========| Xiaomi Redmi Note 7 / Lavender |==========|
 
-Date : 28/12/2020
+Date : 30/12/2020
 
-• Release GApps Variant
-
-|===| Kernel 4.4 |===|
+|===| Kernel 4.19 |========|
 • Device changelogs:
-  - Change inline kernel
+  - Initial Kernel 4.19
 
-• Known bug for kernel 4.14:
-  - wifi disconnect after idle
-  - Nusantara parts
+• Work:
+  - Mobile data
+  - WiFi (no disconnected)
+  - Touchscreen
+  - Camera (Tested by gcam too)
+  - SD Card 
+  - KCAL, wireguard, exfat
+  - Sound
+  - Bluetooth
+  - Vibration
+  - Call
+  - SMS
+  - Sensors
+  - Mic
+  - Fingerprint
+  - Screen lock
+  - USB OTG
+  - Deep sleep
+  - USB to PC
+
+• Rom Flashing Steps:
+  - Reboot to recovery (Make sure you using ofox recovery)
+  - Wipe System, Vendor, Data, Cache (in short clean flash)
+  - Format Data (Yes, format data!)
+  - Flash 4.19 Rom
+  - Flash GAPPs (Nik or Bit)
+  - Flash MagiskCU
+  - Flash 4.19 recovery. Make sure only flash 4.19 recovery after clean flashing 4.19 rom. (Download in below, check notes)
+  - Reboot
+
+• To go back 4.4 rom:
+  - Make sure you still on 4.19 recovery, don't change
+  - Clean flash (Format data too) 4.4 rom using 4.19 recovery and then flash official ofox which is based on 4.4 kernel
+  - Reboot
+
+• Known issue:
+  - Decryption issue on recovery (we will still work of it)
+  - In call volume control doesnt work and volume is high
+  - Another issue? Tag me with LOGS! in Nusantara Lavender Support
+
+• Notes:
+  - Recovery can be download in https://t.me/aLnProject/293
+    Recovery is .img file. So, flashed as Recovery
+  - If you have magisk issue, you need flash patched magisk boot. 
+    Download in https://t.me/aLnProject/295 and flash as Boot in recovery
+  - For USB to PC, you need go to Developer option > default USB configuration, select Storage or your desired option
+  - DONT SPAMMED US WITH RECOVERY DECRYPTION ISSUE OR RECOVERY CANT READ INTERNAL STORAGE, WE ALREADY TOLD YA
+
+• Credits:
+  - @kenny3fcb on Initial tree and kernel source
+  - @EdwinMoq on Initial tree
+  - @sebaubuntu on initial tree, kernel credit, and helping us
+  - @PredatorX91 bringup kernel 4.19 for lavender
+  - @alanndz bringup tree, inlining rom with kernel 4.19 and making recovery
+  - @Genkzsz11 for helping tree side and server
+  - @darksidemode, @Vrasteizz, @PlastMan420  for tester recovery and rom
