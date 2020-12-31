@@ -1,0 +1,22 @@
+|==========| Redmi 5A / Riva |==========|
+
+Date : 31/12/2020
+• Device Changelogs :
+- Selinux enforcing
+- Rebased Kernel
+- Update Wifi Display from LA.UM.9.6.2.r1-03300-89xx.0
+- Drop Qti Ese Power
+- Added GalleryGo
+- Upstrem kernel to 4.9.248
+- Added NusantaraParts
+
+
+• Known Bug :
+- Feature working on NusantaraParts only Audio (Maybe soon)
+- Maybe There's More then you report to me
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Big Thanks To @sunnyraj84348 for initial trees and @rulim34 
