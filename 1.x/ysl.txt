@@ -1,0 +1,18 @@
+|==========| Redmi S2/Y2 / ysl |==========|
+
+Date : 31/12/2020
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Import Thermal Blobs form Olive
+ - Update Thermal Configuration
+ - Tune Zram Performance
+ - Import Charger From Redmi Y3
+ - Fixed Slow Charging Issue in Previous Nusantara Build
+ - Address Sepolicy denials
+ - Selinux Enforcing
+ 
+• Notes :
+ - Vanilla Build
+ - Recomended Gapps : Flame,Bit,Weeb,Nik Gapps
+ - Happy New Year -
