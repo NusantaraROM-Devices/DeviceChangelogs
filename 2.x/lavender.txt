@@ -33,7 +33,7 @@ Date : 30/12/2020
   - Flash 4.19 Rom
   - Flash GAPPs (Nik or Bit)
   - Flash MagiskCU
-  - Flash 4.19 recovery. Make sure only flash 4.19 recovery after clean flashing 4.19 rom. (Download in below, check notes)
+  - Flash recovery
   - Reboot
 
 • To go back 4.4 rom:
@@ -45,14 +45,6 @@ Date : 30/12/2020
   - Decryption issue on recovery (we will still work of it)
   - In call volume control doesnt work and volume is high
   - Another issue? Tag me with LOGS! in Nusantara Lavender Support
-
-• Notes:
-  - Recovery can be download in https://t.me/aLnProject/293
-    Recovery is .img file. So, flashed as Recovery
-  - If you have magisk issue, you need flash patched magisk boot. 
-    Download in https://t.me/aLnProject/295 and flash as Boot in recovery
-  - For USB to PC, you need go to Developer option > default USB configuration, select Storage or your desired option
-  - DONT SPAMMED US WITH RECOVERY DECRYPTION ISSUE OR RECOVERY CANT READ INTERNAL STORAGE, WE ALREADY TOLD YA
 
 • Credits:
   - @kenny3fcb on Initial tree and kernel source
