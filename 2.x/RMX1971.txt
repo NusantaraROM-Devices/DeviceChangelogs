@@ -1,0 +1,19 @@
+|==========| Realme 5 Pro/ RMX1971 |==========|
+
+Date : 27/12/2020
+
+• Device Changelogs :
+- Upstreamed Kernel 4.9.247
+
+
+• Bug ?
+- APN, (please add manually)
+- Finger Print, U will know
+- Any Other? Tell me
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To @Luckyvii for trees
+- and thanks for all tester.
