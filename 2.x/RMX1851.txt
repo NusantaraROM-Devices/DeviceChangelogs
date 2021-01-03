@@ -1,0 +1,14 @@
+|==========| Realme 3 Pro / RMX1851 |==========|
+
+Date : 03/01/2021
+
+• Device Changelogs :
+- Initial Build
+
+• Notes :
+- This is initial build so dont expect too much
+- For installation guide join to t.me/nusantararmx1851
+
+• Credit :
+- Thanks to all who tested this build
+- Based on old common tree by SamarV so thanks to him
