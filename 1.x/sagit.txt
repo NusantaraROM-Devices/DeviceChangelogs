@@ -1,13 +1,15 @@
 |==========| Mi 6/ sagit |==========|
 
-Date : 20/12/2020
+Date : 12/01/2021
 
 • Device Changelogs :
-- Upstremed Kernel 4.4.248
-- Action per-app volume
-- December Sec Patch
+- Upstremed Kernel 4.4.249
+- January Sec Patch
 - Sync Last Source
-- Drop Gcam
+- Add Battery health
+- Drop OPScreenRecord
+- Misc. Fixes and Improvements
  
 • Credits :
+- Thx to @abdulsametoger for helping 
 - Thx for all sagit dev.
