@@ -1,5 +1,26 @@
 |==========| Redmi Note 8/8T Ginkgo/Willow |==========|
 
+Date : 11/01/2021
+
+Device Changelogs :
+- January Security Patch
+- Added prebuilt of KimcyRecorder
+- Bring back CarrierConfig
+- Enabled ColorModes and sync color with stock miui
+- Enabled VoLTE for Indosat, Smartfren, Telkomsel ( Indonesia )
+- Disable bluetooth whitelist for AAC codecs
+- Kill light hal, mm-camera, gps, wifi log spam with fire
+- Update coral build fingerprint to RQ1A.210105.003
+- Add Battery Health
+
+ Notes :
+ - Clean flash always recommended
+ - Vanilla build mean no gapps include
+
+• Credit :
+- Thanks to @ghostrider_reborn for QuicksilveR kernel.
+- Thanks to @i_am_solo_player for support me.
+
 Date : 27/12/2020
 
 • Device Changelogs :
