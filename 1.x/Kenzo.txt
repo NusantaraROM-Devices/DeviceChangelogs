@@ -1,5 +1,19 @@
 |==========| Redmi Note 3 Pro/SE / Kenzo |==========|
 
+Date : 12/01/2021
+
+- January SPL Update
+- Added BatteryHealth info inside battery settings
+- Added BeatPlayer
+
+* Notes :
+ - Can be dirty flashed over last December build, if you comes from older build than December 2020 build, clean flash recommended
+ - Reflash magisk if you missing it after dirty flash.
+ - Make sure to clear cache after dirty upgrade.
+
+
+|========================================================|
+
 
 Date : 16/12/2020
 
