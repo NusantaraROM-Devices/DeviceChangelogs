@@ -1,5 +1,23 @@
 |==========| Redmi Note 5 / Whyred |==========|
 
+Date : 13/01/2021
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Moar Sepolicy denials fix
+ - Updated buils fingerprint to Redfin January 2021
+ - Some improvements under hood
+
+• Notes :
+ - Clean flash always recommended, although dirty update should works also, just make sure to clear cache after that. 
+ - Recommended to use NikGapps or FlameGapps as always, don't use any gapps that has package installer like opengapps. 
+ - Just reflash gapps/magisk if you're facing playstore, play service fc, or magisk is missing after dirty upgrade
+ - OldCam build
+
+
+|=============================================|
+
+
 Date : 17/12/2020
 
 • Device Changelogs :
