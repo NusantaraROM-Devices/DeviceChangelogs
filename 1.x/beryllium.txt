@@ -1,14 +1,16 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 19-20/12/2020
+Date : 14/1/2021
 
 • Device Changelogs :
 - Synced with latest source
-- switch kernel to old touch driver as default
+- kernel upstream
+
 
 • Known Bug
 - Vowifi
 
 • Notes :
-- Vanilla, gapps, microG Build
+- Vanilla & gapps
+- microg will be relased if u asked else i wont build it.
 
