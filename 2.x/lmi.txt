@@ -1,0 +1,35 @@
+|==========| POCO F2 Pro / LMI |==========|
+
+Date : 15/01/2021
+
+• Device Changelogs :
+  - Initial official release
+  - Fix APN
+  - Fix FOD sensor not centered
+
+• Notes :
+  - Permissive build
+  - Still need fastboot method to decrypt on recovery
+
+• Installation :
+  • CLEAN
+    - Fash TWRP 3.4.2b-1206 by Wzsx150
+    - Format Data
+    - Flash Global MI 12.2.3.0 package
+    - Flash Nusantara rom zip
+    - Flash gapps (i use NikGapps core)
+    - Format Data
+    - Reboot system
+  • DIRTY
+    - Flash fw vendor only by @raystef66
+    - Flash Nusantara rom zip
+    - Flash gapps (for vanilla variant)
+    - Flash magisk
+    - Wipe cache/dalvik
+    - Reboot system
+
+
+• Special thanks :
+  - @t6pal for tree and guidance
+  - @raystef66 for fw package and help
+  - @Aarunalr for giving clue and help
