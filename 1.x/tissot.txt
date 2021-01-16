@@ -1,0 +1,7 @@
+|==========| MI A1 / Tissot |==========|
+
+Date : 15/1/2021
+
+• Device Changelogs :
+- Synced with latest source
+- kernel upstream to  4.9.248
