@@ -1,16 +1,20 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 19-20/12/2020
+Date : 16/1/2021
 
 • Device Changelogs :
 - Synced with latest source
-- switch kernel to old touch driver as default
+- update device fp from redfin january
+- kernel upstream 4.9.251
 - fix some selinux problem
-- update device fingerprint workaround
+- Updated IMS, Display, VPP, OMX & blobs from Nokia 8.1
+- under the hood improvement. 
 
-• Known Bug
+• Known Bug :
 - Statusbar Header Image margin
+- safetynet not passed. use safetynet fix from @kdrag0n
 
 • Notes :
-- Vanilla, gapps, microG Build
+- Vanilla & gapps
+- microg will be relased if u asked else i wont build it.
 
