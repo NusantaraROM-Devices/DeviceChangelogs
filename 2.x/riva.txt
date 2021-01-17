@@ -1,18 +1,20 @@
 |==========| Redmi 5A / Riva |==========|
 
-Date : 31/12/2020
+Date : 17/01/2021
 • Device Changelogs :
-- Selinux enforcing
-- Rebased Kernel
-- Update Wifi Display from LA.UM.9.6.2.r1-03300-89xx.0
-- Drop Qti Ese Power
-- Added GalleryGo
-- Upstrem kernel to 4.9.248
-- Added NusantaraParts
+- Use Pixel Charging
+- Update GPS from LA.UM.9.6.2.r1-03300-89xx.0
+- Update Perf from LA.UM.9.6.2.r1-03300-89xx.0
+- Update Peripheral Manager from LA.UM.9.6.2.r1-03300-89xx.0
+- Update Media from LA.UM.9.6.2.r1-03300-89xx.0
+- Update FM radio from LA.UM.9.6.2.r1-03300-89xx.0
+- Update perf hal to 2.2
+- Fixed FM radio
+- Add FPS info (You can enable it on Nusantara Parts or QS tiles)
+- Upstrem kernel to 4.9.251
 
 
 • Known Bug :
-- Feature working on NusantaraParts only Audio (Maybe soon)
 - Maybe There's More then you report to me
 
 • Notes :
