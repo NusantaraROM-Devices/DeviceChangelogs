@@ -3,7 +3,24 @@
 Date : 17/01/2021
 
   - Update Kernel and Vendor based on MIUI Global 12.2.4.0
-  
+
+• Installation :
+  • CLEAN
+    - Fash TWRP 3.4.2b-1206 by Wzsx150
+    - Format Data
+    - Flash Global MI 12.2.4.0 package
+    - Flash Nusantara rom zip
+    - Flash gapps (i use NikGapps core)
+    - Format Data
+    - Reboot system
+  • DIRTY
+    - Flash fw vendor only by @SebaUbuntu
+    - Flash Nusantara rom zip
+    - Flash gapps (for vanilla variant)
+    - Flash magisk
+    - Wipe cache/dalvik
+    - Reboot system
+
 • Notes :
   - Permissive build
   - Still need fastboot method to decrypt on recovery
