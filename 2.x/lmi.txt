@@ -1,6 +1,19 @@
 |==========| POCO F2 Pro / LMI |==========|
 
-Date : 15/01/2021
+Date : 17/01/2021
+
+  - Update Kernel and Vendor based on MIUI Global 12.2.4.0
+  
+• Notes :
+  - Permissive build
+  - Still need fastboot method to decrypt on recovery
+   
+ • Special thanks :
+  - @t6pal for tree and guidance
+  - @SebaUbuntu for fw package
+  - @Aarunalr for giving clue and help
+
+>==========| Date : 15/01/2021 |==========<
 
 • Device Changelogs :
   - Initial official release
