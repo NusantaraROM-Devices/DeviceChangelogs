@@ -1,5 +1,39 @@
 |==========| Redmi Note 5 / whyred |==========|
 
+Date : 17/01/2021
+
+• Device Changelogs :
+- Add memory usage info at per-app
+- Moar sepolicy denial fixup
+- Moar spam log reduction to save up battery and device performances
+- Move FPS Info to the left side
+- Fixed poweroff alarm
+- Fixed some apps sometimes not responding
+- Trim out uneeded permission
+- And more device side optimization.
+
+• Known Bug
+- Carrier video calling
+- Miracast wireless display (sometimes works, sometimes doesn't)
+- More?
+
+• Notes :
+- Old cam build.
+- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp.
+- Use Magisk 21.0 and above only.
+- Change kernel to reduce lag while screen recording, or use the beta ones : http://bit.ly/Extended-neweasmodel
+- Make sure to use gapps that doesn't override built-in clock, or if it has some configuration, make sure to not install the Google ones.
+- If you're accidentaly remove the prebuilt clock by using gapps which has Google ones, or maybe you're installing the rom gapps variant, please install this as normal app :
+  http://bit.ly/offlinealarmnad
+- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
+- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher instead if you want.
+- Thanks to Orges for some build suggestions, and all who testing the broken build.
+
+
+
+|=============================================|
 
 Date : 24/12/2020 - Hotfix
 
