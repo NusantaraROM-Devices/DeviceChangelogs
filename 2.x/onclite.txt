@@ -1,4 +1,28 @@
 |==========| Redmi 7 / Onclite |==========|
+Date : 18/01/2021
+
+
+• Device Changelog
+
+- Fix Bluetooth & Bluetooth audio
+- Fix Google Maps Accuracy
+- Upstream Kernel to SiLonT 4.9.250
+
+• Know bugs
+
+- Nightlight ✌
+- Deepsleep
+- More?
+
+Notes :
+
+- Use Flame gapps BETA Last ( basic recommended )
+
+- Use MagiskR.zip
+
+
+
+|==========| Redmi 7 / Onclite |==========|
 Date : 22/12/2020
 
 
