@@ -1,0 +1,26 @@
+|==========| Xiaomi SM720G Unified / Miatoll |==========|
+
+Date : 18/01/2021
+
+Changelog :
+• Switch to Redfin January Build Fingerprint
+• Update camera blobs from Excalibur
+• Import some missed blobs
+• WFD fixed
+• Kernel Upstreamed to 4.14.216
+• Kernel: Merge tag LA.UM.8.9.r1-11200-SM6xx.0
+• Kernel: qcacld-3.0: Merge tag LA.UM.8.9.r1-11200-SM6xx.0
+• Kernel: qca-wifi-host-cmn: Merge tag LA.UM.8.9.r1-11200-SM6xx.0
+• etc, try and tell me if you found any bug with proper log.
+
+Notes :
+• Vanilla & GApps
+
+Credits :
+• @wight554
+• @DemonSingur
+• @Rajkale99
+• @Sonalsingh18
+• @kdrag0n
+• @Ramiskyy
+• @kandnub
