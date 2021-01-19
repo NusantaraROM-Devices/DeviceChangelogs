@@ -1,10 +1,10 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 14/1/2021
+Date : 17-18/1/2021
 
 • Device Changelogs :
-- Synced with latest source
-- kernel upstream
+- Update device FP to redfin January
+- added battery health overlay
 
 
 • Known Bug
