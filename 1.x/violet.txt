@@ -1,10 +1,11 @@
 *******|||| Redmi Note 7 Pro ||||*******
 
-Date : 18/12/2020
+Date : 19/01/2021
 
 Device Changelogs : 
 
-Merged Oreo Fp
+Added VioletParts
+Default kernel is now SmoothAF(thanks to @karthik558
 Synced with latest source 
 
 
@@ -14,4 +15,4 @@ Vanilla Build
 
 Credits : 
 
-Thanks to @Joker_V2_0 for trees and others for helping me 
+Thanks to @karthik558 for trees and others for helping me 
