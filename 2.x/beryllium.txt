@@ -1,18 +1,13 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 16/1/2021
+Date : 17/1/2021
 
 • Device Changelogs :
-- Synced with latest source
-- update device fp from redfin january
-- kernel upstream 4.9.251
-- fix some selinux problem
-- Updated IMS, Display, VPP, OMX & blobs from Nokia 8.1
-- under the hood improvement. 
+- revert IMS blobs update 
 
 • Known Bug :
 - Statusbar Header Image margin
-- safetynet not passed. use safetynet fix from @kdrag0n
+- vowifi
 
 • Notes :
 - Vanilla & gapps
