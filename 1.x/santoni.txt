@@ -1,10 +1,10 @@
 |==========| Redmi 4X/ santoni |==========|
 
-Date : 17/12/2020
+Date : 19/01/2021
 
 • Device Changelogs :
-- Upstremed Luuvy Kernel 4.9.248
-- Update Coral FP 11 RQ1A.201205.008-6943376
+- Merge Kernel to 4.9.252
+- Update Coral FP January 2021
 - Update vendor SPL to match blobs
 - Sync Last Source
  
