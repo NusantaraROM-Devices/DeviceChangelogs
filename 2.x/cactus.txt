@@ -1,0 +1,16 @@
+|==========| Xiaomi Redmi 6A / Cactus |==========|
+
+Date : 19/01/2021
+
+Changelog :
+• Initial Release
+
+Known Bug
+• VoLTE
+• Hotspot and Tethering
+• Faceunlock
+
+Notes :
+• Vanilla
+• Only for pie vendor (except 11.0.9)
+• Don't use Dolby or ViperFx
