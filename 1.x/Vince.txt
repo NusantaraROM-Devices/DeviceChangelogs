@@ -1,5 +1,12 @@
 |==========| Redmi Note 5/5 Plus Vince|==========|
 
+Date : 20/01/2021
+
+• Device Changelogs :
+ - Security Patch Januari 2021
+ - Prebuilt Dark Ages Ultimo kernel
+ - Add Battery Health
+
 Date : 30/12/2020
 
 • Device Changelogs :
@@ -13,4 +20,4 @@ Date : 30/12/2020
 - Clean Flash is Recommended
 
 • Credit :
-- Thanks to @nenofetch , @attack_dns24 , @iStarsProject for helping me.
+- Thanks to @nenofetch , @attack_dns24 , @NotFoundProject for helping me.
