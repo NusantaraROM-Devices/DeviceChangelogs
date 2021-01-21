@@ -1,12 +1,12 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
-Date : 16/12/2020
+Date : 21/01/2021
 
 • Device Changelogs :
  - Synced with latest source changes
- - Updated buils fingerprint to redfin dec 2020
- - Cleanup some props
- - Minor improvements under hood
+ - Updated buils fingerprint to redfin jan 2021
+ - Add battery health support
+ - Minor improvements
 
 • Notes :
  - Clean flash always recommended xD
