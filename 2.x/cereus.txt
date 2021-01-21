@@ -1,0 +1,16 @@
+|==========| Xiaomi Redmi 6 / Cereus |==========|
+
+Date : 20/01/2021
+
+Changelog :
+• Initial Release
+
+Known Bug
+• VoLTE
+• Hotspot and Tethering
+• Faceunlock
+
+Notes :
+• Vanilla
+• Only for pie vendor
+• Don't use Dolby or ViperFx
