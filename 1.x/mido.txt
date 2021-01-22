@@ -1,19 +1,16 @@
 |==========| Xiaomi Redmi Note 4X/ mido |==========|
 
-Date : 20/12/2020
+Date : 22/01/2021
 
 • Device Changelogs :
-- Add LMKD Support
-- Remove Powerstats feature
-- Cleanup unused things
-- Fixed some powerhal and thermal permission
-- December Security Patch
-- Added action to disable per-app volume
+- January Security Patch
+- Update Thermal Config
+- Update Perf Stack from Wahoo 
+
 
 • Notes :
 - OTA Perfectly broken af
 - Vanilla Build, Recommended GApps (BitGApps, NikGApps, OpenGApps)
-- Please flash latest kizuna kernel R5 from https://t.me/avariceproject/64
 
 • Credits :
 - Thanks to My All Tester for this ROM
