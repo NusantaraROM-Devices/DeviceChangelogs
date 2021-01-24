@@ -1,0 +1,23 @@
+|==========| POCO F2 Pro / LMI |==========|
+
+Date: 24/01/2021
+
+- Initial Build
+
+• Installation :
+  • CLEAN
+    - Fash TWRP
+    - Format Data
+    - Flash Global MI 12.0.3.0 or XIAOMI.EU 12.0.5.0
+    - Flash Nusantara rom zip
+    - Flash gapps (i use NikGapps core)
+    - Format Data
+    - Reboot system
+
+• Notes :
+  - Permissive build
+   
+• Special thanks :
+  - @Ayrton990 for his awesome tree
+  - @t6pal for help and guidance
+  - All awesome testers
