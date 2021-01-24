@@ -1,6 +1,26 @@
 |==========| POCO F2 Pro / LMI |==========|
 
-Date : 17/01/2021
+Date : 24/01/2021
+
+  - Fix decrypt request on recovery
+  - Safetynet pass with magisk hide
+  - Redfin January 2021 fingerprint
+
+• NOTES
+  Clean flash is mandatory to flash this build
+
+• Installation :
+  • CLEAN
+    - Fash TWRP 3.4.2b-1206 by Wzsx150
+    - Format Data
+    - Flash Global MI 12.2.4.0 package
+    - Flash Nusantara rom zip
+    - Flash gapps for Vanilla build (i use NikGapps core)
+    - Format Data
+    - Reboot system
+
+
+>==========| Date : 17/01/2021 |==========<
 
   - Update Kernel and Vendor based on MIUI Global 12.2.4.0
 
