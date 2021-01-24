@@ -1,32 +1,43 @@
+|==================| Redmi Note8 Pro/Begonia |==================|
+
+                          24/01/2021
+ Changelog:
+
+* Initial VNDK30 Build.
+* Upstream kernel to Linux 4.14.215+
+* January security patch.
+* Prebuilt ANXcam with few fixes.
+
+ Notes:
+
+* Include GApps.
+* Clean Flash Recommended.
+* Use Magisk v21.3 for root.
+* Used CFW v4.0. Read Megathread.
+* Don't PM Dev. Report bug on Group Support.
+* Use TWRP CFW 3.4.0-4
+
+
+|==================| Redmi Note8 Pro/Begonia |==================|
+
 Changelog:
 
 * December Security Patches
-
 * Updated to Redfin's fp December
-
 * Switched to Stock AOSP Kernel
-
 * Updated camera {aux, priv-app} list
-
 * Switched to OSS IMS & VT Service (Thanks to Zidan & Sahil)
 
 Credits: 
-
 *Thanks for DT @KonohaHokage
-
 *Thanks for Kernel @ZyCxNEETbot
-
 *Thanks for all
 
 Notes:
 
 *Include GApps.
-
 * Use Magisk v21.1 for root.
-
 * Don't forget to install Magisk, otherwise you will enter Fastboot mode.
-
 * This is CFW Build. Need to Flash CFW 3.0. Read Megathread.
-
 * Don't PM Dev. Report bug on Group Support
 
