@@ -1,13 +1,14 @@
 |==========| Xiaomi Redmi 6A / Cactus |==========|
 
-Date : 19/01/2021
+Date : 26/01/2021
 
 Changelog :
-• Initial Release
+• Hotspot and Tethering fixed
+• Screen Record fixed
+• Drop No VoLTE features (Thanks to phhusson, eldracode, PeterCxy, penn5)
 
 Known Bug
-• VoLTE
-• Hotspot and Tethering
+• Offline Charging
 • Faceunlock
 
 Notes :
