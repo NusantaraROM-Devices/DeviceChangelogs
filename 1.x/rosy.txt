@@ -1,20 +1,19 @@
 |==========| Redmi 5 / Rosy |==========|
-Date : 24/12/2020
+Date : 26/01/2021
 
 Device Changelogs:
- - Enforcing build
- - FP crosshatch RQ1A.201205.003
- - Increase ZRAM 1.8GB
- - Page cluster value changed to 10
- - Revert audio to 16bit
- - Synced with Latest NusantaraProject Source (A10 EOL)
- - Swappiness value changed to 80
- - Use LineageOS17.1 display hal (glitches should be gone, still testing though)
+- Added battery health overlay
+- Added youtube 2160p60 resolution support
+- FP crosshatch RQ1A.210105.003
+- Permissive build for now (will back to enforcing until some sepolicy fixed)
+- Synced with latest branch of Pulkit077's kernel
+- Updated LineageOS17.1 display hal (glitches may still shows sometimes)
 
 Credit:
- - Pulkit077 for his amazing trees
- - Sagarrokade006 for his display-caf fixes
+- Pulkit077 for his amazing trees
+- xzanxz for server
+- nenofetch for youtube resolution script
 
 Notes:
  - Clean flash is fully recommended
- - Use bitgapps, opengapps nano, or any gapps that contains SoundPicker (to avoid getting force close when choosing ringtone)
+ - Vanilla Build, Don't forget to flash gapps before reboot ( Recommended OpenGapps Nano ).
