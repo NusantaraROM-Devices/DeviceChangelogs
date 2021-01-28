@@ -1,3 +1,22 @@
+|==================| Redmi Note8 Pro/Begonia |==================|
+                           28/01/2021
+
+Changelog:
+- Synced with Latest Source Changes
+- January Security Patch
+- Update Device Fingerprint to Sunfish
+- QuantumKiller-N (ALMK) as Stock Kernel (Upstreamed to 4.14.217)
+- Prebuilt ANX Camera with 64mp
+- Some Misc. here and there
+
+Notes:
+- Vanilla Build
+- Use TWRP-Metadata
+- Required CFW 2.0
+- Use Magisk 21.4 for Root
+
+|==================| Redmi Note8 Pro/Begonia |==================|
+
 Device Changelog:
 - Sync with Latest A10 EOL Source Changes
 - Switch Back to Stock AOSP Kernel (Upstreamed to 4.14.212)
