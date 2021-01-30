@@ -1,3 +1,16 @@
+|=========| Redmi Note 7 / Lavender |==========|
+
+Date : 30/01/2021
+
+Device Changelogs :
+- Synced with latest source changes
+- Kernel: Merge tag .248
+- Some improvements under the hood
+
+Notes :
+- Clean flash still recommended
+- 4.4 Kernel
+
 |==========| Xiaomi Redmi Note 7 / Lavender |==========|
 
 Date : 30/12/2020
