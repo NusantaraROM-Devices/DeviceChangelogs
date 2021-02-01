@@ -4,15 +4,12 @@ Date : 31/12/2020
 
 • Device Changelogs :
  - Synced with latest source changes
- - Import Thermal Blobs form Olive
- - Update Thermal Configuration
- - Tune Zram Performance
- - Import Charger From Redmi Y3
- - Fixed Slow Charging Issue in Previous Nusantara Build
+ - Fixed MTP Issue for some device
+ - Updated blobs from LA.UM.8.6.2.r1-08400-89xx.0
+ - Fixed Sound Picker Force close on some gapps variant
  - Address Sepolicy denials
  - Selinux Enforcing
  
 • Notes :
  - Vanilla Build
- - Recomended Gapps : Flame,Bit,Weeb,Nik Gapps
- - Happy New Year -
+ - Recomended Gapps : All Gapps working
