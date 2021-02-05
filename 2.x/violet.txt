@@ -1,11 +1,9 @@
 |==========| Redmi Note 7 Pro | violet
 
 • Device Changelogs :
-Nuked VioletParts
-Nuked Gcam too
-Fixed UI lags while playing music
-Fixed header image not applying
-Fixed settings icon crash in lock screen menu
+Added VioletParts
+Added GCam GO
+KCAL Added
 
 Bugs : 
 Cast ( Not tested, test and report ), carrier video calling( test and check )
@@ -13,3 +11,4 @@ Cast ( Not tested, test and report ), carrier video calling( test and check )
 Notes :
 Thanks to all Devs for helping me 
 Thanks to all testers for testing
+CLEAN FLASH!
