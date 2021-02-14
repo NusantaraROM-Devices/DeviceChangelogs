@@ -1,5 +1,19 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
 
+                                 14/02/2021
+
+   Changelog :
+* Updated blobs from MIUI 12 Global fw
+* Updated kernel from begonia-q-oss release
+* Updated DRM blobs from MIUI Android 11
+
+   Notes
+ * Not Include GApps
+ * Use Magisk v21.4 for root
+ * This build Non-CFW
+
+|==================| Redmi Note8 Pro/Begonia |==================|
+
                           24/01/2021
  Changelog:
 
