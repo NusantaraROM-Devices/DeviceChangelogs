@@ -1,0 +1,11 @@
+|==========| Xiaomi SM720G Unified |==========|
+
+Date : 14/02/2021
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Perf-ModenaButterfly kernel as default kernel
+ - Compiled use GengKapak Clang-13
+
+• Notes
+ - Only use BitGapps R19 ,don't install other gapps
