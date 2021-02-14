@@ -1,16 +1,15 @@
 |==========| Xiaomi Redmi Note 4X/ mido |==========|
 
-Date : 22/01/2021
+Date : 14/02/2021
 
 • Device Changelogs :
-- January Security Patch
-- Update Thermal Config
-- Update Perf Stack from Wahoo 
+- February 2021 ASB Security Patch
+
 
 
 • Notes :
 - OTA Perfectly broken af
-- Vanilla Build, Recommended GApps (BitGApps, NikGApps, OpenGApps)
+- Vanilla Build, Use BitGApps is Highly Recommended 
 
 • Credits :
 - Thanks to My All Tester for this ROM
