@@ -1,5 +1,26 @@
 |==========| Redmi Note 3 Pro/SE / Kenzo |==========|
 
+Date : 14/02/2021
+
+- Updated blobs: DRM, Keystore, Gatekeeper, Time from smartron-rimo02a-8.0.0
+- Drop TimeServices (sometimes on late boot time_genoff connection will fail and block unlocking device)
+- Implemented TimeKeep from Sony to keep track of time & date alive
+- Added audio input port for hotword implementation
+- Fixed issue when sometimes Torch isn't available on encrypted devices
+- Fixed sending auth token from FingerprintDeamon
+- Updated media profiles and added performance points, also build now G711 codec from source
+- Changed default hotspot SSID to "Redmi Note 3 Pro"
+- Kernel upstreamed with some drivers fixes
+- Other changes under the hood
+- Separate Dirac from xiaomiparts, so now audio mod user can open xiaomiparts without facing force close
+
+
+* Notes :
+ - Recommended to clean flash to avoid some weird issue.
+
+
+|========================================================|
+
 Date : 12/01/2021
 
 - January SPL Update
