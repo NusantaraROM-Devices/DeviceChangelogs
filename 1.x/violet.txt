@@ -1,11 +1,11 @@
 *******|||| Redmi Note 7 Pro ||||*******
 
-Date : 19/01/2021
+Date : 14/02/2021
 
 Device Changelogs : 
 
-Added VioletParts
-Default kernel is now SmoothAF(thanks to @karthik558
+Added GCAMGO
+
 Synced with latest source 
 
 
@@ -15,4 +15,4 @@ Vanilla Build
 
 Credits : 
 
-Thanks to @karthik558 for trees and others for helping me 
+Thanks to Joker for trees and others for helping me 
