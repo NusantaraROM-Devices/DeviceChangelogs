@@ -1,19 +1,17 @@
 |==========| Redmi 5 / Rosy |==========|
-Date : 26/01/2021
+Date : 14/02/2021
 
 Device Changelogs:
-- Added battery health overlay
-- Added youtube 2160p60 resolution support
-- FP crosshatch RQ1A.210105.003
-- Permissive build for now (will back to enforcing until some sepolicy fixed)
-- Synced with latest branch of Pulkit077's kernel
-- Updated LineageOS17.1 display hal (glitches may still shows sometimes)
-
-Credit:
-- Pulkit077 for his amazing trees
-- xzanxz for server
-- nenofetch for youtube resolution script
+- Based on Sukrut's msm8953-common tree
+- Shipped with latest kewl-lite eleven branch
+- Synced with latest NusantaraProject Android 10 source
+- Night light working by default now (sorry about the prev build)
 
 Notes:
- - Clean flash is fully recommended
- - Vanilla Build, Don't forget to flash gapps before reboot ( Recommended OpenGapps Nano ).
+- Clean flash is a must, because it has different trees.
+- OpenGapps Nano, BiTGApps v0.5 are recommended.
+- Enable MagiskHide to passed the Safetynet
+
+Credit:
+- Sukrut4778 for his amazing tree
+- Pulkit077 for his awesome kernel
