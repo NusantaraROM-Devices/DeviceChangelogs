@@ -1,0 +1,17 @@
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
+Date : 13/02/2021
+
+• Device Changelogs :
+- Synced with latest source
+- Initial Unified Release
+- VoLTE Fixed
+
+• Known Bug
+- Carrier Video Calling (ViLTE)
+- USSD on 4G
+
+• Notes :
+- Vanilla Build
+- Only for pie vendor (except 11.0.9)
+- Don't use Dolby or ViperFx
