@@ -1,17 +1,16 @@
 |==========| Xiaomi SM720G Unified / Miatoll |==========|
 
-Date : 18/01/2021
+Date : 15/02/2021
 
 Changelog :
-• Switch to Redfin January Build Fingerprint
-• Update camera blobs from Excalibur
-• Import some missed blobs
-• WFD fixed
-• Kernel Upstreamed to 4.14.216
-• Kernel: Merge tag LA.UM.8.9.r1-11200-SM6xx.0
-• Kernel: qcacld-3.0: Merge tag LA.UM.8.9.r1-11200-SM6xx.0
-• Kernel: qca-wifi-host-cmn: Merge tag LA.UM.8.9.r1-11200-SM6xx.0
-• etc, try and tell me if you found any bug with proper log.
+• Switch to Redfin February Build Fingerprint
+• Kernel Upstreamed to 4.14.221
+• Kernel: Merge tag LA.UM.9.1.r1-08600-SMxxx0.0
+• Compiled with GengKapak-Clang 13
+• Selinux is Now Enforcing
+• ANXCamera Included
+• Import Vibration Patern from Gram
+• Other changes under the hood
 
 Notes :
 • Vanilla & GApps
@@ -19,8 +18,6 @@ Notes :
 Credits :
 • @wight554
 • @DemonSingur
-• @Rajkale99
 • @Sonalsingh18
-• @kdrag0n
 • @Ramiskyy
-• @kandnub
+• @heisinbug
