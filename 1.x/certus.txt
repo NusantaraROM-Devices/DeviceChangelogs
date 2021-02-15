@@ -15,3 +15,9 @@ Date : 13/02/2021
 - Vanilla Build
 - Only for pie vendor (except 11.0.9)
 - Don't use Dolby or ViperFx
+
+• Thanks to
+- phhusson
+- eldracode
+- PeterCxy
+- hisyam_99 & XCCFGS (tester)
