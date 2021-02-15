@@ -1,16 +1,23 @@
 |==========| Xiaomi Redmi Note 4x / Mido |==========|
 
-Date : 19/01/2021
+Date : 15/02/2021
 
 • Device Changelogs :
-- Added Prebuilt Kimcy Recorder
-- Added Prebuilt GalleryGO
-- Fixed Freezing camera issue 
-- Fixed Hardware light
-- Fixed Temperature on CPUInfo
-- Configure LMKD from Latest Pixel 
-- Disable Navbar by default
-- Merged Latest Zeelog Tree
+- Update WCNSS from CAF
+- Update PowerProfile from Olive
+- Update Powerhint from Sunfish
+- Update USB ConfigFS from Onclite
+- Update few Audio Configuration 
+- Update Media Codec from CAF
+- Enable CGroup Freezer and IORAP
+- Update Kimcy Recorder to v1.2.5.0
+- Sync EGL symlinks with CAF 
+- Update Charger from River-QPU30.52-2 
+- Fixed CTS Without Root 
+- Improved SQLITE Memory Mode
 
-• Known Bugs:
-- You tell me...
+• Known Issue:
+- Offline charging bug 
+
+• Notes : 
+- Please use Gapps without SetupWizard like NikGapps or etc, cause its broken for now..
