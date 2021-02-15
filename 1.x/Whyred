@@ -1,5 +1,32 @@
 |==========| Redmi Note 5 / Whyred |==========|
 
+Date : 15/02/2021
+
+• Device Changelogs :
+- Enabled back LiveDisplay option
+- Fixed custom always on option is not available in the ambient display option
+- Fixed choppy video playback in certain codec
+- Fixed power off charging animation not displaying in last build
+- Fixed Smartcharging causing cannot charging problems until restart or disable in last build
+- Move fps info numbers into left side
+- Move Dirac from Nusantaraparts into sounds settings 
+- More rules is added and fixed in SEPolicy
+- Enable VoLTE for more ISP
+- Removed BeatPlayer as the UI isn't yet adaptable to certain display size
+- Shipped with Mystic Kernel by default, thanks to @okta_10
+- Shipped Retro Music as replacement for BeatPlayer
+- Tune NusantaraParts Kcal limitation for tianma display
+
+• Notes :
+ - OldCam build
+ - Clean flash is mandatory
+ - Play using vlc or mx player with hw+ encoder if you still find the video playback still a little bit laggy
+ - Only Gapps version is gonna be released from now
+
+
+|=============================================|
+
+
 Date : 13/01/2021
 
 • Device Changelogs :
