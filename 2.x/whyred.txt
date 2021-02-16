@@ -1,5 +1,40 @@
 |==========| Redmi Note 5 / whyred |==========|
 
+Date : 16/02/2021 | 2.6 RoemRoijen
+
+• Device Changelogs :
+- Disable blur by default, can be enabled manually from display settings 
+- Fixed certain apps force close after some time continuously usage
+- Fixed Miracast Wireless Display
+- Fixed some issues with ok google detection
+- Fixed wifi can't be turned on after rebooted while in airplane mode
+- Reduce touch latency from last build
+- More rules is added and fixed in SEPolicy
+- Enable VoLTE for more ISP
+- Removed BeatPlayer as the UI isn't yet adaptable to certain display size
+- Shipped with Mystic Kernel by default, thanks to @okta_10
+- Shipped Retro Music as replacement for BeatPlayer
+- Tune NusantaraParts Kcal limitation for tianma display
+
+• Known Bug
+- Carrier video calling
+- More?
+
+• Notes :
+- Old cam build.
+- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp.
+- Use Magisk 21.0 and above only.
+- WFD might be difficult to connect in certain condition
+- Make sure to turn off blur to reduce jitter while recording in status bar content
+- If you meet certain application not responding after rebooting, just ignore it.
+- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
+- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher instead if you want.
+
+
+|=============================================|
+
 Date : 17/01/2021
 
 • Device Changelogs :
