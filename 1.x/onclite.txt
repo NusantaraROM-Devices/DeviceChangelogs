@@ -1,0 +1,16 @@
+|==========| Redmi 7 / Onclite |==========|
+
+Date : 15/02/2021
+
+
+
+- Upstream SiLonT Kernel to 4.9.257
+- Rebase tree
+- Enable LiveDisplay
+- And more
+
+
+*Notes :
+- Use flame or nik gapps
+- Clean flash mandatory
+- If u have youtube stuck , just change kernel plox
