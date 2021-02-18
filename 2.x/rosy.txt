@@ -1,0 +1,22 @@
+|==========| Redmi 5 / Rosy |==========|
+Date : 18/02/2021
+
+Device Changelogs:
+- Based on Pulkit077's eleven tree
+- Shipped with latest kewl-lite eleven branch
+- Permissive build
+- Using redfin RQ1A.210205.004 FP
+- Vanilla and GApps build
+
+Notes:
+- Clean flash is recommended.
+- FlameGApps recommended.
+- SafetyNet passed by default
+
+Known Bugs:
+- FM Radio
+- FPS Info
+
+Thanks to:
+- All NAD Teams
+- Pulkit077 for his awesome kernel and tree
