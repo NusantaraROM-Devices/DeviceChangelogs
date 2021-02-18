@@ -1,10 +1,10 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 17-18/1/2021
+Date : 18/2/2021
 
 • Device Changelogs :
-- Update device FP to redfin January
-- added battery health overlay
+- Update device FP to redfin February
+- remove pixel thermal
 
 
 • Known Bug

@@ -3,10 +3,10 @@
 Date : 17/1/2021
 
 • Device Changelogs :
-- revert IMS blobs update 
+- device FP update to redfin february
+- fix sepolicy denials
 
 • Known Bug :
-- Statusbar Header Image margin
 - vowifi
 
 • Notes :
