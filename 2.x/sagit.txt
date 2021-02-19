@@ -1,19 +1,21 @@
 |==========| Mi 6/ sagit |==========|
 
-Date : 16/01/2021
+Date : 19/02/2021
 
 • Device Changelogs :
-    - Sync Last Source
-    - Upstremed Kernel 4.4.251
-    - Fix missing link WfdService
-    - January Sec Patch
-    - Add FPS Info
-    - Misc. Fixes and Improvements
+    - Updated to 2.6 RoemRoijen
+    - Change Kernel to placeholder 4.4.257
+    - Set default hotspot ssid
+    - Add Sagit Wifi Overlay
+    - Feb ASB Security Patch
+    - Add Battery Health
+    - Add Smart Charging
+    - Misc. Improvements
  
 • Credits :
     - @sbwml 
 
 • Notes :
-    - Thx to @nubpeeps01 @Aarunalr for server
-    - Thx for all sagit dev
-    - Thx for all tester
+    - Thx to @xzanxz for server
+    - Thx @abdulsametoger for help
+    - Thx to @deny2311 for test
