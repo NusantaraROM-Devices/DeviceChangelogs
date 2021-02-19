@@ -1,3 +1,18 @@
+|==========| Realme 3 Pro / RMX1851 !==========|
+
+Date : 18/02/2021
+
+• Device Changelogs :
+- Synced with latest source changes
+- Update coral build fingerprint to RQ1A.210205.004
+- Update KimciRecorder version
+
+• Known Bug :
+- Battery cycle count ( Realmeme Doesnt have this path, if there is feel free to ping me )
+
+• Notes :
+- Dirty flash wont hurt
+
 |==========| Realme 3 Pro / RMX1851 |==========|
 
 Date : 21/01/2021
