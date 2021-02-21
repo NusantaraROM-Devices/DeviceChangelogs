@@ -1,5 +1,18 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 20/02/2021
+
+• Device Changelogs :
+- Synced with latest source changes
+- Switch to coral february build fp
+- Switch to prebuilt audio stack
+- Small fixes
+
+• Notes :
+- Dirty flash is possible, if encounter some issue do clean flash
+
+|==========| Redmi Note 7 / Lavender |==========|
+
 Date : 21/01/2021
 
 • Device Changelogs :
