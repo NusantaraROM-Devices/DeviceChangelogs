@@ -1,17 +1,9 @@
 |==========| Redmi 5A / Riva |==========|
 
-Date : 17/01/2021
+Date : 20/02/2021
 • Device Changelogs :
-- Use Pixel Charging
-- Update GPS from LA.UM.9.6.2.r1-03300-89xx.0
-- Update Perf from LA.UM.9.6.2.r1-03300-89xx.0
-- Update Peripheral Manager from LA.UM.9.6.2.r1-03300-89xx.0
-- Update Media from LA.UM.9.6.2.r1-03300-89xx.0
-- Update FM radio from LA.UM.9.6.2.r1-03300-89xx.0
-- Update perf hal to 2.2
-- Fixed FM radio
-- Add FPS info (You can enable it on Nusantara Parts or QS tiles)
-- Upstrem kernel to 4.9.251
+- Upstrem kernel to 4.9.257
+- February Security Patch 
 
 
 • Known Bug :
