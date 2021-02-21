@@ -1,0 +1,13 @@
+|==========| Asus Zenfone Max Pro M1 / X00T|==========|
+
+Date : 21/02/2021
+
+• Device Changelogs :
+- Switch to Redfin build fingerprint
+- Upstream kernel to 4.4.250
+- Another improvement under the hood
+
+• Notes :
+- Clean flash recommended
+- Minimal FW is 059
+- Use Latest OrangeFox TWRP
