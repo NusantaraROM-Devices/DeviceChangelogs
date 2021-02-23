@@ -1,6 +1,10 @@
-Redmi K20 Pro/ Mi 9T pro - Raphael
+Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 
+23/02/2021
+- Fixed some audio issues. 
+- Removed force encryption for decrypted users. 
+- Switched to perf kernel.
+- Switched to a more compatible DT. Clean flash is recommended, but not mandatory.
+
+17/02.2021
 Initial build.
-
-Notes:
-Flash DFE + Magisk if you are decrypted and facing bootloop.
