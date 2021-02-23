@@ -1,5 +1,19 @@
 |==========| Redmi S2/Y2 / ysl |==========|
 
+Date : 23/02/2021
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Selinux Enforcing
+ - Fixed UI Lagging
+ - Switch to Redfin Febuary FP
+ 
+• Notes :
+ - Vanilla Build
+ - User Variant
+ - Recomended Gapps : All Gapps working
+
+
 Date : 31/12/2020
 
 • Device Changelogs :
