@@ -1,5 +1,25 @@
 |==========| Redmi Note 5/5 Plus Vince|==========|
 
+Date : 24/022021
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Security Patch February 2021
+ - Add Live Display
+ - Switch to FP Redfin February 2021
+ - Fix Battery Health
+
+• Notes :
+ - Vanilla Build
+ - Clean Flash is Recommended
+
+• Known Issue :
+ - Mtp broken with default kernel, change to another kernel to fix.
+
+• Credit :
+ - @attack_dns24 for server
+ - All Tester
+
 Date : 20/01/2021
 
 • Device Changelogs :
