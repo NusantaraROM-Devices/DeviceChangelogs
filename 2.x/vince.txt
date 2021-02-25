@@ -1,0 +1,19 @@
+|==========| Redmi Note 5/5 Plus Vince|==========|
+
+Date : 24/02/2021
+
+• Device Changelogs :
+ - Initial Build with new DT
+ - Synced with latest source changes
+ - Security Patch February 2021
+ - Using Redfin February RQ1A.210205.004 FP
+ - Prebuilt with Dark Ages Ultimo Kernel
+
+• Notes :
+ - Vanilla Build
+ - Clean Flash is Recommended
+ - If you found bug, report with proper logs.
+
+• Credit :
+ - Thx to @attack_dns24 for server
+ - Thx to My tester
