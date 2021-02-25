@@ -1,17 +1,13 @@
 |==========| Redmi 5A / Riva |==========|
 
-Date : 28/01/2021
+Date : 24/02/2021
 
-• Device Changelogs :
-- Januari 2021 Security Patch
-- Update FM Radio, GPS, Media, Perf, Peripheral manager, Time services, Wifi Display from from LA.UM.8.6.2.r1-08100-89axx.0
-- Fixed screen record issue
-- Fixed WFD
+• Device Changelogs 3.18 & 4.9 :
+- February 2021 Security Patch
 
-• Kernel Changelogs :
-- Upstream kernel to 4.9.253
-- Merge tag LA.UM.9.6.2.r1-03800-89xx.0
-- Enable KCAL Support :)
+
+• Kernel Changelogs (4.9):
+- Upstream kernel to 4.9.257
 
 • Known Bug/Issues
 - You tell me with log
