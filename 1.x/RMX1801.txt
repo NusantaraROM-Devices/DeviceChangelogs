@@ -1,5 +1,14 @@
 |==========| Realme 2 Pro / RMX1801 |==========|
 
+Date : 25/02/2020
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Merge RMX1801 Lineage Device Tree
+ - Update build fingerprint to redfin February 2021
+ - Address more camera selinux denials
+ - Upstreamed kernel to 4.4.258
+
 Date : 27/12/2020
 
 • Device Changelogs :
