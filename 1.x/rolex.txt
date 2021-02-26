@@ -1,5 +1,11 @@
 |==========| Redmi 4A / Rolex |==========|
 
+Date : 26/02/2021 (3.18 Kernel)
+
+• Device Changelogs :
+- Synced with latest source
+- Silence some selinux denials
+
 Date : 21/12/2020
 
 • Device Changelogs :
