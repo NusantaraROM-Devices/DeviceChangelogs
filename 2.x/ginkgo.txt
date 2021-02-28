@@ -1,5 +1,19 @@
 |==========| Redmi Note 8/T / ginkgo/willow |==========|
 
+Date : 28/02/2021
+• Device Changelogs :
+ - Sync with latest source
+ - February 2021 Security Patch
+ - Added Miui Camera as Stock Kamera
+ - Use Redfin February 2021 FP
+ - Selinux change to enforcing
+ - Fixed Faceunlock
+
+• Notes : 
+ - Vanilla Build, recommended use Flame Gapps Full
+ - Clean Flash always recommended.
+ - Report bug with proper log.
+
 Date : 17/01/2021
 
 • Device Changelogs :
