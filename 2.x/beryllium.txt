@@ -1,22 +1,28 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 17/2/2021
+Date : 28/2/2021
 
 • Device Changelogs :
-- device FP update to redfin february
-- fix sepolicy denials
-- disable batteryhealth cuz wont work with enforcing selinux for now
+e65dbac1 sdm845-common: configs: Update performance values in xml file
+ff39ebe5 sdm845-common: Enable suspend to idle
+de652b5f sdm845-common: set props for userspace lmkd
+b2b6fee7 sdm845-common: lights: Include VINTF fragment
+89e6b27b sdm845-common: lights: Remove unused function
+17752e83 Revert "sdm845-common: sepolicy: allow iorap to read system_app_data_file"
+3e57e8c8 Revert "sdm845-common: create and symlink a dummy /metadata/apex"
+c9ea7a25 sdm845-common: Use the new AIDL QTI thermal HAL *and label it
+627df23a cleanup
+32cd45b2 sdm845-commoqn: Switch to source built vendor.qti.hardware.perf@2.0.so
+785361a6 sdm845-common: enable AOD overlay * :)
+Display, Media, Audio HALs: Merge LA.UM.9.3.r1-01000-sdm845.0 of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display/ into 11-sdm845 
 
 kernel: 
-- update linux kernel 2.9.257 (driver oldtouch)
-- merge on tag LA.UM.9.3.r1-00700-sdm845.0 of https://source.codeaurora.org/quic/la/kernel/msm-4.9
-- merge on tag LA.UM.9.3.r1-00700-sdm845.0 of https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel
-- merge on tag LA.UM.9.3.r1-00700-sdm845.0 of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0
-- merge on tag LA.UM.9.3.r1-00700-sdm845.0 of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn
-- merge on tag LA.UM.9.3.r1-00700-sdm845.0 of https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/fw-api
+- update linux kernel 4.9.258
+- merge on tag LA.UM.9.3.r1-01000-sdm845.0 of https://source.codeaurora.org/quic/la/kernel/msm-4.9
 
 • Known Bug :
 - vowifi
+- dunno u tell me.
 
 • Notes :
 - Vanilla & gapps
