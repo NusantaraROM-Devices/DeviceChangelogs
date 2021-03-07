@@ -1,0 +1,14 @@
+|==========| Redmi Note 5A Prime/Lite (ulysse) |==========| 
+ 
+Date : 07/03/2021 
+
+• Device Changelogs :
+- Synced with latest sources
+- Fix video decoder that caused blank
+
+• Notes :
+- Vanilla build, so download your favorite GApps. Nikgapps recommended
+ 
+ 
+
+ 
