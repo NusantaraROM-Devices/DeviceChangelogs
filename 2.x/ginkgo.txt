@@ -1,5 +1,21 @@
 |==========| Redmi Note 8/T / ginkgo/willow |==========|
 
+Date : 08/03/2021
+• Device Changelogs :
+ - Fixed Potrait on Micam
+ - Fixed FPS Info
+ - Fixed Offiline Charging
+ - Add Battery Health
+ - Add Smart Charging
+ - Use Redfin Maret 2021 FP
+ - Update blobs from MIUI 21.3.3
+ - Upgrade LA.UM.9.11 blobs to 02800
+ - Overall improvement and smoothness
+
+Notes :
+ - Shipped with Vanilla and Gapps Version
+ - Clean Flash always recommend
+
 Date : 28/02/2021
 • Device Changelogs :
  - Sync with latest source
