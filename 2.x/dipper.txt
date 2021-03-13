@@ -10,5 +10,15 @@ Date : 19-20/12/2020
 - Statusbar Header Image margin
 
 • Notes :
-- Vanilla, gapps, microG Build
+- Vanilla, gapps, microG
+
+ Date : 13/03/2021
+ • Device changelogs :
+
+
+ V12.0.3.0.QEACNXM Firmwares
+
+- Adreno Graphics Drivers v3.5 (V@464)
+
+- Latest chances from Los tree
 
