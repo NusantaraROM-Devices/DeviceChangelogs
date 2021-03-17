@@ -1,5 +1,17 @@
 |==========| Redmi Note 8/8T Ginkgo/Willow |==========|
 
+Date : 14/03/2021
+
+Device Changelogs :
+- Maret Security Patch
+- Update Redfin FP to March 2021
+- Switch to Dolphin kernel as Stock Kernel
+- Upstreamed kernel to 4.14.225
+
+Notes : 
+- Clean flash always recommended
+- Vanilla Build
+
 Date : 15/02/2021
 
 Device Changelogs :
