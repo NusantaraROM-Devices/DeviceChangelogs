@@ -1,5 +1,20 @@
 |==========| Redmi Note 3 Pro/SE / Kenzo |==========|
 
+Date : 21/03/2021
+
+- Added Bass Booster preset on Dirac
+- Replace GcamGO with more reliable SnapCam
+- While long pressing Dirac QS, it should now taking to Dirac option instead app info
+
+
+* Notes :
+ - Recommended to clean flash to avoid some weird issue.
+ - Still wants GcamGO? Download and install as usual from here : https://bit.ly/3eZX2tv
+
+
+
+|========================================================|
+
 Date : 14/02/2021
 
 - Updated blobs: DRM, Keystore, Gatekeeper, Time from smartron-rimo02a-8.0.0
