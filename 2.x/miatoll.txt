@@ -6,6 +6,7 @@ Changelog :
 • Switch to Redfin March Build Fingerprint
 • Kernel Upstreamed to 4.14.226
 • Kang EAS Configuration from Sunfish
+• Update blobs vulkan and OpenGL 3.2 V@0502.0
 • Disabled KPTI to improve performance in some scenarios
 • Kang UMS configuration from sm6150
 • RAM management improvements
