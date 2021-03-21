@@ -14,5 +14,6 @@ Notes :
 • GApps only
 
 Credits :
+• @sebaubuntu for base tree
 • @Ramiskyy for the help & hint
 • @veldora_tempes as tester
