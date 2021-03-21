@@ -1,23 +1,25 @@
 |==========| Xiaomi SM720G Unified / Miatoll |==========|
 
-Date : 15/02/2021
+Date : 21/03/2021
 
 Changelog :
-• Switch to Redfin February Build Fingerprint
-• Kernel Upstreamed to 4.14.221
-• Kernel: Merge tag LA.UM.9.1.r1-08600-SMxxx0.0
-• Compiled with GengKapak-Clang 13
-• Selinux is Now Enforcing
-• ANXCamera Included
-• Import Vibration Patern from Gram
-• Other changes under the hood
+• Switch to Redfin March Build Fingerprint
+• Kernel Upstreamed to 4.14.226
+• Kang EAS Configuration from Sunfish
+• Disabled KPTI to improve performance in some scenarios
+• Kang UMS configuration from sm6150
+• RAM management improvements
+• Enabled 64bit dex2oat to improve app performance
+• Tune zram performance
+• Unpin camera app to reduce RAM usage
+• Made boot animation faster
+• Improved SQLite performance system-wide
+• Misc optimizations and stability fixes
 
 Notes :
-• Vanilla & GApps
+• GApps Build
 
 Credits :
 • @wight554
 • @DemonSingur
-• @Sonalsingh18
-• @Ramiskyy
-• @heisinbug
+• @ghostrider_reborn
