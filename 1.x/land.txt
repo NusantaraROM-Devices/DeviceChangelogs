@@ -1,0 +1,17 @@
+|==========| Redmi 3S/3X | Land |==========|
+
+Date : 09/03/2021
+
+• Device Changelogs :
+- Hey look, who's back
+- Full vndk implemented
+- Kernel rebased from LA.UM.8.6.2.r1-09200-89xx.0 tag
+- Upstream to v4.9.260
+- Switch to llvm tools kernel compile
+- Overall improvement (battery backup, etc)
+
+• Known Bug
+- Please report with log.
+
+• Notes :
+- Vanilla Build
