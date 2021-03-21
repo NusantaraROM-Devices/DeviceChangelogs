@@ -1,0 +1,18 @@
+|==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
+
+Date : 21/03/2021
+
+Changelog :
+• Initial Release
+• Selinux is Permissive
+• Vendor included
+• Firmware use EEA V12.1.2.0.RJDEUXM
+• Xda soon
+
+
+Notes :
+• GApps only
+
+Credits :
+• @Ramiskyy for the help & hint
+• @veldora_tempes as tester
