@@ -3,6 +3,30 @@
 Date : 19/02/2021
 
 • Device Changelogs :
+    - Sync Last Source Regentsweg
+    - March 2021 ASB Security Patch
+    - Update LA.UM.8.4.r1-06200-8x98.0 HAL
+    - Update LA.UM.8.2.r1-07500-sdm660.0 blobs (QTI)
+    - Update Graphics-Vulkan (LA.UM.8.2.r1-07500-sdm660.0)
+    - Switch clang 12.0.3
+    - Move XiaomiParts to system
+    - Remove CPU adjustment
+    - Misc. Fixes and Improvements
+
+• Credits :
+    - Thx to sbwml for tree
+    - Thx to abdulsametoger for update kernel
+    - Thx for all sagit dev.
+
+• Notes :
+    - Thx to deny2311 for server
+
+
+|===================================|
+
+Date : 19/02/2021
+
+• Device Changelogs :
     - Updated to 2.6 RoemRoijen
     - Change Kernel to placeholder 4.4.257
     - Set default hotspot ssid
@@ -13,9 +37,10 @@ Date : 19/02/2021
     - Misc. Improvements
  
 • Credits :
-    - @sbwml 
+    - Thx to sbwml for tree
+    - Thx to abdulsametoger for update kernel
+    - Thx for all sagit dev.
 
 • Notes :
-    - Thx to @xzanxz for server
-    - Thx @abdulsametoger for help
-    - Thx to @deny2311 for test
+    - Thx to xzanxz for server
+    - Thx to deny2311 for test
