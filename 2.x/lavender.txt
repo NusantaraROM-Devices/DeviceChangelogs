@@ -1,5 +1,27 @@
 |=========| Redmi Note 7 / Lavender |==========|
 
+Date : 18/03/2021
+Kernel: 4.19
+
+Device Changelogs :
+- Kernel use aLn
+- Permissive
+
+NOTES:
+* this build is version 2.7. It's just that I didn't sync with the last change which was upgrading the string to 2.7
+* FDE
+* DONT INSTALL GOOGLE CONTACT OR RIL WILL BROKEN
+* Use OrangeFox Official latest (Do not use 4.14 based OrangeFox.)
+* After first boot to set phone as default app in default apps settings
+
+Credits:
+@PredatorX91 for base kernel
+@Sir_S_e_r_g_i_o for testing
+@combantrin89 for testing
+@Vrasteizz for testing
+
+|=========| Redmi Note 7 / Lavender |==========|
+
 Date : 30/01/2021
 
 Device Changelogs :
