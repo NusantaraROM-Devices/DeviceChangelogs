@@ -1,16 +1,39 @@
 |==========| Mi 6/ sagit |==========|
 
+Date : 21/03/2021
+• Device Changelogs :
+    - Sync Last Source LTS
+    - March 2021 ASB Security Patch
+    - Upstremed Kernel 4.4.260
+    - Add NusantaraParts
+    - Replace fps info from Nusantara Parts
+    - Enable Lineage doze
+    - Ship OPScreenRecorder
+    - Misc. Fixes and Improvements
+
+• Credits :
+    - Thx to @abdulsametoger for update kernel
+    - Thx for all sagit dev.
+
+• Notes :
+    - Thx to @deny2311 for testing.    
+
+
+|===================================|
+
 Date : 14/02/2021
 
 • Device Changelogs :
-- Upstremed Kernel 4.4.257
-- February 2021 ASB Security Patch
-- Sync Last Source
-- Use default frequency
-- Add missing VoLTE overlay
-- Misc. Fixes and Improvements
+    - Upstremed Kernel 4.4.257
+    - February 2021 ASB Security Patch
+    - Sync Last Source
+    - Use default frequency
+    - Add missing VoLTE overlay
+    - Misc. Fixes and Improvements
  
 • Credits :
-- Thx to @abdulsametoger for update kernel
-- Thx to @deny2311 & @ICEB3AR for testing.
-- Thx for all sagit dev.
+    - Thx to @abdulsametoger for update kernel
+    - Thx for all sagit dev.
+
+• Notes :
+    - Thx to @deny2311 & @ICEB3AR for testing.
