@@ -6,7 +6,7 @@
 • Enforced SELinux 
 • Fixed mi_theramald 
 • Dropped non-required xiaomi hidls
-• Switched VoidKernel To NextKernel (Thanks to @Peppe289,@@NextWorksGFX)
+• Switched NextKernel (Thanks to @Peppe289,@@NextWorksGFX)
 
 
 Notes
