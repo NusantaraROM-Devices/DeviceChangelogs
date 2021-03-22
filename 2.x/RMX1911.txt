@@ -1,0 +1,17 @@
+|==========| Realme 5, 5s, 5i / RMX1911 |==========|
+
+Date : 21/11/2020
+
+• Device Changelogs :
+- Initial Android R Release Based On COS FW+Vendor
+
+• Known Bug
+- Double Tap To Wake
+- Fingerprint for 5i
+- WiFi Display
+- Offline Charger
+
+• Notes :
+- Vanilla and GAPPS Build
+
+• Thanks To R5 Lab Group
