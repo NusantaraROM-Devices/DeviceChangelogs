@@ -1,5 +1,21 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
 
+                           22/03/2021
+
+  Changelog:
+• Enforced SELinux 
+• Fixed mi_theramald 
+• Dropped non-required xiaomi hidls
+• Switched VoidKernel To NextKernel (Thanks to @Peppe289,@@NextWorksGFX)
+
+
+Notes
+ * Not Include GApps
+ * Use Magisk v21.4 for root
+ * Included FW Global
+
+|==================| Redmi Note8 Pro/Begonia |==================|
+
                                  14/02/2021
 
    Changelog :
