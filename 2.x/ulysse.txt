@@ -1,0 +1,13 @@
+|==========| Redmi Note 5A Prime/Lite - ulysse |==========|
+
+Date : 22/03/2021
+
+Changelog :
+• Fix GPS.
+• Switched to mi8937 kernel.
+• Update to march redfin fp
+• and some minor changes
+
+Notes :
+• Vanilla build
+• FlameGapps won't boot, flash Nikgapps/BitGapps instead.
