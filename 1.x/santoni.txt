@@ -1,19 +1,14 @@
 |==========| Redmi 4X/ santoni |==========|
 
-Date : 24/02/2021
+Date : 21/03/2021
 
 • Device Changelogs :
+- Switch Kernel to GatotKaca Kernel 4.9.262
+(Base from Luuvy Kernel)
+- Update to Clang 12.0.3
+- Merge LA.UM.8.6.2.c25-00800-89xx.0 into Kernel
+- Switch to Redfin FP March 2021
 - Update Last Source
-- Re-add Dolby Audio
-- Remove Mi Sound
-- Update blobs from LA.UM.8.6.2.r1-08600-89xx.0
-- Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0
-- Clean up and add Olive dynamic thermal configs from vendor
-- Update Luuvy Kernel // 4.9.258
-- Updated brightness values
-- Optimized RAM management
-- Fix Selinux: Address denials
-- Misc. Fixes and Improvements
  
 • Notes : 
 - Vanilla Build, Dont Forget Flash Gapps Before Reboot ( Recommended Nikgapps Core or OpenGapps Nano ). 
@@ -23,5 +18,5 @@ Date : 24/02/2021
 • Credits :
 - Thanks to @jabiyeff21 for tree and helping
 - Thanks to @Sairam60 for helping
-- Thanks to @mekijeewa for testing this ROM
+- Thanks to @mekijeewa @MDesign for testing this ROM
 - Thanks to @Halo555555 for Luuvy Kernel
