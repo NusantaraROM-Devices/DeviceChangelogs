@@ -1,5 +1,22 @@
 |==========| Redmi Note 5 / Whyred |==========|
 
+Date : 23/03/2021
+
+• Device Changelogs :
+- Added CPU temperature on CPU info tiles
+- Now FPS Info QS tile is working (the ones that integrated to the rom, not nusantara parts)
+- More SEPolicy rules is added & fixed
+- More system performance optimalization
+- Shipped with Extended 4.4.261 for vanilla version, and 4.4.262 on Gapps version (because while queuing for building
+  Gapps version, there's an update for Extended 4.4.262)
+
+• Notes :
+ - OldCam build
+ - Based on the poll about which variant do the user need, I decide to build the vanilla version again. 
+
+|=============================================|
+
+
 Date : 15/02/2021
 
 • Device Changelogs :
