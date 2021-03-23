@@ -1,4 +1,21 @@
 |==========| Redmi 7 / Onclite |==========|
+Date : 22/03/2021
+
+• Device Changelogs
+
+- Upstream SiLonT Kernel thanks @BryanHafidzTorvalds for kernul
+- Fixed Deep Sleep
+- Enable youtube 4K
+
+• Know bug
+- Nightlight ✌️
+
+Notes :
+
+- Use Flame gapps BETA Last ( basic recommended )
+
+
+|==========| Redmi 7 / Onclite |==========|
 Date : 18/01/2021
 
 
