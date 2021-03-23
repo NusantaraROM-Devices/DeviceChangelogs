@@ -1,5 +1,16 @@
 |==========| Redmi 7 / Onclite |==========|
 
+Date : 22/03/2021
+
+• Device Changelogs
+
+- Upstream SiLonT Kernel
+
+
+
+
+|==========| Redmi 7 / Onclite |==========|
+
 Date : 15/02/2021
 
 
