@@ -1,14 +1,16 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
-Date : 03/01/2021
+Date : 24/03/2021
 
 • Device Changelogs :
-- Initial Build
+
+- Fixed video playback issue
+- Misc improvement
 
 • Notes :
-- This is initial build so dont expect too much
-- For installation guide join to t.me/nusantararmx1851
+- Don't do dirty flash over old 2.5 builds
+- For installation guide join to https://t.me/nusantararmx1851
 
 • Credit :
 - Thanks to all who tested this build
-- Based on old common tree by SamarV so thanks to him
+- SamarV-121 for tree
