@@ -1,16 +1,12 @@
 *******|||| Redmi Note 7 Pro ||||*******
 
-Date : 14/02/2021
+Date : 24/03/2021
 
 Device Changelogs : 
 
-Added GCAMGO
 
 Synced with latest source 
 
-
-Notes : 
-Vanilla Build 
 
 
 Credits : 
