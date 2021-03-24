@@ -1,23 +1,18 @@
 |==========| Xiaomi Redmi Note 4x / Mido |==========|
 
-Date : 15/02/2021
+Date : 24/03/2021
 
 • Device Changelogs :
-- Update WCNSS from CAF
-- Update PowerProfile from Olive
-- Update Powerhint from Sunfish
-- Update USB ConfigFS from Onclite
-- Update few Audio Configuration 
-- Update Media Codec from CAF
-- Enable CGroup Freezer and IORAP
-- Update Kimcy Recorder to v1.2.5.0
-- Sync EGL symlinks with CAF 
-- Update Charger from River-QPU30.52-2 
-- Fixed CTS Without Root 
-- Improved SQLITE Memory Mode
-
-• Known Issue:
-- Offline charging bug 
+- Enforcing Build
+- Update Media Codec from Crosshatch 
+- Back to Default Mido Powerhint & PowerProfile
+- Fixed Offline Charging Loop
+- Fixed FP Delay on First SetupWizard 
+- Use Exact Value for Lockscreen Charging 
+- Update qti telephony from LA.QSSI.11.0.r1-09400-qssi.0 
+- Some Underhood Improvement 
+- SetupWizard Fixed Now
+- Merged Latest Zeelog Tree 
 
 • Notes : 
-- Please use Gapps without SetupWizard like NikGapps or etc, cause its broken for now..
+- This is first enforcing build as u want, if its causing some trouble for u change it to permissive using permissiver.zip from my group
