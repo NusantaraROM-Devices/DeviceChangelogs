@@ -1,5 +1,17 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 24/03/2021
+
+• Device Changelogs :
+- Fixed CTS
+- Improved audio_*.xml for prebuilt audio hals
+
+• Notes :
+- Dirty flash is possible, if encounter some issue do clean flash
+
+
+|==========| Redmi Note 7 / Lavender |==========|
+
 Date : 20/02/2021
 
 • Device Changelogs :
