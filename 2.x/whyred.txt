@@ -1,5 +1,39 @@
 |==========| Redmi Note 5 / whyred |==========|
 
+Date : 24/03/2021 | 2.7 Regentsweg
+
+• Device Changelogs :
+- More SEPolicy denials resolving
+- Improve EAS system for R
+- Improve RAM management
+- Improve UI rendering
+- Ships with Extended 4.4.261
+- Enabled built-in FPS info
+- Clean up some unneeded things 
+
+• Known Bug
+- Carrier video calling
+- More?
+
+• Notes :
+- Old cam build.
+- Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
+- Use Magisk 21.4 and above only.
+- WFD might be difficult to connect with some combination of custom gapps/kernel
+- Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording
+- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
+- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
+
+
+
+
+
+
+|=============================================|
+
+
 Date : 16/02/2021 | 2.6 RoemRoijen
 
 • Device Changelogs :
