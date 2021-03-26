@@ -1,16 +1,14 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 18/2/2021
+Date : 22/3/2021
 
 • Device Changelogs :
-- Update device FP to redfin February
-- remove pixel thermal
+- Source upstream
 
 
 • Known Bug
 - Vowifi
+- smartcharging
 
 • Notes :
 - Vanilla & gapps
-- microg will be relased if u asked else i wont build it.
-
