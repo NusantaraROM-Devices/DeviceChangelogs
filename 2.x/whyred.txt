@@ -19,6 +19,8 @@ Date : 24/03/2021 | 2.7 Regentsweg
 - Old cam build.
 - Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
 - Use Magisk 21.4 and above only.
+- Change the kernel into Extended v71 if you got charging problem (like stuck on 75% even you didn't using smartcharge feature)
+- Turn off reset battery statics on smartcharging page for now to prevent rebooting problem while using smartcharging feature
 - WFD might be difficult to connect with some combination of custom gapps/kernel
 - Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording
 - If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
