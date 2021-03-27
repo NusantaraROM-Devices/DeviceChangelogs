@@ -1,14 +1,11 @@
 |==========| Redmi Note 7 Pro | violet
 
 • Device Changelogs :
-Added VioletParts
-Added GCam GO
+Synced with latest source
 KCAL Added
-
-Bugs : 
-Cast ( Not tested, test and report ), carrier video calling( test and check )
+Violet parts added
 
 Notes :
-Thanks to all Devs for helping me 
-Thanks to all testers for testing
+Thanks to ( @dasshubham762, @BRock_555, @raiyanshishir, for helping me 
+Thanks to ( @Rohit_OwO, @abhisahalife, @M_3L_W1_N) for testing
 CLEAN FLASH!
