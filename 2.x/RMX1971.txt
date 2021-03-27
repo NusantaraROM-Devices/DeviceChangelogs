@@ -1,5 +1,29 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 27/03/2021
+
+• Device Changelogs :
+- Fixed for WFD Screen Cast
+- Fixed DT2W
+- Fixed high brightness
+- Fixed Charging Offline
+- March Security Patch
+- improved system performance
+
+• Bug ?
+-  Tell me with logcat
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To @Luckyvii for trees
+- and thanks for all tester.
+
+
+
+ ====== | Older Changelog | ======
+
 Date : 19/02/2021
 
 • Device Changelogs :
@@ -24,7 +48,6 @@ And more idk wtf
 • Credits 
 - Thanks To @Luckyvii for trees
 - and thanks for all tester.
-
 
 
 
