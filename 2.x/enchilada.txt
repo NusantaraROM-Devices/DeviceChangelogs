@@ -1,0 +1,14 @@
+|==========| OnePlus 6/Enchilada |==========|
+
+Date : 28/03/2021
+
+Changelog :
+• Initial Release
+• Selinux Enforcing
+• Sonic Kernel 4.9.263
+• Xda Soon
+
+Notes :
+• GApps only
+• Vanilla Can be released on request
+
