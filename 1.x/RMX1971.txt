@@ -1,5 +1,26 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 01/04/2021
+
+• Device Changelogs :
+- sync with latest source
+- upstreamed kernel to 4.9.256
+
+
+• Bug ?
+- U tell me 
+
+• Notes :
+- Vanilla Build
+
+• Credits 
+- Thanks To @bablus for trees
+- and thanks @Bagas027 for test.
+
+
+
+====== Older ChangeLog ======
+
 Date : 13/01/2021
 
 • Device Changelogs :
