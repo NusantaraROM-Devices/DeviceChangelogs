@@ -1,0 +1,21 @@
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
+Date : 02/04/2021
+
+• Device Changelogs :
+- Latest Sources v2.7
+- Enabled Blur by Default
+- Add back devicesettings (realmeparts)
+- Updated power profile config (+battery usage)
+
+• Known Bug :
+- SELinux Permissive
+- Night Light (Fliker)
+
+• Notes :
+- Build Vanilla & GApps
+- for Vanilla Build Use OpenGApps Pico (Only)
+
+• Credit :
+- Thanks to all who tested this build.
+- @SamarV121 @ManshuTyagi @ashu_1109 @HLGN1932 @Rafiester
