@@ -16,6 +16,7 @@ Date : 13/04/2021 | 2.8 Regentsweg
 
 • Notes :
 - Old cam build.
+- Clean flash is recommended because there's an upgrade to the face unlock and app lock, else it might be doing weird.
 - Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
 - Use Magisk 21.4 and above only.
 - WFD might be difficult to connect with some combination of custom gapps/kernel.
