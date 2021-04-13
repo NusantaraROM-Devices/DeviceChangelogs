@@ -1,5 +1,13 @@
 Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 
+13/04/2021
+- Faster app launching using iorp prefetcher. 
+- Disabled vsync for cpu rendered apps for smoother scrolling. 
+- Nuked dpmd, an attempt to fix playstore issues. 
+- Fixed recents menu getting stuck. 
+- Redfin April FP. 
+- Many under the hood improvements for even smoother performance. 
+
 23/02/2021
 - Fixed some audio issues. 
 - Removed force encryption for decrypted users. 
