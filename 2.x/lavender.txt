@@ -1,6 +1,6 @@
 |=========| Redmi Note 7 / Lavender |==========|
 
-Date : 11/04/2021
+Date : 13/04/2021
 Kernel: 4.19
 
 Device Changelogs :
@@ -12,6 +12,7 @@ Device Changelogs :
 - Update Powerhint
 - Address denials Sepolicy
 - Reapply init required Pixel Power
+- Enable smart charging
 - And other improvement
 
 NOTES:
