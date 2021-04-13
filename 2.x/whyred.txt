@@ -1,5 +1,38 @@
 |==========| Redmi Note 5 / whyred |==========|
 
+Date : 13/04/2021 | 2.8 Regentsweg
+
+• Device Changelogs :
+- Livedisplay is enabled in this build.
+- Fixed not charging problem with stock kernel over last build.
+- Wi-Fi always prefer to connect to 5 Ghz first instead 2.4 Ghz if it available.
+- Upstreamed Extended kernel to 4.4.267.
+- Resolved some property access denial over last build.
+- Replace T-Engine thermal config with Wayne thermal to reduce phone heat over last build.
+
+• Known Bug
+- Carrier video calling
+- More?
+
+• Notes :
+- Old cam build.
+- Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
+- Use Magisk 21.4 and above only.
+- WFD might be difficult to connect with some combination of custom gapps/kernel.
+- Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording or to improve system animation fluidness.
+- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
+- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
+- If you still want t-engine config, then download it from https://bit.ly/3g812J0 and install it over magisk.
+
+
+
+
+
+|=============================================|
+
+
 Date : 24/03/2021 | 2.7 Regentsweg
 
 • Device Changelogs :
