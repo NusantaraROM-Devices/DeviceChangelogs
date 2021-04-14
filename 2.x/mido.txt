@@ -1,18 +1,12 @@
 |==========| Xiaomi Redmi Note 4x / Mido |==========|
 
-Date : 24/03/2021
+Date : 15/04/2021
 
 • Device Changelogs :
-- Enforcing Build
-- Update Media Codec from Crosshatch 
-- Back to Default Mido Powerhint & PowerProfile
-- Fixed Offline Charging Loop
-- Fixed FP Delay on First SetupWizard 
-- Use Exact Value for Lockscreen Charging 
-- Update qti telephony from LA.QSSI.11.0.r1-09400-qssi.0 
-- Some Underhood Improvement 
-- SetupWizard Fixed Now
-- Merged Latest Zeelog Tree 
+- Back to Permissive cause to much causing issue
+- Update Media Codecs 
+- Enable Live Blur 
+- Move DPM feature to system_ext
 
 • Notes : 
-- This is first enforcing build as u want, if its causing some trouble for u change it to permissive using permissiver.zip from my group
+- Dirac Not Included on this build, cause effect didnt applied
