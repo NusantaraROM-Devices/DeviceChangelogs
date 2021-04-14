@@ -1,22 +1,18 @@
 |==========| Redmi 5A / Riva |==========|
 
-Date : 24/02/2021
+Date : 14/04/2021
 
 • Device Changelogs :
-- February 2021 Security Patch
-
-
-• Kernel Changelogs:
-- Upstream kernel to 4.9.257
+- April 2021 Security Patch
 
 • Known Bug/Issues
 - You tell me with log
-- Battery Health view
-- Smart Charging
+- Battery Health view (No Idea)
+- Smart Charging (No Idea)
 
 • Notes :
 - Vanilla Build
-- 3.18 Kerenel Build Dropped
+- 4.9 ROM Based will be continued if I have found a solution, so for now only 3.18
 
 • Credits 
 - Thanks To SunnyRaj for trees and all of you :)
