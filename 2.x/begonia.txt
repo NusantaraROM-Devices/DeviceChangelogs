@@ -1,5 +1,19 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
 
+                           14/04/2021
+
+* April Security Patch with Redfin FP
+* Fixed Screen Recorder
+* Switched Back to begonia-q-oss Kernel Release
+
+Notes
+ * Tq @GrettoRosella for the server
+ * Not Include GApps
+ * Use Magisk v21.4 for root
+ * Included FW Global
+
+|==================| Redmi Note8 Pro/Begonia |==================|
+
                            22/03/2021
 
   Changelog:
