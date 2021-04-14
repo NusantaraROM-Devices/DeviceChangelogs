@@ -1,3 +1,18 @@
+|=========| Redmi 7 / Onclite |==========|
+Date : 14/04/2021
+
+• Device Changelogs 
+
+- Update FP redfin to April
+- Fixed F2Fs
+- Many more
+
+Notes : Gapps Already Included , use magisk 21.xx
+
+
+
+
+
 |==========| Redmi 7 / Onclite |==========|
 Date : 22/03/2021
 
