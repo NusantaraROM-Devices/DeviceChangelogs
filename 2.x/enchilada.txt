@@ -1,8 +1,22 @@
 |==========| OnePlus 6/Enchilada |==========|
+Change Log:
+
+Date : 14/04/2021
+
+ROM Version - 2.8 RONGGOLAWE
+Device:
+• Kernel: Transition to Illusion Kernel 4.9.261
+• Device Settings: Battery Optimization
+• Device Settings: Updated Vibration warning
+• Device Settings Lower Default Vibration
+• Xda Updated
+
+Notes :
+• GApps only
+• Vanilla Can be released on request
 
 Date : 31/03/2021
 
-Changelog :
 • In Apps Video Playbac Fixed
 • Import WireGuard version 1.0.20210219
 • Xda Updated
