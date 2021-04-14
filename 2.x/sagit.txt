@@ -1,5 +1,24 @@
 |==========| Mi 6/ sagit |==========|
 
+Date : 14/04/2021
+
+• Device Changelogs :
+    - Sync Last Source Regentsweg
+    - April 2021 ASB Security Patch
+    - Upstremed Kernel 4.4.266
+    - Fix smart charging
+    - Add missing some blobs
+    - Other small improvements
+
+• Credits :
+    - Thx to sbwml for tree
+    - Thx for all sagit dev.
+
+• Notes :
+    - Thx to deny2311 & Finggerscrossbed for everything
+
+|===================================|
+
 Date : 21/03/2021
 
 • Device Changelogs :
@@ -16,7 +35,6 @@ Date : 21/03/2021
 
 • Credits :
     - Thx to sbwml for tree
-    - Thx to abdulsametoger for update kernel
     - Thx for all sagit dev.
 
 • Notes :
@@ -39,7 +57,6 @@ Date : 19/02/2021
  
 • Credits :
     - Thx to sbwml for tree
-    - Thx to abdulsametoger for update kernel
     - Thx for all sagit dev.
 
 • Notes :
