@@ -1,5 +1,26 @@
 |==========| Redmi Note 5 / Whyred |==========|
 
+Date : 15/04/2021
+
+• Device Changelogs :
+- Fixed device not charging problem with stock kernel on vanilla variant on last build
+- Enabled image stabilization option on miui camera recording settings
+- Shipped with Extended EAS 4.4.264
+
+
+• Notes :
+ - OldCam build
+ - Turn off image stabilization on video recording settings if you can't record video.
+ - Yes, I know about the square camera mode bug, but since A10 already entering LTS, so I might be fixing it later
+   since my focus is to A11 fully.
+
+
+
+
+
+|=============================================|
+
+
 Date : 23/03/2021
 
 • Device Changelogs :
