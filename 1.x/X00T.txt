@@ -1,13 +1,18 @@
 |==========| Asus Zenfone Max Pro M1 / X00T|==========|
 
-Date : 21/02/2021
+Date : 15/04/2021
 
 • Device Changelogs :
-- Switch to Redfin build fingerprint
-- Upstream kernel to 4.4.250
-- Another improvement under the hood
+- Updated redfin fp to april 
+- Updated kernel to 4.4.266
+- Fixed EIS
+- Fixed GPS not accurate
+- Fixed Screen Recording Lag
+- Fixed Battery health show unavailable
+- Some minor improvements
 
 • Notes :
-- Clean flash recommended
+- Clean flash is recommended
 - Minimal FW is 059
 - Use Latest OrangeFox TWRP
+- Sorry for the late update :)
