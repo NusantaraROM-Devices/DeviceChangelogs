@@ -6,7 +6,7 @@ Date : 13/04/2021 | 2.8 Regentsweg
 - Livedisplay is enabled in this build.
 - Fixed not charging problem with stock kernel over last build.
 - Wi-Fi always prefer to connect to 5 Ghz first instead 2.4 Ghz if it available.
-- Upstreamed Extended kernel to 4.4.267.
+- Upstreamed Extended EAS kernel to 4.4.264.
 - Resolved some property access denial over last build.
 - Replace T-Engine thermal config with Wayne thermal to reduce phone heat over last build.
 
