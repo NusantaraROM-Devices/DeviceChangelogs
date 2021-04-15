@@ -1,17 +1,19 @@
 |==========| Redmi 5 / Rosy |==========|
-Date : 14/02/2021
+Date : 15/04/2021
 
 Device Changelogs:
-- Based on Sukrut's msm8953-common tree
-- Shipped with latest kewl-lite eleven branch
+- Using Sukrut4778 q trees for now (cuz I lazy af)
+- Shipped with latest kewl-lite eleven branch (as always)
 - Synced with latest NusantaraProject Android 10 source
-- Night light working by default now (sorry about the prev build)
+- Added hifi audio prop (experimental, but not sure tho)
+- Offline charging back alive again with pixel style
 
 Notes:
 - Clean flash is a must, because it has different trees.
 - OpenGapps Nano, BiTGApps v0.5 are recommended.
-- Enable MagiskHide to passed the Safetynet
 
 Credit:
+- Ebin for server
 - Sukrut4778 for his amazing tree
 - Pulkit077 for his awesome kernel
+- @confused0123 for testing
