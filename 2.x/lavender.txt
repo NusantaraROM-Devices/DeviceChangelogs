@@ -1,5 +1,22 @@
 |=========| Redmi Note 7 / Lavender |==========|
 
+Date : 16/04/2021
+Kernel: 4.4
+
+Device Changelogs :
+- Sync nad 2.8 Ronggolawe
+- Enforcing
+- Update fingerprint to redfin april
+- Update blobs from LA.UM.9.6.2.r1-03300-89xx.0 & LA.UM.8.2.r1-07500-sdm660.0
+- Enable Smart Charging
+- Build vendor.display.config@2.0 vendor
+- And other improvement
+
+Credits:
+- @NusantaraPro for tester
+
+|=========| Older changelogs |==========|
+
 Date : 13/04/2021
 Kernel: 4.19
 
@@ -26,7 +43,7 @@ NOTES:
 Credits:
 @PredatorX91 for base kernel
 
-|=========| Redmi Note 7 / Lavender |==========|
+|=========| Older changelogs |==========|
 
 Date : 18/03/2021
 Kernel: 4.19
@@ -48,7 +65,7 @@ Credits:
 @combantrin89 for testing
 @Vrasteizz for testing
 
-|=========| Redmi Note 7 / Lavender |==========|
+|=========| Older changelogs |==========|
 
 Date : 30/01/2021
 
@@ -61,7 +78,7 @@ Notes :
 - Clean flash still recommended
 - 4.4 Kernel
 
-|==========| Xiaomi Redmi Note 7 / Lavender |==========|
+|==========| Older changelogs |==========|
 
 Date : 30/12/2020
 
