@@ -3,9 +3,7 @@
 Date : 14/02/2021
 
 • Device Changelogs :
-- February 2021 ASB Security Patch
-
-
+- April 2021 ASB Security Patch
 
 • Notes :
 - OTA Perfectly broken af
