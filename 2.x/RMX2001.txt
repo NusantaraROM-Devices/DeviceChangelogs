@@ -1,5 +1,28 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 16/04/2021
+
+• Device Changelogs :
+- Latest Sources v2.8
+- Source Built Kernel
+- April Security Patch
+- Many misc improvements
+- Fix Screen Recording Make System UI Crash
+
+• Known Bug :
+- SELinux Permissive
+- Night Light (Fliker)
+
+• Notes :
+- Build Vanilla & GApps
+- for Vanilla Build Use OpenGApps Pico or NikGApps Core
+
+• Credit :
+- Thanks to all who tested this build.
+- @SamarV121 @ManshuTyagi @ashu_1109 @HLGN1932 @Rafiester
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 02/04/2021
 
 • Device Changelogs :
