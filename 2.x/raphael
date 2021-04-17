@@ -1,5 +1,12 @@
 Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 
+17/04/2021
+- Kill more IMS logging.
+- Faster bootup.
+- Faster switching between audio sources.
+- Reduced rounded corner radius.
+- Screen-off FOD fixed in vanilla variant.
+
 13/04/2021
 - Faster app launching using iorp prefetcher. 
 - Disabled vsync for cpu rendered apps for smoother scrolling. 
