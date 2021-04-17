@@ -6,6 +6,9 @@ Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 - Faster switching between audio sources.
 - Reduced rounded corner radius.
 - Screen-off FOD fixed in vanilla variant.
+- Both builds boot without magisk. 
+- If you face slow unlocking on FOD, select McLaren animation, 
+and set animation scales in dev options to 0.5.
 
 13/04/2021
 - Faster app launching using iorp prefetcher. 
