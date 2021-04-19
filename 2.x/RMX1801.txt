@@ -1,5 +1,16 @@
 |==========| Realme 2 Pro / RMX1801|==========|
 
+Date : 18/04/2021
+• Device Changelogs
+- Upstreamed kernel to 4.4.266
+- Enforcing SeLinux
+- Enable AOSP surfaceflinger and iorapd tracing
+- And many under the hood improvement
+
+• Notes :
+- Available in GAPPS and VANILLA build
+- Big Thanks to ShubhamB for initial trees
+
 Date : 19/11/2020
 
 • Device Changelogs :
