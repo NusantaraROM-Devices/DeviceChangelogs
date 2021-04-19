@@ -1,5 +1,19 @@
 |==========| Redmi 3S/3X | Land |==========|
 
+Date : 18/04/2021
+• Device Changelogs :
+- Upstream changes
+- March SPL
+- Improvements especially for 2GB ram devices
+- Upstream kernel to v4.9.266
+- Enable cam2api by default
+
+• Knowm bug :
+- ¯\_(ツ)_/¯
+
+• Notes :
+- Please report bug with log, we already included matlog for that kthx.
+
 Date : 09/03/2021
 
 • Device Changelogs :
