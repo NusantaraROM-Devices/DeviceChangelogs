@@ -1,4 +1,10 @@
 |==========| Redmi Note 5A Prime/Lite (ulysse) |==========| 
+
+Date : 20/04/2021
+
+• Device Changelogs :
+- March SP
+- minor changes on dt
  
 Date : 07/03/2021 
 
