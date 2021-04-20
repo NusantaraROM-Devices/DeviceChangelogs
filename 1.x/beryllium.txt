@@ -1,14 +1,16 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 22/3/2021
+Date : 18-20/4/2021
 
 • Device Changelogs :
 - Source upstream
+- enable livedisplay
 
 
 • Known Bug
 - Vowifi
 - smartcharging
+
 
 • Notes :
 - Vanilla & gapps

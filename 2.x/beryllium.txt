@@ -1,15 +1,18 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 22/3/2021
+Date : 17-18/4/2021
 
 • Device Changelogs :
-- restore stock audio config
+- enable livedisplay
+- enable smartcharging
+- fix sepolicy denial for bluetooth props
+
 
 • Known Bug :
 - vowifi
 - dunno u tell me.
 
 • Notes :
-- Vanilla & gapps
+- Vanilla, microg & gapps
 
 
