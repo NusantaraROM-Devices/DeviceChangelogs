@@ -1,5 +1,30 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 22/04/2021
+
+• Device Changelogs :
+- Latest Sources v2.8
+- Source Built Kernel
+- April Security Patch
+- Added RealmeParts -> Additional Settings
+  - Disable Apps On Launcher
+  - Fix FPS Overlay
+- Many misc improvements
+
+• Known Bug :
+- SELinux Permissive
+- Night Light (Fliker)
+
+• Notes :
+- Build Vanilla & GApps
+- for Vanilla Build Use OpenGApps Pico or FlameGApps basic
+
+• Credit :
+- @SamarV121 @ManshuTyagi @ashu_1109 @HLGN1932 @Rafiester
+- Tester: @TititCilik @cakefloss
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 16/04/2021
 
 • Device Changelogs :
