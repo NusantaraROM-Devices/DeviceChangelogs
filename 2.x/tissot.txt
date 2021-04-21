@@ -1,16 +1,15 @@
 |==========| MIA1 / Tissot |==========|
 
-Date : 16/01/2021
+Date : 21/04/2021
 
 • Device Changelogs :
 - Synced with latest source
-- kernel upstream to  4.9.248
+- kernel upstream to  4.9.260
+- Fixed fps info
+- Fixed Hw Light
 
-• Known Bug :
-- Button Hw Light Dead
-- Hotspot
-- Maybe There's More
-
+• Notes
+- Thanks to @bmwtheseries for testing
 
 
 
