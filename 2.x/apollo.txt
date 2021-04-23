@@ -1,27 +1,26 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
-Date : 04/04/2021
+Date : 23/04/2021
 
 Changelog :
-• wifi: Enable QPower and Deep sleep together
-• overlay: Hide sRGB toggle in developer options 
-• overlay: Set fast charging indicator threshold to 10.8W 
-• perf: add libdolphin & scudo perf. optimization
-• overlay: configure SQLite to operate in MEMORY mode 
-• sm8250-common: Switch Skia rendering backend to Vulkan
-• overlay: wifi: Enable LPRX by default
+• Enable livedisplayy
+• Enable call recording 
+• Enable iorapd prefetching 
+• Switch oss display hals
+• Sepolicy updates
 • Selinux Enforcing
 • Vendor included
 • kernel prebuilt
-• Firmware use EEA V12.1.2.0.RJDEUXM
+• Firmware use EEA V12.1.4.0.RJDEUXM
 • XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
 
 
 Notes :
-• GApps only
+• GApps & vanilla
 
 Bugs:
-• batterystats get ignored by selinux.
+• NFC maybe wont work on some apps.
+• FPS Tile doesnt work for now.
 
 Credits :
 • Allah SWT
