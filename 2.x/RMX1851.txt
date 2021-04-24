@@ -1,5 +1,14 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 24/04/2021
+
+• Device Changelogs :
+
+- Added RealmeHub
+- Added VOOC charging overlay
+- Fixed FPS info in QS Tiles
+- Fixed camera.aux.package.list denial
+
 Date : 24/03/2021
 
 • Device Changelogs :
@@ -8,7 +17,6 @@ Date : 24/03/2021
 - Misc improvement
 
 • Notes :
-- Don't do dirty flash over old 2.5 builds
 - For installation guide join to https://t.me/nusantararmx1851
 
 • Credit :
