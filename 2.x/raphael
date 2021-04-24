@@ -1,5 +1,20 @@
 Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 
+24/04/2021
+- Added back smart charging (only works on custom kernels, needs testing on perf). 
+- Fixed FM radio. 
+- Faster FOD. 
+- Fixed overlapping notification icons.
+- Smoother transition animations. 
+- Added FPS counter QS toggle from XiaomiParts. 
+- Added battery health. 
+- Hide magisk in banking apps be default. 
+- Make the UI smoother. 
+- Faster app launching. 
+- Support for f2fs.  
+- Added scrolling optimization.
+- Added bass booster preset to dirac. 
+
 17/04/2021
 - Kill more IMS logging.
 - Faster bootup.
