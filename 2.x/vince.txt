@@ -1,5 +1,23 @@
 |==========| Redmi Note 5/5 Plus Vince|==========|
 
+Date : 24/04/2021
+
+• Device Changelogs :
+ - Swipe to New DT
+ - Synced with latest source changes
+ - Security Patch April 2021
+ - Prebuilt with Dark Ages Ultimo Kernel
+ - MTP maybe fixed.
+
+• Notes :
+ - Vanilla Build
+ - Clean Flash is Recommended
+ - If you found bug, report with proper logs.
+ - Sorry for late update all :'v
+ 
+ • Credit :
+ - Thanks to All My Tester
+
 Date : 24/02/2021
 
 • Device Changelogs :
