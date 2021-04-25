@@ -1,5 +1,10 @@
 Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 
+25/04/2021 HOTFIX
+- Switch Skia rendering backend to OpenGL. 
+- Correct vbmeta flags argument.
+- Added f2fs to cache partition in fstab.
+
 24/04/2021
 - Added back smart charging (only works on custom kernels, needs testing on perf). 
 - Fixed FM radio. 
