@@ -1,4 +1,50 @@
 |=========| Redmi 7 / Onclite |==========|
+Date : 27/04/2021
+
+• Device Changelogs 
+
+- Switched and reworked the device sources
+- Switched to stock kernel
+- [Fixed] Now, booted without Magisk
+- Fixed night light
+- Fixed CTS/SafetyNet, now passed by default & Banking apps work
+- Add nodes to hide Magisk in banking apps
+- Drop Nusantara Parts for being time
+- Remove unwanted packages at build time
+- Specify Wi-Fi and Tethering RRO's for our device
+- Show correct device and model name as per boot cert
+- Add Chinese variants of Redmi 7 to list
+- Set dalvik-heap configurations based on RAM variant
+- Enable config_avoidGfxAccel for 2GB variants
+- Import Display calibration data files from stock
+- Import SVI config xml from stock
+- Enable USB Debugging at first boot
+- Enable smart charging and add nodes with permissions
+- Include sepolicy rule for smart charging
+- Enable Battery Health and add sepolicy rule
+- Fixed VoLTE for selected carriers
+- Exclude CarrierConfig overlays from RRO's
+- Add Overlay for QS System Info
+- Use same CPU temp node as per all other kernel managers
+- Add FPS Info path, set permissions + add sepolicy rule
+- Enable BPF kernel support
+- Match default screen density/dpi with our device
+- Enable Dex2oat usage for this device
+- And many more improvments!
+
+• Notes :
+- Gapps Build
+- Join device group support for get more info
+- Thanks to kaguyaasama for previous maintainer
+
+• Know Bug
+- Internal Audio in default Screen Recording, but you can use custom screen record app.
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
 Date : 14/04/2021
 
 • Device Changelogs 
