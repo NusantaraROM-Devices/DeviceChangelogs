@@ -1,6 +1,14 @@
 |==========| OnePlus 6/Enchilada |==========|
 Change Log:
 
+Date : 30/04/2021
+
+• Synced Latest Source as of 30/04/2021
+• Updated Kernel Illusion
+• Addition of OnePlus File Manager
+• Updated OnePlus Gallery
+• Tighten Vibration Patterns
+
 Date : 14/04/2021
 
 ROM Version - 2.8 RONGGOLAWE
@@ -10,10 +18,6 @@ Device:
 • Device Settings: Updated Vibration warning
 • Device Settings Lower Default Vibration
 • Xda Updated
-
-Notes :
-• GApps only
-• Vanilla Can be released on request
 
 Date : 31/03/2021
 
