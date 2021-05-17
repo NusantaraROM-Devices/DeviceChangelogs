@@ -1,5 +1,44 @@
 |==========| Redmi Note 5 / whyred |==========|
 
+Date : 17/05/2021 | 2.9 Reog
+
+• Device Changelogs :
+* Remapped livedisplay color profile values to easier one to understand
+* Increase handset speaker and mic volume as on MIUI
+* Fixed Users can't install Riru magisk module
+* Fixed back gesture vibration doesn't vibrate
+* Switch back to QTI Bluetooth
+* Update WFD blobs from LG G7 One 11/RKQ1.201123.002, WFD should be easier to connect now
+* Removed redundant sepolicy rules
+* Removed redundant configuration that can reduce device performance
+* Upstream extended eas kernel to 4.4.268
+* Set zRam configuration to use 50% of the RAM size
+* Removed unused libraries file from vendor
+* Convert MiuiCamera icon to adaptive type
+
+• Known Bug
+- Carrier video calling
+- More?
+
+• Notes :
+- Old cam build.
+- Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
+- Use only magisk 23.0 and upward if available, else you will get safetynet API error message.
+- WFD might be difficult to connect with certain kernel.
+- Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording or to improve system animation fluidness.
+- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
+- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
+- If you still want t-engine config, then download it from https://bit.ly/3g812J0 and install it over magisk.
+- LDAC codec is not working on QTI Bluetooth because hardware limitation
+
+
+
+
+|=============================================|
+
+
 Date : 13/04/2021 | 2.8 Regentsweg
 
 • Device Changelogs :
