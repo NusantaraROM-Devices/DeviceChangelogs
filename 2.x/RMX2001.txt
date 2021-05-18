@@ -1,5 +1,33 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 18/05/2021
+
+• Device Changelogs :
+- Latest Sources, SecPatch (5 May 2021)
+- SELinux Enforcing + Passes safetynet
+- Source built kernel + added performance profile
+- Make padding in overlay status bar look like rUI
+- Fixes can't wakeup device in offline charging mode
+- Added RealmeParts (Realme Settings)
+  - RealmeParts: Disable apps on launcher
+  - RealmeParts: Cleanup unused functions
+  - RealmeParts: Move to system section [settings/system/R*]
+  - RealmeParts: Fix FPS overlay + Add Title Fps (Ex: Fps: 90)
+
+• Known Bug :
+- Night Light (Fliker)
+
+• Notes :
+- Build Vanilla & GApps
+- for Vanilla Build Use OpenGApps Pico or FlameGApps basic
+
+• Credit :
+- Thanks to all R6 devs
+- @SamarV121 for the trees
+- @ManshuTyagi @Rafiester @HLGN1932 for help
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 22/04/2021
 
 • Device Changelogs :
