@@ -1,0 +1,17 @@
+|==========| POCO X3 Pro / Vayu |==========|
+
+Date : 18/05/2021
+
+• Device Changelogs :
+- Initial Release
+
+• Notes :
+- SELinux status is Enforcing
+- SafetyNet passes out of the box
+- GApps Already Included
+- Recommended Firmware: Xiaomi.EU 12.0.4.0 only
+
+• Credit:
+- Thanks to @kubersharma, @LuckyVii for tree
+- Thanks to @Riel77, @Riel77, @Riel77, @Naagaayoo, and All Tester that i cant mention
+ 
