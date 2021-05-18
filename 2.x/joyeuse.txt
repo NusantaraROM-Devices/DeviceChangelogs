@@ -20,5 +20,5 @@ Date : 18/05/2021 | 2.9 Reog
 - All GengKapak members
 
 • Notes :
-- This build is only for Redmi Note 9 Pro / Joyeuse, don't flash for other miatoll device
+- This build is only for Redmi Note 9 Pro / Joyeuse, don't flash for other miatoll device (Redmi Note 9 Pro India or Redmi Note 9s / Curtana, Redmi Note 9 Pro Max / Excalibur, Poco M2 Pro / Gram)
 - Available both variant Gapps and Vanilla for Gapps i recommend to use Nikgapps (me personally using Nikgapps basic)
