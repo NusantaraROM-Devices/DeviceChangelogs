@@ -1,0 +1,24 @@
+|=========| Redmi Note 9 Pro / Joyeuse |==========|
+
+Date : 18/05/2021 | 2.9 Reog
+
+• Device Changelogs :
+- Sync nad 2.9 Reog
+- Revert some derped audio configs
+- Using Reborn Kernel (Compile using latest Proton 13)
+- Thermal Profile option
+- Add XiaomiParts
+- Add ANXCamera
+- Minor Fixes
+
+• Credits :
+- @ScaryMen1325 & @loptr4 for Reborn kernel
+- @Ramisky for trees reference
+- @SonalSingh18 for trees reference
+- All my testers
+- All Nusantara Maintainers and Developers
+- All GengKapak members
+
+• Notes :
+- This build is only for Redmi Note 9 Pro / Joyeuse, don't flash for other miatoll device
+- Available both variant Gapps and Vanilla for Gapps i recommend to use Nikgapps (me personally using Nikgapps basic)
