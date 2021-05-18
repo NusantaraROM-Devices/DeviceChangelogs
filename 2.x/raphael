@@ -1,5 +1,12 @@
 Changelog for Redmi K20 Pro/ Mi 9T pro - Raphael
 
+18/05/2021
+- Update to 2.9 Roem. 
+- Faster FOD. 
+- Fixed blinking on AOD.
+- Re-enabled blur effect in display settings. 
+- Minor performance improvements. 
+
 02/05/2021
 - Don't force encrypt data partition. 
 - Added GPU Turbo v6.1 props. (Credits to EmperorEye1993)
