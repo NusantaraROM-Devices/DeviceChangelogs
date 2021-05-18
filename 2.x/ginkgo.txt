@@ -1,5 +1,23 @@
 |==========| Redmi Note 8/T / ginkgo/willow |==========|
 
+Date : 18/05/2021
+• Device Changelogs :
+ - Sync with latest source
+ - May Sec Patch
+ - Switched to dipper fingerprint for permanent safetynet fix
+ - Upgraded most blobs to LA.UM.9.11.r1-03200-NICOBAR.0 (CAF)
+ - Updated stock blobs from MIUI 21.4.28
+ - Improved 5ghz wifi signal tolerance
+ - Improved and fine tuned auto brightness algorithm
+ - Fixed HDR+ on Gcam Glitch
+ - Increased default media volume steps
+ - Merged LA.UM.9.11.r1-03900-NICOBAR.0 CAF in kernel
+ - Merged android-4.14-stable and updated to v4.14.232
+
+Notes :
+ - Vanilla Version
+ - Clean Flash always recommend
+
 Date : 24/04/2021
 • Device Changelogs :
  - Sync with latest source
