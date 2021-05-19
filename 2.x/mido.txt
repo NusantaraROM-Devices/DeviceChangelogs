@@ -1,12 +1,17 @@
 |==========| Xiaomi Redmi Note 4x / Mido |==========|
 
-Date : 15/04/2021
+Date : 19/05/2021
 
 • Device Changelogs :
-- Back to Permissive cause to much causing issue
-- Update Media Codecs 
-- Enable Live Blur 
-- Move DPM feature to system_ext
+- Disable IORap & cgfreezer
+- Merged Latest Zeelog Changes
+- Switch to CAF Performance HAL 
+- Switch to CFQ I/O Scheduler
+- Import blkio tuning from crosshatch 
+- Kang Dalvik Configuration for Android 11
+- Tune ZRAM Performance
+- Use in-process APK for network stack and tethering
 
 • Notes : 
-- Dirac Not Included on this build, cause effect didnt applied
+- Included GApps now, cause custom ones too much giving issue
+- Switch to Permissive if there's some strange issue
