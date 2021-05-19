@@ -1,4 +1,16 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
+                         16/05/2021
+Device Changelog Nad LTS A10:
+- Rebased Tree to Non-CFW (thx to @valap)
+- - Initial Non-CFW Build
+- May Security Patch with Redfin FP
+- - Using QuantumKiller-Kernel (ALMK) as Stock Kernel
+
+Notes:
+- Use Migration Tools from @valap before flashing the rom
+
+
+|==================| Redmi Note8 Pro/Begonia |==================|
                            28/01/2021
 
 Changelog:
