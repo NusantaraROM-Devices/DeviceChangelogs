@@ -1,4 +1,17 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
+                        17/05/2021
+
+Device Changelog Nad A11:
+- May Security Patch with Redfin FP
+- - Synced some blobs with begonia RP1A.200720.011
+- Updated FW from begonia V12.0.7.0.QGGMIXM
+- - Updated blobs from begonia V12.0.7.0.QGGMIXM
+- Synced media files with MIUI V12.0.7.0.QGGMIXM
+- - Synced NFC files with MIUI V12.0.7.0.QGGMIXM
+- Switched to arch variant to ARMv8.2-A
+- -  Dropped unused flags
+- Fixed Screen Recorder
+|==================| Redmi Note8 Pro/Begonia |==================|
 
                            14/04/2021
 
