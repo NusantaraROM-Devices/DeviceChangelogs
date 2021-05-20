@@ -1,16 +1,19 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
-Date : 28/04/2021
+Date : 19/05/2021
 
 Changelog :
-• Update rootdir from CAF 
-• Enable Seamless Transfer 
-• Import some audio props from Coral 
-• vendor update from V12.1.5.0.RJDEUXM
+• Implement CTS hax from Proton AOSP, but gbye magisk.
+• Switch OSS Light
+• Switch dt2w common node, removed apollo parts
+• Added min-max refresh rate control on settings/display also enabled dynamic refreshrate based on content. 
+• Improved haptic & vibration pattern
+• Use new Fingerprint service, unlocking should be fast from before.
+• Fixed proximity issue, thx to rami.
+• Kernel inline 4.19-Lolla
+• vendor update from V12.1.2.0.RJDMIXM
 • Selinux Enforcing
-• Vendor included
-• kernel prebuilt
-• Firmware use EEA V12.1.5.0.RJDEUXM
+• Firmware use Global V12.1.2.0.RJDMIXM
 • XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
 
 Notes :
@@ -19,13 +22,20 @@ Notes :
 Bugs:
 • NFC maybe wont work on some apps.
 • FPS Tile doesnt work for now.
-• proximity sensor isnt working for now.
 
 Credits :
 • Allah SWT
-• @sebaubuntu, @Ramiskyy, @ZIDAN44 and other for their contribution to apollo.
-• @veldora_tempes as tester
+• @sebaubuntu, @Ramiskyy, and other devs for their contribution to apollo community.
 
+Date : 28/04/2021
+Changelog :
+• Update rootdir from CAF 
+• Enable Seamless Transfer 
+• Import some audio props from Coral 
+• vendor update from V12.1.5.0.RJDEUXM
+• Selinux Enforcing
+• Vendor included
+• kernel prebuilt
 
 Date : 23/04/2021
 Changelog :
