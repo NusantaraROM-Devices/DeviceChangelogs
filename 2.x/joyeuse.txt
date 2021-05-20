@@ -1,8 +1,9 @@
 |=========| Redmi Note 9 Pro / Joyeuse |==========|
 
-Date : 19/05/2021 | 2.9 Reog | HOTFIX
+Date : 20/05/2021 | 2.9 Reog | HOTFIX
 - Fixed random reboot on some devices
 - Changed kernel to latest GengKapak kernel
+- Removed ANX Camera for now changed to GcamGO
 
 Date : 18/05/2021 | 2.9 Reog
 
