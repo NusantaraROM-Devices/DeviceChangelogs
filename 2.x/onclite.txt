@@ -2,6 +2,7 @@
 Date : 20/05/2021
 
 • Device Changelogs 
+
 - Optimize the Audio output a bit
 - Add call recording overlay (only for vanilla variant)
 - Fixed zRAM and lagging issue
@@ -31,8 +32,12 @@ Date : 20/05/2021
 - [NOTES] Clean Flash recommended
 - [NOTES] GApps not include
 - [NOTES] Recommended to use FlameGApps with basic variant
+- [NOTES] For 2GB variant, if changing wallapepr FC/crash. Just change default Gallery app
+          Recommended to use Gallery app from
+          https://github.com/WSTxda/QP-Gallery-Releases/releases
 - [NOTES] CTS/SafetyNet passed without root
 - [NOTES] Banking apps working
+
 
 
 
