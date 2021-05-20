@@ -3,6 +3,26 @@
 Date : 15/04/2021
 
 • Device Changelogs :
+- Upstream Extended EAS to 4.4.268
+- Remapped livedisplay color profile values to easier one to understand
+- Removed redundant configuration that might reduce device performance
+- Fixed users can't install Riru magisk module
+
+• Notes :
+ - OldCam build
+ - Turn off image stabilization on video recording settings if you can't record video or facing camera error on video mode.
+ - Yes, I know about the square camera mode bug, but since A10 already entering LTS, so I might be fixing it later
+   since my focus is to A11 fully.
+ - Use only magisk v23 else you got API error on safetynet check
+
+
+
+
+|=============================================|
+
+Date : 15/04/2021
+
+• Device Changelogs :
 - Fixed device not charging problem with stock kernel on vanilla variant on last build
 - Enabled image stabilization option on miui camera recording settings
 - Shipped with Extended EAS 4.4.264
