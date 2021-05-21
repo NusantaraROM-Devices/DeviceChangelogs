@@ -1,5 +1,24 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 21/05/21
+• Device Changelogs :
+- fix offline charging
+- system improvement
+
+• Bug ?
+- Tell me
+
+• Note
+- Vanilla Build
+- Nik Gapps recommended
+
+
+• Credits 
+- Thanks To @Luckyvii for trees
+
+
+====== | Older Changelog | ======
+
 Date : 13/04/2021
 
 • Device Changelogs :
