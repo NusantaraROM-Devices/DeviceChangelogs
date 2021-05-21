@@ -1,16 +1,6 @@
 |==========| MI 8 Lite / platina |==========|
 
-Date : 22/03/2021
+Date : 15/05/2021
 
 • Device Changelogs :
-- Upstream kernel 4.4.262
-- Compiled with GCC11
-- Fixed offline Charging
-- Fixed Hotspot tethering
-- Enable FPS info
-- Increase mic volume
-- Adjust Notch dimens
-- Use Light config from old tree
-
-• Notes :
-- Required gapps
+- Upstream kernel 4.4.268
