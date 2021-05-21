@@ -1,9 +1,15 @@
 |=========| Redmi 4A, 5A / Rova |==========|
-Date : 15/04/2021
+Date : 20/05/2021
 
 • Device Changelogs 
 
-- Initial Rova Released
+- Fix log spam
+- Add Android 11 camera API
+- Build AOSP Charge Images
+- Upstreamed kernel to 4.9.268
+- Improvement on tree
 
 • Credits
 - Big Thanks To @Thagoo for trees
+- Thanks to @KangMamles for helping improve kernel
+- And all tester
