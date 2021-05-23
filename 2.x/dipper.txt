@@ -22,3 +22,16 @@ Date : 19-20/12/2020
 
 - Latest chances from Los tree
 
+
+Date : 23/05/2021
+
+• Device Changelog :
+- Sync with latest 2.9 Reog Source
+- Merged Security Patch May 2021
+- Switch back default Perf kernel
+- Added FPS Info Overlay
+- Added F2FS Support
+- Fixed DT2W
+- PE FaceUnlock + IR
+- Gapps Variant
+
