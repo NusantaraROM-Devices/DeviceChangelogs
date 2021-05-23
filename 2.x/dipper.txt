@@ -33,5 +33,7 @@ Date : 23/05/2021
 - Added F2FS Support
 - Fixed DT2W
 - PE FaceUnlock + IR
+
+• Note :
 - Gapps Variant
 
