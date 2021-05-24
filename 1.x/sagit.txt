@@ -1,5 +1,19 @@
 |==========| Mi 6/ sagit |==========|
 
+Date : 24/05/2021
+• Device Changelogs :
+    - Sync Last Source LTS
+    - May 2021 ASB Security Patch
+    - Upstremed Kernel 4.4.268
+    - Build clang 12.0.3 
+    - Misc. Fixes and Improvements
+
+• Credits :
+    - Thx to @abdulsametoger for update kernel
+    - Thx for all sagit dev.
+
+|===================================|
+
 Date : 17/04/2021
 • Device Changelogs :
     - Sync Last Source LTS
