@@ -1,5 +1,14 @@
 |==========| Redmi Note 5A Prime/Lite (ulysse) |==========| 
 
+Date : 24/05/2021
+
+• Device Changelogs :
+- Fixed Nightlight
+- Adress perf hal denials
+- Unpin camera apps in memory to reduce RAM usage
+- Cleanup some deprecated props
+- Add new camera2 hardware features
+
 Date : 20/04/2021
 
 • Device Changelogs :
