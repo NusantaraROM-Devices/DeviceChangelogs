@@ -1,0 +1,26 @@
+|==========| Realme C3/Narzo 10A / RMX2020 |==========|
+
+Build Date : 25/05/2021
+
+• Device Changelog : 
+- May Security Patch 
+- Enforcing + encrypted 
+- More RAM optimization 
+- Define rounded corners
+- Added performance profile in Gaming mode of Realme Settings
+- Added Optimization
+- Update GCam Go to v1.11 from Greatness with AUX support
+
+• Known Bug
+- DT2W (Kernel issue)
+- Fingerprint not working in et512 
+- You tell more
+
+• Notes:
+- Gapps not included, use Nikgapps
+- No log, no issue
+
+Credits:
+- Thanks to Inder and Witcher for the initial Trees and Sarthak,Himanshu and Imran
+  for fixes and enforcing as well as phh for VoLTE fix
+- Thanks to Testers
