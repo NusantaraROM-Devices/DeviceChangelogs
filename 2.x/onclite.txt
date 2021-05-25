@@ -1,4 +1,37 @@
 |=========| Redmi 7 / Onclite |==========|
+Date : 24/05/2021
+
+• Device Changelogs 
+
+- Update FM Radio stack from LA.UM.9.6.2.r1-03600-89xx.0
+- Add HAL interface definition for FM Radio
+- Add new SEPolicy rules for FM Radio
+- Restore Thermal 1.0 HAL
+- Import prebuilt thermal.msm8953.so from MIUI V12.0.1.0 QFLCNXM
+- Define Slow and Fast charging threshold
+- Switch back to default shutdown time
+
+
+• Notes :
+
+- Vanilla release, GApps not include
+- Recommended to use FlameGApps with basic variant
+- Clean Flash if you're new user
+- Dirty Flash if you come from previous release
+- CTS/SafetyNet passed without root
+- Banking apps working
+
+
+
+
+
+
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
 Date : 20/05/2021
 
 • Device Changelogs 
