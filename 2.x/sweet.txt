@@ -1,0 +1,20 @@
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
+
+Date : 26/05/2021
+• Device Changelogs
+- Includes fix for chipmunk like audio during in game voice chat in games such as Mobile Legends
+- Update to redfin May fp
+- Enable VoLTE support for Telkomsel (Indonesia)
+- Add smart charging (may not work yet
+- Add fps path (may not work yet)
+- Change Camera Go by GOOGLE LLC
+
+•Known Bug
+- Smartcharging not working
+- FPSinfo not working
+
+• Notes :
+- Available in GAPPS and VANILLA build
+- Big Thanks to Grewal for dt & commit
+- Yincen for helping
