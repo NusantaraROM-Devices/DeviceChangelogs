@@ -1,5 +1,16 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 28/05/2021
+
+• Device Changelogs :
+
+- Prebuilts GcamGo
+- Enabled Zram writeback job
+- Tune Zram performance
+- Disable VSync for CPU rendered apps
+- Improved RAM management
+- Switched to AOSP BT
+
 Date : 24/04/2021
 
 • Device Changelogs :
