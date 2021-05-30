@@ -1,5 +1,93 @@
 |==========| Redmi 7 / Onclite |==========|
 
+Date : 30/05/2021
+
+• Device Changelogs:
+
+- Fixed night light
+- Switched to new device sources
+- Switched to stock kernel
+- Added F2FS file system support
+- Shipped with Google Camera Go with Night Mode + AUX Camera (2nd back camera) switching support
+- Specify permissions for Google Camera Go app
+- Include prebuilt ARM64 libraries of Google Camera Go
+- Copy android.hardware.camera.full and android.hardware.camera.raw from fw/av
+- Import XML camera configuration files from stock
+- Import display calibration data files from stock
+- Import props from display calibration data files from stock
+- Import SVI Config xml from stock
+- Enable USB debugging at first boot
+- Exclude CarrierConfig overlays from RRO's
+- Show correct device and model name as per boot cert
+- Add Chinese variants of Redmi 7 to list
+- Set dalvik-heap configurations based on RAM variant
+- Enable config_avoidGfxAccel in overlay
+- Enable smart charging and add nodes with permissions + add sepolicy rule
+- Enable Battery Health and add sepolicy rule
+- Add overlay for QS System Info
+- Use same CPU temp node as per all other kernel managers
+- Add FPS Info path, set permissions + add sepolicy rule
+- Add nodes to hide Magisk in banking apps
+- Enable BPF kernel support
+- Make the UI smoother
+- Avoid and don't show vendor missmatch message
+- Ignore the RSSNR level and inflate signal strength
+- Set Wi-Fi interface to wlan0
+- Restore better load balancing on boot
+- Avoid drain issue from msm_irqbalance
+- Adjust cpubw bwmon values
+- Force background tasks on little cores
+- Update mobile TCP buffers
+- Improve scrolling responsiveness
+- Add required GPU props
+- Localise NTP to improve GPS TTFF
+- Reduce LOWI debug level
+- Disable Wi-Fi RX Wakelock feature
+- Configure SQLite to operate in MEMORY mode
+- Force triple frame buffers
+- Enable Zygote Preforking usage
+- Turn on GPU protected composition
+- Kang walleye offsets for GPU composition
+- Add energy-awareness service
+- Update system properties to refined early phase offsets
+- Import some props from coral to fixes related issues
+- Disable VSync for CPU rendered apps
+- Enable persist.radio.aosp_usr_pref_sel
+- Switch media codecs and profiles from CAF of MSM8953
+- Specify XML media settings path as per stock
+- Copy media_codecs_google_video_le from fw/av
+- Increase the Audio output a bit
+- Filter and remap display modes
+- Set config_multiColorBatteryLed to false
+- Copy additional permissions which is available in stock
+- Disable wallpaper zoom out
+- Disable config_cleanupUnusedFingerprints
+- Overwrite Bluetooth operating voltage to 3.7V
+- Compile HWUI for better performance
+- Enable config_sustainedPerformanceModeSupported
+- Enable AOD (Always On Display) support
+- Disable always on display by default
+- Define slow and fast charging threshold
+- Import some props from MIUI V12.0.1.0 QFLCNXM
+
+• Notes :
+
+- Vanilla release, GApps not include
+- Recommended to use FlameGApps with basic variant
+- CTS/SafetyNet dead. Use MagiskHide Props Config (Magisk Module, use Magisk v23)
+  Select and use Google Pixel 4 XL fingerprint for fixes CTS/SafetyNet
+- Clean flash needed for this release
+- Clear Play Store data & cache, and reboot if Netflix not showing after use Pixel 4 XL fingerprint
+
+
+
+
+
+
+
+
+|==========| Redmi 7 / Onclite |==========|
+
 Date : 22/03/2021
 
 • Device Changelogs
