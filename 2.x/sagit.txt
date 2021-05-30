@@ -3,6 +3,27 @@
 Date : 14/04/2021
 
 • Device Changelogs :
+    - Sync Last Source Reog
+    - May 2021 ASB Security Patch
+    - Upstremed Kernel 4.4.268
+    - Drop NADPapers 
+    - Enable incall music property
+    - Add rounded corner radius
+    - Add lights hal interface specification
+    - Misc. Fixes and Improvements
+
+• Credits :
+    - Thx to sbwml for tree
+    - Thx for all sagit dev.
+
+• Notes :
+    - Thx to deny2311 & Finggerscrossbed for everything
+
+|===================================|
+
+Date : 14/04/2021
+
+• Device Changelogs :
     - Sync Last Source Regentsweg
     - April 2021 ASB Security Patch
     - Upstremed Kernel 4.4.266
