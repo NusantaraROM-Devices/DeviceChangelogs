@@ -1,7 +1,19 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
 
+Date : 01/06/2021
+
+•Device changelog:
+- Stormbreaker V2 included
+- Boots in sweetin as well
+- Misc improves 
+- Boost performance
+- CTS passes by default
+- smartcharging (remove)
+- FPSinfo (remove)
+
 Date : 26/05/2021
+
 • Device Changelogs
 - Includes fix for chipmunk like audio during in game voice chat in games such as Mobile Legends
 - Update to redfin May fp
