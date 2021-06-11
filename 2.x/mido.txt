@@ -1,17 +1,21 @@
 |==========| Xiaomi Redmi Note 4x / Mido |==========|
 
-Date : 19/05/2021
+Date : 12/06/2021
 
 • Device Changelogs :
-- Disable IORap & cgfreezer
-- Merged Latest Zeelog Changes
-- Switch to CAF Performance HAL 
-- Switch to CFQ I/O Scheduler
-- Import blkio tuning from crosshatch 
-- Kang Dalvik Configuration for Android 11
-- Tune ZRAM Performance
-- Use in-process APK for network stack and tethering
+- Remove Powerstats from power-libperfmgr 
+- Optimized Dex Flags for boot improvement
+- Bringback Old Carrier config options on SIM Settings
+- Import media codec from CAF
+- Enable zram-writeback
+- Remove Android GO Configuration
+- Fixed FPS info denials 
+- Revert some tweak for heating issue
+- Back to Taimen Performance Stack 
+- Optimize native executables for Cortex-A53 CPU
+- Correct GBoard Spacing issue 
+- Other Improvement that i can't tell
 
 • Notes : 
-- Included GApps now, cause custom ones too much giving issue
-- Switch to Permissive if there's some strange issue
+- Build now have 2 variant GApps and Non-GApps 
+- Safetynet passed with Rooted (Hide Magisk)
