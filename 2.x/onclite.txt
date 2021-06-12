@@ -1,4 +1,42 @@
 |=========| Redmi 7 / Onclite |==========|
+Date : 11/06/2021
+
+• Device Changelogs 
+
+• Update blobs from daisy-user 10 QKQ1.191002.002.V11.0.19.0.QDLMIXM V11.0.19.0.QDLMIXM release-keys
+• Bump Vendor Security Patch Level to 2021-05-01 as per daisy changes (V11.0.19.0.QDLMIXM)
+• Add 3.0 and 4.0 IMapper instance to manifest
+• Remove duplicate Tethering configs
+• Match main and lockscreen status bar padding as per stock
+• Increase status padding for Notifications and QS panel
+• Compile HWUI for better performance
+• Enable config_sustainedPerformanceModeSupported
+• Set Flatten APEX depends with source side
+• Move CarrierConfig to RRO's
+• Import some props from MIUI V12.0.1.0 QFLCNXM
+• Enable Blur by default
+
+
+• Notes :
+
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps with basic variant
+• Clean Flash if you're new user
+• Dirty Flash if you come from previous release
+• CTS/SafetyNet passed without root
+• Banking apps working
+
+
+
+
+
+
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
 Date : 24/05/2021
 
 • Device Changelogs 
