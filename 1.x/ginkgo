@@ -1,5 +1,36 @@
 |==========| Redmi Note 8/8T Ginkgo/Willow |==========|
 
+Date : 11/06/2021
+
+Device Changelogs :
+• Add permissions for RCS service
+• Adjust keyboard height
+• Boost audio output
+• Fixed Hotspot 5Ghz selection
+• Cleanup rootdir
+• Configure SQLite to operate in MEMORY mode
+• Enable burn in protection
+• Enable zram writeback
+• Enable zram writeback job scheduler
+• Force triple frame buffers
+• Import gpio-keys.kl from miui V12.0.5.0
+• Set zram to 2GB
+• Switch to power modes extension for battery saver
+• Tune Zram Performance
+• Update Camera chromatix OV8856 from miui V11.0.12.0
+• Update GPS configs from ginkgo miui V12.0.5.0
+• Update GPS HAL from tag 'LA.UM.8.11.r1-05200-NICOBAR.0'
+• Update NFC blobs from willow V12.0.3.0.QCXEUXM
+• Update wifi configs from ginkgo miui V12.0.5.0
+• Many more improvement that i cant tell
+
+Notes :
+• Dirty flash wont hurt
+
+Credits :
+• Genkzsz11
+• ghostrider-reborn
+
 Date : 29/05/2021
 
 Device Changelogs :
