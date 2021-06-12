@@ -1,5 +1,40 @@
 |==========| Redmi Note 8/8T Ginkgo/Willow |==========|
 
+Date : 29/05/2021
+
+Device Changelogs :
+• Allow all apps to use smart replies
+• CTS Passed out of the box
+• Drop AlwaysOnDisplay support
+• Set default Bluetooth device name
+• Switch to fixed-size 2GB zram
+• Fixed KCAL on first boot
+• Use headphone icon for dirac QS tile
+• Implement vibration strength control on parts
+• Remove redundant 2k and qhd profiles
+• Replace config_wifi_dual_band_support
+• Update CarrierConfig overlay from CAF
+• GPS: Increase batch size to max and lower debug level
+• Lower little cluster min freq to 864Mhz
+• Turn on support of multiple vibration intensities
+• Unify back gesture vibration with system wide haptics
+• Reduce minimum screen brightness
+• Reduce rounded corner content padding
+• Massively lower LCD thermal throttling
+• Merge tag v4.14.233 & 05200-NICOBAR.0 on kernel
+• NotchCutOut smoothen and improvement
+• Start bootanimation on post-fs
+• Update auto brightness configuration from stock
+• Update blobs from ginkgo MIUI v12.0.5.0.QCOMIXM
+• Many improvements under hood..
+
+Notes :
+• Clean flash are mandatory
+• For Ginkgo user recommended to flash v12.0.5.0.QCOMIXM firmware
+
+Credit :
+• ghostrider_reborn, Genkzsz11
+
 Date : 21/05/2021
 
 Device Changelogs :
