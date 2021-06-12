@@ -1,5 +1,16 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 12/06/2021
+Changelog :
+• Fixup R_submix module path
+• Disabled AOD by default
+
+Notes :
+• For installation guide join to https://t.me/nusantararmx1851
+
+Credits :
+• SamarV-121 for tree
+
 Date : 28/05/2021
 
 • Device Changelogs :
@@ -26,10 +37,3 @@ Date : 24/03/2021
 
 - Fixed video playback issue
 - Misc improvement
-
-• Notes :
-- For installation guide join to https://t.me/nusantararmx1851
-
-• Credit :
-- Thanks to all who tested this build
-- SamarV-121 for tree
