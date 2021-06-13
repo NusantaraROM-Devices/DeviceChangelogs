@@ -1,6 +1,17 @@
 |==========| OnePlus 6/Enchilada |==========|
 Change Log:
 
+Date : 13/06/2021
+• Bumped up Kernel to Illusion 4.9.267
+• Kernel Compiled with Lates Clang
+• Updated Netflix Custom Property
+• Clean up Smart Charging Useless Overlays
+• Triggered proximity during Doze
+• Local OP Feature implementation 
+• Implementation OnePlus fwk
+• Added Fingerprint / FOD pre-enrolment images
+• Addition of Stock ARCore
+
 Date : 30/04/2021
 
 • Synced Latest Source as of 30/04/2021
