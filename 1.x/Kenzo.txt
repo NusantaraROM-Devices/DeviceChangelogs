@@ -1,5 +1,19 @@
 |==========| Redmi Note 3 Pro/SE / Kenzo |==========|
 
+
+Date : 14/06/2021
+
+• Revert keystore blobs to Xperia X
+
+* Notes :
+• Still based on same device tree as before, not the newer ones
+• Clean flash & format data is needed, else you will facing lockscreen bug
+• Still wants GcamGO? Download and install as usual from here : https://bit.ly/3eZX2tv
+
+
+
+|========================================================|
+
 Date : 21/03/2021
 
 - Added Bass Booster preset on Dirac
