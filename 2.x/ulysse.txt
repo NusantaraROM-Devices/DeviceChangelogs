@@ -1,5 +1,22 @@
 |==========| Redmi Note 5A Prime/Lite - ulysse |==========|
 
+Date : 13/06/2021
+
+Changelog :
+• Switch to source built vendor.qti.hardware.perf@2.0
+• Import perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
+• Update perf configs from Nokia/DPL_sprout:11
+• Fix many denials
+• Fix offline charging leds
+• Set slow and fast charging threshold
+• Increase overlay priority
+
+Notes :
+• Vanilla build, download your favorite GApps
+
+Credits :
+• All contributors, Gabuters Team, adislice, tester and you!
+
 Date : 22/03/2021
 
 Changelog :
@@ -7,7 +24,3 @@ Changelog :
 • Switched to mi8937 kernel.
 • Update to march redfin fp
 • and some minor changes
-
-Notes :
-• Vanilla build
-• FlameGapps won't boot, flash Nikgapps/BitGapps instead.
