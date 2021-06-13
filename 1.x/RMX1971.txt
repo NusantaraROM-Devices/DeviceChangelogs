@@ -1,5 +1,27 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 12/06/2021
+
+Device Changelogs :
+• sync with latest source
+
+
+Bug ?
+• cts false
+• tell me
+
+Notes :
+• Vanilla Build
+
+Credits 
+• Thanks To @bablus for trees
+• and thanks @Jetto_chi for test.
+
+
+
+
+====== Older ChangeLog ======
+
 Date : 01/04/2021
 
 • Device Changelogs :
@@ -19,7 +41,7 @@ Date : 01/04/2021
 
 
 
-====== Older ChangeLog ======
+|==========| Realme 5 Pro/ RMX1971 |==========|
 
 Date : 13/01/2021
 
