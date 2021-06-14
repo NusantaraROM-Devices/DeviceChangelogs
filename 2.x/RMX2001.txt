@@ -1,5 +1,30 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 14/06/2021
+
+Device Changelogs :
+• Latest Sources, SecPatch (5 June 2021)
+• Build inc. NusantaraPapers
+• Adjust padding statusbar overlay
+• Fix missing info proc. on settings
+• RealmeParts: Cleanup & Fix tint color icon
+
+Notes :
+• Build Vanilla & GApps
+• Only Vanilla Build hv. Engineer Mode
+• For Vanilla Build Use FlameGApps Basic (Recommended)
+
+Known Bug :
+• Night Light (Fliker)
+
+Credit :
+• Thanks to all R6 devs
+• @SamarV121 for the trees
+• @Sledri for testing & report bugs
+• @ManshuTyagi @Rafiester @HLGN1932 for help
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 18/05/2021
 
 • Device Changelogs :
