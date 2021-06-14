@@ -1,4 +1,26 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
+                           14/06/2021
+
+Device Changelogs :
+• Latest Sources, SecPatch (5 June 2021)
+• Build inc. NusantaraPapers
+• Update build fingerprint from Redfin
+• Fix Fps info
+• switch to 4.14.235 QuantumKiller-N
+
+Notes :
+• Build Vanilla & GApps
+• For Vanilla Build Use NikGapps Omni (Recommended)
+• Use Magisk v23 for root
+• Non CFW build
+
+Credits :
+Tq to all tester and member Begonia
+Tq GengKapak for help
+Tq @ZyCromerZ for kernel
+
+
+|==================| Redmi Note8 Pro/Begonia |==================|
                         17/05/2021
 
 Device Changelog Nad A11:
