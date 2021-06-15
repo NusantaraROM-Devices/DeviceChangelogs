@@ -4,7 +4,7 @@ Date : 15/06/2021
 
 Device Changelogs :
 • Sync Nusantara 3.0 Rotterdam
-• Using Etherious Kernel 2.1 (Compile with latest Proton Clang)
+• Using MOCHI Kernel (Compile with latest Proton Clang)
 • Import props from CAF Display HAL
 • Increase call volume steps
 • Add prebuilt GoogleCameraGo
