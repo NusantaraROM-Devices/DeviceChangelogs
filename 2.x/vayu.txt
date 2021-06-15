@@ -1,5 +1,23 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
+Date : 15/06/2021
+
+Device Changelogs :
+• Sync Nusantara 3.0 Rotterdam
+• Using Etherious Kernel 2.1 (Compile with latest Proton Clang)
+• Import props from CAF Display HAL
+• Increase call volume steps
+• Add prebuilt GoogleCameraGo
+• Improved audio
+
+Notes:
+• SELinux status is Enforcing
+• SafetyNet passes out of the box
+• GApps Already Included
+• Recommended Firmware: Stock 12.0.6.0, 12.5.1.0
+
+|=============================================|
+
 Date : 18/05/2021
 
 • Device Changelogs :
@@ -13,5 +31,6 @@ Date : 18/05/2021
 
 • Credit:
 - Thanks to @kubersharma, @LuckyVii for tree
+- Thanks to @xawlw for kernel
 - Thanks to @Riel77, @Riel77, @Riel77, @Naagaayoo, and All Tester that i cant mention
  
