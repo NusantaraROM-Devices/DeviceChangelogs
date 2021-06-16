@@ -1,5 +1,29 @@
 |==========| Redmi 9 / Poco M2 Unified (Lava) |==========|
 
+Date : 16/06/2021
+
+Changelog :
+• Synced with latest sources
+• Using June Redfin FP (CTS passed by default)
+• Using GoogleCamera Go
+• Force triple frame buffers
+• Reduced screenshot delay
+• Compiled HWUI for better performance
+• Make UI smoother
+• Kernel upstreamed to 4.14.236
+
+Known Bug :
+• Offline charging
+• DT2W
+
+Notes :
+• Only for MIUI 12.0.1 vendor
+• First boot is bootloop, force reboot to fix it
+• Vanilla and Gapps build (Recommended using NikGapps or MindTheGapps for Vanilla build)
+
+
+|==========| Redmi 9 / Poco M2 Unified (Lava) |==========|
+
 Date : 27/05/2021
 
 Changelog :
@@ -21,7 +45,7 @@ Notes :
 
 |==========| Redmi 9 / Poco M2 Unified (Lava) |==========|
 
-Date : 17/05/2021
+Date : 17/04/2021
 
 Changelog :
 • Initial official build
@@ -34,7 +58,7 @@ Known Bug :
 Notes :
 • Only for MIUI 12.0.1 vendor
 • First boot is bootloop, force reboot to fix it
-• Vanilla build
+• Gapps build
 
 Thanks to :
 • ZycromerZ (for kernel)
