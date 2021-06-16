@@ -1,5 +1,40 @@
 |==========| Redmi 7 / Onclite |==========|
 
+Date : 16/06/2021
+
+• Device Changelogs:
+
+• Fixed CTS/SafetyNet, now passed without root
+• Update blobs from daisy-user 10 QKQ1.191002.002.V11.0.19.0.QDLMIXM V11.0.19.0.QDLMIXM release-keys
+• Bump Vendor Security Patch Level to 2021-05-01 as per daisy changes (V11.0.19.0.QDLMIXM)
+• Match main and lockscreen status bar padding as per stock
+• Increase padding for Notifications and QS panel
+• Set GPU as default debug composition type
+• Enable EGL HW Rendering
+• Implement MagiskHide into vendor init
+• Override build properties from vendor init
+• Use build properties from Redfin (RQ3A.210605.005) release
+• Include Redfin properties in makefile build
+• Update nodes for Battery Health
+• Address Battery Health SEPolicy denials
+
+• Notes:
+
+• Clean Flash mandatory
+• Vanilla release
+• Recomennded to use FlameGApps basic
+• Banking apps working
+
+
+
+
+
+
+
+
+
+|==========| Redmi 7 / Onclite |==========|
+
 Date : 30/05/2021
 
 • Device Changelogs:
