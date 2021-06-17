@@ -1,6 +1,21 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
 
+Date : 17/06/2021
+
+•Device changelog:
+- Changed Device Name to Redmi Note 10 Pro / Max (i.e. BT Name, Hotspot Name,etc. Will Show correctly after a clean flash)
+- ANXCamera is fully supported
+- Disabled Use of Proximity While Dozing
+- Disabled BT Absolute volume
+- More Random stuff
+- Improved performance
+- Cleaned up SafetyNet hax
+
+• Credits:
+• @grewal for commit
+• @BolaAlex & @Yincen for helping
+
 Date : 01/06/2021
 
 •Device changelog:
