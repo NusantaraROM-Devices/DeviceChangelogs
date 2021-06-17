@@ -1,125 +1,16 @@
 |==========| Redmi Note 5 / Whyred |==========|
 
-Date : 15/04/2021
+Date : 17/06/2021
 
 • Device Changelogs :
-- Upstream Extended EAS to 4.4.268
-- Remapped livedisplay color profile values to easier one to understand
-- Removed redundant configuration that might reduce device performance
-- Fixed users can't install Riru magisk module
+• Upstream Extended EAS kernel to 4.4.270
+• Added blu_schedutil governor
+• Replaced Retro Music with Snapdragon Music 
+
 
 • Notes :
- - OldCam build
- - Turn off image stabilization on video recording settings if you can't record video or facing camera error on video mode.
- - Yes, I know about the square camera mode bug, but since A10 already entering LTS, so I might be fixing it later
+• OldCam build
+• Turn off image stabilization on video recording settings if you can't record video or facing camera error on video mode.
+• Yes, I know about the square camera mode bug, but since A10 already entering LTS, so I might be fixing it later
    since my focus is to A11 fully.
- - Use only magisk v23 else you got API error on safetynet check
-
-
-
-
-|=============================================|
-
-Date : 15/04/2021
-
-• Device Changelogs :
-- Fixed device not charging problem with stock kernel on vanilla variant on last build
-- Enabled image stabilization option on miui camera recording settings
-- Shipped with Extended EAS 4.4.264
-
-
-• Notes :
- - OldCam build
- - Turn off image stabilization on video recording settings if you can't record video.
- - Yes, I know about the square camera mode bug, but since A10 already entering LTS, so I might be fixing it later
-   since my focus is to A11 fully.
-
-
-
-
-
-|=============================================|
-
-
-Date : 23/03/2021
-
-• Device Changelogs :
-- Added CPU temperature on CPU info tiles
-- Now FPS Info QS tile is working (the ones that integrated to the rom, not nusantara parts)
-- More SEPolicy rules is added & fixed
-- More system performance optimalization
-- Shipped with Extended 4.4.261 for vanilla version, and 4.4.262 on Gapps version (because while queuing for building
-  Gapps version, there's an update for Extended 4.4.262)
-
-• Notes :
- - OldCam build
- - Based on the poll about which variant do the user need, I decide to build the vanilla version again. 
-
-|=============================================|
-
-
-Date : 15/02/2021
-
-• Device Changelogs :
-- Enabled back LiveDisplay option
-- Fixed custom always on option is not available in the ambient display option
-- Fixed choppy video playback in certain codec
-- Fixed power off charging animation not displaying in last build
-- Fixed Smartcharging causing cannot charging problems until restart or disable in last build
-- Move fps info numbers into left side
-- Move Dirac from Nusantaraparts into sounds settings 
-- More rules is added and fixed in SEPolicy
-- Enable VoLTE for more ISP
-- Removed BeatPlayer as the UI isn't yet adaptable to certain display size
-- Shipped with Mystic Kernel by default, thanks to @okta_10
-- Shipped Retro Music as replacement for BeatPlayer
-- Tune NusantaraParts Kcal limitation for tianma display
-
-• Notes :
- - OldCam build
- - Clean flash is mandatory
- - Play using vlc or mx player with hw+ encoder if you still find the video playback still a little bit laggy
- - Only Gapps version is gonna be released from now
-
-Indonesia ver :
- - Build Oldcam
- - Wajib clean flash yaaa
- - Kalau merasa videonya rada patah-patah, coba setel pakai mx player dengan settingan hw+ atau vlc
- - Udah bawaan gapps, dan kedepan hanya versi gapps aja yang rilis
- - Masih tanya di grup soal include gapps atau bisa dirty flash dari EOL? smh. 
-
-|=============================================|
-
-
-Date : 13/01/2021
-
-• Device Changelogs :
- - Synced with latest source changes
- - Moar Sepolicy denials fix
- - Updated buils fingerprint to Redfin January 2021
- - Some improvements under hood
-
-• Notes :
- - Clean flash always recommended, although dirty update should works also, just make sure to clear cache after that. 
- - Recommended to use NikGapps or FlameGapps as always, don't use any gapps that has package installer like opengapps. 
- - Just reflash gapps/magisk if you're facing playstore, play service fc, or magisk is missing after dirty upgrade
- - OldCam build
-
-
-|=============================================|
-
-
-Date : 17/12/2020
-
-• Device Changelogs :
- - Synced with latest source changes
- - Fixed some apps being not compatible on playstore
- - Fixed deepsleep problem when bluetooth turned on
- - Updated buils fingerprint to Coral dec 2020
- - Update Extended EAS kernel 4.4.238
- - Some improvements under hood
-
-• Notes :
- - Clean flash always recommended xD
- - Recommended to use NikGapps or FlameGapps as always
- - OldCam build
+• Use only magisk v23 else you got API error on safetynet check
