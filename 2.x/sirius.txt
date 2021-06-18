@@ -1,21 +1,12 @@
 |==========| MI 8 SE / Sirius |==========|
 
-Date : 19/2/2021
+Date : 18/06/2021
 
-• Device Changelogs :
-- Built-in ANXCamera w/ full feature (THERE WE COME~)
-- Update FP to latest Redfin
-- Ship NusantaraParts
-- Switch to source built vendor.qti.hardware.perf@2.0
-- Address SELinux denals
-- Include VINTF fragment
-- Enable iWlan legacy mode
-- Many more underhood changes
-
-• Kernel : 
-- Compile w/ Proton Clang
+• Changelogs :
+- Sync to latest Nad source
+- Fix RIL issue
+- Fix random reboot issue
+- Built-in firmware
 - Upstream to latest ALS
-- Upstream to latest CAF
-
-• Notes :
-- Vanilla only for this update
+- Update FP to latest Redfin
+- And many other minor changes that tbh I'm too lazy to mention one by one
