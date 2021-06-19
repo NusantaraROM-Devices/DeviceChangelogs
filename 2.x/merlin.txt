@@ -1,0 +1,22 @@
+|==========| Redmi Note 9 / Merlin |==========|
+
+
+Date : 19/06/2021
+
+Device Changelog : 
+• Synced with latest sources
+• Compile HWUI For Better Performance
+• Configure SQLite To Operate In MEMORY Mode
+• Force Triple Frame Buffers
+• Enable Pre-Rendering
+• Disable Nearby Discovery And Nearby Messages Service
+• Make UI smoother
+
+Known Bug :
+• Offline charging
+
+Credits :
+Thanks to all tester and member Merlin
+Thanks GengKapak for help
+Thanks @ZyCromerZ for kernel
+Thanks to Redmi MT6768 Team
