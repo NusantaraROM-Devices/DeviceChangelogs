@@ -11,6 +11,7 @@ Date : 19/06/2021 | 3.0 Rotterdam
 • Reimplement T-Engine thermal config
 • Replaced Retro Music with Snapdragon Music 
 • Fixed Carrier Video Calling (Works for jio to jio only) (Need more test)
+• Added back SIM Toolkit
 
 • Notes :
 • Old cam build.
