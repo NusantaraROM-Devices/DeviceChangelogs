@@ -1,15 +1,12 @@
 |=========| Redmi 4A, 5A / Rova |==========|
-Date : 20/05/2021
+Date : 19/06/2021
 
 • Device Changelogs 
 
-- Fix log spam
-- Add Android 11 camera API
-- Build AOSP Charge Images
-- Upstreamed kernel to 4.9.268
-- Improvement on tree
+- Hide Magisk Better
+- Update fp redfi to june
+- Use kernel mi-msm8937
 
 • Credits
-- Big Thanks To @Thagoo for trees
-- Thanks to @KangMamles for helping improve kernel
+- Big Thanks To @Thagoo for trees and @me_cafebabe for kernel tree
 - And all tester
