@@ -1,232 +1,25 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 17/05/2021 | 2.9 Reog
+Date : 19/06/2021 | 3.0 Rotterdam
 
 • Device Changelogs :
-* Remapped livedisplay color profile values to easier one to understand
-* Increase handset speaker and mic volume as on MIUI
-* Fixed Users can't install Riru magisk module
-* Fixed back gesture vibration doesn't vibrate
-* Switch back to QTI Bluetooth
-* Update WFD blobs from LG G7 One 11/RKQ1.201123.002, WFD should be easier to connect now
-* Removed redundant sepolicy rules
-* Removed redundant configuration that can reduce device performance
-* Upstream extended eas kernel to 4.4.268
-* Set zRam configuration to use 50% of the RAM size
-* Removed unused libraries file from vendor
-* Convert MiuiCamera icon to adaptive type
-
-• Known Bug
-- Carrier video calling
-- More?
+• Disable hmp scheduler on boot
+• Added blu_schedutil governor 
+• Improved GPS Time to First Fix 
+• Boost top-app schedtune values to 10
+• Upstream Extended EAS kernel to 4.4.270
+• Reimplement T-Engine thermal config
+• Replaced Retro Music with Snapdragon Music 
+• Fixed Carrier Video Calling (Works for jio to jio only) (Need more test)
 
 • Notes :
-- Old cam build.
-- Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
-- Use only magisk 23.0 and upward if available, else you will get safetynet API error message.
-- WFD might be difficult to connect with certain kernel.
-- Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording or to improve system animation fluidness.
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
-- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
-- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
-- If you still want t-engine config, then download it from https://bit.ly/3g812J0 and install it over magisk.
-- LDAC codec is not working on QTI Bluetooth because hardware limitation
-
-
-
-
-|=============================================|
-
-
-Date : 13/04/2021 | 2.8 Regentsweg
-
-• Device Changelogs :
-- Livedisplay is enabled in this build.
-- Fixed not charging problem with stock kernel over last build.
-- Wi-Fi always prefer to connect to 5 Ghz first instead 2.4 Ghz if it available.
-- Upstreamed Extended EAS kernel to 4.4.264.
-- Resolved some property access denial over last build.
-- Replace T-Engine thermal config with Wayne thermal to reduce phone heat over last build.
-
-• Known Bug
-- Carrier video calling
-- More?
-
-• Notes :
-- Old cam build.
-- Clean flash is recommended because there's an upgrade to the face unlock and app lock, else it might be doing weird.
-- Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
-- Use Magisk 21.4 and above only.
-- WFD might be difficult to connect with some combination of custom gapps/kernel.
-- Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording or to improve system animation fluidness.
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
-- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
-- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
-- If you still want t-engine config, then download it from https://bit.ly/3g812J0 and install it over magisk.
-
-
-
-
-
-|=============================================|
-
-
-Date : 24/03/2021 | 2.7 Regentsweg
-
-• Device Changelogs :
-- More SEPolicy denials resolving
-- Improve EAS system for R
-- Improve RAM management
-- Improve UI rendering
-- Ships with Extended 4.4.261
-- Enabled built-in FPS info
-- Clean up some unneeded things 
-
-• Known Bug
-- Carrier video calling
-- More?
-
-• Notes :
-- Old cam build.
-- Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
-- Use Magisk 21.4 and above only.
-- Change the kernel into Extended v71 if you got charging problem (like stuck on 75% even you didn't using smartcharge feature)
-- Turn off reset battery statics on smartcharging page for now to prevent rebooting problem while using smartcharging feature
-- WFD might be difficult to connect with some combination of custom gapps/kernel
-- Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
-- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
-- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
-
-
-
-
-
-
-|=============================================|
-
-
-Date : 16/02/2021 | 2.6 RoemRoijen
-
-• Device Changelogs :
-- Disable blur by default, can be enabled manually from display settings 
-- Fixed certain apps force close after some time continuously usage
-- Fixed Miracast Wireless Display
-- Fixed some issues with ok google detection
-- Fixed wifi can't be turned on after rebooted while in airplane mode
-- Reduce touch latency from last build
-- More rules is added and fixed in SEPolicy
-- Enable VoLTE for more ISP
-- Removed BeatPlayer as the UI isn't yet adaptable to certain display size
-- Shipped with Mystic Kernel by default, thanks to @okta_10
-- Shipped Retro Music as replacement for BeatPlayer
-- Tune NusantaraParts Kcal limitation for tianma display
-
-• Known Bug
-- Carrier video calling
-- More?
-
-• Notes :
-- Old cam build.
-- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp.
-- Use Magisk 21.0 and above only.
-- WFD might be difficult to connect in certain condition
-- Make sure to turn off blur to reduce jitter while recording in status bar content
-- If you meet certain application not responding after rebooting, just ignore it.
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
-- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
-- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher instead if you want.
-
-
-|=============================================|
-
-Date : 17/01/2021
-
-• Device Changelogs :
-- Add memory usage info at per-app
-- Moar sepolicy denial fixup
-- Moar spam log reduction to save up battery and device performances
-- Move FPS Info to the left side
-- Fixed poweroff alarm
-- Fixed some apps sometimes not responding
-- Trim out uneeded permission
-- And more device side optimization.
-
-• Known Bug
-- Carrier video calling
-- Miracast wireless display (sometimes works, sometimes doesn't)
-- More?
-
-• Notes :
-- Old cam build.
-- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp.
-- Use Magisk 21.0 and above only.
-- Change kernel to reduce lag while screen recording, or use the beta ones : http://bit.ly/Extended-neweasmodel
-- Make sure to use gapps that doesn't override built-in clock, or if it has some configuration, make sure to not install the Google ones.
-- If you're accidentaly remove the prebuilt clock by using gapps which has Google ones, or maybe you're installing the rom gapps variant, please install this as normal app :
-  http://bit.ly/offlinealarmnad
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
-- Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
-- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher instead if you want.
-- Thanks to Orges for some build suggestions, and all who testing the broken build.
-
-
-
-|=============================================|
-
-Date : 24/12/2020 - Hotfix
-
-• Device Changelogs :
-- Drop persistent_reconnect, should fixed random wifi disconnection
-- Fixed Bluetooth can't turned on on enforcing selinux
-
-• Known Bug
-- Carrier video calling
-- Miracast wireless display
-- More?
-
-• Notes :
-- Old cam build
-- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp
-- Use Magisk 21.0 and above only
-- Change kernel to reduce lag while screen recording
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik
-- Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher instead if you want
-- Thanks to Genkzsz for deepsleep fix suggestion, and all who testing the broken build.
-
-
-
-|=============================================|
-
-Date : 22/12/2020
-
-• Device Changelogs :
-- Extended Kernel upstreamed to 4.4.248
-- Fixed deepsleep
-- Fixed safetynet / cts by default now
-- Fixed some apps wouldn't showing on playstore
-- Fixed some selinux denial
-- Selinux enforcing by default now
-- Tweaked lmk configuration
-- Update device build fingerprint to Redfin December
-- Update Graphics and Vulkan blobs for R
-
-• Known Bug
-- Carrier video calling
-- Miracast wireless display
-- More?
-
-• Notes :
-- Old cam build
-- Use OrangeFox Recovery 10.1_3 or latest Pitchblack/Twrp
-- Use Magisk 21.0 and above only
-- If you are install magisk, don't forget to turn on magiskhide to make safetynet passed
-- For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik
-- Don't install Nikgapps pixel launcher for now as it causing black screen, just install Flame Pixel Launcher instead if you want
-- Thanks to Genkzsz for deepsleep fix suggestion, and all who testing the broken build.
+• Old cam build.
+• Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
+• Use only magisk 23.0 and upward if available, else you will get safetynet API error message.
+• WFD might be difficult to connect with certain kernel.
+• Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording or to improve system animation fluidness.
+• If you are install magisk, don't forget to turn on magiskhide to make safetynet passed.
+• For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+• Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+• Don't install Nikgapps pixel launcher addons for now as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module instead if you want.
+• LDAC codec is not working on QTI Bluetooth because hardware limitation
