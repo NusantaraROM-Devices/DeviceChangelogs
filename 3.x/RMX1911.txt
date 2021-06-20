@@ -1,0 +1,20 @@
+|==========| Realme 5 / RMX1911 |==========|
+
+Date : 20/06/2021 | 3.0 Rotterdam
+
+• Device Changelogs :
+- Switch to OSS vendor builds based on RealmeUI Firmware
+- Shipped with SilonT-Sayu 4.14.237 kernel
+- Fixed Double tap to wake
+- Fixed Offline Charger
+- And more
+
+• Known Bug
+- Wi-Fi Display sometimes working
+
+• Notes :
+- Permissive SeLinux
+- Only Vanilla available
+- Flash latest realmeui firmware before flashing rom
+
+• Thanks To R5 Lab Group
