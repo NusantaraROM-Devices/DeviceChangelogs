@@ -38,7 +38,7 @@ Date : 23/05/2021
 - Gapps Variant
 
 
-Date : 19/06/2021
+Date : 20/06/2021
 
 • Device Changelog
 - Sync with latest 3.0 | Rotterdam Source
@@ -57,5 +57,5 @@ Date : 19/06/2021
 Variant : Vanilla | GApps
 
 Note :
-- NikGapps (Canary) basic recommended for Vanilla
+- NikGapps basic recommended for Vanilla
 
