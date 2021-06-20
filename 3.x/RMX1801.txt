@@ -1,0 +1,12 @@
+|==========| Realme 2 Pro / RMX1801|==========|
+
+Date : 18/06/2021 | 3.0 Rotterdam
+• Device Changelogs
+- Upstreamed kernel to 4.4.273
+- Adjust notch
+- Configure dex2oat
+- And more
+
+• Notes :
+- Only Available in Vanilla build
+- Big Thanks to ShubhamB for initial trees
