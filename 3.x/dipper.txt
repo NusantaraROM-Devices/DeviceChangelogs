@@ -1,0 +1,22 @@
+------ Date : 20/06/2021 | Rotterdam 3.0 ------
+
+• Device Changelog
+
+- Sync with latest 3.0 | Rotterdam Source
+- Merged Security Patch June 2021
+- Update fingerprint Redfin to June 2021
+- Update blobs from V12.0.4.0 QEACNXM
+- Switch default kernel to 4.9.268~Delta
+- Add back Battery Health
+- Add Mi Sound QS Tile
+- Add Thermal Profiles QS Tile
+- Increase Mic Gain
+- Tune ZRAM Performance
+- Switch to AOSP Offline Charging
+- Many others Improvs
+
+Variant : Vanilla | GApps
+
+Note :
+- NikGapps basic recommended for Vanilla
+- Clean Flash recommended
