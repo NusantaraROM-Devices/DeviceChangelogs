@@ -1,0 +1,14 @@
+------ Date : 21/06/2021 | Rotterdam 3.0 ------
+
+• Device Changelog
+
+- Sync with latest 3.0 | Rotterdam Source
+- Merged Security Patch June 2021
+- Update fingerprint Redfin to June 2021
+- Tune ZRAM Performance
+- Many others Improvs
+
+Variant : Vanilla | GApps
+
+Note :
+- Clean Flash recommended
