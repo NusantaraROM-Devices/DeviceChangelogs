@@ -1,0 +1,86 @@
+|==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
+
+
+Date : 21/06/2021
+Changelog :
+
+• switch back to 4.19.x-lolla
+• Fixed AAC and aptX thanks to @dobsgw.
+• Fixed wakelocks not suspending (what u guys call smp2p), thanks to @Ayrton990.
+• Fixed echo issue in VoIP speaker call in whatsapp.
+• using redfin fp on init
+• Selinux Enforcing
+• Firmware use Global V12.1.2.0.RJDMIXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Notes :
+• GApps & vanilla
+• use safetynet module to pass CTS test.
+
+Bugs:
+• prebuilt screenrecord crash, use 3rd party apps.
+
+Credits :
+• Allah SWT
+• @sebaubuntu, @Ramiskyy, and other devs for their contribution to apollo community.
+
+Date : 11/06/2021
+Changelog :
+• Kernel inline 4.19.177-Quantic+
+• Selinux Enforcing
+
+Date : 19/05/2021
+Changelog :
+• Implement CTS hax from Proton AOSP, but gbye magisk.
+• Switch OSS Light
+• Switch dt2w common node, removed apollo parts
+• Added min-max refresh rate control on settings/display also enabled dynamic refreshrate based on content. 
+• Improved haptic & vibration pattern
+• Use new Fingerprint service, unlocking should be fast from before.
+• Fixed proximity issue, thx to rami.
+
+Date : 28/04/2021
+Changelog :
+• Update rootdir from CAF 
+• Enable Seamless Transfer 
+• Import some audio props from Coral 
+• vendor update from V12.1.5.0.RJDEUXM
+• Selinux Enforcing
+• Vendor included
+• kernel prebuilt
+
+Date : 23/04/2021
+Changelog :
+• Enable livedisplayy
+• Enable call recording 
+• Enable iorapd prefetching 
+• Switch oss display hals
+• Sepolicy updates
+• Selinux Enforcing
+• Vendor included
+• kernel prebuilt
+• Firmware use EEA V12.1.4.0.RJDEUXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Date : 04/04/2021
+Changelog :
+• wifi: Enable QPower and Deep sleep together
+• overlay: Hide sRGB toggle in developer options 
+• overlay: Set fast charging indicator threshold to 10.8W 
+• perf: add libdolphin & scudo perf. optimization
+• overlay: configure SQLite to operate in MEMORY mode 
+• sm8250-common: Switch Skia rendering backend to Vulkan
+• overlay: wifi: Enable LPRX by default
+• Selinux Enforcing
+• Vendor included
+• kernel prebuilt
+• Firmware use EEA V12.1.2.0.RJDEUXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Date : 21/03/2021
+Changelog :
+• Initial Release
+• Selinux is Permissive
+• Vendor included
+• Firmware use EEA V12.1.2.0.RJDEUXM
+• Xda soon
