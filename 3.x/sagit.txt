@@ -1,0 +1,22 @@
+|==========| Mi 6/ sagit |==========|
+
+Date : 22/06/2021
+
+• Device Changelogs :
+    • Sync Last Source Rotterdam
+    • June 2021 ASB Security Patch
+    • Upstremed Kernel 4.4.272
+    • Ship NusantaraPapers
+    • Consolidate Smart Charging under Adaptive Charging
+    • Add some missing blobs
+    • Build clang 12.0.6
+    • Now you can switch to aosp settings from Theme
+    • More Fixes and Improvements
+    • Ship Vanilla and Gapps version
+
+• Credits :
+    • sbwml, Genkzsz, spomer
+
+• Notes :
+    • Thx to @deny2311 for server
+    • Thx to @colddfire & @Finggerscrossbed for test
