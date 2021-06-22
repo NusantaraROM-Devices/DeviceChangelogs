@@ -1,0 +1,11 @@
+|==========| Redmi K20 Pro / Mi 9T Pro |==========|
+
+Date: 22/06/2021 | 3.0 Rotterdam
+• Device Changelogs
+- Switched to Notkernel R18
+- Added pop-up camera calibration.
+- Added Google Pixel permissions. 
+- Added OPScreenRecorder for better screen recording quality.
+- Updated GPU Turbo props to v6.1.1
+- Removed virtual framebuffer. 
+- Improved touch responsiveness.
