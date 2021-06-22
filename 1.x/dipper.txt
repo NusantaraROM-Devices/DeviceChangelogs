@@ -11,3 +11,20 @@ Date : 19-20/12/2020
 • Notes :
 - Vanilla, gapps, microG Build
 
+
+Date : 22/06/2021
+
+• Device Changelogs :
+- Sync with latest Nusantara-LTS Source
+- June Security Patch
+- Update blobs V12.0.4.0 China Stable
+- Add Mi Sound QS Tile
+- Fixed Thermal Profiles
+- Fixed Battery Health
+- Fixed DT2W with perf
+- Others Improvs
+
+• Notes :
+- Vanilla Build
+- Use custom Kernel to use FPS Meter
+
