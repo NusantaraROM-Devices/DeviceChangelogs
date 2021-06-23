@@ -1,21 +1,21 @@
 |==========| Redmi 5A / Riva |==========|
 
-Date : 14/04/2021
+Date : 21/06/2021
 
 • Device Changelogs 3.18 & 4.9 variant:
-- May 2021 Security Patch
-- Remove some useless prop
-- Improvement on system
-
-K 4.9: 
-- added xiaomiparts
+- June 2021 Security Patch
+- Address more denials
+- Nuke NusantaraParts
+- Improve Magisk Hide for better Hide
+- Back to perf kernel
 
 • Known Bug/Issues
-- You tell me with log
-
+- Smart Charging : no node
+- Battery Health : no node
 
 • Notes :
 - Vanilla Build
+- No updates for based kernel 4.9
 
 • Credits 
 - Thanks To SunnyRaj for trees and all of you :)
