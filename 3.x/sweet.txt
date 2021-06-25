@@ -1,0 +1,15 @@
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
+
+Date : 24/06/2021
+
+•Device changelog:
+
+- Added Nusantara Parts
+- Added FP press to unlock on power button
+- Added AptX Blobs
+- Incrase BootCompletedReceiver Priority
+- Adaptive brightness by default
+- Tuneup auto-brightness
+- More underhood improvements and patches
+- Show "Turbo charging" instead of "Charging rapidly"
