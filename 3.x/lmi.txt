@@ -1,0 +1,22 @@
+|==========| POCO F2 Pro / LMI |==========|
+
+Date: 27-06-2021
+
+Changelog :
+• Initial OSS build
+
+Notes :
+• Based on Global v12.2.6.0.RJKMIXM
+• Vanilla and Gapps build
+
+Bugs :
+• Report all of them if found
+
+Credits :
+• Allah SWT
+• @SebaUbuntu, @Ayrton990 and lmi devs
+
+Special Thanks :
+• @t6pal a.k.a Abdullah
+• @soumyo19 for help
+• @bintangihsan, @lIlIIlIIllI for testing
