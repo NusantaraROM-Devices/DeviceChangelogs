@@ -1,0 +1,15 @@
+|==========| MIA1 / Tissot |==========|
+
+Date : 03/07/2021
+
+• Device Changelogs :
+- Rebase to LOS trees
+- Improved Performance and stability
+- Misc Changes and Fixes
+- Kernel Upstream v4.9.273
+- Prebuilt GcamGo
+
+• Notes
+- Mandatory clean flash
+- NusantaraParts not included (will be included in next update)
+- Thanks to @Unknownbitch for helping
