@@ -1,0 +1,20 @@
+|==========| Realme 5 Pro/ RMX1971 |==========|
+
+Date : 03/07/21
+
+Device Changelogs :
+• move to bablus tree's
+• use pixel charger
+• disabled hwc vds
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Vanilla Build
+• Nik Gapps recommended
+
+
+Credits 
+• Thanks To @Bablus for trees
+• thanks to @AkaruiAikara for helping fix the bug.
