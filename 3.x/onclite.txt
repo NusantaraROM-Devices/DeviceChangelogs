@@ -1,0 +1,25 @@
+|=========| Redmi 7 / Onclite |==========|
+
+Date : 03/07/2021
+
+Device Changelogs:
+
+• Move back CarrierConfig into internal overlays
+• Checkout CarrierConfig overlays from rosy
+• Update nodes for Battery Health
+• Address Battery Health SEPolicy denials
+• Set GPU as default debug composition type.
+• Advertise global carrier VT for device
+• Advertise global carrier WFC for device
+• Disable Discovery and Nearby Messaging service
+• Add properties to Force Enable IMS/Radio
+• Enable EGL HW Rendering
+
+Notes :
+
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps with basic variant
+• Clean Flash if you're new user
+• Dirty Flash if you come from previous release
+• CTS/SafetyNet passed without root
+• Banking apps working
