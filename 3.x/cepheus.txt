@@ -1,0 +1,18 @@
+|==========| Mi 9/ cepheus |==========|
+
+Date : 22/07/2021
+
+• Device Changelogs :
+    • Initial release
+    • Include firmware
+    • Kernel 4.14.239
+    • Ship Vanilla and Gapps 
+    • Ship Google Camera
+    • Build enforcing
+
+• Credits :
+    • Evasi0nXiao
+
+• Thanks to :
+    • Freesoul00, ZenkaBestia and all Cepheus Dev.
+    • MngLnte for test
