@@ -1,6 +1,55 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 25/07/2021
+Changelog :
+• e529f41 apollo: update pinner from APOLLO V12.5.2.0.RJDCNXM - Redmi/apollo/apollo:11/RKQ1.200826.002/V12.5.2.0.RJDCNXM:user/release-keys
+• 6ef69f0 apollo: disable idle for video & HDR - align with stock props
+• eee5941 apollo: switch to quantic-upstreamed branch of kernel
+• a68be6b apollo: overlay: Sync color modes with sunfish
+• 50ca1b1 apollo: Enable display color management
+• 2707a0d apollo: tune surface flinger refresh rate timers
+• 2a56ef8 apollo: audio: retune mixer_paths_overlay_static
+• f91b974 apollo: Add default frame rate setting
+• ace9797 apollo: update from redfin july
+• f16622b apollon: overlay: update brightness values from miui
+• 15ef7c9 apollon: force USB Audio format to be 24 bit
+• a60cff9 apollon: override HPH HQ mode to be HIFI
+• aa311b9 apollo: Ship liba2dpoffload.so from stock
+• bba40fc sm8250-common: update pinner from APOLLO V12.5.2.0.RJDCNXM - Redmi/apollo/apollo:11/RKQ1.200826.002/V12.5.2.0.RJDCNXM:user/release-keys
+• 7eda4f8 sm8250-common: sepolicy: Label /dev/block/sde57
+• f17324a sm8250-common: Migrate to Xiaomi power AIDL HAL
+• 922293c sm8250-common: audio: Update audio policy volumes
+• fa95235 sm8250-common: Fix Mifare Classic reading
+• 730f5a4 sm8250-common: disable volte HD notification
+• a248d1d sm8250-common: Initialize High Touch Polling Rate support
+• 7913ae7 sm8250-common: switch primary output to 24 bit profile
+• ae8f0a5 sm8250-common: overlay: Enable hapticTextHandle
+• dd6cd81 sm8250-common: props: remove extra GBoard spacing
+• 15bdfa2 sm8250-common: Disable the usage of ConfigStore.
+• b875226 sm8250-common: disable VOIP compression
+• c0351ba sm8250-common: Disable COMPRESS_VOIP in boardconfig
+• 94b562a sm8250-common: remove stereo channel mask from voip rx
+• c65bbba sm8250-common: add missing voip_rx flag
+• 4412e71 sm8250-common: audio: update audio_io_policy for VoIP
+• 26c657c sm8250-common: Build custom lights AIDL
+• e385979 sm8250-common: Build custom QTI vibrator AIDL
+• Kernel 4.19.198~Quantic
+• Selinux Enforcing
+• Firmware use Global V12.5.1.0.RJDMIXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Notes :
+• GApps
+
+Bugs:
+• prebuilt screenrecord crash, use 3rd party apps.
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+
+
 Date : 21/06/2021
 Changelog :
 
@@ -9,20 +58,6 @@ Changelog :
 • Fixed wakelocks not suspending (what u guys call smp2p), thanks to @Ayrton990.
 • Fixed echo issue in VoIP speaker call in whatsapp.
 • using redfin fp on init
-• Selinux Enforcing
-• Firmware use Global V12.1.2.0.RJDMIXM
-• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
-
-Notes :
-• GApps & vanilla
-• use safetynet module to pass CTS test.
-
-Bugs:
-• prebuilt screenrecord crash, use 3rd party apps.
-
-Credits :
-• Allah SWT
-• @sebaubuntu, @Ramiskyy, and other devs for their contribution to apollo community.
 
 Date : 11/06/2021
 Changelog :
