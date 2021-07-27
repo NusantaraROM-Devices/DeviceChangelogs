@@ -1,0 +1,26 @@
+|==========| Redmi 5 / Rosy |==========|
+Date : 27/07/2021
+
+Device Changelogs:
+- Shipped with kernel NFS 4.9.276
+- Enforcing build
+- Fixed DT2W not working on first boot
+- Faster boot time (Pixel boot enhancement + sched_boost + schedtune boost from Pixel's (crosshatch)) 
+- Switched to libperf Power HAL
+- Enhanced Scheduler settings from Pixel's
+- Fixed mic not working in VoIP calls in last build
+- Fixed CAF's broken mincpubw governor setting in post_boot script
+- Increased zram size to 1.3GB
+- Shortened wait time for services exit to optimize shutdown time
+- Fixed speaker on call when device screen turned off
+
+Notes:
+- Clean flash is recommended.
+- FlameGApps recommended.
+- SafetyNet passed by default.
+
+Thanks to:
+- All NAD Teams
+- Pulkit077 for his awesome tree
+- AnGgIt86 for kernel
+- Nizar√ and Nahu La Ghoen for test
