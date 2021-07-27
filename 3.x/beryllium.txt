@@ -12,3 +12,21 @@ Variant : Vanilla | GApps
 
 Note :
 - Clean Flash recommended
+
+
+------ Date : 28/07/2021 | Reservoir 3.1 ------
+
+• Device Changelog
+
+- Sync with latest 3.1 | Reservoir Source
+- Updated Fingerprint to Redfin July 2021
+- Display icon beside thermal profile
+- Add thermal profiles tile
+- Add switchbar to disable dynamic thermal
+- Some under the hood changes
+- fix known bug on june build
+
+Variant : Vanilla | GApps
+
+Note :
+- Clean Flash recommended
