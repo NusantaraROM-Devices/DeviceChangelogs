@@ -20,3 +20,23 @@ Variant : Vanilla | GApps
 Note :
 - NikGapps basic recommended for Vanilla
 - Clean Flash recommended
+
+
+------ Date : 27/07/2021 | Reservoir 3.1 ------
+
+• Device Changelog
+
+- Sync with latest 3.1 | Reservoir Source
+- Switch back default kernel Perf
+- Updated Fingerprint to Redfin July
+- Updated blobs from MIUI V12.5.1.0 CN Stable
+- Updated stock blobs from LA.UM.9.8.r1-02700-SDM710.0
+- Updated CarrierConfig from LA.UM.8.3.r1-08800-sdm845.0
+- Improvs Battery Life based Kernel
+
+Variant : Vanilla | GApps
+
+Note :
+- NikGapps basic recommended for Vanilla
+- Clean Flash recommended
+- Use custom Kernel for FPS Meter
