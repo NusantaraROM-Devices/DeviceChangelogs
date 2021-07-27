@@ -1,5 +1,24 @@
 |==========| Mi 6/ sagit |==========|
 
+Date : 27/07/2021
+
+• Device Changelogs :
+    • Sync Last Source Reservoir
+    • July 2021 ASB Security Patch
+    • Upstremed Kernel 4.4.276
+    • Add some translation Be, Cn, Id, Br, Ru, Tr, Uk, Vi
+    • Other small improvements
+    • Ship Vanilla and Gapps version
+
+• Credits :
+    • sbwml for great tree
+    • Sagit family and nad team for translation
+
+• Notes :
+    • Thx to @colddfire & @Finggerscrossbed for test
+
+|==========| Mi 6/ sagit |==========|
+
 Date : 22/06/2021
 
 • Device Changelogs :
