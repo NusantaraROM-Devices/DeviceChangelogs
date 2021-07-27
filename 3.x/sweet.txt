@@ -1,10 +1,23 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
 
+Date : 27/07/2021
+•Notes:
+-Rebased device tree based on ArrowOS (Now, it's OSS)
+-Users with official NusantaraProject (MIUI vendor) need to clean flash
+-Don't dirty flash between vanilla and gapps version, It may cause bootloop and only method you can is format data. Don't try this!
+
+•Bugs:
+You Tell Me !!!
+
+•Credits:
+@daniml3 thanks for device trees
+@nazunamoe & @Aarunalr thanks for helping
+@Megalodonzs & @jhoo97 thanks for testing
+
+
 Date : 24/06/2021
-
 •Device changelog:
-
 - Added Nusantara Parts
 - Added FP press to unlock on power button
 - Added AptX Blobs
