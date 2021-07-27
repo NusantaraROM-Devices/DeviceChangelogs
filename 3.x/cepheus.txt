@@ -3,6 +3,29 @@
 Date : 22/07/2021
 
 • Device Changelogs :
+    • Sync Last Source Reservoir
+    • July 2021 ASB Security Patch
+    • Add MIUI offline charging
+    • Add adaptive charging
+    • Add battery health
+    • Enable rounded Gboard 
+    • Change default display density 
+    • Add node to hide Magisk
+    • Disable force encrypt
+    • Drop Google Camera
+
+• Credits :
+    • Evasi0nXiao for great tree
+
+• Thanks to :
+    • Freesoul00 and all Cepheus Dev.
+    • MngLnte for test
+
+|==========| Mi 9/ cepheus |==========|
+
+Date : 22/07/2021
+
+• Device Changelogs :
     • Initial release
     • Include firmware
     • Kernel 4.14.239
