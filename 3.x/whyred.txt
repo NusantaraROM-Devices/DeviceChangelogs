@@ -1,0 +1,21 @@
+|==========| Redmi Note 5 / whyred |==========|
+
+Date : 28/07/2021 | 3.1 Reservoir
+
+• Device Changelogs :
+• Disable save to sdcard and 4K record option in Miui Camera (doesn't working properly)
+• Upstream Extended kernel to 4.4.274 compiled with GCC 12
+• Cleanup device configuration to achieve better stability
+
+• Notes :
+• Old cam build.
+• Use OrangeFox Recovery R11 by orges or latest Pitchblack/Twrp.
+• Use only magisk 23.0 and upward if available, else you will get safetynet API error message.
+• WFD might be difficult to connect with certain kernel.
+• Make sure to turn off blur to reduce jitter in status bar while doing gaming/screen recording or to improve system animation fluidness.
+• If you want to use magisk, don't forget to turn on magiskhide to make safetynet passed.
+• For gapps, recommended to use Nik or Flame, just don't install the full variant for Nik.
+• Use NikGapps build 3 July and later, as it is already fixed the backup script (so you won't need to reflash gapps everytime upgrade build)
+• Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
+• Don't install Nikgapps pixel launcher addons as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module or MrSluffy ones instead if you want.
+• LDAC codec is not working on QTI Bluetooth because hardware limitation, just enable "Disable Bluetooth A2DP hardware offload" in developer option if you're using headphone/iem/anything with LDAC codec
