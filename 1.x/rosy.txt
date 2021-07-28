@@ -1,4 +1,37 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 28/07/2021
+
+Device Changelogs:
+- Initial 4.9 build
+- Shipped with kernel NFS 4.9.276
+- Synced with latest NusantaraProject Android 10 source
+- Enable zram-writeback job
+- Enable real time lockscreen charging current values
+- Enable updateable APEX
+- Improve Magisk Hide for better Hide
+- Add FPS overlay
+- Compile with Eva GCC 12
+- Add Battery health
+- Update powerhint from LA.UM.8.6.2.r1-07100-89xx.0
+- New gps configs for better stability & accuracy
+- Compile HWUI for better performance
+- Update perfboostsconfig.xml to use MSM8953 target
+- Prebuilts GCam Go
+- Enable VoLTE for Telkomsel (Indonesia)
+- Enable VoLTE for SmartFren (Indonesia)
+- Update thermal blobs from Redmi 7 (Onclite)
+
+Notes:
+- Clean flash is recommended.
+- BiTGApps or FlameGApps is recommended.
+
+Credit:
+- Bang Dani for server
+- Baunilla for his amazing tree
+- AnGgIt86 for his awesome kernel
+- @confused0123 for testing
+
+
 Date : 15/04/2021
 
 Device Changelogs:
