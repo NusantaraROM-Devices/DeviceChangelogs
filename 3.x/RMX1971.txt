@@ -1,5 +1,32 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 28/07/2021
+
+Device Changelogs :
+• Rework some GPS stuff
+• Upstremed kernel 4.9.275
+• Fixes weird touch/scroll issues on fp touch event
+• Enable IORap app launch prefetching
+• July SecPatch update
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps Variant
+• Vanilla : Nik Gapps recommended
+
+
+Credits 
+• Thanks To @Bablus for trees
+• thanks to all member realme developer group.
+
+
+=== Older Change Log ===
+
+
+|==========| Realme 5 Pro/ RMX1971 |==========|
+
 Date : 03/07/21
 
 Device Changelogs :
