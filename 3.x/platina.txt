@@ -1,0 +1,28 @@
+|==========| MI 8 Lite / platina |==========|
+
+------ Date : 27/07/2021 | Reservoir 3.1 ------
+
+• Device Changelogs :
+- Build enforcing
+- Build minijail service for imsrtpservice
+- Build power stats and label it
+- Disable Bluetooth by default
+- Enable freeform window management
+- Enable VoLTE support for Smartfren (Indonesia)
+- Enable VoLTE support for Telkomsel (Indonesia)
+- Fix notch padding
+- Switch to Thermal 2.0 mock
+- Update graphics blobs V@0490.0 from taimen RP1A.201005.004
+- Update IMS libs to LA.UM.9.6.2.r1-04100-89xx.0
+- Update lib-imsvtcore from mojito
+- Update org.codeaurora.ims permissions
+- Update portion IMS blobs from LA.UM.9.6.2.r1-02500-89xx.0
+- Update qti-telephony-common from LA.UM.9.6.2.r1-04100-89xx.0
+- Update WFD blobs from phoenix_sprout RKQ1.201123.002
+- Use Userspace LMKD if there's no LMK driver
+- Upstream kernel 4.4.276
+- Kernel compiler GCC 12.0.0
+
+• Notes :
+- FDE Build
+- Use FW Global Stable
