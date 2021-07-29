@@ -1,11 +1,9 @@
-|==========| Xiaomi SM720G Unified |==========|
+|==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date : 14/02/2021
+Date: 26/07/2022
 
-• Device Changelogs :
- - Synced with latest source changes
- - Perf-ModenaButterfly kernel as default kernel
- - Compiled use GengKapak Clang-13
+• Device Changelogs
+ - Initial Build 
 
 • Notes
- - Only use BitGapps R19 ,don't install other gapps
+ - ANX Included
