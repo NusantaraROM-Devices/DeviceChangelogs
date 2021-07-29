@@ -1,7 +1,85 @@
 |==========| MI A1 / Tissot |==========|
 
+Date : 29/07/2021
+
+• Device Changelogs :
+- Synced with latest source
+
+
+|==========| MI A1 / Tissot |==========|
+
 Date : 21/04/2021
 
 • Device Changelogs :
 - Synced with latest source
 - kernel upstream to  4.9.260
+
+
+|==========| MI A1 / Tissot |==========|
+
+Date : 27/03/2021
+
+• Device Changelogs :
+- Synced with latest source
+- kernel upstream to  4.9.257
+
+
+|==========| MI A1 / Tissot |==========|
+
+Date : 15/1/2021
+
+• Device Changelogs :
+- Synced with latest source
+- kernel upstream to  4.9.248
+
+
+|==========| MI A1 / Tissot |==========|
+
+Date : 23-10-2020
+
+• Device Changelogs :
+- Upstream changes.
+- Change Kernel To SilonT
+- And more
+
+• Notes :
+- This is Final build No more A10
+- Dont Mirrror Link
+- OTA Still Broken   
+
+
+|==========| MI A1 / Tissot |==========|
+
+Date : 12-09-2020
+
+• Device Changelogs :
+- New Gps Config
+- Prebuilt Twrp 
+- Update Driver OpenGL & Vulkan 
+- Fixed Offline Charging 
+- Fixed Nusantara parts kcal 
+- Fixed Smartcharging
+- Build Use Clang 12
+- Added Musicolet
+- Kernel Upstreamed to 4.9.235
+
+• Notes :
+- Gapps not included
+- OTA Broken Use Twrp Dirty Flash Method For Updating Rom
+
+• Hotfix : 
+- Fixed bluetooth issue
+
+
+|==========| MI A1 / Tissot |==========|
+
+Date : 21/04/2021
+
+• Device changelog :
+  -Initial Release
+  -OTA Support
+  -Added FireFoxLite
+
+•Notes:
+  -Gapps not included
+  -Clean flash 
