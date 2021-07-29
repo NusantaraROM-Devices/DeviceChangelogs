@@ -1,5 +1,25 @@
 |==========| POCO F2 Pro / LMI |==========|
+Date: 30-07-2021
 
+Changelogs :
+• Fix MTP USB Issue
+• Fix Screen recording issue
+• Add back QTI Perfd
+• Revert Vulkan Skia Rendering
+
+Notes :
+• Based on Global v12.2.6.0.RJKMIXM
+• Vanilla and Gapps build
+
+Bugs :
+• Report all of them if found
+
+Credits :
+• Allah SWT
+• @SebaUbuntu, @Ayrton990 and lmi devs
+
+
+|=========================================|
 Date: 27-06-2021
 
 Changelog :
