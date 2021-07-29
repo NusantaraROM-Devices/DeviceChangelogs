@@ -1,5 +1,22 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 29/07/2021
+
+• Device Changelogs :
+- fixed hw light 
+- fixed led notification
+- fixed adaptive charging
+- fixed sd card
+- Kernel Upstream v4.9.276
+- New Gps Config for better stability & accuracy
+- And many more
+
+• Notes
+- Nusantara parts now included (but not working for now because need kernel support)
+- For user problem with screen burn in / shadow for now, you can use the live display menu to overcome burn in
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 03/07/2021
 
 • Device Changelogs :
