@@ -1,0 +1,29 @@
+|==========| POCO X3 Pro / Vayu |==========|
+
+Date : 29/07/2021
+
+Device Changelogs :
+• OSS Based
+• WifiOverlay: Sync config from 11-RKQ1.200826.002-V12.5.2.0.RJUMIXM
+• Using Chaldea Kernel (Compile with latest Proton Clang)
+• Properly set permission for thermal node
+• Prepare for R SurfaceFlinger changes
+• Add prebuilt GoogleCameraGo
+• Use phase offsets as duration
+• Relax refresh rate switching
+• Optimise dex flags for a faster boot
+• Update graphics & adreno from LA.UM.9.1.r1-10200-SMxxx0.0
+• Add missing Graphics and DRM libs from tag 09600 & 10200-SMxxx0.0
+
+Notes:
+• Clean flash is mandatory
+• SELinux status is Enforcing
+• SafetyNet passes out of the box
+• GApps Already Included
+• Recommended Firmware: Stock 12.0.6.0, 12.5.1.0, 12.5.1.0
+
+Credits:
+• Thanks to sebaubuntu for OSS trees
+• Thanks to setsumiko for his awesome kernel
+• Thanks to fryevia, alanndz, andsetsumiko for their help
+• Thanks to @GengKapak and many more for their support 👊😎
