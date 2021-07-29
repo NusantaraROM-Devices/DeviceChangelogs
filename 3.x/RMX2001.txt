@@ -1,0 +1,27 @@
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
+Date : 29/07/2021
+
+Device Changelogs :
+• Latest Sources & Secpacth
+• Fix FPS info on QS (system)
+• Update status bar pading overlay
+• Added realme-Dirac Sound Enhancer
+• Added support for unlimited backup on Google Photos
+• Added prebuilt-apps (AudioREC,SoundREC,DuckDuckGO,OpenCamera,GalleryGO)
+• Replaced GameMode with PerformanceProfile along with the addition of PowerSaving profile
+
+Notes :
+• Only Vanilla Build
+• GApps OpenGapps Pico / FlameGApps Basic (Recommended)
+
+Known Bug :
+• Extra cameras
+• Night light flickers
+• ViLTE (native video calling)
+
+Credit :
+• Thanks to all R6 & Nusa devs
+• @SamarV121 for the trees
+• @minatiscape for source & help implement RealmeDirac
+• @ManshuTyagi @Rafiester @Aarunalr @HLGN1932 for help
