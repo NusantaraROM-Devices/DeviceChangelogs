@@ -1,0 +1,20 @@
+|==================| Redmi Note8 Pro/Begonia |==================|
+
+                                 29/07/2021
+
+Changelog:
+• Dropped MiSoundFx effect 
+• Dropped Hotword Enrollment
+• Updated Neural Networks from begonia V12.5.1.0 RGGCNXM
+• Added MTK APU blobs from begonia V12.5.1.0 RGGCNXM
+
+Spesial Tq :
+• maybe this is the last build :" and thanks to all of you who have supported me.
+• Thank you very much to GengKapak who has helped many things.
+• Thanks to dev begonia, tester and everything already helped me.
+• dan gw bukan siapa" tanpa bantuan klean, support dari klean" semuanya. Dan makasih bnget buat kalian semua :"
+
+Notes
+ * 2 variants available gapps & non-gapps.
+ * Use FW latest.
+ * Use Magisk v23 for root
