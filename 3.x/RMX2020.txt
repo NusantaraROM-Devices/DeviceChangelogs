@@ -1,7 +1,7 @@
 |==========| Realme C3/Narzo 10A / RMX2020 |==========|
 
 
-Build Date : 27/07/2021
+Build Date : 29/07/2021
 
 • Changelog :
 - Initial Build from his side
@@ -24,21 +24,8 @@ Build Date : 27/07/2021
 - Gapps Non included
 - No log, no issue
 
-Credits:
+• Credits:
 - Thanks To All Team Nad
 - Thanks to Witcher for helping with  initial Trees and Himanshu and sarthak for helping with enforcing and phh for VoLTE fix
 - Thanks to Testers
-
-Build Date : 13/06/2021
-
-• Device Changelog :
-- June Security Patch 
-- More RAM optimization 
-- Define rounded corners
-- Enforcing+Encrypted
-
-• Known Bug
-- DT2W (Kernel issue)
-- Fingerprint not working in et512
-- You tell more
 
