@@ -1,0 +1,16 @@
+|==========| Realme 3 Pro / RMX1851 |==========|
+
+Date : 30/07/2021
+
+Changelog :
+• Fixed camera denials
+• Upstreamed  kernel to 4.9.277
+• Merged latest android common kernel
+• Compiled with Clang 14.0.0
+
+Notes :
+https://github.com/NusantaraROM-Devices/DeviceChangelogs
+
+Credits :
+• SamarV-121 for tree
+• @Artoriaa for kernel base
