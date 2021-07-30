@@ -1,14 +1,15 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
-Date : 29/07/2021
+Date : 30/07/2021
 
 Device Changelogs :
 • Latest Sources & Secpacth
 • Fix FPS info on QS (system)
 • Update status bar pading overlay
 • Added realme-Dirac Sound Enhancer
+• Address some denials, more improvements & bug fixes
 • Added support for unlimited backup on Google Photos
-• Added prebuilt-apps (AudioREC,SoundREC,DuckDuckGO,OpenCamera,GalleryGO)
+• Added prebuilt-apps (AudioREC,SoundREC,DuckDuckGO)
 • Replaced GameMode with PerformanceProfile along with the addition of PowerSaving profile
 
 Notes :
