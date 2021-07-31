@@ -1,4 +1,22 @@
 |==================| Redmi Note8 Pro/Begonia |==================|
+                      31/07/2021
+Changelog:
+• Synced with Latest Source Changes
+• Upstreamed kernel to 4.14.240
+• Fixed some location services issues
+• July Security Patch
+• Other minor fixes and additions
+
+Notes :
+
+* Not Include GApps.
+* * Clean Flash Recommended.
+*  Use NikGapps Omni Recommended
+* * Use Magisk v23 for root.
+* Use TWRP Migration-Tools
+* * Don't PM Dev, Report bug on Group Support.
+
+|==================| Redmi Note8 Pro/Begonia |==================|
                          16/05/2021
 Device Changelog Nad LTS A10:
 - Rebased Tree to Non-CFW (thx to @valap)
