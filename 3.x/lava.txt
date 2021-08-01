@@ -1,0 +1,20 @@
+|==========| Redmi 9 / Poco M2 Unified (Lava) |==========|
+
+Date : 31/07/2021
+
+Changelog :
+• Synced with latest sources
+• Using July Redfin FP (CTS passed by default)
+• Enable pre-rendering
+• More RAM optimization
+• Set google autofill service as default
+• Shipped with based kernel
+
+Known Bug :
+• Offline charging
+• DT2W
+
+Notes :
+• Only for MIUI 12.0.1 vendor
+• First boot is bootloop, force reboot to fix it
+• Vanilla and Gapps build (Recommended using NikGapps or MindTheGapps for Vanilla build)
