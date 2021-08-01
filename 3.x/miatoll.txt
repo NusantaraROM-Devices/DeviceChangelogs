@@ -1,5 +1,10 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date: 26/07/2022 | 3.1 Reservoir
+Date: 01/08/2021 | 3.1 Reservoir
 • Device Changelogs
-- Initial Build 
+ - Hotfix build
+ - Random reboot & Freezing should be fixed
+ - Addressed some Danials on Audio SEPolicy
+ - Fixed Live Display [Picture adjustment]
+ - Switched on RebornKernel thanks to @Loptr4
+ - And other miscellaneous fixes.
