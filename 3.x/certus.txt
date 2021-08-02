@@ -1,0 +1,25 @@
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
+Date : 01/08/2021
+
+* Device Changelogs:
+• Synced with latest source
+• Faceunlock fixed
+• BatteryHealth fixed
+• Offline Charging fixed
+
+* Known Bug
+• Carrier Video Calling (ViLTE) & USSD on 4G (phhims bugs)
+• Screenrecord
+• Hardware-accelerated video encode/decode (video blank) on some apps
+
+
+* Notes :
+• Vanilla Build
+• Only for pie vendor (except 11.0.9 [Cactus], 11.0.5 [Cereus])
+• Don't use Dolby or ViperFx
+
+• Thanks to
+- phhusson
+- eldracode
+- PeterCxy
