@@ -28,3 +28,15 @@ Date : 22/06/2021
 - Vanilla Build
 - Use custom Kernel to use FPS Meter
 
+
+Date : 03/08/2021
+
+• Device Changelogs :
+- July Security Patch
+- Updated Fingerprint Redfin July
+- Updated blobs from MIUI V12.5.1.0.QDGCNXM CN Stable
+- Improvs Audio Mic
+
+• Notes :
+- Vanilla Build
+- Use Custom Kernel to use FPS Meter
