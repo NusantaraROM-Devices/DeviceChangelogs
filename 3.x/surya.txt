@@ -1,0 +1,22 @@
+|==========| Poxo X3 NFC / Surya |==========|
+
+Date : 05/08/2021 | 3.1 Reservoir
+
+Device Changelogs :
+• July Security Patch
+• Update MIUI Blobs to v12.0.1.2 RJGINXM
+• Update Blobs to LA.UM.9.1.r1-10200-SMxxx0.0
+• Checkout NFC Configs to v12.0.1.0 RJGMIXM
+• Update Display Configs 
+• Import USB Init from Stock
+• SilonT - Ayaka 4.14.241 as default kernel
+• Import QTI vibrator AIDL 
+• Other Fixes & Improvement
+
+Notes :
+• OSS Build
+• GApps & Vanilla Variant
+
+Credits :
+• @ghostrider_reborn
+• @Hiitagiii
