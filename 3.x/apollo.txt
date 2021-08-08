@@ -1,8 +1,32 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 07/08/2021
+Changelog :
+• sepolicy fixes
+• add DTS audio config
+• add FPS meter overlay, enable via QS Tile
+• Switch to bt qti component 
+• decommonise Hotword & Sound Trigger blobs, OK google working
+• Updated to Redfin August Device FP
+• Kernel 4.19.201~Quantic (LED fixed)
+• Selinux Enforcing
+• Firmware use Global V12.5.1.0.RJDMIXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Notes :
+• GApps & Vanilla
+
+Bugs:
+• prebuilt screenrecord crash, use 3rd party apps.
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+
 Date : 25/07/2021
 Changelog :
+
 • e529f41 apollo: update pinner from APOLLO V12.5.2.0.RJDCNXM - Redmi/apollo/apollo:11/RKQ1.200826.002/V12.5.2.0.RJDCNXM:user/release-keys
 • 6ef69f0 apollo: disable idle for video & HDR - align with stock props
 • eee5941 apollo: switch to quantic-upstreamed branch of kernel
@@ -37,18 +61,6 @@ Changelog :
 • Kernel 4.19.198~Quantic
 • Selinux Enforcing
 • Firmware use Global V12.5.1.0.RJDMIXM
-• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
-
-Notes :
-• GApps
-
-Bugs:
-• prebuilt screenrecord crash, use 3rd party apps.
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-
 
 Date : 21/06/2021
 Changelog :
