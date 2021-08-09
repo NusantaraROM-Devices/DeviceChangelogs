@@ -1,5 +1,19 @@
 |==========| Redmi S2/Y2 / ysl |==========|
 
+
+Date : 03/08/2021
+
+• Device Changelogs :
+ - Synced with latest source changes
+ - Selinux Enforcing
+ - Fixed Statusbar Padding on some devices
+ - Switch to OSS camera Hal
+ 
+• Notes :
+ - Vanilla Build
+ - Recomended Gapps : All Gapps working
+
+
 Date : 23/02/2021
 
 • Device Changelogs :
