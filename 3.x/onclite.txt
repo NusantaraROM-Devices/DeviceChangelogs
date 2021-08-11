@@ -1,5 +1,41 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date : 11/08/2021
+
+Device Changelogs:
+
+• Update CA Cert location blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update CNE/DPM blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Latency blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update QMI/Radio/QCRIL blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update IMS/eMBMS/VT blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update IWLAN blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Import missing FM Radio blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Peripheral manager blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Sensors stack from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Power-off alarm blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Time services blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Sync Media Codecs and Profiles as per CAF changes
+• Many changes and fixes in the device sources
+• Enable IWLAN assisted mode
+• Switched to 2GB Dalvik VM for all variant
+• Address more SEPolicy denials
+
+Notes:
+
+• Recommended to clean flash
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps basic
+• CTS/SafetyNet passed without root
+• ViLTE (Carrier Video Calling) have issue automatic call declined for now, need more check in other carrier with ViLTE support
+• Banking apps working
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 03/07/2021
 
 Device Changelogs:
