@@ -1,0 +1,29 @@
+|==========| Redmi Note 9 / Merlin |==========|
+
+
+Date : 11/08/2021
+
+Device Changelog : 
+• Synced with latest sources
+• Redfin FP to August
+• increase zRAM size to 4GB
+• Tune zram performance
+• Enable compositor background blurring
+• Use EXPENSIVE_RENDERING power hint for blurs
+• Disable blur by default
+• Disable slow blur effect to avoid laggish blur effect
+• Use GoogleCameraGo
+• Explicitly enable IORap and IORapd prefetching
+• Set navigation gestures as default
+• Disable UI touch sounds by default
+• Enable Gboard rounded corners
+• Set Google autofill service as default
+
+Known Bug :
+• Offline charging
+
+Credits :
+Thanks to all tester and member Merlin
+Thanks GengKapak for help
+Thanks @ZyCromerZ for kernel
+Thanks to Redmi MT6768 Team
