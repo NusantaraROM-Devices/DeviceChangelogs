@@ -1,8 +1,83 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 29/08/2021
+Changelog :
+• d80fc3d apollo: audio: Import mixer_paths_overlay_dynamic from stock
+• c4c0855 apollo: commonize OMX blobs
+• 9ff742c apollon: remove prebuilt nfc blobs
+• b2adfe7 Partially Revert "apollo: decommonise hotword & listen blobs"
+• 25ef32f update from Xiaomi/apollopro_eea/apollo:11/RKQ1.200826.002/V12.5.5.0.RJDEUXM:user/release-keys
+• 79eb4e6 apollo: libinit: remove build description - there is function fingerprint_to_description on common to define this property.
+• 4882cc4 Revert "apollo: Enable SafetyNet model hack"
+• 8f76aa9 apollo: show a ring on the camera cutout when its in use
+• 3523a58 apollo: init: update desc from V12.5.4.0.RJDCNXM & V12.5.2.0.RJDMIXM
+• 2bddec9 Revert "apollo: libinit: commonify fingerprint"
+• ee6e078 apollo: pinner blobs from Redmi/apollo_global/apollo:11/RKQ1.200826.002/V12.5.2.0.RJDMIXM:user/release-keys
+• 9c4dcb588 sm8250-common: Increase reserved partition size for A/B devices
+• f415d5416 Revert "sm8250-common: fstab: Change userdata fsync mode to strict for f2fs"
+• 0cb1ef37f sm8250-common: overlay: Define OEM fast charge sysfs node
+• 1b74d1ecd sm8250-common: props:  Update display props
+• 47d77e433 sm8250-common: sepolicy: Don't grant batterysecret access to generic sysfs
+• eaef3e7d6 sm8250-common: sepolicy: Label more wakeup/bq2597x-standalone nodes
+• ab5363c4b sm8250-common: sepolicy: Label bq2597x-standalone in another I2C address
+• d4211d742 sm8250-common: Commonize OMX blobs
+• 15d3e18f1 sm8250-common: Switch to source built NFC
+• 704929165 Partially Revert "sm8250-common: decommonise hotword & listen blobs"
+• 2ea0d452b sm8250-common: libinit: Get build description from build fingerprint
+• e21732e91 sm8250-common: override dalvik on system prop
+• 21bb86a22 sm8250-common: TARGET_2ND_ARCH_VARIANT use armv8-2a
+• 9b7ac4f4f sm8250-common: add TARGET_KERNEL_ADDITIONAL_FLAGS
+• 3213da069 sm8250-common: Set cortex-a76 for cpu variants
+• 7dbe3e98d sm8250-common: Unset runtime cpu variants
+• 7719136c0 sm8250-common: biometrics: Revert "fpc: keep fpc in system-background"
+• f3d1545e5 Revert "sm8250-common: commonify spoofed fingerprint"
+• c57801bb8 Revert "init: update from redfin RQ3A.210805.001.A1"
+• abc4c10fc sm8250-common: parts: remove handwave & pocket mode
+• bab0c2683 sm8250-common: Do not balance msm_drm and kgsl-3d0 IRQs
+• 6dc3cb236 sm8250-common: configs: Import msm irqbalance [goodmeow] imported config from APOLLO V12.5.2.0.RJDMIXM
+• 10bc4dd8c sm8250-common: sepolicy: Allow appdomain to get persist_camera_prop
+• 529d11550 sm8250-common: parts: remove Refresh Rate filter validation
+• 5b8195591 sm8250-common: parts: Don't apply thermal preset when GameMode is active
+• 8a30a381e sm8250-common: init: Add script for `exTHmUI's` GameMode performance control
+• 19db1ae39 sm8250-common: parts: RefreshRateTile: Wire-up preferred refresh-rate value too
+• 7ada22c6d sm8250-common: parts: Fix Refresh-rate Tile issues on variable refresh-rate setup
+• dca471aa4 sm8250-common: parts: Rewrite Refresh Rate Tile for system-wide settings
+• d3952029b sm8250-common: parts: Introduce Refresh Rate QS tile
+• 94eccd237 sm8250-common: parts: Use correct gaming thermal
+• 327bd2ce0 sm8250-common: parts: update Android.bp [goodmeow] it was converted before so this is only refactoring
+• a97561433 sm8250-common: parts: Add ACTION_SCREEN_ON intent filter
+• 6cf5d0e44 sm8250-common: parts: Check if kernel support Thermal Profiles
+• 18def1822 sm8250-common: parts: Refactor sensors
+• b5d0ddf50 sm8250-common: parts: Refactor whole code
+• 7484633bf sm8250-common: parts: Switch to TaskStackListener
+• 8b2d0ea25 sm8250-common: Set dynamic thermal interval to 5 sec
+• 76402b8f7 sm8250-common: Switch back to default thermal profile when screen off
+• 8007d3645 sm8250-common: parts: Make thermal profiles naming completely generic
+• 961a3d785 sm8250-common: parts: Add dynamic thermal profile implementation [goodmeow] import all styles
+• 671bff0b9 sm8250-common: fix media codecs copy out directory
+• 201383aca sm8250-common: pinner blobs from Redmi/apollo_global/apollo:11/RKQ1.200826.002/V12.5.2.0.RJDMIXM:user/release-keys
+• 599e88334 Revert "Revert "sm8250-common: audio: Add audio policy configuration file with ULL enabled""
+• Kernel 4.19.203~Quantic
+• Selinux Enforcing
+• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Notes :
+• GApps, Vanilla & microg
+
+Bugs:
+• vowifi (?)
+• launcher: apps suggestion crash without google device personalization service.
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
 Date : 07/08/2021
 Changelog :
+
 • sepolicy fixes
 • add DTS audio config
 • add FPS meter overlay, enable via QS Tile
@@ -12,17 +87,6 @@ Changelog :
 • Kernel 4.19.201~Quantic (LED fixed)
 • Selinux Enforcing
 • Firmware use Global V12.5.1.0.RJDMIXM
-• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
-
-Notes :
-• GApps & Vanilla
-
-Bugs:
-• prebuilt screenrecord crash, use 3rd party apps.
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
 
 Date : 25/07/2021
 Changelog :
