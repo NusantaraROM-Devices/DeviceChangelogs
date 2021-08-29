@@ -1,4 +1,31 @@
 |==========| POCO F2 Pro / LMI |==========|
+Date: 30-08-2021
+
+Changelogs :
+• Enable AOSP Bluetooth HAL
+• Disable ULL mode
+• Fix mic issues in apps like WhatsApp
+• Switch to "Adaptive" mode and Display P3 color by default
+• Use default color mode for Natural and Boosted
+• Enable QDCM combined mode and disable factory mode
+• Drop LiveDisplay's color mode support
+• Ship full package of vendor.qti.hardware.dsp@1.0
+• Add COLOR_MODE_SATURATED support from sunfish
+• Build NFC from source
+• FOD improvement
+
+Notes :
+• Based on Global v12.2.6.0.RJKMIXM
+• Vanilla and Gapps build
+
+Bugs :
+• Report all of them if found
+
+Credits :
+• Allah SWT
+
+
+|=========================================|
 Date: 30-07-2021
 
 Changelogs :
