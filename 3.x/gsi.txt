@@ -1,0 +1,15 @@
+|==========| Generic System Image (GSI) |==========|
+
+Date : 29/08/2021
+
+* Device Changelogs:
+• Synced with latest source
+• Merged phhgsi v312
+• Merged some AndyCGYan changes
+
+* Notes :
+• Vanilla Build
+
+* Thanks to
+• phhusson
+• AndyCGYan
