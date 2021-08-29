@@ -1,6 +1,6 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 28/07/2021 | 3.1 Reservoir
+Date : 29/08/2021 | 3.2 Revolution
 
 • Device Changelogs :
 • Upstreamed Extended EAS kernel to 4.4.281
