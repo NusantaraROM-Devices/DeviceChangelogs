@@ -1,5 +1,9 @@
 |==========| Redmi K20 Pro / Mi 9T Pro |==========|
 
+Date: 29/08/2021 | Revolution 
+▪️ Device changelog
+- Initial build based on OSS vendor + A11 firmware
+
 Date: 26/07/2022 | 3.1 Reservoir
 • Device Changelogs
 - Update to Redfin July fingerprint. 
