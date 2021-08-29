@@ -1,11 +1,10 @@
 |==========| Redmi Note 5 / Whyred |==========|
 
-Date : 17/06/2021
+Date : 29/08/2021
 
 • Device Changelogs :
-• Upstream Extended EAS kernel to 4.4.270
-• Added blu_schedutil governor
-• Replaced Retro Music with Snapdragon Music 
+• Upstream Extended EAS kernel to 4.4.281
+• Performance and stability improvements
 
 
 • Notes :
