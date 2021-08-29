@@ -3,9 +3,12 @@
 Date : 28/07/2021 | 3.1 Reservoir
 
 • Device Changelogs :
-• Disable save to sdcard and 4K record option in Miui Camera (doesn't working properly)
-• Upstream Extended kernel to 4.4.274 compiled with GCC 12
-• Cleanup device configuration to achieve better stability
+• Upstreamed Extended EAS kernel to 4.4.281
+• Fixed poweroff alarm
+• Strip off some debugging packages
+• Switch to dummy libqti-perfd-client
+• More performance and stability fixes
+
 
 • Notes :
 • Old cam build.
@@ -18,4 +21,7 @@ Date : 28/07/2021 | 3.1 Reservoir
 • Use NikGapps build 3 July and later, as it is already fixed the backup script (so you won't need to reflash gapps everytime upgrade build)
 • Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
 • Don't install Nikgapps pixel launcher addons as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module or MrSluffy ones instead if you want.
-• LDAC codec is not working on QTI Bluetooth because hardware limitation, just enable "Disable Bluetooth A2DP hardware offload" in developer option if you're using headphone/iem/anything with LDAC codec
+• LDAC codec is not working on QTI Bluetooth because hardware limitation, just enable "Disable Bluetooth A2DP hardware offload" in developer option if you're using headphone/iem/anything with LDAC codec.
+• Powerctl is disabled, so performance tuning on Gaming mode does nothing, because after some testing, it actually causing performance regression for whyred. But other Gaming mode features still working as intended.
+• Facing some package installer force closing? Might be worth to clear defaults/uninstall Termux, or ES File Manager, as they're having file handler that unfortunately 'steal' the default for package installer.
+• You have already read notes until this point? Great, then you're making top of 90% people who still asking why this or that feature doesn't working properly 👏.
