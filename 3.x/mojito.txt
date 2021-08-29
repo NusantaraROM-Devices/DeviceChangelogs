@@ -1,0 +1,30 @@
+|==========| Redmi Note 10 (Sunny/Mojito) |==========|
+
+Date : 28/08/2021
+
+* Device Changelogs:
+• Initial OFFICIAL Build
+• August Secpatch
+• Ship with Legion Kernel
+• Synced with latest source
+• Add support for Gaming mode from exTHmUI
+• Use redfin August fp
+• Include Prebuilt TWRP
+• Include ANXCamera 185R
+
+* Known Bug
+• Tell me
+
+
+* Notes :
+• NON-OSS Build!
+• Gapps Build
+• Flashing methode same as other roms
+
+• Thanks to
+- @wholetthedogout for ANX 185R source
+- @ZIDAN44 for the trees
+- @venom_stark for kernel base
+- @Irs4nd our beloved pru tester
+- CSR & HSD Team
+
