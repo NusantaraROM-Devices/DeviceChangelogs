@@ -1,5 +1,36 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 30/08/2021
+Changelog :
+• August security patch
+• Added Enable Blur
+• Added MIUI Camera Port by default
+• Added back AOSP color modes settings
+• Fixed Offline charging
+• Fixed Adaptive Charging
+• Fixed OTG support
+• Switched to OSS GPS/GNSS stack
+• Switched epsilon kernel and clang xRageTC
+• Switched to non-MIUI panel dimensions (custom kernel users will have to flash the kernel that doesn't have MIUI panel dimensions)
+• Removed Nusantara Parts
+• Better RAM management
+• Increased minimum brightness level
+• Moved refresh rate settings to the device specific settings again
+• Merge tag 'LA.UM.9.1.r1-10900-SMxxx0.0
+• More underhood improvements and patches
+• Updated blobs from MIUI V12.5.6.0 RKFMIXM
+
+Notes :
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
+
+Credits :
+• Thanks @daniml3 & @grewal for commit
+• Thanks @neobuddy89 for Miuicamera port
+• Thanks @uditkarode for kernel
+• Thanks @lavishkumar for helping
+• Thanks @GSKB08 @Viedz_93 @jhoon97 for testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
 
 Date : 27/07/2021
 •Notes:
@@ -15,6 +46,7 @@ You Tell Me !!!
 @nazunamoe & @Aarunalr thanks for helping
 @Megalodonzs & @jhoo97 thanks for testing
 
+|==========| Redmi Note 10 Pro / Sweet|==========|
 
 Date : 24/06/2021
 •Device changelog:
