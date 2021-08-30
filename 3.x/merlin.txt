@@ -1,6 +1,26 @@
 |==========| Redmi Note 9 / Merlin |==========|
 
 
+Date : 30/08/2021
+
+Device Changelogs :
+• Synced with latest sources
+• Enable FPS info 
+• Enable Real time charging in lockscreen
+• Improve Speed Launcher,Settings,SystemUI
+• Using Based kernel
+
+Knows Bugs :
+• MTP set manually
+• USB tethering not work
+• Offline charging
+
+Notes :
+• GAPPS build 
+• Launcher lag? (Change Wallpaper)
+
+|====================================|
+
 Date : 11/08/2021
 
 Device Changelog : 
