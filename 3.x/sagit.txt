@@ -1,5 +1,28 @@
 |==========| Mi 6/ sagit |==========|
 
+Date : 30/08/2021
+
+• Device Changelogs :
+    • Sync Last Source Revolution
+    • Aug 2021 ASB Security Patch
+    • Upstremed Kernel 4.4.282
+    • Build Clang 13 for kernel
+    • Bring back hw button setings
+    • Add node for magisk banking
+    • Back to Pixel Charging
+    • Small net improvements
+    • Change default display density
+
+• Credits :
+    • sbwml and all sagit dev team
+
+• Notes :
+    • Ship Vanilla and Gapps version
+    • Vanilla ship MIUI Camera
+    • Gapps ship Google Camera
+
+|====================================|
+
 Date : 27/07/2021
 
 • Device Changelogs :
@@ -17,7 +40,7 @@ Date : 27/07/2021
 • Notes :
     • Thx to @colddfire & @Finggerscrossbed for test
 
-|==========| Mi 6/ sagit |==========|
+|====================================|
 
 Date : 22/06/2021
 
