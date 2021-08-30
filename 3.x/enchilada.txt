@@ -1,0 +1,26 @@
+|==========| OnePlus 6/ Enchilada |==========|
+
+Date : 30/08/2021
+
+Device Changelog:
+
+• overlay:  Enable Battery Health …
+• Sepolicy: Battery Health Sepolicy …
+• overlay:  Battery Health Overlay …
+• sdm845-common: overlay: Added support for call recording …
+• overlay: Enable Multi Users UI, Set Max Users to 4
+• Clean up AOD burn protection duplicate overlays
+• Clean up duplicate overlays for burn in protection
+• Revert" netflix custom property"
+• overlay: Disable UI touch sounds & bluetooth by default
+• overlay: Default to gesture navigation
+• overlay: Set screen off delay to 0
+• overlay: Enable Adaptive Charging
+• overlay: Use OnePlus pocket sensor for Pocket Judge
+• overlay: Enable burn-in-protection in Ambient Display
+• overlay: Enable status bar burn in protection
+• DeviceSettings: Update doze icon
+• Add OP cam flashable support 
+
+|================================|
+
