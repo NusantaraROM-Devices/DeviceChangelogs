@@ -1,5 +1,31 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 30/08/2021
+
+Device Changelogs :
+• Latest Sources & Secpacth (August 2021)
+• Remove Some Prebuilt & Added PMControls
+• Set & Enable GBoard padding & corners
+• Compile Kernel with Proton-clang v13.0
+• Improve Improved status bar (landscape) padding
+• Set QS, Google, Dialer & Full Gesture by default
+• realmeDirac: Fix icon on QS tile
+• realmeParts: Add FPS overlay on QS tile
+
+Notes :
+• Only Vanilla Build
+• GApps FlameGApps (Recommended)
+
+Known Bug :
+• Extra cameras
+• Night light flickers
+• ViLTE (native video calling)
+
+Credit :
+• Thanks to all realme 6 developers
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 30/07/2021
 
 Device Changelogs :
