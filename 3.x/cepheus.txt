@@ -1,5 +1,23 @@
 |==========| Mi 9/ cepheus |==========|
 
+Date : 31/08/2021
+
+• Device Changelogs :
+    • Sync Last Source Revolution
+    • Aug 2021 ASB Security Patch
+    • Ship Parrot GCam
+    • Update blobs from V12.5.4.0
+    • Firmware updated to V12.5.4.0
+    • Kernel Upstreamed to .244
+    • Fix blur
+    • Small improvements
+
+• Credits :
+    • Evasi0nXiao, ElectroPerf
+
+
+|==========| Mi 9/ cepheus |==========|
+
 Date : 22/07/2021
 
 • Device Changelogs :
