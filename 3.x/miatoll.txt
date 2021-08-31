@@ -1,8 +1,16 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date: 30/08/2021 | 3.2 Revolution
+Date: 01/09/2021 | 3.2 Revolution
 • Device Changelogs
- - Ship with Etherious Kernel 4.14.245
+ - Ship with Lighting Kernel, Thanks to sairam1411
+ - Status bar padding like MIUI
+ - Tree rebase
+
+• Notes
+ - Thanks for all Contributors in world wide for commits
+ - Clean flash recommended
+ - Random reboot? Disable DT2W or maybe latest firmware can help
+ - Warning, do not flash any other kernel otherwise fastboot/bootloop  
 
 Date: 28/08/2021 | 3.2 Revolution
 • Device Changelogs
@@ -42,4 +50,4 @@ Date: 28/08/2021 | 3.2 Revolution
  - Change log is to much can't include all, there is a lot more 
  - Thanks for all Contributors in world wide for commits
  - Clean flash recommended
- - Warning, do not flash any other kernel otherwise fastboot/bootloop  
+ - Warning, do not flash any other kernel otherwise fastboot/bootloop
