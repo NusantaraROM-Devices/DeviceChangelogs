@@ -40,3 +40,29 @@ Note :
 - NikGapps basic recommended for Vanilla
 - Clean Flash recommended
 - Use custom Kernel for FPS Meter
+
+
+------ Date : 31/08/2021 | Revolution 3.2 ------
+
+• Device Changelog
+
+- Bumped to 3.2 Revolution
+- Updated Redfin RQ3A.210805.001.A1
+- Updated Display & Adreno blobs from OnePlus6 - RKQ1.201217.002
+- Added QTI Thermal HAL
+- Added Power HAL Interaction Boost
+- Integration to exTHmUI's GameMode
+- Optimized CPU-Sets
+- Switch to QTI Health Implementation
+- Enabled 2.4Ghz Wi-FI Bonding
+- Disabled RX Wakelock Feature
+- Dropped Color Profiles
+- Fixed Greyish Screen (G-Photos, Wallpaper)
+
+Variant : Vanilla | GApps
+
+Note :
+- FlameGApps recommended for Vanilla
+- Clean Flash recommended
+- Use custom Kernel for FPS Meter
+
