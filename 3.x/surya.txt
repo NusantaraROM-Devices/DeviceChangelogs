@@ -1,22 +1,33 @@
 |==========| Poxo X3 NFC / Surya |==========|
 
-Date : 05/08/2021 | 3.1 Reservoir
+Date : 31/08/2021 | 3.2 Revolution
 
 Device Changelogs :
-• July Security Patch
-• Update MIUI Blobs to v12.0.1.2 RJGINXM
-• Update Blobs to LA.UM.9.1.r1-10200-SMxxx0.0
-• Checkout NFC Configs to v12.0.1.0 RJGMIXM
-• Update Display Configs 
-• Import USB Init from Stock
-• SilonT - Ayaka 4.14.241 as default kernel
-• Import QTI vibrator AIDL 
-• Other Fixes & Improvement
+• Update blobs from MIUI V12.5.2.0.RJGEUXM
+• Add haptic feedback level adjustment
+• Add script for exTHmUI's GameMode performance control
+• Add support for LCD HBM and CABC
+• Remove KCAL
+• Add QTI health implementation
+• Kang SF phase offsets from coral
+• Copy DispSync offsets from cmi
+• Drop SF display power timer
+• Drop surfaceflinger vsync phase offsets
+• Start mi_thermald on boot and drop thermal-engine
+• Disable debug.sf.latch_unsignaled
+• Set vendor.display.defer_fps_frame_count
+• Enable video mode panel
+• Enable update vsync on doze
+• Force set vendor.display.idle_time to 0
+• SilonT - Ayana v4.14.245 as default kernel
+• Other fixes and Improvements
 
 Notes :
 • OSS Build
-• GApps & Vanilla Variant
+• GApps Variant
 
 Credits :
 • @ghostrider_reborn
-• @Hiitagiii
+• @kenny3fcb
+• @Unicote
+• @Hiitagiii 
