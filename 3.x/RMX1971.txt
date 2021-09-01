@@ -1,5 +1,26 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 01/09/2021
+
+Device Changelogs :
+• Upstremed kernel 4.9.275
+• Aug SecPatch update
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps Variant
+• Vanilla : Nik Gapps recommended
+
+
+Credits 
+• Thanks To @Bablus for trees
+• thanks to all member realme developer group.
+
+
+=== Older Change Log ===
+
 Date : 28/07/2021
 
 Device Changelogs :
@@ -20,9 +41,6 @@ Note
 Credits 
 • Thanks To @Bablus for trees
 • thanks to all member realme developer group.
-
-
-=== Older Change Log ===
 
 
 |==========| Realme 5 Pro/ RMX1971 |==========|
