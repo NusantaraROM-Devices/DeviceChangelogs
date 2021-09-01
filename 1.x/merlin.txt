@@ -1,0 +1,26 @@
+|==========| Redmi Note 9 / Merlin |==========|
+
+
+Date : 01/09/2021
+
+Device Changelogs :
+    • Sync Last Source LTS
+    • Aug 2021 ASB Security Patch
+    • Swap Zram 4GB
+    • Add Google Camera Go
+    • Improve Performance and Smooth UI
+    • VoLTE working All Carrier
+    • Enable FPS info
+    • Genom Kernel by default kernel
+
+Knows Bugs :
+    • MTP (Set manualy in Developer Opsion)
+
+Notes :
+    • selinux Permissive
+    • Gapps Build
+
+Credits : 
+    • Thanks to Gengkapak
+    • Thanks to @rama982 and @Demiffiend
+    • Thanks to Redmi MT6768 Team
