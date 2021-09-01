@@ -1,0 +1,23 @@
+|==========| Redmi Note 7 / Lavender|==========| 
+
+Date : 31/08/2021 | 3.2 Revolution
+
+ • Device Changelog :
+- Update build FP to Redfin August
+- Upstream kernel .281
+- Bring back dirac
+- fix minor bugs & improve etc.
+
+ • Notes : 
+- 4.4 kernel
+- Cleanflash recommended
+
+Date :  30/07/2021 | 3.1 Reservoir
+
+ • Device Changelog :
+ - Update build FP to Redfin July
+ - Predator stormbreaker 9.8 is default kernel
+
+ • Notes :
+ - 4.4 kernel
+ - Cleanflash recommended
