@@ -1,4 +1,31 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 01/09/2021
+
+Device Changelogs:
+- Update Redfin FP to August
+- Updated post_boot script from LA.UM.9.6.2.r1-04800-89xx.0
+- Fixed power profile mismatch error from logs
+- LMKD changes
+- Performance optimizations and improvements
+- Disabled iorapd
+- Fixed GPU stuck at 320MHz in GPU intensive tasks
+- Compile with Eva GCC
+- Shipped with Finix Kernel 4.9.281
+- Flatten APEXs for Performance
+- Improve scrolling
+- Add memory optimization props
+
+Notes:
+- Clean flash is recommended.
+- FlameGApps recommended.
+- SafetyNet passed by default.
+
+Thanks to:
+- All NAD Teams
+- Pulkit077 for his awesome tree
+- AnGgIt88 for kernel
+
+|==========| Redmi 5 / Rosy |==========|
 Date : 27/07/2021
 
 Device Changelogs:
