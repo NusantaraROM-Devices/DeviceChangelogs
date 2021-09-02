@@ -30,3 +30,31 @@ Variant : Vanilla | GApps
 
 Note :
 - Clean Flash recommended
+
+------ Date : 02/09/2021 | 3.2 Revolution ------
+
+Device Changelogs :
+• Bumped to 3.2 Revolution
+• rewrite level performance exTHmUI's GameMode
+• Fix screenrecord lag
+• Don't apply thermal preset when GameMode is active 
+• Add script for exTHmUI's GameMode performance control
+• Matches stock Qualcomm configuration and improves performance
+• import renderscript drivers from crosshatch
+• Update WFD & Media Blobs from pyxis
+• Update CNE, IMS, QMI & RIL Blobs from pyxis
+• Update DRM and DPM Blobs from pyxis
+• Update HDR ,SDM ,PostProcessing ,Adreno ,Vulkan from OnePlus6
+• Update Peripherial, TEEC, TUC, SCVE from OnePlus6
+• Update IRTPservice version to 3.0
+• Update QtiRadio version to 2.4
+• Update factory version to v2.1
+• Enable IImsRadio v1.6
+• Enable 1.5 IRadio hal in manifest file
+• Update fp and description to redfin August
+• Safetynet passed by default
+• Some under the hood changes + fix
+
+Notes :
+• GApps & Vanilla Variant
+• Clean Flash recommended
