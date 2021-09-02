@@ -1,5 +1,25 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 02/09/2021
+
+Changelog :
+• Switched to OSS vendor
+• Enable IORap app launch prefetching
+• Update display and graphics blobs from Realme X2 (RUI 2.0)
+• Kang dexpreopt bits from OnePlus 7 tree
+• and misc changes..
+
+Notes :
+• No need to flash vendor again
+• Older kernel doesn't work in this build so if you want to change kernel, then use newer kernel only.
+• Flashing older kernel will result to wifi not work and some other bugs
+• NikGapps recommended
+
+
+Credits :
+• @bablus for base tree and TheTablaster
+• @Artoriaa for base kernel
+
 Date : 30/07/2021
 
 Changelog :
@@ -7,10 +27,3 @@ Changelog :
 • Upstreamed  kernel to 4.9.277
 • Merged latest android common kernel
 • Compiled with Clang 14.0.0
-
-Notes :
-https://github.com/NusantaraROM-Devices/DeviceChangelogs
-
-Credits :
-• SamarV-121 for tree
-• @Artoriaa for kernel base
