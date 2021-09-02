@@ -1,4 +1,29 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 01/09/2021
+
+• Device Changelogs:
+- SELinux Permissive
+- Compile with Eva GCC
+- Shipped with Finix Kernel 4.9.281
+- Flatten APEXs for Performance
+- Improve scrolling
+- Add memory optimization props
+- Improve audio configs
+- Add Dirac sound
+- Enable 24bit sound by default
+- Set LMKD configuration properties
+
+• Notes:
+- Clean flash is recommended.
+- BiTGApps or FlameGApps is recommended.
+
+• Credit:
+- Fzyand for server
+- Baunilla for his amazing tree
+- AnGgIt88 for his awesome kernel
+- @Nizarudin, @Cupang_goreng, and @Zvorkun for testing
+
+|==========| Redmi 5 / Rosy |==========|
 Date : 28/07/2021
 
 Device Changelogs:
@@ -31,7 +56,7 @@ Credit:
 - AnGgIt86 for his awesome kernel
 - @Nizarudin for testing
 
-
+|==========| Redmi 5 / Rosy |==========|
 Date : 15/04/2021
 
 Device Changelogs:
