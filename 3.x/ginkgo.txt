@@ -1,0 +1,12 @@
+|==========| Redmi Note 8/T / ginkgo/willow |==========|
+
+Date : 01/09/2021 | 3.2 Revolution 
+• Device Changelogs :
+- re-Initial build
+- Update build fp from redfin aug
+- i forgor 💀
+
+• Notes :
+- Only vanilla builf for now
+- Use NikGapps or FlameGApps
+- Prebuilt screenrecorder are broken, use 3rd screen recorder kthx.
