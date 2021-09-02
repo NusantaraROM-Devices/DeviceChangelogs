@@ -1,5 +1,13 @@
 |==========| Realme 2 Pro / RMX1801|==========|
 
+Date : 02/09/2021 | 3.2 Revolution
+• Device Changelogs
+- Upstreamed kernel to 4.4.282
+- Switch to EAS powerhal
+- Enable full VNDK
+- Zram tuning
+- And more
+
 Date : 18/06/2021 | 3.0 Rotterdam
 • Device Changelogs
 - Upstreamed kernel to 4.4.273
