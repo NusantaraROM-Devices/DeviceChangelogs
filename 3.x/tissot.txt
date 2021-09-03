@@ -1,5 +1,18 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 03/09/2021
+
+• Device Changelogs :
+- Improved stability
+- Misc Changes and Fixes 	
+
+• Notes
+- Nusantara parts included (but not working because need kernel support)
+- For user problem with screen burn in / shadow for now, you can use the live display menu to overcome burn in
+
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 29/07/2021
 
 • Device Changelogs :
