@@ -1,0 +1,27 @@
+|==========| Redmi Note 4/4x |==========|
+
+Date : 04/09/2021 | 3.2 Revolution
+
+Device Changelogs :
+- Initial OFFICIAL Build
+- Update build fp from redfin aug
+- Add script for exTHmUI's GameMode performance control
+- Disable debug.sf.latch_unsignaled
+- Enable AOSP surfaceflinger
+- Enable usage of dex2oat64
+- Enable pre-rendering
+- Disable VSync for CPU rendered apps
+- Disable hwc vds in surface flinger
+- Fix screenrecord lag
+- Flatten APEXs for performance
+- Set zRAM to 1.5 GB
+- Compiled Kernel with GengKapak Clang 14
+
+Notes :
+- Clean Flash recommended
+- GApps & Vanilla Variant
+- Use NikGapps or FlameGApps for vanilla builds
+
+Credits
+- Thanks To @zeelog for trees
+- Thanks To @smokey_18 for kernel
