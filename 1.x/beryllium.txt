@@ -1,16 +1,13 @@
 |==========| Pocophone F1 / beryllium |==========|
 
-Date : 18-20/4/2021
+Date : 07/9/2021
 
-• Device Changelogs :
-- Source upstream
-- enable livedisplay
-
-
-• Known Bug
-- Vowifi
-- smartcharging
-
+Device Changelogs :
+• Add Thermal Profile tiles
+• Add dirac qs tiles
+• Add switchbar to disable dynamic thermal
+• update fingerprint to august 2021
 
 • Notes :
-- Vanilla & gapps
+- Clean Flash Recommended
+- Vanilla
