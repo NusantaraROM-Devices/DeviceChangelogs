@@ -1,0 +1,21 @@
+|==========| Redmi Note 3 Pro / Kenzo |==========| 
+
+Date : 10/09/2021 | 3.2 Revolution
+
+ • Device Changelog :
+• Initial build
+• Shipped with Bloss-ShineLotus kernel
+
+ • Known bug :
+• SELinux Permissive
+• In rare times, phone might be seems like won't turn on after long deepsleep, workaround for that is to click power button several times
+  until it wakeup (just don't hold it and force reboot)
+• Anything else? tell us with proper logs.
+
+ • Notes : 
+• Clean flash is mandatory (with format data) to avoid lockscreen bug.
+• For Gapps selection on vanila build, use flamegapps basic or full variant, or NikGapps Core or Basic.
+• Don't flash another custom kernel for now to avoid small issues with performance and storage, in worst scenario it will lead to bootloop and lost data.
+• Don't flash PixelLauncher from Nikgapps, only install it from FlameGapps as from NikGapps ones is causing black screen after booted.
+• Only use Gallerygo or Simple Gallery for changing header image customization.
+• As always, thanks to Magicxavi for keeping up kenzo to stay on the line.
