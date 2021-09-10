@@ -40,3 +40,14 @@ Date : 03/08/2021
 • Notes :
 - Vanilla Build
 - Use Custom Kernel to use FPS Meter
+
+
+Date : 09/09/2021
+
+• Device Changelogs :
+- Switch back to default dipper FP
+- Added Mi Extras (USB FastCharge, SELinux)
+
+• Notes :
+- Vanilla Build
+- Use Custom Kernel to use FPS Meter
