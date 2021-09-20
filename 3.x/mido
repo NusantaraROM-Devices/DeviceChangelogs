@@ -6,11 +6,16 @@ Device Changelogs :
 • Update Boot Scripts from LA.UM.9.6.2.r1-04800-89xx.0
 • import init.class_main.sh from LA.UM.9.6.2.r1-04700-89xx.0
 • Update Thermal Blobs from Onclite V12.5.1.0
+• Fix vendor.qti.hardware.perf@1.0-service boot
+• Fix Drain Issue From msm_irqbalance
 • Disable Audio_Feature_Enabled_Kpi_Optimize
+• import new thermal engine
+• Enable usage of dex2oat64
 • Update Vulkan Configs
+• Drop QTI vibrator
 • Enable Full IOP
-• Add KCal
 • Set zRAM to 2GB
+• Add KCal
 • Compiled Kernel with GengKapak Clang 13
 
 Notes :
