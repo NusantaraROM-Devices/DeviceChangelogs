@@ -1,24 +1,31 @@
 |==========| Redmi Note 4/4x |==========|
 
-Date : 19/09/2021 | 3.2 Revolution
+Date : 22/09/2021 | 3.2 Revolution | HOTFIX
 
 Device Changelogs :
 • Update Boot Scripts from LA.UM.9.6.2.r1-04800-89xx.0
 • import init.class_main.sh from LA.UM.9.6.2.r1-04700-89xx.0
+• Drop ro.surface_flinger.force_hwc_copy_for_virtual_displays
 • Update Thermal Blobs from Onclite V12.5.1.0
+• Disable Audio_Feature_Enabled_Kpi_Optimize
 • Fix vendor.qti.hardware.perf@1.0-service boot
 • Fix Drain Issue From msm_irqbalance
-• Disable Audio_Feature_Enabled_Kpi_Optimize
+• Kang SF phase offsets from coral
 • import new thermal engine
 • Enable usage of dex2oat64
 • Update Vulkan Configs
 • Drop QTI vibrator
 • Enable Full IOP
 • Set zRAM to 2GB
+• Add Youtube Vanced
 • Add KCal
 • Compiled Kernel with GengKapak Clang 13
 
 Notes :
 • Clean Flash recommended
-• Vanilla Build
-• Use NikGapps or FlameGApps recommended
+• Vanilla and Gapps build
+• Recommended using NikGapps or BitGapps for Vanilla build
+
+Credits and Thanks:
+• Thanks to #GengKapak and many more for their support 👊😎
+• All Mido Dev Contributors
