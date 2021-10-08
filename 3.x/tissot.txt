@@ -1,5 +1,21 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 08/10/2021
+
+• Device Changelogs :
+- October ASB
+- enable battery health
+- Switched gabuters clang and shrimp kernel by default (based lightning)
+- Improved stability
+- Misc Changes and Fixes
+
+Credits :
+• Thanks to Allah SWT for everything
+• Thanks @Prorooter007 @whdbfl for kernel
+• Thanks @EhSiAnjing2 @Legendkushal for testing
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 03/09/2021
 
 • Device Changelogs :
