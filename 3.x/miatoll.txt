@@ -1,53 +1,28 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date: 01/09/2021 | 3.2 Revolution
+Date: 08/10/2021 | 3.3 Rhun
 • Device Changelogs
- - Ship with Lighting Kernel, Thanks to sairam1411
- - Status bar padding like MIUI
- - Tree rebase
-
-• Notes
- - Thanks for all Contributors in world wide for commits
- - Clean flash recommended
- - Random reboot? Disable DT2W or maybe latest firmware can help
- - Warning, do not flash any other kernel otherwise fastboot/bootloop  
-
-Date: 28/08/2021 | 3.2 Revolution
-• Device Changelogs
- - August security patch, Merge kernel into 4.14.245
- - Based on my tress, did rebase from Sonal
- - Vendor revamp, Common vendor blobs from CURTANA EEA Global V12.5.1.0.RJWEUXM
- - Updated blobs from Joyeuse EEA RKQ1.200826.002 V12.5.1.0
- - Random reboot & Freezing should be fixed as user reported
- - Addressed and Add a lot danials, like a lot
- - Imrpoved Idle drain to the beast
- - Changed screen DPI to 411 due some UI glitches
- - Improved ram managment, apps should stay in ram and less ram usage
- - Fixed Screen recording lag
- - Fixed all wake up problems
- - Switched to user build due stable sepolicy
- - Droped some vp8-vp9 media codecs
- - Added missing c2 media codecs
- - Uprev data factory HIDL to v2.2 and uceservice HAL to v2.3 (CAF did it)
- - Enable Seamless Transfer support
- - Add script for exTHmUI's GameMode performance control
- - Nuked Dirac & Xiaomi Parts / Doze
- - Use CodeAurora ImsService implementation for RCS
- - Report Verified Boot support
- - Faster app / closing time
- - Enforce 24-bit audio for offload playback
- - Improved audio quality a lot, should be crystal clear
- - Enable unspecialized app process pool and the pre-rendering feature
- - Set zRAM size dynamically (CAF did it)
+ - October Security Patch
+ - Sync latest Lighting kernel
+ - Improved Status bar padding
+ - Fully fixed DT2W Random Reboot and screen flashing
+ - Fixed Audio Letancy and Improved it
+ - Added Apex Support
+ - Fully nuked Dirac, and MISound FX
+ - Improved WIFI Overlays, speed should be best.
+ - Nuked FM Radio
+ - Include New Keymaster HAL
+ - Use as many LLVM tools as possible
+ - Properly lebaled rootdir labels
+ - Add more Nodes to access suspend
+ - Grant More RW Permissions
  - Use dexpreopt bits from guacamoleb tree
- - Hiding Magisk better
- - Optimize native executables for Cortex-A76 CPU
- - Use Native OpenGL Version
- - Disable VSync for CPU rendered apps
- - And other miscellaneous fixes and performance improvments
+ - Simplify AVB flag logic
+ - Addressed more sepolicy
+ - Fixed bootloop if you flash another kernel
+ - Use mlipay from CURTANA EEA Global V12.5.1.0.RJWEUXM
 
 • Notes
- - Change log is to much can't include all, there is a lot more 
  - Thanks for all Contributors in world wide for commits
- - Clean flash recommended
- - Warning, do not flash any other kernel otherwise fastboot/bootloop
+ - Clean flash recommended if you come from 3.2
+ - Screen off Hold / Double Press torch isn't working.
