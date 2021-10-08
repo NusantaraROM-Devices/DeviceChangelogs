@@ -1,14 +1,14 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 29/08/2021 | 3.2 Revolution
+Date : 08/10/2021 | 3.3 Revolution
 
 • Device Changelogs :
-• Upstreamed Extended EAS kernel to 4.4.281
-• Fixed poweroff alarm
-• Strip off some debugging packages
-• Switch to dummy libqti-perfd-client
-• More performance and stability fixes
-
+• Switch to AOSP WFD
+• Fixed scrcpy can't connect
+• Added option to turn on/off notification light while charging
+• Disable performance option/slider on Gaming Mode (not getting satisfying result after some testing)
+• Upstream Extended kernel to 4.4.283
+• And some underhood optimization
 
 • Notes :
 • Old cam build.
@@ -22,6 +22,5 @@ Date : 29/08/2021 | 3.2 Revolution
 • Also please, don't install gapps which has packageinstaller like opengapps to avoid problem when uninstalling apps, like uninstall failed or force closed.
 • Don't install Nikgapps pixel launcher addons as it causing black screen, just install Flame Pixel Launcher or Pixel Launcher Magisk Module or MrSluffy ones instead if you want.
 • LDAC codec is not working on QTI Bluetooth because hardware limitation, just enable "Disable Bluetooth A2DP hardware offload" in developer option if you're using headphone/iem/anything with LDAC codec.
-• Powerctl is disabled, so performance tuning on Gaming mode does nothing, because after some testing, it actually causing performance regression for whyred. But other Gaming mode features still working as intended.
 • Facing some package installer force closing? Might be worth to clear defaults/uninstall Termux, or ES File Manager, as they're having file handler that unfortunately 'steal' the default for package installer.
-• You have already read notes until this point? Great, then you're making top of 90% people who still asking why this or that feature doesn't working properly 👏.
+• You have already read notes until this point? great, then you're making top of 90% people who still asking why this or that feature doesn't working properly 👏.
