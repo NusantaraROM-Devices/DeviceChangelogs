@@ -1,5 +1,16 @@
 |==========| Redmi Note 7 / Lavender|==========| 
 
+Date : 09/10/2021 | 3.3 Rhun
+
+ • Device Changelog :
+- Upstream kernel .283
+- fix minor bugs & improve etc.
+ 
+ • Notes :
+- 4.4 kernel & HMP build
+- cleanflash is recommended
+
+
 Date : 31/08/2021 | 3.2 Revolution
 
  • Device Changelog :
@@ -9,7 +20,7 @@ Date : 31/08/2021 | 3.2 Revolution
 - fix minor bugs & improve etc.
 
  • Notes : 
-- 4.4 kernel
+- 4.4 kernel 
 - Cleanflash recommended
 
 Date :  30/07/2021 | 3.1 Reservoir
