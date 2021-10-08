@@ -32,3 +32,4 @@ Date :  30/07/2021 | 3.1 Reservoir
  • Notes :
  - 4.4 kernel
  - Cleanflash recommended
+
