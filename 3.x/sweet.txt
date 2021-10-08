@@ -1,5 +1,35 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 08/10/2021
+Changelog :
+• Oktober ASB
+• Added Battery Health
+• Added Health hal from stock
+• Changed Device Name, BT Name, Hotspot Name To Redmi Note 10 Pro (clean flash)
+• Fixed Name specification in about phone
+• Fixed Sound Notif App
+• Fixed Oversaturated Colors
+• Fixed BCA mobile transfer list
+• Fixed network traffic on statusbar
+• Switch to SnapCam
+• Switch to proton clang and arrow kernel by default
+• Switch to LMK
+• Tuned Zram performance
+• Reworked color modes
+• Other fixes and Improvements
+
+Notes :
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
+• Gapps Only
+
+Credits :
+• Thanks to Allah SWT for everything
+• Thanks all Lead Dev NusantaraProject for helping
+• Thanks @daniml3 for trees , vendor & kernel
+• Thanks @iamspakauskie @GSKB08 for testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 30/08/2021
 Changelog :
 • August security patch
