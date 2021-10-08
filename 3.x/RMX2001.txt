@@ -1,5 +1,30 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 08/10/2021
+
+Device Changelogs :
+- October ASB (android-11.0.0_r46)
+- Strip off some debug packages
+- Added several Android GO config
+- Disable edge limit control globally
+- Reduce any bug and lags in waking up
+- Shipped with SYNTXforce-究極-R1 Kernel
+- Added several cahced config from Redfin
+
+Notes :
+• Only Vanilla Build
+• GApps FlameGApps (Recommended)
+
+Known Bug :
+• Extra cameras
+• Night light flickers
+• ViLTE (native video calling)
+
+Credit :
+• Thanks to all realme 6 developers
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 30/08/2021
 
 Device Changelogs :
