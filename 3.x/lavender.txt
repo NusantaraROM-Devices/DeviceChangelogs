@@ -3,7 +3,7 @@
 Date : 09/10/2021 | 3.3 Rhun
 
  • Device Changelog :
-- Upstream kernel .283
+- bump to 3.3
 - fix minor bugs & improve etc.
  
  • Notes :
