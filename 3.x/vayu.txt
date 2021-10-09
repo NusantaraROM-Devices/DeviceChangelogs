@@ -1,10 +1,12 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
-Date : 30/08/2021
+Date : 09/10/2021
 
 Device Changelogs :
 • OSS Based
-• Rebased to Arrow Tree
+• Fixed WFD
+• Fixed 90Hz
+• Fixed Smartcharging 
 
 Notes:
 • Clean flash is mandatory
