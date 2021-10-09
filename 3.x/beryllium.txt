@@ -58,3 +58,24 @@ Device Changelogs :
 Notes :
 • GApps & Vanilla Variant
 • Clean Flash recommended
+
+------ Date : 09/10/2021 | 3.3 Rhun ------
+
+Device Changelogs :
+• Bumped to 3.3 Rhun
+• Audio: boost audio-record mic volume
+• Audio: boost both mics in audio-record
+• Add Battery Health 
+• Build QTI Thermal HAL
+• QTI Vibrator AIDL HAL
+• Enable Smartcharging
+• Add FPS Info tile & overlay
+• Bring back PocoParts as POCO Extras
+• Change the Max Charging capabilities after boot 
+• Vibrator: Implement Effects for QPNP Haptics driver 
+• Enable pre-rendering
+• Update fp and description to redfin October
+
+Notes :
+• GApps & Vanilla Variant
+• Clean Flash recommended
