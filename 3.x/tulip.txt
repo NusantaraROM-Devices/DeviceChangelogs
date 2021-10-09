@@ -1,0 +1,12 @@
+|=========| Xiaomi Redmi Note 6 Pro / Tulip |==========|
+
+Date : 09/10/2021
+
+Device Changelogs:
+• Initial Official Build
+
+Notes:
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• CTS/SafetyNet passed
+
