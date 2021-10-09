@@ -4,9 +4,12 @@ Date : 09/10/2021
 
 Device Changelogs:
 • Initial Official Build
+• Shipped with LineageOS kernel
 
 Notes:
 • Clean Flash recommended
 • Vanilla release, GApps not include
 • CTS/SafetyNet passed
 
+Credits:
+• arturo51236 for device and vendor tree
