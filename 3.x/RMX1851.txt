@@ -1,5 +1,14 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 09/10/2021
+
+Changelog :
+• Switched back to RUI vendor for now
+
+Notes : 
+• Use RealmeUI vendor C13 and above
+• NikGapps recommended
+
 Date : 02/09/2021
 
 Changelog :
