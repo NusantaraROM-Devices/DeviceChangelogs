@@ -1,5 +1,28 @@
 |==========| Redmi 9 / Poco M2 Unified (Lava) |==========|
 
+
+Date : 09/10/2021
+
+Changelog :
+• Synced with latest sources
+• Using October Redfin FP (CTS passed by default)
+• Enable GBoard rounded corners
+• Limit screen recorder framerate to 60fps
+• Add Notch Bar Killer overlay
+
+Known Bug :
+• DT2W
+
+Notes :
+• Only for MIUI 12.0.1 vendor
+• Clean flash recommended
+• First boot is bootloop, force reboot to fix it
+• Vanilla and Gapps build (Recommended using NikGapps or MindTheGapps for Vanilla build)
+
+
+|========================================================|
+
+
 Date : 09/09/2021
 
 Changelog :
