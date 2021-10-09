@@ -1,5 +1,58 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date : 08/10/2021
+
+Device Changelogs:
+
+• Update Sensor configs from LA.UM.9.6.2.r1-03600-89xx.0
+• Ship libmmosal from LA.UM.9.6.2.r1-03600-89xx.0
+• Switch to AOSP WFD/Cast implementation
+• Update Soter stack from MIUI V12.5.1.0 QFLCNXM
+• Switch to in house device specific HALs
+• Exclude libqservice from binder interface whitelisting
+• Drop SoundTrigger HAL
+• Update Qualcomm aptX blobs from redfin
+• Update Brightness configuration from MIUI V12.5.1.0 QFLCNXM
+• Use Pronton Clang for kernel compiler
+• Override blur props from init script
+• Added PID 0x90D9 USB configurations
+• Allow fm_app to set vendor_fm_prop
+• Remove duplicate persist.vendor.radio.data_con_rprt prop
+• Allow all filesystems for USB OTG
+• Added missing USB OTG prop
+• Kick out useless persist.sys.usb.config prop
+• Enable config_intrusiveBatteryLed
+• Import some overlay configs from stock
+• Import some Tethering configs from stock
+• import some Wifi configs from stock
+• Disable slow blur effect to avoid lagging
+• Move service vendor-sensor-sh to init.qcom.rc
+• Match default battery led color as per stock
+• Import minimal rootdir changes from stock
+• Add translatable="false" in config_wifi_ap_mac_randomization_supported
+• Address com.android.phone SELinux denials
+• Move device specific init script to init.qcom.rc
+• Enable performance profiles
+• Move smart charging node and permissions to on boot
+• Set config_wifiDisplaySupportsProtectedBuffers to false
+• Add dummy perf profile
+• Avoid drain issue from msm_irqbalance.conf
+
+Notes:
+
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps basic
+• Needed Firmware from MIUI 12.5.1.0 (China) / 11.0.2.0 (Global)
+• CTS/SafetyNet passed without root
+• Banking apps working
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 30/08/2021
 
 Device Changelogs:
