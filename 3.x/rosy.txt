@@ -1,4 +1,29 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 10/10/2021
+
+• Device Changelogs:
+- Update Redfin FP to October
+- Shipped with EternalX 4.9.263
+- Compile with rzy clang 14
+- Increase zRAM to 2gb
+- Allow 120fps video recording
+- Add hotword input for hotword mic concurrency
+- Set USB controller configuration for msm8953
+- Fix incall mic with headphones
+
+• Notes:
+- Clean flash is recommended.
+- NikGApps or BiTGApps recommended.
+- SafetyNet passed by default.
+
+• Thanks to:
+- All NAD Teams.
+- Pulkit077 for his awesome tree.
+- zexceed001 for kernel.
+- Bang Dani for server.
+- Ariev and Fin for testing.
+
+|==========| Redmi 5 / Rosy |==========|
 Date : 01/09/2021
 
 Device Changelogs:
