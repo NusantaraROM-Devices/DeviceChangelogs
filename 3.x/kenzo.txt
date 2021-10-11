@@ -2,20 +2,32 @@
 
 Date : 10/09/2021 | 3.2 Revolution
 
- • Device Changelog :
-• Initial build
-• Shipped with Bloss-ShineLotus kernel
+Device Changelog :
+• SELinux is now enforcing
+• Fixed BT Calls over last build
+• Fixed connecting to wireless display for ex. Miracast, causing phone to soft reboot
+• Fixed zRAM not active over last build
+• Update zRAM size to 536 MB
+• Refined early surfaceflinger values from crosshatch to reduce jank
+• Update spectrum profile for better throttling in gaming mode, and better efficiency in balance mode
+• Update Dirac for better reliability and stability
+• Added AdvancedControls 
+• Force disable writeback to fix lags in certain condition
+• Ship patched camera blobs by default, this will :
+  • Enables 60 FPS video recording
+  • Fixes green tint on front camera
+  • Added 4k DCI Support
+  • Increased Maximum ISO value - 12,800
+  • Give constant framerates when shooting videos
+  • Improved Denoising for 30 fps videos
 
- • Known bug :
-• SELinux Permissive
-• In rare times, phone might be seems like won't turn on after long deepsleep, workaround for that is to click power button several times
-  until it wakeup (just don't hold it and force reboot)
-• Anything else? tell us with proper logs.
-
- • Notes : 
+Notes : 
 • Clean flash is mandatory (with format data) to avoid lockscreen bug.
+• Use recovery from https://sourceforge.net/projects/bliss-rom-kenzo/files/OrangeFox_kenzo/
+• Facing sensor problem because was having flash los 18.1 ports in the pasts? Reflash miui 8 dev first.
 • For Gapps selection on vanila build, use flamegapps basic or full variant, or NikGapps Core or Basic.
 • Don't flash another custom kernel for now to avoid small issues with performance and storage, in worst scenario it will lead to bootloop and lost data.
 • Don't flash PixelLauncher from Nikgapps, only install it from FlameGapps as from NikGapps ones is causing black screen after booted.
 • Only use Gallerygo or Simple Gallery for changing header image customization.
+• Install Google Wallpaper apps on gapps variant to change wallpaper
 • As always, thanks to Magicxavi for keeping up kenzo to stay on the line.
