@@ -1,30 +1,48 @@
 |==========| Redmi Note 10 (Sunny/Mojito) |==========|
 
-Date : 28/08/2021
+Date : 11/10/2021
 
 * Device Changelogs:
-• Initial OFFICIAL Build
-• August Secpatch
-• Ship with Legion Kernel
-• Synced with latest source
-• Add support for Gaming mode from exTHmUI
-• Use redfin August fp
-• Include Prebuilt TWRP
-• Include ANXCamera 185R
+- OSS BUILD
+- Drop ANXCamera
+- Cts passed by default 
+- Cts magisk passed too
+- Call on WA works 
+- Dt2s/dt2w works
+- Google Photos now unlimited
+- Rounded corner Gboard
+- Added KCAL Support
+- Added Battery Health
+- Added cutout camera ring animation
+- Fixed Proximity sensor
+- Fixed Heating Issues
+- Fixed 'OK Google', 'Hey Google', 'Woi Google'
+- Fixed IR Blaste
+- Fixed touch issues
+- Fixed WFD/Cast
+- Disabled wifi firmware logging
+- Smarter decisions on whether to use 2/5Ghz AP
+- Fixed wallpaper zooming
+- Fixed SmartCharging
+- Fixed PaymentApps issues (Can't check balance)
+- Import turkish translation
+- Import Xiaomi mlipay service blobs
+- Increased ZRAM to 2GB
+- Now using PE Kernel as a default
 
 * Known Bug
 • Tell me
 
 
 * Notes :
-• NON-OSS Build!
+• OSS Build!
 • Gapps Build
 • Flashing methode same as other roms
 
 • Thanks to
 - @wholetthedogout for ANX 185R source
-- @ZIDAN44 for the trees
-- @venom_stark for kernel base
-- @Irs4nd our beloved pru tester
+- @ZIDAN44 & @dblenk9 for the trees
+- @ZIDAN44 for kernel base
+- @Raplyy123 & @Raplyy123 our beloved tester
 - CSR & HSD Team
 
