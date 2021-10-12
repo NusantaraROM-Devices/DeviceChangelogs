@@ -1,23 +1,30 @@
 |==========| Redmi Note 9 / Merlin |==========|
 
 
-Date : 30/08/2021
+Date : 12/10/2021
 
 Device Changelogs :
 • Synced with latest sources
-• Enable FPS info 
-• Enable Real time charging in lockscreen
-• Improve Speed Launcher,Settings,SystemUI
-• Using Based kernel
-
-Knows Bugs :
-• MTP set manually
-• USB tethering not work
-• Offline charging
+• Initial OSS-R build
+• Rebrand Merlin as Merlinx
+• Default kernel Using Violet kernel
+• Update redfin fingerprint to October
+• SafetyNet Passed By Default
+• Enable AOD but Disable by Default
+• Disable Bluetooth by Default
+• Disable UI Touch Sound by Default
+• Enable Freeform Window management
+• Add touch improvement
+• Set max notification to 4
+• Disable wallpaper zooming
+• Add script for exTHmUI's GameMode performance control
+• Reduce screenshot delay to 0
+• Add overlay battery health
 
 Notes :
-• GAPPS build 
-• Launcher lag? (Change Wallpaper)
+• GAPPS build
+• Vanilla build
+• OSS Vendor R
 
 |====================================|
 
