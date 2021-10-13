@@ -1,5 +1,28 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 13/10/2021
+Changelog :
+• Added KCAL in display
+• Added Refresh Rate in Display
+• Included ANXCamera 204
+• Update blobs from MIUI v12.5.8.0 RKFMIXM
+• Update brightness overlay from MIUI V12.5.6.0 RKFMIXM
+• Switch @grewal Kernel
+
+Notes :
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
+• Gapps Only
+
+Credits :
+• Thanks to Allah SWT for everything
+• Thanks @daniml3 for trees
+• Thanks @Grewal for kernel
+• Thanks @lavishkumar for ANXCamera
+• Thanks Founder NAD @Genkzsz11 for helping
+• Thanks @GSKB08 for testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 08/10/2021
 Changelog :
 • Oktober ASB
