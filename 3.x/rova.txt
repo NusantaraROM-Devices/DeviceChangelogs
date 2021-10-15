@@ -1,0 +1,30 @@
+|==========| Redmi 4A/5A (Rova) |==========|
+
+Date : 15/10/2021
+
+* Device Changelogs :
+• Synced with latest source
+• OSS Build
+• Upstreamed kernel to KudProject 4.9.285
+• Use Eva GCC to compile kernel
+• Fix flashlight camera on third apps
+• Add script for exTHMui's game mode performance control
+• Google photos unlimited now
+• Disable bluetooth by default
+• Enable QPower and Deep sleep at the same time
+• Disable wallpaper zooming
+• Hide magisk better
+• Make the UI smoother
+• Increase charging temperature thresholds
+
+* Known Bug
+• U Tell Me
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to
+• @me_cafebabe for trees
+• @pelicanclub @Taseer_b_001 @alefirmanalfarizy @RInitial30 for test
+• CSR & HSD Team
