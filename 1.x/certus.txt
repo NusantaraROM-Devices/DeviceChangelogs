@@ -1,18 +1,52 @@
 |==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
-  2
-  3 Date : 15/08/2021
-  4
-  5 * Device Changelogs:
-  6 • Synced with latest source
-  7
-  8 * Known Bug
-  9 • Carrier Video Calling (ViLTE)
- 10 • USSD on 4G
- 11
- 12 * Notes :
- 13 • Vanilla Build
- 14 • Only for pie vendor (except 11.0.9 [Cactus], 11.0.5 [Cereus])
- 15 • Don't use Dolby or ViperFx
+
+Date : 14/10/2021
+ 
+* Device Changelogs:
+  * arm
+    • Synced with latest source
+    • Initial build for alps vendor
+    • Add AptX and AptX HD support (not tested)
+    • Kernel Upstreamed to 4.9.200
+    • VoLTE fixed
+    • Ussd on 4G fixed
+    • Add EngineeringMode
+
+  * arm64
+    • Synced with latest source
+    • Initial arm64 build
+    • Add AptX and AptX HD support (not tested)
+    • Kernel Upstreamed to 4.9.200
+    • Add EngineeringMode
+
+* Known Bug
+  • VoLTE (arm64 build)
+  • Carrier Video Calling (ViLTE)
+  • Offline Charging
+  • Fingerprint on cereus
+
+* Notes :
+  • Vanilla Build
+  • USE ALPS 0.4 VENDOR
+  • both arm and arm64 build available
+  • vendor not included (Find on cactus/cereus groups)
+  • For cactus user recommended use arm build for better perfomance
+
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
+Date : 15/08/2021
+ 
+* Device Changelogs:
+• Synced with latest source
+
+* Known Bug
+• Carrier Video Calling (ViLTE)
+• USSD on 4G
+
+* Notes :
+• Vanilla Build
+• Only for pie vendor (except 11.0.9 [Cactus], 11.0.5 [Cereus])
+• Don't use Dolby or ViperFx
 
 |==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
 
