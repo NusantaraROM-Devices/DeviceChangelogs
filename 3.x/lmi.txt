@@ -1,4 +1,29 @@
 |==========| POCO F2 Pro / LMI |==========|
+Date: 15-10-2021
+
+Changelogs :
+• Enable Adaptive charging
+• Allow system to read Fast Charging
+• Default to 6GB Dalvik heap configuration
+• Remove some packages at build time (GAPPS build)
+  * Chrome
+  * Maps
+  * Photos
+  * PrebuiltGmail
+  * YouTube
+
+Notes :
+• Based on Global v12.2.6.0.RJKMIXM
+• Vanilla and Gapps build
+
+Bugs :
+• Report all of them if found
+
+Credits :
+• Allah SWT
+
+
+|=========================================|
 Date: 30-08-2021
 
 Changelogs :
