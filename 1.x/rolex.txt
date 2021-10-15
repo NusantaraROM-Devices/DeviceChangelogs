@@ -1,29 +1,23 @@
 |==========| Redmi 4A / Rolex |==========|
 
-Date : 01/03/2021 (4.9 Kernel)
+Date : 10/10/2021
 
 • Device Changelogs :
 - Synced with latest source
-- Fix screen recorder issue
-- Upstreamed kernel to 4.9.258
-- Rebased kernel to LA.UM.8.6.2.r1-09200-89xx.0
-- Rebased device tree from 3.18
-- Added XiaomiParts
-
-Date : 26/02/2021 (3.18 Kernel)
-
-• Device Changelogs :
-- Synced with latest source
-- Silence some selinux denials
-
-Date : 21/12/2020
-
-• Device Changelogs :
-- Synced with latest source
-- Upstreamed kernel
+- Use 3.18 kernel
+- Update build fingerprint to redfin October
+- Add SysUI to PRODUCT_DEXPREOPT_SPEED_APPS
+- Disable VSync for CPU rendered apps
+- Enable memory optimizations
+- Compile HWUI for Better Performance
+- Add call recording Overlay
+- Reduce battery drain on wifi
+- Add prop for signal better
 
 • Notes :
 - Vanilla Build
 
 • Credits 
-- Thanks To Nick89786 for initial trees and all of you :)
+- Thanks To @Nick89786 for initial trees
+- Thanks To @pelicanclub @Taseer_b_001 for test
+- CSR & HSD Team
