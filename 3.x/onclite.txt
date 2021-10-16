@@ -1,5 +1,42 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date : 15/10/2021
+
+Device Changelogs:
+• 2nd Rhun released
+• Sync with latest source side changes
+• Switch back to old Brightness configuration
+• Allow all filesystem type for Adoptable Storage
+• Avoid lag while Screen Recording
+• Limit Screen Recorder's framerate to 60 FPS
+• Switch to common AIDL Power HAL (Thanks to Dhina17)
+• Build AIDL Power HAL stats
+• Rewrite Light HAL based on our LED driver
+• Fix Light HAL segfault in setLight function
+• Drop unnecessary Light HAL handled variable in setLight function
+• Move light HAL to system background
+• Add Interface definition to default Light HAL
+• Add 'vendor.' prefix to Light HAL service name
+• Use pragma once directive for Light HAL
+• Properly scale Light HAL brightness range
+• Avoid Light HAL uint32_t underflow
+• Address Light HAL SELinux denial
+
+Notes:
+
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps basic
+• Needed Firmware from MIUI 12.5.1.0 (China) / 11.0.2.0 (Global)
+• CTS/SafetyNet passed without root
+• Banking apps working
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 08/10/2021
 
 Device Changelogs:
