@@ -1,21 +1,23 @@
 |==========| Redmi 5A / Riva |==========|
 
-Date : 21/06/2021
+Date : 15/10/2021
 
-• Device Changelogs 3.18 & 4.9 variant:
-- June 2021 Security Patch
-- Address more denials
-- Nuke NusantaraParts
-- Improve Magisk Hide for better Hide
-- Back to perf kernel
+* Device Changelogs:
+• Synced with latest source
+• Use 3.18 kernel
+• Update build fingerprint to redfin October
+• Add SysUI to PRODUCT_DEXPREOPT_SPEED_APPS
+• Disable VSync for CPU rendered apps
+• Enable memory optimizations
+• Compile HWUI for Better Performance
+• Add call recording Overlay
+• Reduce battery drain on wifi
+• Add prop for signal better
 
-• Known Bug/Issues
-- Smart Charging : no node
-- Battery Health : no node
+* Notes :
+• Vanilla Build
 
-• Notes :
-- Vanilla Build
-- No updates for based kernel 4.9
-
-• Credits 
-- Thanks To SunnyRaj for trees and all of you :)
+* Credits 
+• Thanks To SunnyRaj for trees
+• Thanks To @YourBaeBaby @Qiforra for test
+• CSR & HSD Team
