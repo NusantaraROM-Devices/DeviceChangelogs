@@ -4,9 +4,8 @@ Date : 09/10/2021
 
 Device Changelogs :
 • OSS Based
-• Fixed WFD
-• Fixed 90Hz
-• Fixed Smartcharging 
+• Update HotwordEnrollment blobs from Raphael
+• Update audio configs & props from sm sm8150-common
 
 Notes:
 • Clean flash is mandatory
