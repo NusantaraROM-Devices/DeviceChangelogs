@@ -1,8 +1,48 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 15-16/10/2021
+Changelog :
+• abafd8fb3 (HEAD, origin/11) sm8250-common: Chown DT2W node
+• c312147ab sm8250-common: audio: ull: * remove stereo channel mask from voip rx * Revert sm8250-common: audio: correct routing order for voip output
+• 517e3c93f sm8250-common: audio: Add audio policy configuration file with ULL enabled
+• 1cb7ca499 Revert "sm8250-common: audio: correct routing order for voip output"
+• e80e259d1 sm8250-common: remove stereo channel mask from voip rx
+• d14052d98 sm8250-common: audio: fixup 24 bit deep buffer
+• 19240e2ba sm8250-common: audio: disable ULL on audio_policy_configuration_a2dp_offload_disabled_qti.xml
+• bb12e9e62 sm8250-common: audio: Disable ULL mode
+• de79cd550 sm8250-common: audio: Remove effects that won't load
+• 76fe8ce79 sm8250-common: audio: Provide disabled A2DP offload policy variant
+• 4b18c4a5f sm8250-common: audio: correct routing order for voip output
+• 8658c52fe sm8250-common: audio: Add hotword input for hotword mic concurrency
+• be70cccba sm8250-common: audio: Use AOSP A2DP Input config
+• 5ba6232b5 sm8250-common: audio: Fix mic issues in apps like WhatsApp
+• e71808e59 sm8250-common: audio: Switch to 24bit for primary and deep buffer playback
+• 7711729e9 sm8250-common: Switch audio policy to LA.UM.9.12.r1-08300-SMxx50.0
+• e962b9d3a sm8250-common: Drop redundant `usb_audio_policy_configuration.xml` copy
+• 4d9a79dd9 sm8250-common: Split component-overrides to support pure AOSP/QTI BT stack
+• 79abb9a42 sm8250-common: Switch to QTI Bluetooth stack
+• 54ed265d9 [SQUASH] sm8250-common: audio: cleanup qti bt component and their policies Revert "Revert "Revert "sm8250-common: audio: Add audio policy configuration file with ULL enabled"""
+• Kernel 4.19.205-Perf
+• Selinux Enforcing
+• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Notes :
+• GApps, Vanilla & microg
+
+Bugs:
+• vowifi (?)
+• launcher: apps suggestion crash without google device personalization service.
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
 Date : 29/08/2021
 Changelog :
+
 • d80fc3d apollo: audio: Import mixer_paths_overlay_dynamic from stock
 • c4c0855 apollo: commonize OMX blobs
 • 9ff742c apollon: remove prebuilt nfc blobs
@@ -58,22 +98,6 @@ Changelog :
 • 671bff0b9 sm8250-common: fix media codecs copy out directory
 • 201383aca sm8250-common: pinner blobs from Redmi/apollo_global/apollo:11/RKQ1.200826.002/V12.5.2.0.RJDMIXM:user/release-keys
 • 599e88334 Revert "Revert "sm8250-common: audio: Add audio policy configuration file with ULL enabled""
-• Kernel 4.19.203~Quantic
-• Selinux Enforcing
-• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
-• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
-
-Notes :
-• GApps, Vanilla & microg
-
-Bugs:
-• vowifi (?)
-• launcher: apps suggestion crash without google device personalization service.
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-• Testers
 
 Date : 07/08/2021
 Changelog :
