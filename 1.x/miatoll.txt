@@ -1,6 +1,6 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date: 10/10/2021
+Date: 10/16/2021
 
 • Device Changelogs
  - Initial Build
@@ -8,5 +8,7 @@ Date: 10/10/2021
 
 • Notes
  - First build based on my own tress took a lot work, Tress are still in beta would appricate if you report bugs.
- - Everthing works so far by serval testing
- - Thanks for perf kernel by Cosmic
+ - All hals/blobs that can be build from osurce, are build from source, no prebuilt.
+ - GCam GO Stock camera.
+ - Everthing works so far by serval testing.
+ - Thanks for perf kernel by Cosmic.
