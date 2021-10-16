@@ -7,8 +7,8 @@ Date: 10/16/2021
  - Permissive
 
 • Notes
- - First build based on my own tress took a lot work, Tress are still in beta would appricate if you report bugs.
- - All hals/blobs that can be build from osurce, are build from source, no prebuilt.
+ - First build based on my own tree. Took a lot of work, Tree is still in beta, would appricate if you report bugs.
+ - All hals/blobs that can be build from source, are build from source, no prebuilt.
  - GCam GO Stock camera.
- - Everthing works so far by serval testing.
+ - Everything works so far by several testing.
  - Thanks for perf kernel by Cosmic.
