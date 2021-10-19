@@ -1,14 +1,18 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date: 10/16/2021
+Date: 10/19/2021
 
 • Device Changelogs
- - Initial Build
- - Permissive
+ - Hotfix Build
+ - Fixed Touch Delay, More lik system hang
+ - Remake Pixel Power HAL
+ - Fixed heat with TRB Kernel
+ - Fixed SafetyNet
+ - Fixed GApps flash on vanilla
+ - Improved Audio Quakity
+ - Made Nusantara More Lighter
 
 • Notes
- - First build based on my own tree. Took a lot of work, Tree is still in beta, would appricate if you report bugs.
- - All hals/blobs that can be build from source, are build from source, no prebuilt.
- - GCam GO Stock camera.
- - Everything works so far by several testing.
+ - Permissive.
+ - ANX Camera fully working, just flash it.
  - Thanks for perf kernel by Cosmic.
