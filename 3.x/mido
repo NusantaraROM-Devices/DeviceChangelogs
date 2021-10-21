@@ -1,5 +1,32 @@
 |==========| Redmi Note 4/4x |==========|
 
+Date : 20/10/2021 | 3.3 Rhun
+
+Device Changelogs :
+• update powerhint.xml from LA.UM.8.6.2.r1-07100-89xx.0
+• New configs gps for better stability & accuracy
+• Add TARGET_DISPLAY_USE_SMOOTH_MOTION flag
+• Allow to be rotated in all 4 rotations
+• drop TARGET_USES_INTERACTION_BOOST
+• Enable performance profile support
+• set default dialer package name
+• Enable freeform windows
+• Compiled Kernel with GengKapak Clang 13
+
+Notes :
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps or NikGapps
+
+Credits and Thanks:
+• Allah SWT
+• All Mido Dev Contributors
+• All Testers
+
+
+
+|==========| Redmi Note 4/4x |==========|
+
 Date : 22/09/2021 | 3.2 Revolution | HOTFIX
 
 Device Changelogs :
