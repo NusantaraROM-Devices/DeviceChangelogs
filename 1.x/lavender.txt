@@ -1,5 +1,16 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 22/10/2021
+
+• Device Changelogs :
+- Upstream kernel to Predator Stoembreaker 9.9
+- fix minor bugs & many improve.
+
+• Notes :
+- Dirtyflash is possible but Cleanflash is recommended
+
+|==========| Redmi Note 7 / Lavender |==========|
+
 Date : 24/03/2021
 
 • Device Changelogs :
