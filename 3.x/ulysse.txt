@@ -1,0 +1,12 @@
+|==========| Redmi Note 5A Prime/Lite / ulysse |==========|
+
+Date : 24/10/2021
+
+Device Changelogs :
+• Finally this is what you waiting for long time
+• Update native to fix blank and graphic issue
+• Added XiaomiParts
+• Upstreamed kernel to 4.9.287
+
+Notes :
+• Vanilla Variant so flash your favorite GApps
