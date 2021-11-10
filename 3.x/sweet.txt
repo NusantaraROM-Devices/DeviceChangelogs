@@ -1,5 +1,25 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 10/11/2021
+Changelog :
+• November ASB
+• Disable Bluetooth by default
+• Enable performance profile support 
+• Cleanup useless Gapps
+• Show "Turbo charging" instead of "Charging rapidly" in lock screen
+• Improve performance, UI smoothness and other improvements
+
+Notes :
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
+• Gapps Only
+
+Credits :
+• Thanks to Allah SWT for everything
+• Thanks @daniml3 for trees, vendor & kernel
+• Thanks @Suzurui for helping
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 13/10/2021
 Changelog :
 • Added KCAL in display
