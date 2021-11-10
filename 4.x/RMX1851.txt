@@ -1,0 +1,15 @@
+|==========| Realme 3 Pro / RMX1851 |==========|
+
+Date : 10/11/2021
+
+Changelog :
+• Initial A12 builds
+• SELinux enforcing
+• Enabled one-handed mode
+• Uprev soundtrigger HAL to 2.3
+• add offload gapless support flag audio policy
+
+Notes :
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is necessary
