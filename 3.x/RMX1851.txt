@@ -1,5 +1,18 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 10/11/2021
+
+Changelog :
+• Swtich to OSS vendor again
+• add offload gapless support flag audio policy
+• Disable blurs by default
+• Fixed playback and wifi issue after kernel change
+
+Notes :
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Must clean flash over previous version
+
 Date : 09/10/2021
 
 Changelog :
