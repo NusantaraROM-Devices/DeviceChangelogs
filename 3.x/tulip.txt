@@ -3,13 +3,19 @@
 Date : 09/10/2021
 
 Device Changelogs:
-• Initial Official Build
-• Shipped with LineageOS kernel
+• FBE Builds
+• Disable WLAN Firmware loggings
+• Optimize target cpu and use cortex-a73
+• Include battery health overlay
+• Include PixelCharging (Fixed Offline Charging)
+• Switch to Pelt based kernel with KCAL & SoundControl
 
 Notes:
 • Clean Flash recommended
-• Vanilla release, GApps not include
-• CTS/SafetyNet passed
+• Vanilla release, GApps not include (NikGapps Recommended)
+• CTS/SafetyNet passed without root
+• Switched from FDE to FBE so clean flash this build or follow this steps (https://telegra.ph/FBE-ROM-flashing-guide-Without-format-data-Without-FBE-encryption-08-17) if you want to dirty flash.
 
 Credits:
 • arturo51236 for device and vendor tree
+• subhajeetmuhuri for kernel tree
