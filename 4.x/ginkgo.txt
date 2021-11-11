@@ -1,0 +1,13 @@
+|==========| Redmi Note 8/8T (Ginkgo/Willow) |==========|
+
+Date : 11/11/2021
+
+Changelog :
+• Welcome to Android™ 12
+• SELinux status enforcing
+
+Notes :
+• Flamegapps recommended
+• This is alpha build, maybe need more optimization
+• i forgor to disable kernel debugging, u can change kernel.
+• Flash dfe if u want decrypt
