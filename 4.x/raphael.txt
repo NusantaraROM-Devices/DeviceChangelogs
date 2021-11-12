@@ -1,0 +1,10 @@
+|==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
+
+Date : 12/11/2021
+
+Device Changelogs :
+• Initial build.
+• Selinux permissive.
+
+Notes:
+• Based on A10 MIUI vendor.
