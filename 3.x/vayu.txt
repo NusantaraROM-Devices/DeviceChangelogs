@@ -3,17 +3,26 @@
 Date : 09/10/2021
 
 Device Changelogs :
-• OSS Based
-• Update HotwordEnrollment blobs from Raphael
-• Update audio configs & props from sm sm8150-common
+• Drop msm_irqbalance
+• Remove Pixel Thermal
+• Label more wakeup nodes
+• Shipped with AvariceX Kernel
+• Add TARGET_CAMERA_BOOTTIME_TIMESTAMP flag
+• Fixed Mic when GoogleAssitant active
+• Switch to Pelt 16ms on AvariceX Kernel
+• Added SchedTune and Scheduler from Sunfish
+• Powerhint: Remove PM QoS boosting
+• Powerhint: Drop sched migrate_boosting
+• Powerhint: Raise GPU min/max frequency to 675mhz
+• Powerhint: Change foreground cpuset when app launch 
+• Powerhint: Remove Google-specific audio & camera hints
 
 Notes:
-• Clean flash is mandatory
-• SELinux status is Enforcing
-• SafetyNet passes out of the box
+• OSS Based
 • GApps Already Included
-• Recommended Firmware: Stock 12.5.2.0
+• Clean flash is mandatory
+• SafetyNet passes out of the box
+• Recommended Firmware: Stock 12.0.x
 
 Credits:
 • Thanks to Kubersharma for OSS trees
-• Thanks to setsumiko for his awesome kernel
