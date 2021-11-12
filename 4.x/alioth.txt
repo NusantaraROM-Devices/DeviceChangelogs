@@ -1,0 +1,17 @@
+|==========| POCO F3 / Alioth / Aliothin |==========|
+
+Date : 12/11/2021
+
+Device Changelogs :
+• Initial Official Build
+• Selinux Enforcing
+
+Notes:
+• Step Flash same like you do at A11
+• FlameGapps recommended for vanilla builds
+• Clean flash is recommended
+• SafetyNet passes out of the box
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
