@@ -1,5 +1,13 @@
 |==========| Redmi Note 8/8T (Ginkgo/Willow) |==========|
 
+Date : 12/11/2021
+
+Changelog:
+• Dual sim fix (hotfix build)
+
+Notes :
+• Maybe you can do dirty flash.
+
 Date : 11/11/2021
 
 Changelog :
