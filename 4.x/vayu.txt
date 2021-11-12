@@ -1,0 +1,15 @@
+|==========| POCO X3 Pro / Vayu |==========|
+
+Date : 12/10/2021
+
+Device Changelogs :
+• User Build
+• Selinux Enforcing
+• Improvement sepolicy
+
+Notes:
+• OSS Based
+• GApps Already Included
+• Clean flash is mandatory
+• SafetyNet passes out of the box
+• Recommended Firmware: Stock 12.0.x
