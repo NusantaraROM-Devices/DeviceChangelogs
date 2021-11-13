@@ -1,8 +1,30 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 12/11/2021
+Changelog :
+• update device fingerprint to walleye for passing safetynet
+• Kernel 4.19.205-Perf
+• Selinux Enforcing
+• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
+• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
+
+Notes :
+• GApps, Vanilla
+
+Bugs:
+• vowifi (?)
+• launcher: apps suggestion crash without google device personalization service.
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
+
 Date : 15-16/10/2021
 Changelog :
+
 • abafd8fb3 (HEAD, origin/11) sm8250-common: Chown DT2W node
 • c312147ab sm8250-common: audio: ull: * remove stereo channel mask from voip rx * Revert sm8250-common: audio: correct routing order for voip output
 • 517e3c93f sm8250-common: audio: Add audio policy configuration file with ULL enabled
@@ -23,22 +45,6 @@ Changelog :
 • 4d9a79dd9 sm8250-common: Split component-overrides to support pure AOSP/QTI BT stack
 • 79abb9a42 sm8250-common: Switch to QTI Bluetooth stack
 • 54ed265d9 [SQUASH] sm8250-common: audio: cleanup qti bt component and their policies Revert "Revert "Revert "sm8250-common: audio: Add audio policy configuration file with ULL enabled"""
-• Kernel 4.19.205-Perf
-• Selinux Enforcing
-• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
-• XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
-
-Notes :
-• GApps, Vanilla & microg
-
-Bugs:
-• vowifi (?)
-• launcher: apps suggestion crash without google device personalization service.
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-• Testers
 
 Date : 29/08/2021
 Changelog :
