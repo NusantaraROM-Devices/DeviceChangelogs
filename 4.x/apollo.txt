@@ -1,0 +1,24 @@
+|==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
+
+
+Date : 13/11/2021
+Android 12
+Changelog :
+• initial public release
+• QTI Power, AOSP NFC, AOSP BT
+• RR Control, WFD, IFaa are present
+• Kernel 4.19.205-Perf
+• Selinux Enforcing
+• Firmware use Global V12.5.2.0 or higher
+• XDA soon
+
+Notes :
+• GApps, Vanilla
+
+Bugs:
+• some services maybe denied by selinux
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
