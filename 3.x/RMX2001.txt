@@ -1,5 +1,29 @@
 |==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
 
+Date : 14/11/2021
+
+Device Changelogs :
+- November 2021 ASB
+- Cleanup some props
+- Disable some gms service
+- Arrange default tiles in qs
+- Drop GCamGO, Added Open Camera
+- Shipped with SYNTXforce-Kernel
+
+Notes :
+• Only Vanilla Build
+• GApps FlameGApps Basic/Full (Recommended)
+
+Known Bug :
+• Extra cameras
+• Night light flickers
+• ViLTE (native video calling)
+
+Credit :
+• Thanks to all realme 6 developers
+
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
 Date : 08/10/2021
 
 Device Changelogs :
