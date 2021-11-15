@@ -79,3 +79,17 @@ Device Changelogs :
 Notes :
 • GApps & Vanilla Variant
 • Clean Flash recommended
+
+------ Date : 15/11/2021 | Rawon 3.4 ------
+
+Device Changelogs :
+
+• Sync with latest 3.4 | Rawon Source
+• Fix Smart/Adaptive Charging
+• Import Pixel2016Exclusive
+• Bring Back Performance Slider
+• Safetynet passed by default
+
+Notes :
+• GApps & Vanilla Variant
+• Clean Flash recommended
