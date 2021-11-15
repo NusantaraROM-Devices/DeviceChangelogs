@@ -1,0 +1,13 @@
+|==========| Redmi Note 7 / Lavender |==========|
+
+Date : 15/11/2021
+
+Device Changelogs :
+• Initial Release
+• Selinux Enforcing
+• User Build
+• Predator Stormbreaker X4.10 is default kernel
+
+Notes :
+• Vanilla Build
+• to passed safetynet use riru & universal safetynet
