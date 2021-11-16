@@ -5,6 +5,7 @@ Date : 16/11/2021
 Device Changelogs :
 • Safetynet pass with Coral S
 • BT Audio fixed
+• Add Offline Charging
 
 Notes :
 • Vanilla build
