@@ -1,5 +1,15 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 16/11/2021
+
+Device Changelogs :
+• Safetynet pass with Coral S
+• BT Audio fixed
+
+Notes :
+• Vanilla build
+• Dirtyflash is possible but cleanflash is recommended
+
 Date : 15/11/2021
 
 Device Changelogs :
