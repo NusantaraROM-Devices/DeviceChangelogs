@@ -1,11 +1,11 @@
 |==========| Redmi Note 7 / Lavender|==========| 
 
-Date : 14/11/2021 | 3.4 Rawon
+Date : 16/11/2021 | 3.4 Rawon
 
  • Device Changelog :
 - bump to 3.4
 - change to user build
-- change build FP to Redfin to pass safetynet
+- change build FP to Dipper
 
  • Notes :
 - HMP & Oldcam build
