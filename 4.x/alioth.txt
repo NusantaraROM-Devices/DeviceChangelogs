@@ -15,3 +15,38 @@ Notes:
 Thanks To:
 • https://t.me/RaijinThunderkeX
 
+------ Date : 16/11/2021 | Surabaya 4.0 (Hot Fix) ------
+
+Device Changelogs :
+• Enforcing Build
+• Bring Back Wfd (Wifi Display)
+• Bring Back Ifaa Manager
+• Add Moto Dolby
+• Enable dolby audio on both speakers 
+• Add new flag name to compress offload case
+• Add refresh rate controls in display setting
+• Audio: add offload gapless support flag 
+• Overlay: Improve haptic and vibration patterns
+• Overlay: Don't check proximity sensor before pulsing
+• Configs: Import Pixel2016Exclusive
+• Sepolicy: Add vendor prefix to sysfs_battery_supply
+• Use qemu.sf.lcd_density instead of ro.sf.lcd_density
+• Switch to surfaceflinger content detection API 
+• Fix statubar icon padding 
+• Add correct config_mainBuiltInDisplayCutout
+• Add front-facing camera protection
+• Disable proximity sensor check for dialer's answer UI
+
+Notes:
+• Step Flash same like you do at A11
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• if you face high idle drain , this Will solve out after 3-4 charging cycles
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
