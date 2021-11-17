@@ -1,5 +1,14 @@
 |==========| Redmi Note 7 / Lavender|==========| 
 
+Date : 17/11/2021 | 3.4 Rawon
+
+ • Device Changelogs :
+- Safetynet passed with or without magisk
+
+ • Notes : 
+- HMP & Oldcam build
+- Cleanflash always recommended
+
 Date : 16/11/2021 | 3.4 Rawon
 
  • Device Changelog :
