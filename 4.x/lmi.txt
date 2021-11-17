@@ -1,0 +1,23 @@
+|==========| POCO F2 Pro / LMI |==========|
+Date: 17/11/2021
+
+Changelogs :
+• Initial Android Snowcone build
+
+Notes :
+• Use FW 12.5.4.0 CN or 12.5.3.0 Global
+• TWRP 3.4.2b-1206 recommended
+• Gapps build only
+• Decrypted build
+
+Bugs :
+• FOD still has flashbang
+• 4K Recording crash
+• Report if found more
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+
+|=========================================|
