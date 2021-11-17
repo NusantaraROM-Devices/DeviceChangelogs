@@ -1,0 +1,26 @@
+|==========| Realme 6/6i/6s/Narzo / RMX2001 |==========|
+
+Date : 17/11/2021
+
+Device Changelogs :
+- November 2021 ASB
+- SELinux Enforcing
+- Userdata Encryption
+- Update statusbar overlay
+- Passed Safetynet by default
+- Added Open Camera & PMControls
+- Added realmeDirac & realmeParts
+- Added Dual SIM Data & One Hand Mode
+- Fixed VoLTE (Thanks to sarthakroy2002 & begonia devs)
+- Fixed Built-in screen recorder (Thanks to sharanpai)
+
+Notes :
+• Only GApps Build
+
+Known Bug :
+• Extra cameras
+• Night light flickers
+• ViLTE (native video calling)
+
+Credit :
+• Thanks to all realme 6 developers
