@@ -1,4 +1,24 @@
 |==========| POCO F2 Pro / LMI |==========|
+Date: 17-11-2021
+
+Changelogs :
+• Rebase tree
+
+Notes :
+• Clean flash is mandatory
+• Use FC 12.5.4.0 CN or 12.5.3.0 Global
+• Vanilla and Gapps build
+• Decrypted
+
+Bugs :
+• Report all of them if found
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+
+|=========================================|
 Date: 15-10-2021
 
 Changelogs :
