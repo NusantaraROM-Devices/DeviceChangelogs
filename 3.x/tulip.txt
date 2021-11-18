@@ -1,14 +1,11 @@
 |=========| Xiaomi Redmi Note 6 Pro / Tulip |==========|
 
-Date : 09/10/2021
+Date : 18/11/2021
 
 Device Changelogs:
-• FBE Builds
-• Disable WLAN Firmware loggings
-• Optimize target cpu and use cortex-a73
-• Include battery health overlay
-• Include PixelCharging (Fixed Offline Charging)
-• Switch to Pelt based kernel with KCAL & SoundControl
+• Fixed Battery LED Charging
+• Upstreamed kernel to v4.4.292
+• Added prebuilts GcamGo, RetroMusic, GalleryGo
 
 Notes:
 • Clean Flash recommended
