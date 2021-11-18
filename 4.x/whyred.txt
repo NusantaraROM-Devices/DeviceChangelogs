@@ -1,0 +1,30 @@
+|==========| Redmi Note 5 / whyred |==========|
+
+Date : 18/11/2021 | 4.0 Surabaya
+
+|==========| 4.4 |==========|
+
+• Device Changelogs :
+• Initial Release
+• Shipped with SiLont-but-basic:[v3] kernel
+• Switch to QTI Thermal 2.0
+• Shipped with GcamGo 2.10.402751612_release
+• Switch vibration driver to qti haptics (same vibration feeling as 4.19)
+• SEPolicy is enforced
+
+• Known Issue :
+• Encryption not working
+• Screen might can't be touched after first boot, or at welcome setup, or after reboot, to fix that, just lock/turn off the screen, then turn on again.
+
+• Notes :
+• Old cam build.
+• Encryption is broken, so don't try to encrypt.
+• It is safe to using sdcard.
+• For root, use Magisk 23.0.
+• If comes from encrypted state, you need to format first.
+• You can use any recovery as encryption is broken right now.
+• ROM comes with AIDL qti vibrator (LED based vibrator), so if you want to use custom kernel, then you'll need to use kernel with qti haptics driver or you'll not get any vibration. 
+Ask the kernel developer if their kernel is support qti haptics driver if you want to use this rom with vibration.
+
+
+|==========| [REDACTED] |==========|
