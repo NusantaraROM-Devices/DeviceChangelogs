@@ -1,10 +1,18 @@
 |==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
 
-Date : 12/11/2021
+Date: 18/11/2021
 
-Device Changelogs :
-• Initial build.
-• Selinux permissive.
+Device Changelog:
+• Use Vulkan UI renderer on default. 
+• Selinux is now enforcing. 
+• Improvements in UI transitions. 
 
 Notes:
 • Based on A10 MIUI vendor.
+
+Date: 12/11/2021
+
+Device Changelogs:
+• Initial build.
+• Selinux permissive.
+
