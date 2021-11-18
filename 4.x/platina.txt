@@ -1,0 +1,11 @@
+|==========| Xiaomi MI 8 Lite / platina |==========|
+
+Date : 17/11/2021
+
+Changelogs :
+• Initial Android 12 Build
+• Selinux Enforcing
+
+Notes:
+• Use latest firmware global stable
+• GApps and Vanilla version available
