@@ -1,5 +1,38 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 18/11/2021
+
+* Device Changelogs :
+• Synced with latest source
+• ART/Surfaceflinger tunes
+• Misc improvements and fixes
+• Speed up animations
+• Updated Audio/Media/WIFI configs
+• Fixed navigation shortcut
+• Compile kernel with clang
+• Prebuilts Gcam Go
+• Fixed battery history
+• Add customize vibration strengh level
+• Add Kcal support
+• Improve performance, UI smoothness and other improvements
+• Kernel : Upstream kernel to KudProject 4.9.290
+• Kernel : Add Kcal support
+• Kernel : Add Sound Control support
+
+* Known Bug
+• U Tell Me
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to
+• @me_cafebabe for trees
+• @alefirmanalfarizy for test
+• CSR & HSD Team
+
+|==========| Redmi 4A/5A (Rova) |==========|
+
 Date : 15/10/2021
 
 * Device Changelogs :
