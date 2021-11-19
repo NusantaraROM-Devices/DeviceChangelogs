@@ -1,0 +1,14 @@
+|==========| Redmi S2/Y2 / ysl |==========|
+
+Date : 19/11/2021
+
+Device Changelogs :
+• Initial Android 12
+• Fixed Device Dead on some devices
+• Selinux Enforcing
+
+Notes:
+• Clean flash is mandatory
+• SafetyNet passes out of the box
+• Vanilla Build
+• Don't Flash any Kernel for now
