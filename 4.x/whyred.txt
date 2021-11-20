@@ -2,7 +2,7 @@
 
 Date : 18/11/2021 | 4.0 Surabaya
 
-|==========| 4.4 |==========|
+|==========| 4.4 Based Kernel |==========|
 
 • Device Changelogs :
 • Initial Release
@@ -27,4 +27,21 @@ Date : 18/11/2021 | 4.0 Surabaya
 Ask the kernel developer if their kernel is support qti haptics driver if you want to use this rom with vibration.
 
 
-|==========| [REDACTED] |==========|
+|==========| 4.19 Based Kernel |==========|
+
+• Device Changelogs :
+• Initial Release
+• Shipped with Edwin's perf kernel
+• Several blobs updates from CAT S62Pro
+• SEPolicy is enforced
+
+• Known Issue :
+• Encryption not working
+
+• Notes :
+• Dont try to flash any 4.4 kernel
+• Encryption is broken, so don't try to encrypt.
+• It is safe to using sdcard.
+• For root, use Magisk 23.0.
+• If comes from encrypted state, you need to format first.
+• You can use any recovery as encryption is broken right now.
