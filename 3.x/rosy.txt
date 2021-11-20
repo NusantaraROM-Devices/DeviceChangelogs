@@ -1,4 +1,31 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 20/11/2021
+
+• Device Changelogs:
+- Update Redfin FP to November
+- Shipped with Finix 4.9.290
+- Compile with rzy clang 14
+- Move CarrierConfigOverlay to rro_overlays
+- Enable ims feature flags for supported carries
+- Reduce screenshot delay to 0
+- Move RLIMIT_MEMLOCK to init.target.rc
+- Fix drain issue from msm_irqbalance
+- Don't balance mdss or kgsl IRQs
+- Set VENDOR_SECURITY_PATCH to platform
+
+• Notes:
+- Clean flash is recommended.
+- NikGApps or BiTGApps recommended.
+- SafetyNet pass by default.
+
+• Thanks to:
+- All NAD Teams.
+- Pulkit077 for his tree.
+- Anggit for his kernel.
+- Bang Jhek dkk for server.
+- Juju and Fin for testing.
+
+|==========| Redmi 5 / Rosy |==========|
 Date : 10/10/2021
 
 • Device Changelogs:
