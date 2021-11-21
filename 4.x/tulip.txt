@@ -1,0 +1,22 @@
+|==========| Redmi Note 6 Pro / Tulip |==========|
+
+Date : 21/11/2021 | 4.0 Surabaya
+
+• Device Changelogs :
+• Initial Release
+• Shipped with AvariceXC Kernel
+• SEPolicy is Enforced
+
+• Known Issue :
+• Encryption not working
+• Nightlight not working
+
+• Notes :
+• 4.4 Based kernel.
+• OldCam build.
+• Encryption is broken, so don't try to encrypt.
+• It is safe to using sdcard.
+• For root, use Magisk 23.0.
+• If comes from encrypted state, you need to format first.
+• You can use any recovery as encryption is broken right now.
+• Wanna report some bugs ? Tag me on group with attaching logs 
