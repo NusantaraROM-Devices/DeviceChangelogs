@@ -1,0 +1,19 @@
+|==========| POCO F1 / Beryllium |==========|
+
+Device Changelogs :
+• Initial A12 Official Build
+• Enforcing Build
+• WFD and ifaa are present
+
+Notes:
+• Step Flash same like you do at A11
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
