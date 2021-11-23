@@ -1,5 +1,22 @@
 |==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
 
+Date : 20/11/2021
+
+* Device Changelogs:
+• Synced with latest source
+• Initial build for alps vendor
+• Offline Charging fixed
+
+* Known Bug
+• Carrier Video Calling (ViLTE)
+
+* Notes :
+• Vanilla Build
+• Use alps 0.4 Vendor
+• only arm build available for now
+
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
 Date : 01/08/2021
 
 * Device Changelogs:
@@ -21,5 +38,6 @@ Date : 01/08/2021
 
 • Thanks to
 - phhusson
+- Dinolek
 - eldracode
 - PeterCxy
