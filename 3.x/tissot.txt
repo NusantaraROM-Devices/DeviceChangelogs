@@ -1,5 +1,25 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 23/11/2021
+
+• Device Changelogs :
+- November ASB
+- Remove NusantaraParts
+- Enable performance profiles
+- Added XiaomiParts
+- Switched proton clang v13.0
+- Shrimp Kernel Upstream v4.9.290
+- Improved Performance and Optimizations
+- Misc changes and fixes
+
+Credits :
+• Thanks to Allah SWT for everything
+• Thanks @SebaUbuntu @abhinavgupta371 for trees 
+• Thanks @Prorooter007 @whdbfl for kernel
+• Thanks @EhSiAnjing2 @Geinbee @Legendkushal for testing
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 08/10/2021
 
 • Device Changelogs :
