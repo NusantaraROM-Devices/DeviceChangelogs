@@ -1,0 +1,22 @@
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
+Date : 18/11/2021
+
+* Device Changelogs:
+• Synced with latest source
+• Initial Android 12 build
+
+* Known Bug
+• VoLTE
+• Offline Charging
+
+* Notes :
+• Vanilla Build
+• Use alps 0.4 Vendor
+• only arm build available for now
+
+• Thanks to
+- phhusson
+- Dinolek
+- eldracode
+- PeterCxy
