@@ -1,4 +1,40 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 27/11/2021
+
+• Device Changelogs:
+- SELinux Permissive
+- Shipped with KewL 4.9.290
+- Compile with Eva GCC
+- Update powerhint form LA.UM.8.6.2.r1-07100-89xx.0
+- Remove 2k and QHD profiles
+- Fix drain issue from msm_irqbalance
+- Set VENDOR_SECURITY_PLATFORM to platform
+- Add XiaomiParts
+- Add hotword input for hotword input mic concurrency
+- Set audio prop
+- Enable IWLAN assisted mode
+- Switch IWLAN operation mode
+- Set BT_CLEAN_TURN_ON_DISABLED flag to TRUE
+- Fix unable to find path 'hph-highquality-mode'
+- Add path hph-lowpower-mode
+- Use CLS_H_HIFI instead of HD2 Class for HPH Mode
+- Use AB mode for HPH
+- Update Mpeg4 encoder max supported resolution
+- Allow QFingerprintService to run in power save
+- Use 'MB' as default unit for zram disksize setting
+- Configure Zram
+
+• Notes:
+- Clean flash is recommended.
+- BiTGApps or NikGApps is recommended.
+
+• Credit:
+- Bang Jhek dkk for server
+- Baunilla for his tree
+- Pulkit for his kernel
+- @Abbeh for testing
+
+|==========| Redmi 5 / Rosy |==========|
 Date : 01/09/2021
 
 • Device Changelogs:
