@@ -1,5 +1,24 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date : 08/11/2021
+Device Changelogs:
+• Change Default Kernel to JFla-Karamel latest
+• Fixes some error from Kernel
+
+Notes:
+
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use FlameGApps basic
+• Needed Firmware from MIUI 12.5.1.0 (China) / 11.0.2.0 (Global)
+• CTS/SafetyNet passed without root
+• Banking apps working
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 15/10/2021
 
 Device Changelogs:
