@@ -1,0 +1,10 @@
+|==========| POCO X3 NFC / Surya |==========|
+
+Date : 10/12/2021
+
+Device Changelogs :
+• Initial A12 Build
+
+Notes:
+• GApps Already Included
+• Clean flash is mandatory
