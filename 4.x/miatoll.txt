@@ -1,19 +1,50 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date : 16/11/2021
+Date : 10/12/2021
 
 Changelog :
-• initial public release
-• Kernel v4.14.255-Etherious-LA.UM.9.1.r1-11300-SMxxx0.0
-• Selinux Enforcing
-• Monet support
+ • December Security Patch
+ • Sync latest Etherious Kerenl
+ • Added Google Camera GO
+ • Address tons of sepolicy denials
+ • Adept Status bar padding like MIUI 
+ • Fixed mic volume randomly goes down
+ • Switched to partially audio hal
+ • Remove volume_listener from audio effects
+ • Remove audio effects that won't load
+ • Allow all filesystems for USB-OTG
+ • Enable fluence voice recording
+ • Switched to 64bit Audio HALs
+ • Kang idle/touch timer from raven
+ • Sync Durations with Raven
+ • Import aptX blobs
+ • Copy missing media codecs from aosp 
+ • Add edgnss socket directory 
+ • Update the transcoding operating rate 
+ • Enable settings provider model 
+ • Restrict permissions to socket file
+ • Make doze use of real pickup sensor 
+ • Disable unspecialized app process pool
+ • Remove advanced sf phase offset 
+ • Switch to QTI Vibrator hal
+ • Uprev QTI keymaster to 4.1
+ • Grant rw permission to hgsl node
+ • Set system graphics to power control node
+ • set usb and hidraw to 0660 root usb
+ • Uprev android.hardware.radio.config to 1.2
+ • Add Shims for lib-imsvt / patched libjnihelper.so
+ • Added Pixel 2016 Exclusive (Ultimate Google Photos backup) 
+ • Sync with Display Props from CAF LA.UM.9.1.r1-11400-SMxxx0.0
+ • Add system permission for RPS sysfs node
+ • Copy permission for Vulkan API version 1.0.
+ • Merge Display/Media/Audio HALs to LA.UM.9.1.r1-11400-SMxxx0.0
+ • Revamp vendor from joyeuse_global-V12.5.2.0.RJZMIXM:user/release-keys 
+ • Remove mounting of debugfs that is no longer allowed in Android S from rc scripts
 
 Notes :
 • GApps, Vanilla
+• Selinux Enforcing
 • Decrypted by default
-
-Bugs:
-• Some services maybe denied by selinux, just flash permissiver.
 
 Credits :
 • Sonal for kernel Etherious
