@@ -1,4 +1,36 @@
 |==========| POCO F2 Pro / LMI |==========|
+Date: 12/12/2021
+
+Changelogs :
+• Add back touchfeature implementation (fix udfps flashbang)
+• Change udfps pressed color to solid white
+• Hide magisk better to make banking apps work
+• Define GFX driver package
+• Add pixel 2016 config to allow use unlimited backup in Google Photos
+• Config rounded corner and statusbar padding to make those look good
+• Config physical buttons and fingerprint sensor location
+• Set vendor audio sdk fluencetype to fluencepro
+• Remove some Gapps package (Chrome, Maps, Photos, PrebuiltGmail, YouTube)
+• Use Google Camera Go 2.8.399604975_release (arm64-v8a)
+• Add night display color temperature calibration from Coral
+• Implement Clear Speaker
+• Add FPS Info overlay
+• Kernel upstream to 4.19.220
+
+Notes :
+• Use FW 12.5.4.0 CN or 12.5.3.0 Global
+• Gapps build only
+• Decrypted build
+
+Bugs :
+• Report if found
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+
+|=========================================|
 Date: 17/11/2021
 
 Changelogs :
