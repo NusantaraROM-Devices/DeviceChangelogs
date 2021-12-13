@@ -1,5 +1,16 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 13/12/2021
+
+Device Changelogs :
+• Added Gamespace
+• Upstream Kernel .291
+
+Notes :
+• Vanilla & Gapps served now
+• Oldcam kernel build
+• Dirtyflash is possible but cleanflash is recommended
+
 Date : 16/11/2021
 
 Device Changelogs :
