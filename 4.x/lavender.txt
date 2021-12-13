@@ -7,7 +7,7 @@ Device Changelogs :
 • Upstream Kernel .291
 
 Notes :
-• Vanilla & Gapps served now
+• Vanilla build
 • Oldcam kernel build
 • Dirtyflash is possible but cleanflash is recommended
 
