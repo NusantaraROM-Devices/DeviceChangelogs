@@ -1,16 +1,29 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
-Date : 19/11/2021
+Date : 14/12/2021
 
-Device Changelogs :
-• Fixed mic issue after triggering Google Assistant
+Device Changelogs:
+- Optimize Dexopt flags 
+- Enable wide color display
+- Added Touch Profiles
+- Drop i/o & zram tuning 
+- Disable Partial FB exl rect
+- Move some props to system_ext
+- Cleanup rootdir files
+- Change default GPU idle timeout to 60ms 
+- Set vendor.display.defer_fps_frame_count 
+- Update Adreno blobs from MANNAR (05700)
+- Update blobs from miui_VAYUIDGlobal_V12.5.5.0.RJUIDXM
+- Relax timers for automatic refresh rate switching 
+- Update Graphics blobs from LA.UM.9.1.r1-10900-SMxxx0.0
+- Swith to user build so clean flash is recommended
 
 Notes:
-• OSS Based
-• GApps Already Included
-• Clean flash is mandatory
-• SafetyNet passes out of the box
-• Recommended Firmware: Stock 12.0.x
+- OSS Based
+- Vanilla & GApps Build
+- Clean flash is mandatory
+- SafetyNet passes out of the box
+- Recommended Firmware: Stock 12.0.x
 
 Credits:
 • Thanks to Kubersharma for OSS trees
