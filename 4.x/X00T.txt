@@ -1,0 +1,17 @@
+|==========| Zenfone Max Pro M1 / X00T |==========|
+
+Date : 14/12/2021
+
+Changelog :
+• Initial build
+• Update ZRAM configuration from LA.UM.9.2.r1-03000-SDMxx0.0
+• All Banking apps working
+• Upstream kernel .293
+• SafetyNet pass by default
+
+Notes :
+• SELinux Enforcing
+• Gapps already included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
