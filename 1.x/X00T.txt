@@ -1,5 +1,35 @@
 |==========| Asus Zenfone Max Pro M1 / X00T|==========|
 
+Date : 25/12/2021
+
+• Device Changelogs :
+- Updated redfin fp to december
+- Updated kernel to 4.4.296
+- SELinux Enforcing
+- Updated thermal-engine configs
+- Added reqiured GPU props
+- Updated Graphics (OpenGL ES) and Vulkan drivers
+- CTS passed by default
+- Updated audio from CAF audio HAL
+- Fixed Smart charging
+- Added Moto Dolby
+- Dropped unwanted graphics and display props
+- Switched to QTI bt stack
+- Added ZenParts
+- Some System optimizations
+- Fixed Heats while gaming
+
+• Notes :
+- Clean flash is recommended
+- Minimal FW is 063
+- Latest recovery is recommended
+- NikGApps is recommended
+
+• Credit:
+@hecker236 @vijekumar for testing
+
+|==========| Asus Zenfone Max Pro M1 / X00T|==========|
+
 Date : 15/04/2021
 
 • Device Changelogs :
