@@ -1,0 +1,30 @@
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
+Date : 26/12/2021 | 4.0-1 SURABAYA
+
+Device Changelogs :
+• Rebranded RM6785
+• December 2021 ASB
+• Passed Safetynet by default
+• Included bufferfix (vf lens)
+• Added & Enable fpsInfoSysNode
+• Fixed brightness slider behaviour
+• Update blobs from RMX2001_11_C.15
+• Shipped Lawnchair, Doodle, Xrecorder
+• Added Freeform Multiwindow (dev option)
+• Added Always-On Display (off by default)
+• Added min-max refresh rate config (display)
+• Added Natural and Boosted display color modes
+• Fix coordinates physical power & fp sensor values
+
+Notes :
+• Vanilla & GApps Build
+• For Vanilla Build, Use BitGApps (Only)
+• Firmware already included, no need to flash firmware. 
+
+Known Bug :
+• Permissive SELinux
+• Built-in screen recording
+
+Credit :
+• Thanks to all realme-mt6785-devs
