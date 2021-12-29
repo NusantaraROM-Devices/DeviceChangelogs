@@ -1,5 +1,25 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 29/12/2021
+
+Device Changelogs :
+• System Improvement
+• Fix some bug
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps Variant only
+
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group.
+
+|========= Old ChangeLog =========|
+
 Date : 14/11/2021
 
 Device Changelogs :
