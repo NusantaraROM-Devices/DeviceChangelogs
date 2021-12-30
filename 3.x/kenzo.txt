@@ -1,5 +1,12 @@
 |==========| Redmi Note 3 Pro / Kenzo |==========| 
 
+Date : 29/12/2021 | 3.4 Rawon
+
+Device Changelog :
+• Drop unused cpu governor
+• UPSTREAM: lz4: fix wrong compress buffer size for 64-bits
+• And more
+
 Date : 10/09/2021 | 3.2 Revolution
 
 Device Changelog :
