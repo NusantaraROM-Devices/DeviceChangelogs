@@ -1,5 +1,10 @@
 |==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
 
+Date: 09/01/2022
+
+Device Changelog:
+• Now OSS vendor version is available too. (A10/A11 FW)
+
 Date: 18/11/2021
 
 Device Changelog:
