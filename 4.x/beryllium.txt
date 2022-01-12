@@ -17,3 +17,40 @@ Bugs:
 
 Thanks To:
 • https://t.me/RaijinThunderkeX
+
+------ Date : 12/01/2022 | Shodanco 4.1 ------
+
+Device Changelogs :
+• fix bluetooth
+• fix sound crackling
+• fix screen off ok google
+• add CPU info overlay
+• wifi: Improve 5GHz AP selection preference 
+• wifi: Disable packet logging
+• rootdir: use cpuset values from crosshatch
+• Import QTI vibrator HAL
+• switch to aidl Light HAL
+• light: satisfy graceful shutdown of backlight
+• light: adapt aidl Light hal for xiaomi_sdm845 
+• Increase LED brightness
+• vibrator: Implement OOS style effects for LED vibrator
+• vibrator: Adapt Effects for Xiaomi sdm845 Devices
+• Adapt vendor.qti.hardware.vibrator.impl for A12 
+• parts: Inject doze preference through ia 
+• overlay: Disable BT and DT2W by default
+• Add Add pixel_2016_exclusive.xml
+• Switch to FBE as default encryption method
+
+Notes:
+• By default rom is encryption, flash DFE if you want decrypted
+• Step Flash same like you do at A11
+• Basic / core flame Gapps recommended
+• For vanilla dont flash Full Gapps
+• Clean flash is recommended
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
