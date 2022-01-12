@@ -3,9 +3,11 @@
 Date : 14/12/2021 | 4.0.1 Surabaya
 
 Device Changelogs :
-- Tune Zram Performance
-- Merged v4.4.294 on kernel
-- Improved Stability and Performance
+- Source Upstream
+- Remove fingerprint HAL from background cpuset
+- Fix fingerprint wake-up animation
+- Sync EGL symlinks with CAF 
+- Switch to Mystic Kernel 4.4
 
 Known Issue :
 - Encryption not working
