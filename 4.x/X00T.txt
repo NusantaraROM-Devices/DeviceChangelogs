@@ -1,5 +1,26 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 12/01/2022
+
+Changelog :
+• Jan 2022 ASB build
+• Added Overlays for improve UI smoothness
+• SafetyNet passes by default
+• Switched back to QCOM WFD
+• Unlimited Google photos in original quality available
+• Fixed WFD lags
+• Cleanedup unused blobs
+• Added ZenPartsV2
+• Kernel upstream to 4.4.299
+• Some misc improvements
+
+Notes :
+• SELinux Enforcing
+• Gapps already included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
 Date : 14/12/2021
 
 Changelog :
