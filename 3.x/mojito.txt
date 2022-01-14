@@ -1,9 +1,9 @@
 |==========| Redmi Note 10 (Sunny/Mojito) |==========|
 
-Date : 18/11/2021
+Date : 14/01/2021
 
 * Device Changelogs:
-- Fixed hot charging issue & Thermal Issue
+- Added XiaomiParts
 - Little Improvement
 
 * Known Bug
@@ -13,6 +13,7 @@ Date : 18/11/2021
 * Notes :
 • OSS Build!
 • Gapps Build
+• Should Be EOL
 • Flashing methode same as other roms
 
 • Thanks to
