@@ -1,24 +1,36 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
-
-Date : 14/12/2021
-
-Changelog :
-• Disabled recovery encryption for now
-• Uprev display config to 2.0
-• Add offline charging
-• SafetyNet pass with MagiskHide, or pass without root
-
+ 
+Date : 15/01/2022
+ 
+Chagelog :
+• Switch to Pixel power hal
+• Drop some unused instance
+• Configured dalvik heap for 4gb variant
+ 
 Notes :
 • SELinux Enforcing
 • Vendor included
 • NikGapps recommended for vanilla builds
 • Clean flash is necessary
-
+ 
+-------------------------------------------------
+ 
+Date : 14/12/2021
+ 
+Changelog :
+• Disabled recovery encryption for now
+• Uprev display config to 2.0
+• Add offline charging
+• SafetyNet pass with MagiskHide, or pass without root
+ 
+-------------------------------------------------
+ 
 Date : 10/11/2021
-
+ 
 Changelog :
 • Initial A12 builds
 • SELinux enforcing
 • Enabled one-handed mode
 • Uprev soundtrigger HAL to 2.3
 • add offload gapless support flag audio policy
+ 
