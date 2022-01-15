@@ -1,0 +1,18 @@
+|==========| Redmi Note 10  (Sunny/Mojito)|==========|
+
+Date : 15/01/2022
+Changelog :
+• Initial Android 12 Build
+• SELInux Enforcing
+• SafetyNet  passed by default
+
+Notes :
+• Flash using OFOX
+• Gapps Only
+
+Credits :
+• Thanks to Allah SWT for everything
+• Big Thanks for Nusantara lead dev & other Maintainers
+• Thanks @Waxaranai for helping & For server
+• Thanks @rizkifanani12,@mda_suicidee,@PFARN,@Hasibkk for testing 
+• Thanks @ZIDAN44 for trees, vendor & kernel
