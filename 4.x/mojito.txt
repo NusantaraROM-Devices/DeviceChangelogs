@@ -13,6 +13,6 @@ Notes :
 Credits :
 • Thanks to Allah SWT for everything
 • Big Thanks for Nusantara lead dev & other Maintainers
-• Thanks @Waxaranai for helping & For server
+• Thanks @Waxaranai for helping & @attack_dns24 For server
 • Thanks @rizkifanani12,@mda_suicidee,@PFARN,@Hasibkk for testing 
 • Thanks @ZIDAN44 for trees, vendor & kernel
