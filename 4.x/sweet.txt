@@ -1,16 +1,20 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
-Date : 13/11/2021
-Changelog :
-• Initial Android 12 Build
-• SELInux Enforcing
-• SafetyNet no passed by default
+Date : 15/01/2022
+Changelogs :
+• Android January 2022 Security Update
+• SafetyNet passed by default
+• GrapheneOS Camera by default
+• Decrypted by default
+• SigmaKernel v4.14.262
+• GPhotos backup is Unlimited
 
 Notes :
-• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
-• Gapps Only
+• MANDATORY CLEAN FLASH
+• Rebase to crDroid trees
+• GApps Build
 
 Credits :
 • Thanks to Allah SWT for everything
-• Big Thanks for Nusantara lead dev & other Maintainers
-• Thanks @daniml3 for trees, vendor & kernel
+• Thanks @neoboddy89  for trees, vendor & kernel
+• Thanks @ClassDefFound @Henoyyy99 @rejectclass @salamsaitama @apinprasetyo @iamspakauskie TEAM testing
