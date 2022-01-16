@@ -1,12 +1,10 @@
 |==========| Redmi Note 6 Pro / Tulip |==========|
 
-Date : 14/12/2021 | 4.0.1 Surabaya
+Date : 17/01/2022 | 4.1 Shodanco
 
 Device Changelogs :
 - Source Upstream
-- Remove fingerprint HAL from background cpuset
-- Fix fingerprint wake-up animation
-- Sync EGL symlinks with CAF 
+- User Build (Clean flash mandatory)
 - Switch to Mystic Kernel 4.4
 
 Known Issue :
