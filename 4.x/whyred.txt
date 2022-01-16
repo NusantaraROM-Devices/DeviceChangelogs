@@ -1,9 +1,10 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 15/01/2022 | 4.1 Shodanco
+Date : 16/01/2022 | 4.1 Shodanco
 
 • Device Changelogs :
 • Initial Release
+• Fixed secured Wifi Hotspot
 • Switch to Sakil's dt
 • Switch to Graphene Camera
 • Switch thermal config to t-engine
@@ -13,7 +14,6 @@ Date : 15/01/2022 | 4.1 Shodanco
 
 • Known Issue :
 • Encryption not working
-• Screen might can't be touched after first boot, or at welcome setup, or after reboot, to fix that, just lock/turn off the screen, then turn on again.
 
 • Notes :
 • Old cam build.
@@ -28,4 +28,4 @@ Ask the kernel developer if their kernel is support qti haptics driver if you wa
 • Credit :
 • Sakil trees
 • Mocarafee helps
-• Zen testing
+• Zen + z Rafee testing
