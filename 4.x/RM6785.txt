@@ -1,5 +1,32 @@
 |==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
 
+Date : 17/01/2022 | 4.1 Shodanco
+
+Device Changelogs :
+• January 2022 ASB
+• Fixed battery usage
+• Remove all prebuilts apk
+• Inlined latest Pixelated launcher
+• Misc & performance improvements
+• Added f2fs support for userdata partition
+• Rebrand realmeParts to Additional Settings
+• (A.S) Cleanup & update icon
+• (A.S) Drop Double-tap to wake
+• (A.S) Drop Screen refresh rate
+
+Bugs
+• Built-in screen recorder
+• Permissive SELinux
+
+Notes
+• Vanilla & GApps Build
+• For Vanilla Build, Use BitGApps (Only)
+
+Credit :
+• Thanks to all realme-mt6785-devs
+
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
 Date : 26/12/2021 | 4.0-1 SURABAYA
 
 Device Changelogs :
