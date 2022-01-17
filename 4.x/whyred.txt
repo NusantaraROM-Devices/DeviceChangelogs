@@ -4,6 +4,7 @@ Date : 16/01/2022 | 4.1 Shodanco
 
 • Device Changelogs :
 • Initial Release
+• Added vanilla variant
 • Fixed secured Wifi Hotspot
 • Switch to Sakil's dt
 • Switch to Graphene Camera
