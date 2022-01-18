@@ -1,5 +1,50 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 18/01/2021 | Shodanco 4.1 ------
+
+Device Changelogs :
+• Update blobs from alioth V12.5.4.0.RKHMIXM
+• Import some blobs and config from miui_ALIOTHPRE_21.12.30
+• Optimize native executables for Kryo385
+• enable zram
+• tune zram performance
+• Enable zram writeback
+• Remove zram cold page writeback file
+• Set 50% Zram size
+• props: Disable vsync for CPU rendered Apps
+• props: remove extra GBoard spacing
+• overlay: Don't pin camera app in memory 
+• overlay: Don't pin launcher app in memory 
+• overlay: Enable adaptive sleep
+• overlay: Set an overlay to indicate power button FPS
+• qcril: fix MT SMS sent during power off 
+• wifi: Improve 5GHz AP selection preference
+• wifi: Smarter decisions on whether to use 2/5Ghz AP
+• wifi: Disable TDLS offchannel. TDLS off-channel feature is needed only for certification
+• wifi: Ignore tracking if any NUD failure occurs
+• wifi: Enable DFS channel scanning in P2P search
+• add parameters for Hotspot 2.0 Those parameters need to set for Hotspot 2.0 network
+• Enable wifi 6GHz band
+• Disable NearbyMessagingService and DiscoveryService
+• import pocket mode
+• Enable increased touch sensitivity setting
+• Audio: Fix mic volume in Apps
+• address more sepolicy denials
+
+Notes:
+• Step Flash same like you do at A11
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• if you face high idle drain , this Will solve out after 3-4 charging cycles
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
 Date : 12/11/2021
 
 Device Changelogs :
