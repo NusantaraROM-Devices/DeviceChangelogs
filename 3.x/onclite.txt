@@ -1,5 +1,41 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date : 17/01/2022
+
+Device Changelogs:
+• Update Latency blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Soter stack from LA.UM.9.6.2.r1-03600-89xx.0
+• Update I/O Prefetcher blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Performance stack from LA.UM.9.6.2.r1-03600-89xx.0
+• Bump Perf HAL to 2.2 version
+• Import UBWC blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Sync EGL symlinks with CAF
+• Address qtidataservices_app SELinux denial
+• Address rild SELinux denial
+• Address netmgrd SELinux denial
+• init: Setup all the sub-system as related
+• Disable advance network scan for legacy targets
+• Bring back ViLTE / Carrier Video Calling feature
+• Move supplicant service init to wpa_supplicant
+• Enable driver param "no_rrm=1" in wpa_supplicant_overlay.conf
+• Move some SCVE blobs to system_ext
+
+Notes:
+
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use NikGApps core
+• Needed Firmware from MIUI 12.5.1.0 (China) / 11.0.2.0 (Global)
+• CTS/SafetyNet passed without root
+• Banking apps working
+• JFLA is default kernel for now
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 08/11/2021
 Device Changelogs:
 • Change Default Kernel to JFla-Karamel latest
