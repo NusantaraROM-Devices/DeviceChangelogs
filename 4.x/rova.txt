@@ -1,0 +1,40 @@
+|==========| Redmi 4A/5A (Rova) |==========|
+
+Date : 18/01/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Update perf blobs from LA.UM.8.6.2.r1-08400-89xx.0
+• Drop XiaomiDoze
+• Drop duplicate prefix match
+• Add Source APNs from Pixel's CarrierSettings
+• Update ADSP/DSP blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Import dirac blobs from ugg
+• Add missing vendor.qti.hardware.dsp entries
+• Add Diracs and XiaomiParts
+• Allow to wake the screen on gestures instead of pulsing
+• Enable the pre-rendering feature
+• Speed preopt SysUI/Launcher/Settings
+• Disable debug.sf.enable_hwc_vds
+• Disable surfaceflinger backpressure
+• Optimize ART props
+• Update dex2oat config
+• Always preopt extracted APKs
+• Optimize everything on preopt
+• Disable dexpreopt minidebuginfo
+• Add bass booster preset for MiSound
+• Implement Clear Speaker
+• Address init denial
+• Update Time/PowerOffAlarm/Per.Mgr from LA.UM.9.6.3.r1-04400-89xx.0
+• Update msm_irqbalance from LA.UM.9.6.2.r1-04200-89xx.0
+• Update perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
+• Update sha1sum for modified perfboostsconfig
+• Address some denials
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to
+• @me_cafebabe for trees
+• @Chanz99, @yangbacagila, @Qiforra, @hellonetizen, @Xraa_Gen, @kicun88, @iluReie, @Taseer_b_001, @solusisoni, @Linda_miau, @ajak_aku_kekosanmu, @chottomatteeee for test
