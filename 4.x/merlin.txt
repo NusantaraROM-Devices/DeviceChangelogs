@@ -1,0 +1,25 @@
+ |==========| Redmi Note 9 |=========|
+
+Build Date: 21/01/22
+
+Device Changelogs :
+• Synced with latest sources
+• Default kernel Using Violet kernel
+• VoLTE Works Fine
+• January Security Patch
+• Upstream Kernel to 4.14.262
+• Safetynet Passed By Default
+• Enable stune boost for top-app
+
+Notes :
+• GAPPS build
+• OSS Vendor R
+
+Known Bug :
+• Screen Recorder
+
+Credits :
+Thanks to all tester and member Merlin
+Thanks GengKapak & XZI TEAM for help
+Thanks to Redmi MT6768 Team
+Thanks @attack_dns24 For server
