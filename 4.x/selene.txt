@@ -1,0 +1,22 @@
+|==========| Redmi 10 |=========|
+
+Build Date: 24/01/22
+
+Device Changelogs :
+• Initial Build
+• Fixed Volte
+• Fixed Offline charging
+• Upstream Kernel to 4.14.262
+• Enable ZRAM Writeback
+• Prebuilt GcamGo
+• SELinux Enforcing
+
+Notes:
+• Recommended clean flash
+
+Known Bug:
+• Screenrecord use third party
+
+Credits:
+• @ceb8khs @SakthivelNadar @ashblk @chcepizze @TheMalachite For DT
+• Thanks To XZI Team for support
