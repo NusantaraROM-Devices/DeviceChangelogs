@@ -1,0 +1,20 @@
+|==========| Redmi 9 & Poco M2 |=========|
+
+Build Date: 25/01/22
+
+Device Changelogs :
+• Initial Build
+• Fixed Volte
+• Fixed Blink recovery
+• Move to OSS R vendor
+• Upstream Kernel to 4.14.262
+
+Notes:
+• Recommended clean flash
+
+Known Bug:
+• Screenrecord use third party
+
+Credits:
+• @ceb8khs @SakthivelNadar @ashblk @chcepizze @TheMalachite For DT
+• Thanks To XZI Team for support
