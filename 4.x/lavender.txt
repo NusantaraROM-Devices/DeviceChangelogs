@@ -1,5 +1,15 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 28/12/2021
+
+Device Changelogs:
+• Change Build Fingerprint to Raven
+
+Notes : 
+• Now Gapps build is served 
+• Oldcam 
+• Cleanflash is recommended
+
 Date : 13/12/2021
 
 Device Changelogs :
