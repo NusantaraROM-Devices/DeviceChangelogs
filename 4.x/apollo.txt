@@ -1,14 +1,13 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
-Date : 14/01/2022
+Date : 30/01/2022
 Android 12
 Changelog :
-• Lawnchair incl.
-• Game Space incl.
-• Kernel 4.19.223-Arrow
-• remove parts for now
-• Vendor update to v12.5.7.0
+• FP delay fixed
+• bringback parts
+• update audio, sensor,iop,& perf from from APOLLO V13.0.0.1.6.DEV
+• Kernel 4.19.225-NotArrow
 • Selinux Enforcing
 • Firmware use Global V12.5.7.0 or higher
 • XDA soon
@@ -21,6 +20,14 @@ Credits :
 • Apollo Brickers Cmmunity.
 • Testers
 
+Date : 14/01/2022
+Android 12
+Changelog :
+• Lawnchair incl.
+• Game Space incl.
+• Kernel 4.19.223-Arrow
+• remove parts for now
+• Vendor update to v12.5.7.0
 
 Date : 13/11/2021
 Android 12
