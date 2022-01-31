@@ -1,5 +1,35 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date : 30/01/2022
+Device Changelogs:
+• Hot Fix from previous release (2022/01/17)
+• Audio: Increase voice call volume steps to 7
+• Audio: Increase media volume steps from 15 to 25
+• Keylayout: Apply Xiaomi's keylayout changes
+• Props: Drop ViLTE camera interface api
+• Camera: Make a shim for libmmcamera_ppeiscore.so
+• Camera: Create a shims for libmmcamera2_stats_modules.so
+• Camera: Patch ELF libmmcamera2_stats_modules to load libcamshim
+• GPS: Add capability NET_BIND_SERVICE to gnss 2.1 service
+
+Notes:
+
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use NikGApps core
+• Needed Firmware from MIUI 12.5.1.0 (China) / 11.0.2.0 (Global)
+• CTS/SafetyNet passed without root
+• Banking apps working
+• JFLA is default kernel for now
+
+
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 17/01/2022
 
 Device Changelogs:
