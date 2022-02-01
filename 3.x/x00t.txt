@@ -1,0 +1,23 @@
+|==========| Zenfone Max Pro M1 / X00T |==========|
+
+Date : 02/02/2022
+
+Device Changelogs:
+• Jan 2022 ASB build
+• Switched to redfin fp
+• Switched to Stock Pie audio hals
+• Fixed minor bugs
+• Improved Ram management
+• wifi: enable QPower and Deep sleep at the same time
+• Imported Pixel libperfmgr AIDL Power HAL
+• Introduce memory management tweaks
+
+Notes:
+• SELinux Enforcing
+• Gapps not included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+• Recommended to use NikGApps Basic
+• CTS/SafetyNet passed without root
+• Banking apps working
