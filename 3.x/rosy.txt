@@ -1,4 +1,31 @@
 |==========| Redmi 5 / Rosy |==========|
+Date : 02/02/2022
+• Device Changelogs:
+- Update redfin january 2022
+- Compile with proton clang
+- Shipped with NFS 4.9.298
+- Update media profiles config from Tissot V10.0.24.0 PDHMIXM
+- Update vulkan configs
+- Disable bluetooth clean turn on
+- Enable AUDIO_FEATURE_ENABLED_AUDIOSPHERE
+- Fix cfi error
+- Camera prop improvement
+- Uprev IRadio HAL to 1.5
+
+• Notes:
+- Clean flash is recommended.
+- SELinux Enforcing.
+- NikGApps or BiTGApps recommended.
+- SafetyNet pass by default.
+
+• Thanks to:
+- All NAD Teams.
+- Pulkit077 for his tree.
+- Anggit for his kernel.
+- RiveSong for server.
+- Fin for testing.
+
+|==========| Redmi 5 / Rosy |==========|
 Date : 20/11/2021
 
 • Device Changelogs:
