@@ -1,5 +1,94 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 08/02/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Update the overlay for SysUI res
+• Update SurfaceFlinger pin on redbull
+• Remove odex/oat files from pinner list.
+• Enable qcrild and data services
+• Replace writepid with task_profiles command
+• Set iorap prefetch prop to mendel flags
+• Build more PowerHAL
+• Uprev btconfigstore to 2.0
+• Update clearkey plugin to drm HAL v1.4
+• Import Charger blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Build libavservices_minijail
+• Switch to QCRILD
+• Update all QMI/IMS/Radio blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Update WiFi blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Update bluetooth blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Import FM blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Remove deprecated energy-awareness daemon
+• Address qcrild denials
+• Take some radio properties from sony device tree
+• Update sepolicy for updated RIL stack
+• Fix denials for netmgrd
+• Add EGL symlinks
+• Create CneApp symlinks
+• Update LPA interface version
+• Remove ims
+• Update CNE/DPM blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Enable AOD but disable it by default
+• revert "Disable debug.sf.latch_unsignaled"
+• Update perf blobs from LA.UM.8.6.2.r1-08400-89xx.0
+• Drop duplicate prefix match
+• Source APNs from Pixel's CarrierSettings
+• Update ADSP/DSP blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Add missing vendor.qti.hardware.dsp entries
+• Enable the pre-rendering feature
+• Speed preopt SysUI/Launcher/Settings
+• Disable debug.sf.enable_hwc_vds
+• Disable surfaceflinger backpressure
+• Optimize ART props
+• Update dex2oat config
+• Always preopt extracted APKs
+• Optimize everything on preopt
+• Always preopt extracted APKs
+• Strip off some debug packages
+• Disable dexpreopt minidebuginfo
+• Inherit several Android Go configurations
+• Export LLVM=1 to Kernel build
+• Address init denial
+• Update Time/PowerOffAlarm/Per.Mgr from LA.UM.9.6.3.r1-04400-89xx.0
+• Update msm_irqbalance from LA.UM.9.6.2.r1-04200-89xx.0
+• Update perf blobs from LA.UM.8.6.2.r1-08600-89xx.0
+• Add prebuilt Camera
+• Prepare to move to in-tree HALs
+• Import qcom-caf display/media/audio HALs
+• Exclude libqservice from binder interface whitelisting
+• Import perf properties on system.prop
+• Update ImsRadio HAL to v1.7
+• Import missing radio blobs
+• Add support for battery life saver
+• Add config_deviceDisabledComponents
+• Import AV Enhancements blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Remove HD notification for VoLTE
+• Add dummy perf profile
+• Address hal_perf_default denials
+• Add post boot tweaks
+• Address untrusted_app denials
+• Remove slow and fast charging values
+• Enable iorapd
+• Convert Doze into XiaomiParts
+• Adjust statusbar end margin
+• Migrate TARGET board flags from BoardConfig.mk to device.mk
+• Set persist.vendor.radio.(h/s)w_mbn_update to 0
+• Add kernel header dependency for vendor builds
+• Address untrusted_app denials
+• Fix sepolicy neverallow
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to
+• @me_cafebabe for trees
+• @Qiforra @IVedxnt for test
+
+|==========| Redmi 4A/5A (Rova) |==========|
+
 Date : 18/11/2021
 
 * Device Changelogs :
