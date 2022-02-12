@@ -1,5 +1,13 @@
 |==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
 
+Date: 12/02/2022
+
+Device Changelog:
+• Update soviet kernel. 
+• Better deep sleep. 
+• Update graphic blobs to LA.UM.9.1.r1-11400.02.
+• Various improvements.
+
 Date: 09/01/2022
 
 Device Changelog:
