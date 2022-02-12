@@ -1,8 +1,52 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date : 11/01/2022
+Date : 13/02/2022
 
 Changelogs :
+ • Add custom boost extension for scroll handling
+ • Add custom mode extension for handling app launch
+ • Add missing stagefright props
+ • Add offline charging LED indicator
+ • Add vendor prefix to sysfs_battery_supply
+ • Bump max interactive duration to 5s
+ • Disable compressed APEX
+ • Disable zygote preforking
+ • Don't mount TraceFS twice
+ • Enable AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
+ • Enable hapticTextHandle
+ • Enable real time lockscreen charging current values
+ • Fixup audio io policy voip_rx flags
+ • Improve Notch Curve
+ • Improve UI Jiterring and Touch Sampling
+ • Improved Battery Life and idle drain
+ • Limit screen recorder to 60fps
+ • Remove misoundfx
+ • Set debug.sf.hw to value 1
+ • Set in_voice_rec_headset_mic
+ • Ship Lawchair with Lawicons
+ • Switch to AOSP Bluetooth
+ • Switch to QTI PowerHAL
+ • Tune Mixer Paths for speaker
+ • Merge Audio HALs LA.UM.9.1.r1-11600-SMxxx0.0
+ • Update SurfaceFlinger pin
+ • Update fingerprint to redfin-user 12 SQ1A.220205.002 8010174 release-keys
+ • Update nusantara overlays
+ • Update vendor from V12.5.3.0.RJZMIXM:user/release-keys
+ • Use AOSP Vibrator pattern
+
+
+Notes :
+ • GApps, Vanilla
+ • Selinux Enforcing
+ • Decrypted by default
+ 
+Credits :
+ • Sairam for DFC Kernel
+ • Testers
+ 
+ 
+
+Old Changelog : 11/01/2022
  • Switch to fingerprint to Google Redfin 12 SQ1A.220105.002
  • Switch to user build from userdebug = less logging
  • Fix Media lag on playing or on recents
@@ -35,54 +79,3 @@ Changelogs :
  • Offload 24 bits playback supports mp3/aac format
  • Update vendor blobs from Redmi/joyeuse_eea/joyeuse:11/RKQ1.200826.002/V12.5.6.0.RJZEUXM:user/release-keys
  • Switch to DFC+ Kernel
-
-Notes :
- • GApps, Vanilla
- • Selinux Enforcing
- • Decrypted by default
- • If you face sometimes lag in UI, switch to another kernel like for my option its Yuki
- 
-Credits :
- • Sairam for DFC Kernel
- • Testers
- 
- 
-
-Old Changelog : 10/12/2021
- • December Security Patch
- • Sync latest Etherious Kerenl
- • Added Google Camera GO
- • Address tons of sepolicy denials
- • Adept Status bar padding like MIUI 
- • Fixed mic volume randomly goes down
- • Switched to partially audio hal
- • Remove volume_listener from audio effects
- • Remove audio effects that won't load
- • Allow all filesystems for USB-OTG
- • Enable fluence voice recording
- • Switched to 64bit Audio HALs
- • Kang idle/touch timer from raven
- • Sync Durations with Raven
- • Import aptX blobs
- • Copy missing media codecs from aosp 
- • Add edgnss socket directory 
- • Update the transcoding operating rate 
- • Enable settings provider model 
- • Restrict permissions to socket file
- • Make doze use of real pickup sensor 
- • Disable unspecialized app process pool
- • Remove advanced sf phase offset 
- • Switch to QTI Vibrator hal
- • Uprev QTI keymaster to 4.1
- • Grant rw permission to hgsl node
- • Set system graphics to power control node
- • set usb and hidraw to 0660 root usb
- • Uprev android.hardware.radio.config to 1.2
- • Add Shims for lib-imsvt / patched libjnihelper.so
- • Added Pixel 2016 Exclusive (Ultimate Google Photos backup) 
- • Sync with Display Props from CAF LA.UM.9.1.r1-11400-SMxxx0.0
- • Add system permission for RPS sysfs node
- • Copy permission for Vulkan API version 1.0.
- • Merge Display/Media/Audio HALs to LA.UM.9.1.r1-11400-SMxxx0.0
- • Revamp vendor from joyeuse_global-V12.5.2.0.RJZMIXM:user/release-keys 
- • Remove mounting of debugfs that is no longer allowed in Android S from rc scripts
