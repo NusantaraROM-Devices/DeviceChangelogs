@@ -1,11 +1,16 @@
 |==========| Redmi Note 6 Pro / Tulip |==========|
 
-Date : 17/01/2022 | 4.1 Shodanco
+Date : 13/02/2022 | 4.2 Sabang
 
 Device Changelogs :
-- Source Upstream
-- User Build (Clean flash mandatory)
-- Switch to Mystic Kernel 4.4
+- Kang display props from trinket 
+- Switch to Vulkan UI for Rendering 
+- Enable combined signal icons in status bar by default
+- Fixed DRM 1.0 Crashing
+- Drop unused perf profile
+- Disable WLAN Firmware loggings
+- Increase zRAM to 1.5 GB
+- Switch back to AvariceXC Kernel
 
 Known Issue :
 - Encryption not working
@@ -16,7 +21,7 @@ Notes :
 - OldCam build.
 - Encryption is broken, so don't try to encrypt.
 - It is safe to using sdcard.
-- For root, use Magisk 23.0.
+- For root, use Magisk 23.0/24.1.
 - If comes from encrypted state, you need to format first.
 - You can use any recovery as encryption is broken right now.
 - Wanna report some bugs ? Tag me on group with attaching logs 
