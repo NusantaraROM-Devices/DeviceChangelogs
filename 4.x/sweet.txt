@@ -1,20 +1,21 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
-Date : 15/01/2022
+Date : 13/02/2022
 Changelogs :
-• Android January 2022 Security Update
-• SafetyNet passed by default
+• Android February 2022 Security Update
 • GrapheneOS Camera by default
-• Decrypted by default
-• SigmaKernel v4.14.262
-• GPhotos backup is Unlimited
+• Upstream V4.14.266 VantomKernel with protonclang 13
+• Merge tag LA.UM.9.1.r1-11600-SMxxx0.0 into the kernel
 
 Notes :
 • MANDATORY CLEAN FLASH
-• Rebase to crDroid trees
+• Rebase to Arrow trees
 • GApps Build
 
 Credits :
-• Thanks to Allah SWT for everything
-• Thanks @neoboddy89  for trees, vendor & kernel
-• Thanks @ClassDefFound @Henoyyy99 @rejectclass @salamsaitama @apinprasetyo @iamspakauskie TEAM testing
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks @daniml3  for trees
+• Thanks @Vantom & @redline_soee for kernel
+• Thanks BMWteam testing
