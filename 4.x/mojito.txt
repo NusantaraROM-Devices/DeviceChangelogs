@@ -1,10 +1,14 @@
 |==========| Redmi Note 10  (Sunny/Mojito)|==========|
 
-Date : 15/01/2022
+Date : 13/02/2022
 Changelog :
-• Initial Android 12 Build
 • SELInux Enforcing
-• SafetyNet  passed by default
+• Use Raven FP
+• GPhotos Unlimited 
+• Using Lawnchair as default launcher
+• Drop cutout services
+• Game mode should be fix
+• And more
 
 Notes :
 • Flash using OFOX
@@ -13,6 +17,7 @@ Notes :
 Credits :
 • Thanks to Allah SWT for everything
 • Big Thanks for Nusantara lead dev & other Maintainers
-• Thanks @Waxaranai for helping & @attack_dns24 For server
-• Thanks @rizkifanani12,@mda_suicidee,@PFARN,@Hasibkk for testing 
-• Thanks @ZIDAN44 for trees, vendor & kernel
+• Thanks @attack_dns24 For server
+• Thanks @Hasibkk for testing  
+• Thanks @ZIDAN44 & @dblenk9 for trees, vendor & kernel
+• HSD Team
