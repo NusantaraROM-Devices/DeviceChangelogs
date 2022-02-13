@@ -1,9 +1,18 @@
 |==========| POCO X3 NFC / Surya |==========|
 
-Date : 10/12/2021
+Date : 13/02/2022
 
 Device Changelogs :
-• Initial A12 Build
+• Update blobs from miui v12.5.4.0
+• Switch to SilonT-Marin v4.14.265
+• Remove IO read_ahead_kb tune
+• Turn on GPU protected contents
+• Disable debug.sf.enable_hwc_vds
+• Import VulkanAPI Layers from Google Pixel 4
+• Sync durations props with raven
+• Sync idle/touch timer to raven
+• Disable vsync for CPU rendered Apps
+• Other fixes and improvement
 
 Notes:
 • GApps Already Included
