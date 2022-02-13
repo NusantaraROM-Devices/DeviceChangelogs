@@ -1,4 +1,39 @@
 |==========| POCO F2 Pro / LMI |==========|
+13/02/2022
+
+Changelogs :
+• update to Raven February 2022 fingerprint
+• wifi: Disable RX wakelock feature
+• wifi: Relax WiFi re-association RSSI thresholds
+• wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+• perf: Enable the pre-rendering feature
+• Force triple frame buffers
+• Allow all filesystems for USB-OTG
+• build 32 bit audio only
+• Disable vsync for CPU rendered Apps
+• init: Decrease boosting frequency
+• Enable audio fluence for voicerec
+• Kernel upstream to 4.19.227
+
+Notes :
+• Use FW 12.5.4.0 CN or 12.5.3.0 Global
+• Gapps build only
+• Decrypted build
+
+Bugs :
+• Report if found
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+• Akash (https://github.com/markakash) for kernel
+
+Special Thanks :
+• Cahyo (https://github.com/trianurca69)
+• Macka (https://github.com/macka69)
+
+
+|=========================================|
 12/01/2022
 
 Changelogs :
