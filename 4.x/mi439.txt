@@ -1,0 +1,26 @@
+|==========| Redmi 7A/8/8A/8A Dual (mi439)|==========|
+
+Date : 13/02/2022 | 4.2 Sabang
+
+Device Changelogs :
+• Initial Release
+• Rebased tree
+• Performance tuning
+• Enable media codec2
+• kernel: Upstream to 4.9.301
+
+Known Issue :
+• You tell me
+
+Notes :
+• Both GApps and Vanilla available
+• SELinux mode is Enforcing
+• Needs 64bit recovery to flash
+• Mi439 = olives + pine
+
+Credit :
+• GengKapak
+• 0xCAFEBABE
+• Yona
+• Flop & Akira
+• All mi439 dev
