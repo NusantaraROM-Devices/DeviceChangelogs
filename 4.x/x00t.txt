@@ -1,5 +1,33 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 14/02/2022
+
+Changelog :
+• Feb 2022 ASB build
+• Added props to improve battery backup
+• Added Props for Better Ram Management
+• Completely rebased trees
+• Added overlays to make transition animation a bit faster
+• Added changes to support stereo channel configuration
+• Sepolicy: Attach vendor_property_type to properties
+• Sepolicy: Address few Denials
+• Drop nvram_btwifi
+• Thermal: Pull QTI Thermal from LineageOS
+• Thermal: Add support for sdm660/636
+• Guard qti thermal 2.0 service hals
+• props: Move renderengine to threaded skia
+• Uprev bluetooth audio HIDL impl to 2.1
+• Some misc improvements and fixes
+
+Notes :
+• SELinux Enforcing
+• Gapps not included
+• Nikgapps is Recommended
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
 Date : 12/01/2022
 
 Changelog :
