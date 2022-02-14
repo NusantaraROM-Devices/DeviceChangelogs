@@ -1,5 +1,19 @@
 |==========| Redmi Note 8/8T (Ginkgo/Willow) |==========|
 
+Date : 14/02/2022
+
+Changelog:
+• February secpatch
+• Switch to pixel libperfmgr
+• Disable vsync for CPU rendered Apps
+• Update blobs from miui V12.5.1.0.RCOMIXM
+
+Notes :
+• Use flamegapps full.
+• Changelogs are same with January unpublished build
+• Encryption still broken, flash DFE.
+• Happy Valentine day!
+
 Date : 06/02/2022
 
 Changelog:
