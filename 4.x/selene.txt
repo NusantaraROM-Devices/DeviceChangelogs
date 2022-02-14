@@ -1,15 +1,13 @@
 |==========| Redmi 10 |=========|
 
-Build Date: 24/01/22
+Build Date: 14/02/22
 
 Device Changelogs :
-• Initial Build
-• Fixed Volte
-• Fixed Offline charging
-• Upstream Kernel to 4.14.262
-• Enable ZRAM Writeback
-• Prebuilt GcamGo
-• SELinux Enforcing
+• Upstream Kernel to 4.14.265
+• Tune ZRAM performance
+• Enable Aod but disable by default
+• Enable Fps meter
+• Reduce screenshot delay
 
 Notes:
 • Recommended clean flash
