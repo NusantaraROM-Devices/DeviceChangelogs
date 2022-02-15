@@ -1,0 +1,23 @@
+|==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
+
+
+Date : 15/02/2022
+Android 12
+Changelog :
+• Initial Official Release
+• Disable kpti
+• Use SkiaGL for HWUI renderer
+• QTI Bluetooth
+• Shipped with 4.19.227 GreenForce Kernel
+
+Notes :
+• GApps included
+• 12.5 EEA Vendor for Citrus.
+• 21.9.8 Vendor for Lime.
+• Recommended to Decrypt. Idk is it going to work on encrypted, try it by yourself.
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks All Dev Juice for helping
+• Thanks Don Joaquin for device tree
+• Thanks to testers for testing
