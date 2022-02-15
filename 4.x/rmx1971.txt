@@ -1,5 +1,31 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 13-14/02/2022
+
+Device Changelogs :
+• updated February FP
+• fixed wrong info battery
+• upstreamed kernel to 4.9.301
+• System Improvement
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps
+• Vanilla
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• Thanks To @Fikale99 for test
+• Thanks To @Jetto_chi for test
+• thanks to all member realme developer group.
+
+
+
+|========= Old ChangeLog =========|
+
 Date 24/01/2022
 
 Device Changelogs :
@@ -25,9 +51,6 @@ Credits
 • thanks to all member realme developer group.
 
 
-
-
-|========= Old ChangeLog =========|
 
 Date 29/12/2021
 
