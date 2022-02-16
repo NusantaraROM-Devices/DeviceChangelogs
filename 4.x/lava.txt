@@ -1,16 +1,17 @@
 |==========| Redmi 9 & Poco M2 |=========|
 
-Build Date: 25/01/22
+Build Date: 16/02/22
 
 Device Changelogs :
-• Initial Build
-• Fixed Volte
-• Fixed Blink recovery
-• Move to OSS R vendor
-• Upstream Kernel to 4.14.262
+• Uprev BT audio HIDL impl to 2.1
+• SELinux Enforcing
+• Enable Aod but disable by default
+• Enable Fps meter
+• Upstream Kernel to 4.14.265
 
 Notes:
 • Recommended clean flash
+• LAST UPDATE FOR LAVA KTHNXBYE
 
 Known Bug:
 • Screenrecord use third party
