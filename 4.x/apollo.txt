@@ -1,6 +1,23 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 13/02/2022
+Android 12
+Changelog :
+• source upstream
+• Kernel 4.19.227
+• Selinux Enforcing
+• Firmware use Global V12.5.7.0 or higher
+• XDA soon
+
+Notes :
+• GApps only
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
 Date : 30/01/2022
 Android 12
 Changelog :
@@ -11,14 +28,6 @@ Changelog :
 • Selinux Enforcing
 • Firmware use Global V12.5.7.0 or higher
 • XDA soon
-
-Notes :
-• GApps, Vanilla
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-• Testers
 
 Date : 14/01/2022
 Android 12
