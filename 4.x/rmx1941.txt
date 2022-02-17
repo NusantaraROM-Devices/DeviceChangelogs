@@ -1,0 +1,23 @@
+|==========| Realme C2 / RMX1941 |==========|
+
+Date 16/02/2022
+
+Device Changelogs :
+• Initiall release
+• Shipping with oss
+• RealmeUI base
+
+Notes :
+• VolTE working in Permissive 
+  but Offline Charging dead (reverse)
+
+Facing issue ?
+• Tell me, proper the logcat
+
+Credits 
+• Thanks To @SakhtivelNadar
+• Thanks To @P_Salik
+• Thanks To @Sarthakroy2002
+• Thanks To all mediatek developer
+• thanks to all member realme developer group.
+
