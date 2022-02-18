@@ -1,0 +1,13 @@
+|==========| Realme 2 Pro / RMX1801 |==========|
+ 
+Date : 18/02/2022
+ 
+Chagelog :
+• Initial Build Based On Android 12
+• Configured zram to 4gb
+• Added F2FS Support
+• EAS powerhal
+ 
+Notes :
+• SELinux Enforcing
+• Clean flash is necessary
