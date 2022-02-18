@@ -1,14 +1,12 @@
 |==========| MIA1 / Tissot |==========|
 
-Date : 24/01/2022
+Date : 19/02/2022
 
 Device Changelogs:
-• Upstreamed kernel v4.9.297
-• Rebased to PE trees
-• Implemented pixel power
-• Fixed recovery/offline charging issue
-• Drop more default gapps
-• GrapheneOS Camera by default
+• Upstreamed kernel v4.9.301
+• Reverted pixel power (back to pixel qti)
+• Use Gabuters Clang
+• Misc improvements and fixes
 
 Credits & Thanks to :
 • @SebaUbuntu @abhinavgupta371 for trees 
@@ -16,4 +14,4 @@ Credits & Thanks to :
 • @Unknownbitch
 • @bmwtheseries
 • @gabutersllc
-• @bhatia1583 @Legendkushal for testing
+• @bhatia1583 @Legendkushal @ItsMeKakashii for testing
