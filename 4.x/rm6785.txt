@@ -1,5 +1,33 @@
 |==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
 
+Date : 19/02/2022 | 4.2 Sabang
+
+Device Changelogs :
+• February 2022 ASB
+• Added realmeDirac
+• Fixed DRM Widevine L1
+• Fixed built-in screen recorder
+• Fixed fingerprint (no need rename)
+• Fixed offline charging & use pixel animation
+• Import/Update Power HAL configs from stock
+• Import overlay & props from stock
+• Import apns-configs from stock
+• Switch & Update Lawnchair/icons
+• Misc & performance improvements
+
+Bugs
+• Permissive SELinux
+
+Notes
+• Vanilla & GApps Build
+• For Vanilla Build, Use BitGApps (Only)
+
+Credit :
+• For Sources (Thanks to @SamarV121 @sagarmakhar)
+• For Help offline-charging & realmeDirac (Thanks to @sarthakroy2002)
+
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
 Date : 17/01/2022 | 4.1 Shodanco
 
 Device Changelogs :
