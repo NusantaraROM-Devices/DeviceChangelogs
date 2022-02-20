@@ -1,17 +1,11 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 16/01/2022 | 4.1 Shodanco
+Date : 19/02/2022 | 4.2 Sabang
 
 • Device Changelogs :
-• Initial Release
-• Added vanilla variant
-• Fixed secured Wifi Hotspot
-• Switch to Sakil's dt
-• Switch to Graphene Camera
-• Switch thermal config to t-engine
-• Update thermal blobs from LA.UM.8.2.r1-06200-sdm660.0
-• Switch vibration driver to qti haptics (same vibration feeling as 4.19)
-• SEPolicy is enforced
+• Added Xiaomi Dirac
+• Merged LA.UM.8.4.r1-06200-8x98.0 into display, media and audio
+• Switch to MiuiCamera
 
 • Known Issue :
 • Encryption not working
@@ -20,7 +14,7 @@ Date : 16/01/2022 | 4.1 Shodanco
 • Old cam build.
 • Encryption is broken, so don't try to encrypt.
 • It is safe to using sdcard.
-• For root, use Magisk 23.0.
+• For root, use Magisk 24.1.
 • If comes from encrypted state, you need to format first.
 • You can use any recovery as encryption is broken right now.
 • ROM comes with AIDL qti vibrator (LED based vibrator), so if you want to use custom kernel, then you'll need to use kernel with qti haptics driver or you'll not get any vibration. 
@@ -29,4 +23,4 @@ Ask the kernel developer if their kernel is support qti haptics driver if you wa
 • Credit :
 • Sakil trees
 • Mocarafee helps
-• Zen + z Rafee testing
+• @molotovgurl + @ryanop testing
