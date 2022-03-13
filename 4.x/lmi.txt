@@ -1,4 +1,35 @@
 |==========| POCO F2 Pro / LMI |==========|
+13/03/2022
+
+Changelogs :
+• Enable display protected contents in Surface Flinger
+• Initialize High Touch Polling Rate support
+• Import auto brightness overlay from MIUI V12.0.8.0.QJKCNXM
+• Import screen brightness backlight and nits from Coral
+• Reduce minimum brightness
+• Switch to QTI BT stack
+• Support A2DP offload for Bluetooth Audio HAL V2
+• Enable quick tap
+• Kernel upstream to v4.19.232
+• Merge kernel tag LA.UM.9.12.r1-14000-SMxx50.0
+
+Notes :
+• Use FW 12.5.4.0 CN or 12.5.3.0 Global
+• Gapps build only
+• Decrypted build
+
+Bugs :
+• Report if found
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+Special Thanks :
+• Macka (https://github.com/macka69)
+
+
+|=========================================|
 13/02/2022
 
 Changelogs :
