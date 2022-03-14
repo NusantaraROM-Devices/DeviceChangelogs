@@ -1,5 +1,13 @@
 |==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
 
+Date: 14/03/2022
+
+Device Changelog:
+• Update kernel. 
+• Update graphic blobs to LA.UM.9.1.r1.11500.02. 
+• DFE by default. 
+• Various improvements. 
+
 Date: 12/02/2022
 
 Device Changelog:
