@@ -1,0 +1,24 @@
+|==========| Xiaomi Mi 8 / Dipper |==========|
+
+------ Date : 14/03/2022 | Sabang 4.2-1 ------
+
+Device Changelogs:
+• dipper: Bring-up A12 for Sabang 4.2-1
+• dipper: Switch Fingerprint to Raven:12/SQ1D.220205.003
+• dipper: Turn-off Compressed APEX
+• dipper: Adjust Status-bar Icons
+• dipper: Shipped with 4.9.306-perf
+• sdm845-common: Added Google Battery HAL
+• sdm845-common: Added Color Modes
+• sdm845-common: Switch to AIDL Light HAL
+• sdm845-common: Switch to QTI Vibrator AIDL HAL
+• sdm845-common: Improve Performance & Stability
+
+Notes:
+• Step Flash same like you do at A11
+• Flame Gapps recommended
+• Clean Flash recommended
+• Safetynet pass by default with/without root
+
+Bugs:
+• Report to me, with proper logs
