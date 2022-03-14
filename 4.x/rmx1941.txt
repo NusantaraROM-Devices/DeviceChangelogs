@@ -1,5 +1,37 @@
 |==========| Realme C2 / RMX1941 |==========|
 
+14/03/2022
+
+Changelogs :
+• Permissive Build
+• Fixed Dual Volte
+• Fixed DT2W
+• Fixed Chrome Crash
+• Fixed Lag
+• Fixed Bluetooth Audio
+
+Notes :
+• RMUI 1 Based
+• OSS-Vendor
+• Decrypted build
+
+Bugs :
+• Dual Volte In Enforcing
+• Offline Charging in Permissive
+
+Credits :
+• Thanks To @SakhtivelNadar
+• Thanks To @P_Salik
+• Thanks To @Sarthakroy2002
+• Thanks To all mediatek developer
+• thanks to all member realme developer group.
+
+
+|=========================================|
+
+
+|==========| Realme C2 / RMX1941 |==========|
+
 Date 16/02/2022
 
 Device Changelogs :
