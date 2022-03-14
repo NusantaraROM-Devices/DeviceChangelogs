@@ -1,6 +1,30 @@
 |==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
 
 
+Date : 14/02/2022
+Android 12
+Changelogs :
+• Switch to user build
+• Fixed bluetooth cannot turn on
+• Fixed video calling
+• Disable forced shutter sound
+• Tune ZRAM configuration
+• Import sunfish cpusets configuration
+• Import sunfish phase offset configuration
+• Fixed Google TTS FC in Setup Wizard
+• Switch to Juice-Bengal kernel
+• Compiled with AOSP Clang 14.0.2
+
+Notes :
+• Based on stock vendor
+• Use latest 12.5.x vendor
+• Recommend to decrypt
+
+Credits:
+• @ItsDifp for testing
+
+=================================================
+
 Date : 15/02/2022
 Android 12
 Changelog :
