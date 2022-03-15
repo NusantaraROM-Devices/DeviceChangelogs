@@ -1,8 +1,40 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date : 13/02/2022
+Date : 15/03/2022
 
 Changelogs :
+ • Add Xiaomi ACDB ID changes
+ • Allow bluetooth to read incremental prop
+ • Allow every app to read camera props
+ • Allow ioctl to zram_swap for performance
+ • Allow sensors to connect to audio hal socket
+ • Build extphone libraries as required by Android 12 telephony
+ • Build libxml2
+ • Checkout speaker-safe configs/paths from stock
+ • Do not balance msm_drm and kgsl-3d0 IRQs
+ • Enable HWUI_COMPILE_FOR_PERF
+ • Enable IOP v3
+ • Enable incremental FS feature.
+ • Mark WifiOverlay as coreApp
+ • Optimise dex flags
+ • Remove LiveDisplay and Trust HAL
+ • Remove audio effects that won't load
+ • Remove some camera-daemon commands
+ • Replace writepid with task_profiles command for cgroup migration
+ • Updated vendor from curtana-user 11 RKQ1.200826.002/ V12.5.4.0.RJWMIXM release-keys
+ • Use HintManager for HWUI
+
+Notes :
+ • GApps, Vanilla
+ • Selinux Enforcing
+ • Decrypted by default
+ 
+Credits :
+ • Sairam for DFC Kernel
+ • Testers
+ 
+
+Old Changelog : 13/02/2022
  • Add custom boost extension for scroll handling
  • Add custom mode extension for handling app launch
  • Add missing stagefright props
@@ -33,49 +65,3 @@ Changelogs :
  • Update nusantara overlays
  • Update vendor from V12.5.3.0.RJZMIXM:user/release-keys
  • Use AOSP Vibrator pattern
-
-
-Notes :
- • GApps, Vanilla
- • Selinux Enforcing
- • Decrypted by default
- 
-Credits :
- • Sairam for DFC Kernel
- • Testers
- 
- 
-
-Old Changelog : 11/01/2022
- • Switch to fingerprint to Google Redfin 12 SQ1A.220105.002
- • Switch to user build from userdebug = less logging
- • Fix Media lag on playing or on recents
- • Remove TASchedtuneHighCap
- • Import power profile and adept to atoll
- • Slightly increase the minimum brightness level
- • Label idle_state sysfs nodes and wakeup nodes
- • Enable H/W Composition
- • Set an overlay to make transition animation a bit faster.
- • Use and build libs for Gralloc4 BufferQueue
- • Use FUSE passthrough by default
- • Turn on support of multiple vibration intensities
- • Add fingerpint animation effect on button
- • Don't report memcg functionality in cmdline
- • Enable the pre-rendering feature
- • Turn on GPU protected contents.
- • Update Vendor Security Patch 2021-11-01
- • Enable Codec2 input surface
- • Tune boot time for faster boot time
- • Fix weird media codecs glitches
- • Remove service for unused wigignpt
- • Debloat AOSP from Xiaomi Junk thats never used
- • Fine tune touch sampling
- • Disable SDM rotator downscaler
- • Enforce 24-bit audio for offload playback
- • Fix weird cracking sound on high volume
- • Disable all logging on Wi-Fi
- • Update Camera Go to Special Build 2
- • Enable QCRIL radio power saving
- • Offload 24 bits playback supports mp3/aac format
- • Update vendor blobs from Redmi/joyeuse_eea/joyeuse:11/RKQ1.200826.002/V12.5.6.0.RJZEUXM:user/release-keys
- • Switch to DFC+ Kernel
