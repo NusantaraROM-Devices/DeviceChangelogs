@@ -1,15 +1,17 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
-Date : 13/02/2022
+Date : 16/03/2022
 Changelogs :
-• Android February 2022 Security Update
-• GrapheneOS Camera by default
-• Upstream V4.14.266 VantomKernel with protonclang 13
-• Merge tag LA.UM.9.1.r1-11600-SMxxx0.0 into the kernel
+• Updated blobs from MIUI 13 v13.0.2.0 Global
+• Fixed OK Google
+• Fixed charging offline
+• Updated GPS to LA.UM.9.1.r1-11500-SMxxx0.0
+• Switch to Sleepy Kernel
+• Upstreamed kernel to v4.14.272
+• Merge tag LA.UM.9.1.r1-11700-SMxxx0.0 into the kernel
 
 Notes :
-• MANDATORY CLEAN FLASH
-• Rebase to Arrow trees
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
 • GApps Build
 
 Credits :
@@ -17,5 +19,6 @@ Credits :
 • Thanks Nusantara Project Team
 • Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
 • Thanks @daniml3  for trees
-• Thanks @Vantom & @redline_soee for kernel
+• Thanks @shashank1439 @Vantom & @redline_soee for kernel
+• Thanks @Genkzsz11 @Suzurui @rwxrrwx for helping
 • Thanks BMWteam testing
