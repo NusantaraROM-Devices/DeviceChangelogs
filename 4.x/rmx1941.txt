@@ -1,5 +1,33 @@
 |==========| Realme C2 / RMX1941 |==========|
 
+19/03/2022
+
+Changelogs :
+• A12L Source
+• Enforcing Build
+• Gapps Included
+• Replace Gcam-go with SnapCamera
+• Improve More Performace
+
+Notes :
+• RMUI 1 Based
+• OSS-Vendor
+• Decrypted build
+• Needed dual volte ? Flash Permissiver
+
+Bugs :
+• Tell if u facing more issue
+
+Credits :
+• Thanks To @SakhtivelNadar
+• Thanks To @P_Salik
+• Thanks To @Sarthakroy2002
+• Thanks To all mediatek developer
+• thanks to all member realme developer group.
+
+
+|=========================================|
+
 14/03/2022
 
 Changelogs :
