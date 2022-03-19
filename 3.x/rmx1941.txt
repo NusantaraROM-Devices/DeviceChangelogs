@@ -1,0 +1,20 @@
+|==========| Realme C2 / RMX1941 |==========|
+
+14/03/2022
+
+Changelogs :
+• Initiall Official release
+• Permissive Build
+• Vanilla version
+
+Notes :
+• Use Stock Vendor
+• RealmeUI 1.0
+
+Bugs :
+• Tell if u facing more issue
+
+Credits :
+• Thanks To @SakhtivelNadar
+• Thanks To all mediatek developer
+• thanks to all member realme developer group.
