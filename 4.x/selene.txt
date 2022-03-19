@@ -1,13 +1,16 @@
 |==========| Redmi 10 |=========|
 
-Build Date: 14/02/22
+Build Date: 18/03/22
 
 Device Changelogs :
-• Upstream Kernel to 4.14.265
-• Tune ZRAM performance
-• Enable Aod but disable by default
-• Enable Fps meter
-• Reduce screenshot delay
+• Upstream Kernel to 4.14.272
+• Enable pre rendering
+• Compile HWUI for better perf
+• Tune Memory Management
+• Use coral FP march
+• Dynamically allocate ZRAM
+• Enable IORapd prefetching
+• User Build
 
 Notes:
 • Recommended clean flash
@@ -16,5 +19,5 @@ Known Bug:
 • Screenrecord use third party
 
 Credits:
-• @ceb8khs @SakthivelNadar @ashblk @chcepizze @TheMalachite For DT
+• @ceb8khs @SakthivelNadar @ashblk @chcepizze @TheMalachite @Mikazuuu07 For DT
 • Thanks To XZI Team for support
