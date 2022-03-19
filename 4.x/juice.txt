@@ -1,5 +1,26 @@
 |==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
 
+Date : 19/03/2022
+Android 12.1
+Changelogs :
+• Initial Android 12.1 release
+• Fixed lag on some animation
+• Converted overlays into Runtime Resource Overlays
+• Decommonized Runtime Resource Overlays
+• Improved I/O read-write speed
+• Set max frame buffer to 3
+• Re-enabled window-level blurs
+• Disable VSync for CPU rendered apps
+• Enforce 24-bit audio for offload playback
+
+Notes:
+• Based on stock vendor
+• Use latest 12.5.x vendor
+
+Credits and thanks:
+• @ItsDifp & @hakazeee for testing
+
+=================================================
 
 Date : 14/02/2022
 Android 12
