@@ -1,0 +1,29 @@
+|==========| POCO X3 NFC / Surya |==========|
+
+Date : 19/03/2022
+
+Device Changelogs :
+
+- SPL March
+
+- Safetynet pass by default
+
+- Prebuilt Google Camera Go
+
+- Prebuilt DPA Kernel
+
+- Refresh Rate Fixed
+
+- Camera Record Fixed
+
+Notes :
+
+- Vanilla Build
+
+- Clean flash is recommended
+
+Credit :
+
+- Thanks to @fakeriz for dt
+
+- Thanks to @nafasaaaaaaaa , @Modart13 , and many tester.
