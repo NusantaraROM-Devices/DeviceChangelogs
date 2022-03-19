@@ -2,21 +2,42 @@
 
 
 Date : 13/02/2022
-Android 12
+Android 12 || 12L
 Changelog :
 • source upstream
-• Kernel 4.19.227
+• Kernel 4.19.235
+• add per apps refresh rate profile, adapt to apollo
 • Selinux Enforcing
-• Firmware use Global V12.5.7.0 or higher
+• Firmware use Global V12.5.8.0 or higher
 • XDA soon
+
+Android 12L
+Changelog :
+• source upstream
+• Kernel 4.19.235
+• add per apps refresh rate profile (try this gimmick 🥴)
+• Selinux Enforcing
+• under the hood improvement
+• Firmware use Global V12.5.8.0 or higher
 
 Notes :
 • GApps only
+• wfd seems broken
+• statusbar icon missing on 12L gapps build
 
 Credits :
 • Allah SWT
 • Apollo Brickers Cmmunity.
 • Testers
+
+Date : 13/02/2022
+Android 12
+Changelog :
+• source upstream
+• Kernel 4.19.235
+• Selinux Enforcing
+• Firmware use Global V12.5.7.0 or higher
+• XDA soon
 
 Date : 30/01/2022
 Android 12

@@ -1,12 +1,12 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
-Date : 12/11/2021
+Date : 03/2022
 Changelog :
-• update device fingerprint to walleye for passing safetynet
-• Kernel 4.19.205-Perf
+• source upstreamed
+• Merged linux kernel 4.19.235:
 • Selinux Enforcing
-• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
+• Firmware use Global V12.5.8.0
 • XDA https://forum.xda-developers.com/t/official-nusantaraproject-v2-7-21-3-2021-android-11.4250491/
 
 Notes :
@@ -14,13 +14,19 @@ Notes :
 
 Bugs:
 • vowifi (?)
-• launcher: apps suggestion crash without google device personalization service.
 
 Credits :
 • Allah SWT
 • Apollo Brickers Cmmunity.
 • Testers
 
+Date : 12/11/2021
+Changelog :
+• update device fingerprint to walleye for passing safetynet
+• Kernel 4.19.205-Perf
+• Selinux Enforcing
+• Firmware use Global V12.5.2.0/EEA V12.5.5.0.RJDEUXM
+• XDA https://forum.xda-developers.com/t/official-nusantara
 
 Date : 15-16/10/2021
 Changelog :
