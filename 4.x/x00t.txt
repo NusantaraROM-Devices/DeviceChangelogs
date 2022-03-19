@@ -1,5 +1,33 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 19/03/2022
+
+Changelog :
+• Initial Android 12.1 release
+• Updated FP to Raven March
+• Improved gamespace optimization levels
+• Imported some display sysprops from CAF
+• Added some scheduler tunables to game level optimizations
+• Added Tweak fling velocity system props
+• Added props to improve graphics rendering
+• Added memory optimizations
+• Some misc improvements and changes
+• CTS passes by default
+• Updated perf blobs from ddv_sprout
+• Updated DRM blobs from ddv_sprout
+• Updated FM and Listen blobs from ddv_sprout
+• Updated Radio blobs from ddv_sprout
+• Updated CNE and DPM blobs from ddv_sprout
+
+Notes :
+• SELinux Enforcing
+• Gapps not included
+• Nikgapps is Recommended
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
 Date : 14/03/2022
 
 Changelog :
