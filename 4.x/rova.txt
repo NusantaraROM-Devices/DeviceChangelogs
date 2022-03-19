@@ -1,5 +1,39 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 16/03/2022
+
+* Device Changelogs :
+• Label aidl power stats
+• Remove com.dsi.ant.antradio_library
+• Set valid and supported channel mask for earpiece
+• Enable dpmhalservice
+• Import init.qcom.early_boot.sh from LA.UM.9.6.2.r1-04700-89xx.0
+• Disable set_density_by_fb()
+• Add vendor prefix to persist.graphics.vulkan.disable
+• Allow qti_init_shell to read proc_boot_reason
+• Ship cgroups.json and task_profiles.json in vendor
+• Shim libgui's surface constructor
+• Remove android.hardware.graphics.composer@2.1-impl
+• Drop HALv1 once and for for all
+• Enable GRF/VF for all devices
+• Drop creation of /data/misc/seemp
+• Label /dev/stune(/.*) as cgroup
+• Allow cnd reading wifi prop
+• Label vidc.enc.dcvs.extra-buff-count as camera prop
+• Move init props rules to vendor_init
+• Fix sepolicy neverallow
+• Address some denials
+• Remove vibrator definition
+• Kernel: Upstream kernel to 4.9.307
+• And more
+
+* Notes :
+• OSS Build
+• Vanilla & Gapps Build
+
+* Thanks to :
+• @me_cafebabe for trees
+
 Date : 26/02/2022
 
 * Device Changelogs :
