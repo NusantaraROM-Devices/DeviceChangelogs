@@ -1,5 +1,27 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 20/03/2022
+Changelogs :
+• Android 12L
+• March Security Patch
+• Switch to VantomKernel latest
+
+Notes :
+• Customization like android 12 there may be some that are not in android 12L
+• For switching to a ROM with prebuilt vendor, you must flash MIUI before the desired ROM
+• GApps Build
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks @daniml3  for trees
+• Thanks @Vantom & @redline_soee for kernel
+• Thanks @Genkzsz11 for helping
+• Thanks BMWteam @OOSFAN testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 16/03/2022
 Changelogs :
 • Updated blobs from MIUI 13 v13.0.2.0 Global
