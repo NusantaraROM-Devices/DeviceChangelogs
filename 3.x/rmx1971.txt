@@ -1,5 +1,31 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 18/03/2022
+
+Device Changelogs :
+• Upstreamed kernel 4.9.307
+• Updated FP Patch March
+• improve system performance
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps Build
+• Vanilla Build
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for bring me the server
+• thanks to all member realme developer group
+• Thanks To all tester
+
+
+=== Older Change Log ===
+
+|==========| Realme 5 Pro/ RMX1971 |==========|
+
+
 Date : 12/11/2021
 
 Device Changelogs :
@@ -17,9 +43,6 @@ Credits
 • Thanks To @Bablus for trees
 • thanks to all member realme developer group.
 
-
-
-=== Older Change Log ===
 
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
