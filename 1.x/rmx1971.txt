@@ -1,5 +1,31 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 18/03/2022
+
+Device Changelogs :
+• sync with latest source
+• upstreamed kernel to 4.9.307
+• updated FP Patch to March
+• Fix Battery 2% drop
+• GCam inclueded
+• System Improvement
+
+Bug ?
+• Battery info on Setting unknown
+• tell me
+
+Notes :
+• Vanilla Build
+• Gapps Build
+
+Credits 
+• Thanks To @bablus for trees
+• Thanks to @LQmanHkeem for bring me a server
+• and thanks to all tester
+
+
+====== Older ChangeLog ======
+
 Date : 12/06/2021
 
 Device Changelogs :
@@ -17,10 +43,6 @@ Credits
 • Thanks To @bablus for trees
 • and thanks @Jetto_chi for test.
 
-
-
-
-====== Older ChangeLog ======
 
 Date : 01/04/2021
 
