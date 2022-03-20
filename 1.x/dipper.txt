@@ -51,3 +51,14 @@ Date : 09/09/2021
 • Notes :
 - Vanilla Build
 - Use Custom Kernel to use FPS Meter
+
+
+Date : 19/03/2022
+
+• Device Changelogs :
+- Synced with latest source
+- March Security Patch
+
+• Notes :
+- Vanilla Build
+- Use Custom Kernel to use FPS Meter
