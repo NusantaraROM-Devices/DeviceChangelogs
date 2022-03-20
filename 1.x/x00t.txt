@@ -1,5 +1,25 @@
 |==========| Asus Zenfone Max Pro M1 / X00T|==========|
 
+Date : 20/03/2022
+
+• Device Changelogs :
+- Updated raven fp to march
+- Updated kernel to 4.4.302
+- SELinux Enforcing
+- Used thermal-engine configs from STOCK 438
+- Implimented stock tpd_gesture for d2tw and gestures
+- Removed MotoDolby
+- Updated audio and radio props
+- Some improvements over previous build
+- CTS passed by default
+
+• Notes :
+- Clean flash is recommended
+- Minimal FW is 063
+- Latest recovery is recommended
+- NikGApps is recommended
+
+
 Date : 25/12/2021
 
 • Device Changelogs :
