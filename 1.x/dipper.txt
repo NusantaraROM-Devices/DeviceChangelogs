@@ -1,5 +1,20 @@
 |==========| Mi 8  / dipper |==========|
 
+------ Date : 21/03/2022 | 1.1 eLTS ------
+
+Device Changelogs:
+• Synced with latest 1.1 eLTS Source
+• March Security Patch
+• Shipped with 4.9.264-perf
+
+Notes:
+• Flame Gapps recommended
+• Clean Flash recommended
+
+Bugs:
+• Report to me, with proper logs
+
+
 Date : 19-20/12/2020
 
 • Device Changelogs :
@@ -47,17 +62,6 @@ Date : 09/09/2021
 • Device Changelogs :
 - Switch back to default dipper FP
 - Added Mi Extras (USB FastCharge, SELinux)
-
-• Notes :
-- Vanilla Build
-- Use Custom Kernel to use FPS Meter
-
-
-Date : 19/03/2022
-
-• Device Changelogs :
-- Synced with latest source
-- March Security Patch
 
 • Notes :
 - Vanilla Build
