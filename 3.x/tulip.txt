@@ -1,11 +1,9 @@
 |=========| Xiaomi Redmi Note 6 Pro / Tulip |==========|
 
-Date : 18/11/2021
+Date : 21/03/2022
 
 Device Changelogs:
-• Fixed Battery LED Charging
-• Upstreamed kernel to v4.4.292
-• Added prebuilts GcamGo, RetroMusic, GalleryGo
+• Source Upstream
 
 Notes:
 • Clean Flash recommended
@@ -16,3 +14,4 @@ Notes:
 Credits:
 • arturo51236 for device and vendor tree
 • subhajeetmuhuri for kernel tree
+• Ganeshkumar4034 for testing 
