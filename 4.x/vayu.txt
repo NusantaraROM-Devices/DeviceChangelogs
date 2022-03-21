@@ -1,11 +1,14 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
-Date : 12/10/2021
+Date : 21/03/2022
 
 Device Changelogs :
-• User Build
-• Selinux Enforcing
+• Enable Tips icon
+• Remove resource overlays for system bar heights
+• Improvement parts
 • Improvement sepolicy
+• Optimize package manager dexopt properties
+• Change foreground cpuset for app launch
 
 Notes:
 • OSS Based
