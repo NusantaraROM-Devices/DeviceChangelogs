@@ -1,5 +1,25 @@
 |==========| Xiaomi Mi 8 / Dipper |==========|
 
+------ Date : 21/03/2022 | Seinendan 4.3 ------
+
+Device Changelogs:
+• dipper: Bring-up A12.1 for Seinendan 4.3
+• dipper: Switch Fingerprint to Raven:12/S3B1.220218.004
+• dipper: Shipped with 4.9.306-perf
+• sdm845-common: Switch to AIDL Light HAL
+• sdm845-common: Switch to QTI Vibrator AIDL HAL
+• sdm845-common: Improve UI Smoothness
+
+Notes:
+• Step Flash same like you do at A11
+• Use V12.5.2.0.QEACNXM Firmware
+• Clean Flash recommended
+• Safetynet pass by default with/without root
+
+Bugs:
+• Report to me, with proper logs
+
+
 ------ Date : 14/03/2022 | Sabang 4.2-1 ------
 
 Device Changelogs:
