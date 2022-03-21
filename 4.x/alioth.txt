@@ -1,5 +1,44 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 21/03/2022 | Seinendan 4.3 ------
+
+Device Changelogs :
+• Import updated Display-calibration configs from HelluvaOS
+• Import missing Touchfeature blob from Miui 13.0.3.0
+• Add props for HDR and Wide Colour Display support
+• Activates few optimizing compiler flags for HWUI
+• Build latest display composer & mapper targets
+• Add touch profiles for gaming and benchmarking
+• Update audio configurations from Miui 13.0.3.0
+• Allow to wake the screen instead of pulsing
+• Update Adreno Graphics Drivers to V@0615.0
+• Force set vendor.display.idle_time to 0
+• Update SF Durations props for 120hz
+• Import doze icons from PixelDoze
+• Add per app maximum refresh rate
+• Switch and Hardlink to Gralloc4
+• Introduce raise to wake gesture
+• Use Nokernel as Default kernel
+• Enable display white balance
+• switch to qti bluetooth
+• Update msm-irqbalance
+• Update powerhint
+• Add face unlock
+• Source upstream
+
+Notes:
+• Step Flash same like you do at A11
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• Safetynet should pass by default
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
 ------ Date : 18/01/2021 | Shodanco 4.1 ------
 
 Device Changelogs :
