@@ -1,3 +1,21 @@
+------ Date : 21/03/2022 | 3.4 LTS ------
+
+Device Changelogs:
+• Synced with latest 3.4 LTS Source
+• March Security Patch
+• Switch Fingerprint to Raven:12/S3B1.220218.004
+• Shipped with 4.9.306-perf
+• Improve Performance & Stability
+
+Notes:
+• Flame Gapps recommended
+• Clean Flash recommended
+• Safetynet pass by default with/without root
+
+Bugs:
+• Report to me, with proper logs
+
+
 ------ Date : 20/06/2021 | Rotterdam 3.0 ------
 
 • Device Changelog
