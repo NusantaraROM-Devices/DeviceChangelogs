@@ -1,5 +1,19 @@
 |==========| Redmi 5A / Riva |==========|
 
+Date : 23/03/2022
+
+* Device Changelogs:
+• Synced with latest source
+• Address some denials
+• and others
+
+* Notes:
+• Vanilla & GApps Build
+
+* Credits:
+• Thanks to SunnyRaj for trees
+• Thanks to @Qiforra @kesayanganmamahkamu @IVedxnt @gadgetexplorer @Jettwaifu for test
+
 Date : 15/10/2021
 
 * Device Changelogs:
