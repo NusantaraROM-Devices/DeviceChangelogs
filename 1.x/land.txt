@@ -1,5 +1,10 @@
 |==========| Redmi 3S/3X | Land |==========|
 
+Date : 21/03/2022
+• Device Changelogs :
+- Upstream changes
+- March SPL
+
 Date : 18/04/2021
 • Device Changelogs :
 - Upstream changes
