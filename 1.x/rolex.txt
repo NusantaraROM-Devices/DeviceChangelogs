@@ -1,5 +1,20 @@
 |==========| Redmi 4A / Rolex |==========|
 
+Date : 23/03/2022
+
+• Device Changelogs :
+- Synced with latest source
+- Update build fingerprint to march raven
+- Address some denials
+- and others
+
+• Notes :
+- GApps & Vanilla Build
+
+• Credits :
+- Thanks To @Nick89786 for initial trees
+- Thanks to @Fynnn14 and @zer0def for test
+
 Date : 10/10/2021
 
 • Device Changelogs :
