@@ -1,5 +1,23 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
+
+Date : 23/03/2022
+
+Changelogs :
+ • Bring-up A12.1 for Seinendan 4.3
+ • Switch Fingerprint to Raven:12/S3B1.220218.004
+ • Improved UX Smoothness
+
+Notes :
+ • GApps, Vanilla
+ • Selinux Enforcing
+ • Decrypted by default
+ 
+Credits :
+ • Sairam for DFC Kernel
+ • Testers
+
+ 
 Date : 15/03/2022
 
 Changelogs :
@@ -23,45 +41,3 @@ Changelogs :
  • Replace writepid with task_profiles command for cgroup migration
  • Updated vendor from curtana-user 11 RKQ1.200826.002/ V12.5.4.0.RJWMIXM release-keys
  • Use HintManager for HWUI
-
-Notes :
- • GApps, Vanilla
- • Selinux Enforcing
- • Decrypted by default
- 
-Credits :
- • Sairam for DFC Kernel
- • Testers
- 
-
-Old Changelog : 13/02/2022
- • Add custom boost extension for scroll handling
- • Add custom mode extension for handling app launch
- • Add missing stagefright props
- • Add offline charging LED indicator
- • Add vendor prefix to sysfs_battery_supply
- • Bump max interactive duration to 5s
- • Disable compressed APEX
- • Disable zygote preforking
- • Don't mount TraceFS twice
- • Enable AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
- • Enable hapticTextHandle
- • Enable real time lockscreen charging current values
- • Fixup audio io policy voip_rx flags
- • Improve Notch Curve
- • Improve UI Jiterring and Touch Sampling
- • Improved Battery Life and idle drain
- • Limit screen recorder to 60fps
- • Remove misoundfx
- • Set debug.sf.hw to value 1
- • Set in_voice_rec_headset_mic
- • Ship Lawchair with Lawicons
- • Switch to AOSP Bluetooth
- • Switch to QTI PowerHAL
- • Tune Mixer Paths for speaker
- • Merge Audio HALs LA.UM.9.1.r1-11600-SMxxx0.0
- • Update SurfaceFlinger pin
- • Update fingerprint to redfin-user 12 SQ1A.220205.002 8010174 release-keys
- • Update nusantara overlays
- • Update vendor from V12.5.3.0.RJZMIXM:user/release-keys
- • Use AOSP Vibrator pattern
