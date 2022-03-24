@@ -1,5 +1,14 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 24/03/2022
+
+Device Changelogs:
+• Bringup Android 12L
+• Upstreamed kernel to v4.9.307
+• Add blu_schedutil governor
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 19/02/2022
 
 Device Changelogs:
@@ -8,8 +17,20 @@ Device Changelogs:
 • Use Gabuters Clang
 • Misc improvements and fixes
 
+|==========| MIA1 / Tissot |==========|
+
+Date : 24/01/2022
+
+Device Changelogs:
+• Upstreamed kernel v4.9.297
+• Rebased to PE trees
+• Implemented pixel power
+• Fixed recovery/offline charging issue
+• Drop more default gapps
+• GrapheneOS Camera by default
+
 Credits & Thanks to :
-• @SebaUbuntu @abhinavgupta371 for trees 
+• @SebaUbuntu @abhinavgupta371 for trees
 • @GiovanniRN5
 • @Unknownbitch
 • @bmwtheseries
