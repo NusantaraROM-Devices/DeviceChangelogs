@@ -1,5 +1,31 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 21/03/2022
+
+Android : 12 | 12L
+
+Device Changelogs :
+• initial release 12L
+• updated March FP Patch
+• upstreamed kernel to 4.9.307
+• System Improvement
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps
+• Vanilla
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group.
+
+
+
+|========= Old ChangeLog =========|
+
 Date 13-14/02/2022
 
 Device Changelogs :
@@ -22,9 +48,6 @@ Credits
 • Thanks To @Jetto_chi for test
 • thanks to all member realme developer group.
 
-
-
-|========= Old ChangeLog =========|
 
 Date 24/01/2022
 
