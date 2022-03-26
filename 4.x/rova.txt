@@ -1,5 +1,24 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 26/03/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Reduce max visible notification icons
+• Import board flags in Board Config
+• Disable the pre-rendering feature
+• Disable UBWC
+• audio: Take acdb ids from CAF msm8937
+• kernel: Upstream kernel to 4.9.308
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to :
+• @me_cafebabe for trees
+• All tester
+
 Date : 16/03/2022
 
 * Device Changelogs :
