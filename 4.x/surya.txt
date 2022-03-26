@@ -1,5 +1,21 @@
 |==========| POCO X3 NFC / Surya |==========|
 
+Date : 26/03/2022
+
+Android 12L Changelogs :
+• Initial Build v4.3 Seinendan
+• SilonT as default kernel
+• OpenGL Skia as renderer default
+• More smooth and improvement
+
+Notes :
+• GApps Already Included
+• Clean flash is always recommended
+
+Credit : 
+• Thanks to @dblenk9 for server
+• Thanks to @Modart13 ,@Inuo02 and many tester.
+
 Date : 14/03/2022
 
 Device Changelogs :
