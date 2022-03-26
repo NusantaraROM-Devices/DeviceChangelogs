@@ -1,5 +1,41 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 26/03/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Copy custom apns-conf
+• Update ims.apk permissions
+• Add rules for older IMS blobs
+• Label aidl power stats
+• Set valid and supported channel mask for earpiece
+• Switch to aidl vibrator hal
+• Remove vibrator definition
+• Inherit Quick Tap and Face Unlock
+• Disable the pre-rendering feature
+• Don't apply persist.vendor.usb.config
+• Move dpm shim into a subdir
+• Disable APEX compression
+• Move OVERRIDE_TARGET_FLATTEN_APEX into device.mk
+• Deduplicate handheld_core_hardware.xml copy rule
+• Drop MMS user agent overlays
+• Force disable updatable APEX
+• Enable dpmhalservice
+• Remove android.hardware.graphics.composer@2.1-impl
+• Drop HALv1 once and for for all
+• Enable GRF/VF for all devices
+• Drop creation of /data/misc/seemp
+• Move init props rules to vendor_init
+• kernel: upstream kernel to 4.9.308
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to :
+• @me_cafebabe for trees
+• All tester
+
 Date : 08/02/2022
 
 * Device Changelogs :
