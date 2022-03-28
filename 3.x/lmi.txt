@@ -1,4 +1,35 @@
 |==========| POCO F2 Pro / LMI |==========|
+Date: 18-03-2022
+
+Changelogs :
+• Switch to QTI Bluetooth stack
+• add nodes to hide Magisk in banking apps
+• wifi: Enable QPower and Deep Sleep at the same time
+• wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+• Use FUSE passthrough by default
+• Increase ZRAM to 2GB
+• Allow all filesystems for USB-OTG
+• build 32 bit audio only
+• Disable vsync for CPU rendered Apps
+• Kernel upstreamed to 4.19.232
+• Merge kernel tag LA.UM.9.12.r1-14000-SMxx50.0
+
+Notes :
+• Use FW 12.5.4.0.RJKCNXM or 12.5.3.0.RJKMIXM
+• Gapps build only
+• Decrypted
+
+Bugs :
+• Screen record
+• Report more if found
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+
+|=========================================|
+
 Date: 17-11-2021
 
 Changelogs :
