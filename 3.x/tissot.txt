@@ -1,5 +1,20 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 31/03/2022
+
+• Device Changelogs :
+- Synced with latest ROM source
+- Shipped with Matcha-V2 Kernel v4.9.309
+- Improved Performance and Optimizations
+- Misc changes and fixes
+
+Credits :
+• Thanks @SebaUbuntu @abhinavgupta371 for trees
+• Thanks @gabutersllc
+• Thanks @bhatia1583 @Deyannnnnnnn @Unknown07865 testing
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 23/11/2021
 
 • Device Changelogs :
