@@ -1,5 +1,37 @@
 |==========| Redmi Note 5/5 Plus Vince|==========|
 
+Date : 29/03/2022
+
+• Device changelog:
+- Initial build with new tree
+- Synced with latest source
+- Merge to March 2022 Android secuity patch
+- Added battery health
+- Added CPU temp. inside CPU info
+- Added Google Camera Go
+- Added NusantaraPapers
+- Fix MTP connection
+- Fix real time lockscreen charging current values
+- Fix smart charging
+- Reduce screenshot delay to 0
+- Set rounded corners to 20dp
+- Set target screen density to 400
+- Set vendor SPL to match platform
+- Set zRAM to 50% of physical RAM
+- Shipped with Dark Ages Kernel v4.9.295
+- Use thermal blobs from ginkgo v12.5.1.0.RCOCNXM
+
+• Known issue:
+- Swipe to long screenshot, use another shortcut.
+
+• Notes:
+- Clean flash is mandatory.
+- Enforcing & vanilla build only.
+- SafetyNet passed by default.
+- Thanks to @rayrzy & @nowulimited for helps.
+- Thanks to @xxdamexx& @shuyshuys for testing.
+
+
 Date : 24/022021
 
 • Device Changelogs :
