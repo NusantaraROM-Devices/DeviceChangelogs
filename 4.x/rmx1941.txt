@@ -1,5 +1,34 @@
 |==========| Realme C2 / RMX1941 |==========|
 
+07/04/2022
+
+Changelogs :
+• Drop Logger
+• Correct AIDL Light (Brightness)
+• Improve System Stability
+
+Notes :
+• RMUI 1 Based
+• OSS-Vendor
+• Decrypted build
+• Needed dual volte ? Flash Permissiver
+• VANILLA & GAPPS VERSION ALREADY
+
+Bugs :
+• Tell if u facing more issue
+
+Credits :
+• Thanks To @SakhtivelNadar
+• Thanks To @P_Salik
+• Thanks To @Sarthakroy2002
+• Thanks To all mediatek developer
+• thanks to all member realme developer group.
+
+
+|=========================================|
+
+|==========| Realme C2 / RMX1941 |==========|
+
 19/03/2022
 
 Changelogs :
