@@ -1,5 +1,31 @@
 |==========| Redmi 10 |=========|
 
+Build Date: 07/04/22
+
+Device Changelogs :
+• Upstream Kernel to 4.14.275
+• Drop HintManager for HWUI
+• Drop Unused ImsInit
+• Prebuilt GrapheneOS Camera
+• Silence some spammy logtags
+• Introduce CarrierConfig Overlay
+• Disable syncookies
+• Silence alrmtimer logspam
+• Minimize wakeup time
+• Disable console suspend by default
+• Incerase touch boost period
+• Enhance power policy interface
+• Add adaptive power policy
+• Bringback R powerhal
+
+Notes :
+• Recommended clean flash
+
+Known Bug:
+• Screenrecord use third party app
+
+|===============================|
+
 Build Date: 18/03/22
 
 Device Changelogs :
