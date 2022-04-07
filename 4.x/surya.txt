@@ -1,5 +1,20 @@
 |==========| POCO X3 NFC / Surya |==========|
 
+Date : 07/04/2022
+Device Changelogs :
+• Synced with latest source
+• Updated fp to raven april
+• More improvement
+
+Notes :
+• Firmware already included
+• Gapps already included
+• Clean flash is recommended
+
+Credit :
+• thx to @GrettoRosella for help me
+• thx to all tester
+
 Date : 26/03/2022
 
 Android 12L Changelogs :
