@@ -1,5 +1,13 @@
 |==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
 
+Date: 07/04/2022
+
+Device Changelog:
+• Initial A12.1 build.
+• Update graphic blobs to LA.UM.9.14.r1-18900-LAHAINA.
+• Switch to SnapLight kernel.
+• Various improvements. 
+
 Date: 14/03/2022
 
 Device Changelog:
