@@ -1,0 +1,22 @@
+|==========| Redmi 7A/8/8A/8A Dual (mi439)|==========|
+
+Date : 08/04/2022
+
+Device Changelogs :
+• Initial Release
+• Initial R vendor blobs
+• Drop Sar Controller
+• kernel: Upstream to 4.9.309
+
+Known Issue :
+• Use Footej Camera for video recording
+
+Notes :
+• GApps included
+• SELinux mode is Enforcing
+• Needs 64bit recovery to flash
+• Mi439 = olives + pine
+
+Credits :
+• 0xCAFEBABE for sources
+• Yona for support
