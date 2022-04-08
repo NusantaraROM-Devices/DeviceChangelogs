@@ -1,5 +1,20 @@
  |==========| Redmi Note 9 |=========|
 
+Build Date: 08/04/22
+
+Device Changelog :
+• Uprev BT Audio impl to 2.1
+• Dynamically allocate ZRAM
+• Fallback to Q PowerHal
+• Resolve libldacBT logspam
+• Upstream kernel to 4.14.275
+• Fix deprecated power profile item
+• Drop HintManager for HWUI
+• Disable console suspend by default
+• Use 10ms scheduling periods
+
+ |===================================|
+
 Build Date: 21/01/22
 
 Device Changelogs :
@@ -19,7 +34,6 @@ Known Bug :
 • Screen Recorder
 
 Credits :
-Thanks to all tester and member Merlin
+Thanks to all tester and member Merlinx
 Thanks GengKapak & XZI TEAM for help
 Thanks to Redmi MT6768 Team
-Thanks @attack_dns24 For server
