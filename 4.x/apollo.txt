@@ -1,6 +1,28 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 07/04/2022
+Android 12L
+Changelog :
+• source upstream
+• Kernel 4.19.237
+• vendor security patch 2022-03-01
+• update blobs to V13.0.2.0.SJDEUXM
+• switch back nxp nfc
+• switch to qti bt from qti common components
+• switch to qti wfd common components
+• Selinux Enforcing
+• Firmware use Global V12.5.X.X or higher
+
+Notes :
+• gapps & vanilla builds are available
+• wfd/display cast seems broken
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
 Date : 13/02/2022
 Android 12 || 12L
 Changelog :
@@ -19,16 +41,6 @@ Changelog :
 • Selinux Enforcing
 • under the hood improvement
 • Firmware use Global V12.5.8.0 or higher
-
-Notes :
-• GApps only
-• wfd seems broken
-• statusbar icon missing on 12L gapps build
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-• Testers
 
 Date : 13/02/2022
 Android 12
