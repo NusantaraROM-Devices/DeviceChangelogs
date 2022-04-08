@@ -1,5 +1,25 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 08/04/2022
+
+Device Changelogs:
+• Initial Build Android 12L
+• April Security Patch
+• Switch kernel to Predator-Stormbreaker X4.10 EAS
+• QTI Haptic
+
+Notes :
+• GApps Version
+• Dirty Flash maybe possible, but Clean Flash is very recomended
+
+Credit :
+• Allah SWT
+• Nusantara Project Team
+• @letsmakecakes
+• @xyzuan
+• @PredatorX91
+• @bismawy @IlhamxDP @levaiiiii1 @Meyy2023 for testing
+
 Date : 28/12/2021
 
 Device Changelogs:
