@@ -1,5 +1,31 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 09/04/2022
+
+Changelog :
+• Updated FP to Raven April
+• Dropped userspace LMKD
+• Rollbacks to stock charger blob
+• Updated Bluetooth from LA.UM.9.2.r1-03700-SDMxx0.0
+• Updated GPS hal from LA.UM.9.2.r1-03700-SDMxx0.0
+• Disabled triple buffering
+• Updated sf offset values from raven
+• Adjusted charger state CPUs
+• Updated Media from LA.UM.9.2.r1-03700-SDMxx0.0
+• Updated Perf from LA.UM.9.2.r1-03700-SDMxx0.0
+• Updated SurfaceFlinger pin on all targets
+• Some misc improvements and changes
+• CTS passes by default
+
+Notes :
+• SELinux Enforcing
+• GApps already included
+• Nikgapps is Recommended
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
 Date : 19/03/2022
 
 Changelog :
