@@ -1,0 +1,16 @@
+|==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
+
+Date : 08/04/2022
+
+* Device Changelogs :
+• Initial Official Build
+• Selinux Enforcing
+
+Notes :
+• GApps Build
+• Vanilla Build
+• Clean flash is always recommended
+• TWRP can't decrypt Data. (Flash patch_DFE.zip for fix TWRP [optional] or you need a microSD to flash the ROM! Put the ROM on microSD, then flash it from there.)
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
