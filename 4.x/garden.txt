@@ -1,5 +1,26 @@
 |==========| Redmi 9C / 9C NFC / 9A / 9 India / POCO C3 |=========|
 
+Build Date: 08/04/22
+
+Device Changelogs :
+• Prebuilt GrapheneOS Camera
+• Drop ImsInit
+• Enable Call recording for Google dialer
+• Silence some pinner logspam
+• Enable haptic text handle
+• Update Build Fingerpint to raven april
+• Make Gboard rounded corners
+• Drop HintManager for HWUI
+• Use lawnchair as default launcher
+
+Notes:
+• Recommended clean flash
+
+Known Bug:
+• VOLTE DISABLED
+
+|=================================================================|
+
 Build Date: 21/03/22
 
 Device Changelogs :
