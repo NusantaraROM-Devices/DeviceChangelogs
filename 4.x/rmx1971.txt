@@ -1,5 +1,35 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+
+Date 08/04/2022
+
+Android : 12L
+
+Device Changelogs :
+• Use 6gb dalvik heap
+• uprev graphic/display hals
+• OFR enabled
+• updated April FP Patch
+• upstreamed kernel to 4.9.309
+• System Improvement
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps
+• Vanilla
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group
+
+
+
+|========= Old ChangeLog =========|
+
+
 Date 21/03/2022
 
 Android : 12 | 12L
@@ -22,9 +52,6 @@ Credits
 • Thanks To @LQmanHkeem for server
 • thanks to all member realme developer group.
 
-
-
-|========= Old ChangeLog =========|
 
 Date 13-14/02/2022
 
