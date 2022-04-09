@@ -1,5 +1,14 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 09/04/2022
+
+Device Changelogs:
+• Import GPS HAL from LA.UM.8.6.r1-02600-89xx.0
+• Build new GNSS HAL
+• Upstreamed kernel to v4.9.309
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 24/03/2022
 
 Device Changelogs:
