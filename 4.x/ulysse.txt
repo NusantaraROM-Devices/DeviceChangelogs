@@ -1,5 +1,20 @@
 |==========| Redmi Note 5A Lite/Prime (Ulysse) |==========|
  
+Date : 08/04/2022
+ 
+Chagelog :
+* Initial Android 12L Build
+* Upstream kernel to 4.9.309
+* Update some blobs to "LA.UM.9.6.2.r1-04200-89xx.0"
+* Disable headphones sidetone
+* Remove vendor/lib64/libllvm-qcom.so
+* Downgrade IRadioConfig HAL to 1.0
+ 
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+
 Date : 18/01/2022
  
 Chagelog :
