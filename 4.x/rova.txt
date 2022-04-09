@@ -1,5 +1,47 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 09/04/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Build com.dsi.ant@1.0.vendor
+• Implement extension for kernelspace battery saver
+• Fix data sim switching
+• Downgrade radio config to 1.0
+• Restart qcrild on data switch
+• Build android.hardware.radio.config@1.0 from source
+• Add and adapt thermal
+• Build thermal.msm8937 from source
+• Add android.hardware.thermal@1.0::IThermal/default
+• Address Denials
+• Revert add GCamGo
+• Revert Import perf properties on system.prop
+• Remove wifidisplayhal from manifest
+• Use riva Oreo acdbdata for rova
+• init: Setup all the sub-system as related.
+• move RLIMIT_MEMLOCK to init.target.rc
+• add edgnss socket directory
+• init: cleanup location services entries
+• init.qcom.rc: create directory for wifihal service
+• Set lmkd.reinit property from vendor init
+• init: adding vendor prefix to post_boot shell
+• Update media blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Allow thermal to kill
+• Relabel I/O node
+• Configure Zram on all devices, if enabled
+• Update sensors blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Disable sdm rotator downscaler
+• init: Override sensor HAL service definition to add input group access
+• kernel: Upstream kernel to 4.9.309
+
+* Notes :
+• OSS Build
+• Vanilla Build
+
+* Thanks to :
+• @me_cafebabe for trees
+• All of my testers
+
 Date : 26/03/2022
 
 * Device Changelogs :
