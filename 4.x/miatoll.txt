@@ -1,11 +1,30 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
 
-Date : 23/03/2022
+Date : 09/04/2022
 
 Changelogs :
- • Bring-up A12.1 for Seinendan 4.3
- • Switch Fingerprint to Raven:12/S3B1.220218.004
+ • Add AiAi allowlist
+ • Allow system permission for RPS sysfs nodes
+ • Disable SDM rotator downscaler
+ • Don't reinit lmkd again
+ • Enable H/W Composition
+ • Enable auto brightness while dozing
+ • Enable skia reduceOpsTaskSplitting
+ • Fix Entropy Mixer
+ • Further fine-tune boosts configuration
+ • Grant rw permission to hgsl node
+ • Ignore cne in location indicator
+ • Nuke s2idle
+ • Offload WM shell to another thread
+ • Remove resource overlays for system bar heights
+ • Remove unnecessary QTI logkit directories
+ • Set readahead_size_kb=128 to system and data, vendor, product and system_ext
+ • Set system graphics to power control node
+ • Set usb and hidraw to 0660 root usb
+ • Update system permission for RPS sysfs node
+ • fixup: Define OEM fast charge sysfs node
+ • Switch Fingerprint to Raven Apil
  • Improved UX Smoothness
 
 Notes :
@@ -18,26 +37,9 @@ Credits :
  • Testers
 
  
-Date : 15/03/2022
+Date : 23/03/2022
 
-Changelogs :
- • Add Xiaomi ACDB ID changes
- • Allow bluetooth to read incremental prop
- • Allow every app to read camera props
- • Allow ioctl to zram_swap for performance
- • Allow sensors to connect to audio hal socket
- • Build extphone libraries as required by Android 12 telephony
- • Build libxml2
- • Checkout speaker-safe configs/paths from stock
- • Do not balance msm_drm and kgsl-3d0 IRQs
- • Enable HWUI_COMPILE_FOR_PERF
- • Enable IOP v3
- • Enable incremental FS feature.
- • Mark WifiOverlay as coreApp
- • Optimise dex flags
- • Remove LiveDisplay and Trust HAL
- • Remove audio effects that won't load
- • Remove some camera-daemon commands
- • Replace writepid with task_profiles command for cgroup migration
- • Updated vendor from curtana-user 11 RKQ1.200826.002/ V12.5.4.0.RJWMIXM release-keys
- • Use HintManager for HWUI
+Old Changelogs :
+ • Bring-up A12.1 for Seinendan 4.3
+ • Switch Fingerprint to Raven:12/S3B1.220218.004
+ • Improved UX Smoothness
