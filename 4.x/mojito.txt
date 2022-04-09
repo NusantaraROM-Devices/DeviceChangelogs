@@ -1,5 +1,27 @@
 |==========| Redmi Note 10  (Sunny/Mojito)|==========|
 
+Device Changelog: 
+• Initial Build Android 12L 
+• April Security Patch 
+• 4.4.266 LegionX-Zangetsu
+• And some improvments & fixed
+
+Notes: 
+• GApps Version 
+• Dirty Flash maybe possible, but Clean Flash is very recomended
+
+Credit:
+• Allah SWT
+• Nusantara Project Team
+• HSD Team
+• Thanks All Dev Redmi Note 10 (Mojito/Sunny)
+• @dblenk9 for tree
+• @venom_stark for kernel
+• @UnsatisfedError for helping
+• @M4hesaa @heyrevv for testing
+
+|==========| Redmi Note 10  (Sunny/Mojito)|==========|
+
 Date : 13/02/2022
 Changelog :
 • SELInux Enforcing
