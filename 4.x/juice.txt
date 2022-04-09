@@ -1,5 +1,24 @@
 |==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
 
+Date : 09/04/2022
+Android 12.1
+Changelogs :
+• Drop cpuset configuration
+• Decrease media volume steps
+• Fully use RRO overlays (override vendor ones)
+• Reworked statusbar padding and cutout
+• Kang LDAC blobs from courbet
+• Bringback AOD
+
+Notes:
+• Based on stock vendor
+• Use latest 12.5.x vendor
+
+Credits and thanks:
+• @ItsDifp & @zech4 for testing
+
+=================================================
+
 Date : 19/03/2022
 Android 12.1
 Changelogs :
