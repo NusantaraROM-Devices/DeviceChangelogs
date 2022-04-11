@@ -1,5 +1,51 @@
 |=========| Redmi 7 / Onclite |==========|
 
+Date: 11/04/2022
+
+Device Changelogs:
+
+• Add Support for Alipay and WeChat fingerprint payment
+• Update Peripheral Manager blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Update Alarm stack from LA.UM.9.6.3.r1-04400-89xx.0
+• Update Time stack from LA.UM.9.6.3.r1-04400-89xx.0
+• Update Connectivity stack and IMS ViLTE blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Bump IImsFactory HAL to 1.1 version
+• Bump ISecureElement HAL to 1.2 version
+• Update Secure MSM stack from LA.UM.9.6.2.r1-03600-89xx.0
+• Update Widevine stack from crosshatch
+• Bump Widevine HAL to 1.3 version
+• Disable Blur option in Settings
+• Increase Speaker and Mic volume
+• Switch Back to CAF Power HAL 1.0 version
+• Switch back to Stock Kernel
+• Remove coresight leftovers
+• Disable sdm rotator downscaler
+• Move CarrierConfig to RRO's
+• overlay: Use CarrierConfig CSP boolean
+• Build vendor variant of android.frameworks.displayservice@1.0
+• Switch back to default Light HAL configuration
+• Switch back to legacy QTI Soter Service
+
+Notes:
+
+• Clean Flash recommended
+• Vanilla release, GApps not include
+• Recommended to use NikGApps core
+• Needed Firmware from MIUI 12.5.1.0 (China) / 11.0.2.0 (Global)
+• CTS/SafetyNet passed without root
+• Banking apps working
+
+
+
+
+
+
+
+
+
+
+|=========| Redmi 7 / Onclite |==========|
+
 Date : 30/01/2022
 Device Changelogs:
 • Hot Fix from previous release (2022/01/17)
