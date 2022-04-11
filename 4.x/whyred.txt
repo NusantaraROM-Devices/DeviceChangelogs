@@ -1,11 +1,11 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 19/02/2022 | 4.2 Sabang
+Date : 11/04/2022 | 4.4 Selat Muria
 
 • Device Changelogs :
-• Added Xiaomi Dirac
-• Merged LA.UM.8.4.r1-06200-8x98.0 into display, media and audio
-• Switch to MiuiCamera
+• Added Color Modes
+• Fixed GoogleTTS FC on Setup Wizard
+• Switch kernel base to Minimal Kernel by Sakil Mondal
 
 • Known Issue :
 • Encryption not working
@@ -23,4 +23,3 @@ Ask the kernel developer if their kernel is support qti haptics driver if you wa
 • Credit :
 • Sakil trees
 • Mocarafee helps
-• @molotovgurl + @ryanop testing
