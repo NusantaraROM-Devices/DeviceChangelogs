@@ -1,5 +1,37 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 13/04/2022 | Selat Muria 4.4 ------
+
+Device Changelogs :
+• Always report max freq to unity tasks
+• Always report max freq to miHoYo games
+• Enable smooth display
+• Use Graphics Drivers V@0614.0
+• Fix Video Calling
+• Wi-Fi overlays: Update from Gourami
+• wifi: Disable gEnableConcurrentSTA for Android targets
+• Enable burn-in protection for status/navbar
+• wifi: Remove drop_bcn_on_chan_mismatch ini
+• Disable NearbyMessagingService and DiscoveryService
+• opt-out of dialer's incoming call proximity sensor check
+• audio: Fix mic issues in apps like WhatsApp
+• Update blobs from miui_ALIOTHGlobal_V13.0.2.0.SKHMIXM
+• adress more denials
+
+Notes:
+• 13.0.2 Global Firmware Recommended
+• Step Flash same like you do at A11
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• Safetynet pass by default
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
+
 ------ Date : 21/03/2022 | Seinendan 4.3 ------
 
 Device Changelogs :
