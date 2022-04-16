@@ -1,5 +1,37 @@
 |==========| POCO F1 / Beryllium |==========|
 
+Build Date: 16/04/2022
+
+Changelogs :
+• Initial A12L Official Build
+• April Security Patch
+• Enforcing Build
+• Disable Force Encryption
+• IR FaceUnlock
+• Using SilverCore Kernel as default
+
+Notes:
+• Vanilla & GApps build
+• Step Flash same like you do at A12
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• @XtremeOrnob for base trees
+• @Reignz3 for kernel
+• @mishter22 for testing
+
+------ Date : 16/04/2022 | Selat Muria 4.4 ------
+
+|==========| POCO F1 / Beryllium |==========|
+
 Device Changelogs :
 • Initial A12 Official Build
 • Enforcing Build
