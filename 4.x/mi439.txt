@@ -1,13 +1,13 @@
 |==========| Redmi 7A/8/8A/8A Dual (mi439)|==========|
 
-Date : 13/02/2022 | 4.2 Sabang
+Date : 18/04/2022 | 4.4 Selat Muria
 
 Device Changelogs :
-• Initial Release
-• Rebased tree
-• Performance tuning
-• Enable media codec2
-• kernel: Upstream to 4.9.301
+• Q blobs -> R blobs
+• Disable wallpaper zooming
+• Make the UI smoother
+• Misc fixes and improvements
+• SiLonT as default kernel
 
 Known Issue :
 • You tell me
@@ -17,10 +17,11 @@ Notes :
 • SELinux mode is Enforcing
 • Needs 64bit recovery to flash
 • Mi439 = olives + pine
+• Don't flash kernel without OSS Camera support
 
 Credit :
 • GengKapak
 • 0xCAFEBABE
 • Yona
 • Flop & Akira
-• All mi439 dev
+• All mi439 dev & community
