@@ -1,5 +1,28 @@
 |==========| Xiaomi Mi 8 / Dipper |==========|
 
+------ Date : 20/04/2022 | Selat Muria 4.4 ------
+
+• Synced with latest 4.4 Selat Muria
+• Switched FP to Raven:12/SP2A.220405.004
+• Adapted QS Offset Height
+• Switched to QTIMapper-Shims
+• Updated Adreno Blobs from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+• Updated Adreno Graphics to V@0530
+• Added MotoDolby
+• Added FPS Info Tile
+• Dropped Dirac Services
+• Dropped ColorModes
+
+Notes:
+• Step Flash same like you do at A11
+• Use V12.5.2.0.QEACNXM Firmware
+• Clean Flash recommended
+• Safetynet pass by default with/without root
+
+Bugs:
+• Report to me, with proper logs
+
+
 ------ Date : 21/03/2022 | Seinendan 4.3 ------
 
 Device Changelogs:
