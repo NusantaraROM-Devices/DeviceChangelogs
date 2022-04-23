@@ -1,5 +1,39 @@
 |==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
 
+Date : 22/04/2022 | 4.4 Selat Murai
+
+Device Changelogs :
+• April 2022 ASB
+• Enforcing SELinux
+• Tune ZRAM performance
+• Enabled ZRAM writeback
+• Kang AIDL vibrator service from Ronin
+• [POWER] Updated power HAL from R7 RUI3
+• [POWER] Boost stune on app launch
+• [POWER] Allow raising sched_boost to 6 levels
+• [POWER] Boost foreground to maximum when launching an app 
+• [POWER] Added & Improve interaction hint
+• [POWER] Improve power HAL configs from Begonia
+• Fix/Cleanup deprecated overlays items
+• Fix KPOC/offline charging (w/Pixel-Charging)
+• Metadata partition corruption protection
+• Import props configuration from RMX2001_C18
+• Add support for f2fs on userdata & cahce partition
+• Entire C code is now optimised with armv8-2a-dotprod
+• Inc. FaceUnlock, QuickTap & Touchscreen Gestures
+• [Additional] Update path for CABC (rUI-2)
+• [Additional] Update WM. LayoutParams (FPSInfo)
+
+Bugs
+* Native video calling (ViLTE)
+* Voice over WiFi (VoWiFi)
+
+Notes
+• Only Vanilla Build
+• Use NikGApps A12L/SL (https://s.id/14y28)
+
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
 Date : 19/02/2022 | 4.2 Sabang
 
 Device Changelogs :
