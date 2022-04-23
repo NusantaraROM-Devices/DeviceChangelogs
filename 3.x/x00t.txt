@@ -1,5 +1,33 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 23/04/2022
+
+Device Changelogs:
+• April 2022 ASB build
+• Switched to raven april fp
+• wlan: Relax WiFi re-association RSSI thresholds
+• Enabled performance profiles
+• Fixed UI background blur
+• Improved scrolling, ui smoothness
+• Increase Speaker and Mic volume
+• Sync with latest source side changes
+• Added props to improve battery backup
+• Added custom audio amplifier for TFA amp feedback
+• CTS/SafetyNet passed without root
+• Banking apps working
+
+Notes:
+• SELinux Enforcing
+• Gapps not included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+• Recommended to use NikGApps Basic
+• This is last A11 update from myside
+
+
+
+|==========| Zenfone Max Pro M1 / X00T |==========|
+
 Date : 02/02/2022
 
 Device Changelogs:
