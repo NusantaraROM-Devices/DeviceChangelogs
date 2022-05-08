@@ -1,5 +1,32 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 08/05/2022
+
+* Device Changelogs :
+• Synced with latest source 4.5 [Sinila]
+• adapts XperiaParts to 12 & Nusantara Blur Style
+• Add Google client ID property
+• Switched FP to Raven:12/SP2A.220505.002
+• Remove un-needed blobs
+• Move fpc firmware to /vendor/firmware
+• Add libgui shim for camera blobs
+• Remove vendor RenderScript implementation.
+• Fix denials when settings vendor build.props
+• Label somc radio props and allow rild to set
+• Only build hal impl bitness that we need
+
+Notes :
+• GApps Build
+• Vanilla Build
+• Clean flash is always recommended
+• Safetynet should pass by default
+• TWRP can't decrypt Data. (Flash patch_DFE.zip for fix TWRP [optional] or you need a microSD to flash the ROM! Put the ROM on microSD, then flash it from there.)
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 08/04/2022
 
 * Device Changelogs :
