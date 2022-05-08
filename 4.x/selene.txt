@@ -1,5 +1,30 @@
 |==========| Redmi 10 |=========|
 
+Build Date: 08/05/22
+
+Device Changelogs :
+• Upstream Kernel to 4.14.277
+• Update Vendor Blobs from V12.5.18.0.RKUMIXM
+• Fixup some more mediatek braindamage
+• Switch to EAS Only
+• Force disable some fucking annoying debug logtags
+• Drop unused vendor script
+• Introduce AptX and AptXHD Encoder
+• Copyout some IMS props from V12.5.18.O.RKUMIXM
+• Import LMKD props from V12.5.7.0.RKUCNXM
+• Improve interaction powerhint boost
+• Drop unused hidl libraries and vndk binaries to save some space
+• Import Netflix props from V12.5.7.0.RKUCNXM
+• Allow fingerprint Hal to create netlink socket
+• Addres some Radio denials
+• Resolve dontaudit untrusted apps reading for gpud prop neverallows
+• Add permissions for cell broadcast receiver
+• Addres system suspend denials
+• Build Secure Elwmwnt 1.2
+• Allow Secure Element HAL to rw teei client device
+
+|===============================|
+
 Build Date: 07/04/22
 
 Device Changelogs :
