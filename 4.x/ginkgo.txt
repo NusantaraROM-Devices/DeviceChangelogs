@@ -1,4 +1,15 @@
 |==========| Redmi Note 8/8T (Ginkgo/Willow) |==========|
+Date : 09/05/2022
+
+Changelog:
+• May secpatch
+• Update blobs from miui V12.5.2.0.RCOMIXM
+• Other fix and improvement.
+
+Notes :
+• Use flamegapps full, or GApps build recommended.
+• Set icon pack to default if you want to change the monet engine to get working monet.
+• Encryption still broken, flash DFE.
 
 Date : 14/02/2022
 
