@@ -1,5 +1,31 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 09/05/2022
+
+Device Changelogs :
+• Updated FP to Raven May
+• Synced with latest source 4.5 [Sinila]
+• Adapts to Nusantara Blur Style
+• Remove vendor RenderScript implementation
+• Fixed Data usage
+• Improved overall device performance
+• Improved scrolling and RAM management
+• Disabled ART debug and optimize dexpreopt
+• Fixed deprecated power profile items
+• Removed updatable-media from pinner services
+• Decreased launch boost to 3sec
+• Other fixes and improvements
+• CTS passes by default
+
+Notes :
+• SELinux Enforcing
+• GApps already included
+• Nikgapps is Recommended
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
 Date : 09/04/2022
 
 Changelog :
