@@ -1,5 +1,35 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 10/05/2022
+Changelogs :
+• Android 12L
+• Android May 2022 Security update (android-12.1.0_r5)
+• rebase crDroid trees
+• Included Miuicam
+• Added Notch Bar Killer overlay
+• Added Show Refresh Rate Controls
+• Added App Refresh rate
+• Added Thermal profiles
+• SigmaKernel-v1.0
+• Upstreamed kernel to v4.14.277 stable release
+
+Notes :
+• Clean Flash is Mandatory !!!
+• GApps Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• Encrypted ( If you want your Decrypt flash DFE )
+
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks @neobuddy89 for trees 
+• Thanks @UnsatisfedError @rejectclass @apinprasetyo @ocoGulu @Hady_doubleh @MuradAli_TR testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 09/04/2022
 Changelogs :
 • April Security Patch
