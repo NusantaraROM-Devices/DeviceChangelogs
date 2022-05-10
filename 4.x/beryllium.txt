@@ -1,5 +1,37 @@
 |==========| POCO F1 / Beryllium |==========|
 
+Changelogs :
+• Synced with latest 4.5 Sinila
+• Android 12L
+• Android May 2022 Security update (android-12.1.0_r5)
+• Adapted QS Offset Height
+• Several sepolicy fixes
+• Updated common blobs from polaris' 12.5.1.0.QDGCNXM
+• Updated to latest WFD, CNE, RIL, DPM, IMS, QMI blobs from LA.QSSI.12.0.r1-05100-qssi.0
+• Updated to latest PATCHED Adreno blobs from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+• Updated to latest PATCHED Vulkan blobs from OnePlus10Pro 12/SKQ1.211019.001/1644490122337
+• Updated capabilityconfigstore from OnePlus6 - RKQ1.201217.002/2106301530
+• Synced with latest Silvercore kernel changes
+
+Notes:
+• Vanilla & GApps build
+• Step Flash same like you do at A12
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• @XtremeOrnob for base trees
+• @Reignz3 for kernel
+• My Tester
+
+------ Date : 11/05/2022 | Sinila 4.5 ------
+
+|==========| POCO F1 / Beryllium |==========|
+
 Build Date: 16/04/2022
 
 Changelogs :
