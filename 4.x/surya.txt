@@ -1,5 +1,16 @@
 |==========| POCO X3 NFC / Surya |==========|
 
+Date : 09/05/2022
+Device Changelogs :
+• update blobs to 12.5.5.0
+• Updated fp to raven may
+• firmware 12.5.5.0 include
+
+Notes : 
+- Clean flash is recommended
+- Firmware included 
+- GApps Version 
+
 Date : 07/04/2022
 Device Changelogs :
 • Synced with latest source
