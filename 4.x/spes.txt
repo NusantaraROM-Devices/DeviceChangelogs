@@ -1,0 +1,23 @@
+|==========| Redmi Note 11 (Spes/Spesn)|==========|
+
+Device Changelog:
+• Initial Official Build
+• May Security Patch 
+• Shipping with prebuilt kernel
+• OSS Vendor
+• Fix Mic Indian variant
+• SELinux Enforcing
+• CTS Passed
+
+Notes: 
+• GApps Version 
+• Clean Flash is very recomended
+• MTP go to Dev Option and search "USB default configurations"
+
+Known Issue:
+• Offline Charging
+
+Credits:
+• Nusantara Project Team
+• @frql_qn for amazing test
+• @ItoRenz for server
