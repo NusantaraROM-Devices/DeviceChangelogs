@@ -1,6 +1,26 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 9-11/05/2022
+Android 12L
+Changelog :
+- kwenel upstweam
+- switch back to qti wfd fixed with 07000 qssi blobs
+- rollback camera blobs to 12580
+- revert adreno port update v615
+- add back thermal-engine will work alongside mi_thermald,
+- revert vulkan as default renderer from boardconfig
+- move skiagl prop to system.prop
+- fw eea 13020 
+
+Notes :
+• gapps and vanilla build are available
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
 Date : 11/04/2022
 Android 12L
 Changelog :
@@ -10,14 +30,6 @@ Changelog :
 • revert changes qti wfd common components and use aosp wfd
 • Selinux Enforcing
 • Firmware use Global V12.5.X.X or higher
-
-Notes :
-• gapps only
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-• Testers
 
 Date : 07/04/2022
 Android 12L
