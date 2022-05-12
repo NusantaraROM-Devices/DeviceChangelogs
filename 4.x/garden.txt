@@ -1,5 +1,17 @@
 |==========| Redmi 9C / 9C NFC / 9A / 9 India / POCO C3 |=========|
 
+Build Date: 11/05/22
+
+Device Changelogs :
+• Switch to EAS Only
+• Force disable some fucking annoying debug logtags
+• Limit Screenrecorder framerate to 60fps
+• Enable screenrecord codec avc42
+• Don't latch unsignal buffer
+• Adding developer gsi keys
+
+|=================================================================|
+
 Build Date: 08/04/22
 
 Device Changelogs :
