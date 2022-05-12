@@ -1,5 +1,31 @@
 |==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
 
+Date : 12/05/2022
+Android 12.1
+Changelogs :
+• Imported MIUI offline charging animation
+• Fix deprecated power profile items
+• msm_irqbalance: Correct the arch_mem_timer interrupt
+• msm_irqbalance: Do not balance msm_drm and kgsl-3d0 IRQs
+• Workaround device props based on SKU
+• Add dalvik heap configuration for 4 & 6GB RAM
+• Sync surfaceflinger offset with crosshatch
+• Fixed DT2W toggle
+• Flatten APEXs for Performance
+• Enable iorapd tracing with perfetto
+• Decreased media volume steps
+• Shipped with 4.19.241 Guuji kernel
+• Compiled with AOSP clang 14.0.7
+
+Notes:
+• Based on stock vendor
+• Use latest 12.5.x vendor
+
+Credits and thanks:
+• @jmat2ew for testing on lime
+
+=================================================
+
 Date : 09/04/2022
 Android 12.1
 Changelogs :
