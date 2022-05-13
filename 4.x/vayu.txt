@@ -1,5 +1,20 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
+Date : 13/05/2022
+
+Device Changelogs :
+• Update proprietary files from V13.0.3.0.SJUMIXM
+• Improvement parts
+• Improvement sepolicy
+• Fix F2fsRecessModeEnable node
+• Ignore cne in location indicator
+• Apply a boost after fp is authenticated
+• Improvement audio configuration
+• Uprev fingerprint HAL to 2.3
+• Account foreground and top-app tasks for iowait boost
+• Disable QCOM system daemon
+• Remove SUSTAINED_PERFORMANCE hinting
+
 Date : 21/03/2022
 
 Device Changelogs :
