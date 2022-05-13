@@ -1,5 +1,39 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 13/05/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Restart qcrild on decryption
+• Import init.class_main.sh from LA.UM.10.6.2.r1-00600-89xx.0
+• Update TUI blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Import Gps hal
+• Pull gps configs from daisy
+• Fix non-ASCII character in gps.conf
+• Build new GNSS HAL
+• Update ANT+ blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Update Gatekeeper/Keystore blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Remove vendor RenderScript implementation.
+• Update Perf stack from LA.UM.9.6.2.r1-04200-89xx.0
+• Update sha1sum for modified perf configs
+• Remove IO read_ahead_kb tune
+• libshim_imsvideocodec: move to system_ext
+• Fix duplicate sysprop assignment for rild.libpath.
+• Set higher priority to c2 than OMX
+• Update DRM blobs from LA.UM.9.6.2.r1-04100-89xx.0
+• overlay: Update deprecated screen power items
+• Update Graphics & Postprocessing from Nokia Panther
+• Import R Display Hals from Pixel Experience
+• Increase volume speaker
+• Shipped with Rimuru Kernel
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @me_cafebabe for trees
+• All of my testers
+
 Date : 09/04/2022
 
 * Device Changelogs :
