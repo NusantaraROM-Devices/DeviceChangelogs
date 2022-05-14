@@ -1,4 +1,27 @@
 |==========| POCO F2 Pro / LMI |==========|
+15/05/2022
+
+Changelogs :
+• update to Raven May 2022 fingerprint
+• use Lawnchair as default
+• kernel upstreamed to Linux v4.19.242 Stable
+• kernel merge CLO tag LA.UM.9.12.1.r1-01300-SMxx50.QSSI12.0
+• Safetynet pass by default
+
+Notes :
+• Use FW 12.5.4.0 CN or 12.5.3.0 Global
+• Gapps build only
+• Decrypted build
+
+Bugs :
+• USB connection mode (change via developer options)
+• Report if found more
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+|=========================================|
 16/04/2022
 
 Changelogs :
