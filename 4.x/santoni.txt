@@ -1,0 +1,33 @@
+|==========| Redmi 4X (Santoni) |==========|
+
+Date : 13/05/2022
+
+* Device Changelogs :
+• Initial Release
+• Synced with latest source
+• dsds: restart qcrild on data switch
+• Drop lineage stuff
+• Fix sepolicy neverallow
+• Enable config_fpCancelIfNotIdle
+• Address some denials
+• Import init.class_main.sh from LA.UM.10.6.2.r1-00600-89xx.0
+• Restart qcrild on decryption
+• Set higher priority to c2 than OMX
+• Set TARGET_USES_GRALLOC1 to true
+• Remove smooth motion property
+• Switch to developer GSI keys
+• Enable skia reduceOpsTaskSplitting
+• Revert "hwc: Set ioprio for vsync thread"
+• Remove snap flag
+• santoni: BoardConfig: Update kernel config and source
+• santoni: audio: Increase volume speaker
+• Address baseband_prop denials
+• Address untrusted_app denials
+• Shipped with Rimuru Kernel
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @jabiyeff21
+• All of my testers
