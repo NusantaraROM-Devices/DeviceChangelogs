@@ -1,5 +1,18 @@
 |==========| Redmi Note 5A Lite/Prime (Ulysse) |==========|
  
+Date : 13/05/2022
+Changelogs :
+* Upstream kernel to 4.9.313
+* Switch to aidl vibrator hal 
+* Sepolicy: address more denials 
+* Init: Apply aggressive write caching
+* Remove IO read_ahead_kb tune 
+
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+
 Date : 08/04/2022
  
 Chagelog :
