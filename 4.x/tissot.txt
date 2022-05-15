@@ -1,5 +1,16 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 15/05/2022
+
+Device Changelogs:
+• Switch back to pixel power
+• Upstreamed kernel to v4.9.312
+
+Notes:
+• Don't use TWRP 3.6 to flash the ROM! otherwise, you will lose fingerprint setting, lagging, etc.
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 09/04/2022
 
 Device Changelogs:
