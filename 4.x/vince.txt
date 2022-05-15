@@ -1,0 +1,33 @@
+|==========| Redmi Note 5/5 Plus - Vince |==========|
+
+
+Date : 15/05/2022
+Android 12L
+
+• Device changelog:
+- Initial build
+- Synced with latest source
+- Merge to May 2022 Android secuity patch
+- Added back Dirac
+- Added CPU temp. inside QS CPU Info
+- Added NusantaraPapers
+- Fix deprecated power profile items
+- Replace GCam Go with Graphene Camera
+- Remove custom fingeprint
+- Set rounded corners to 20dp
+- Set target screen density to 400
+- Set vendor SPL to match platform
+- Shipped with SB Remaster Kernel v4.9.312
+
+• Notes:
+- Available in vanilla & GApps build.
+- Clean flash is mandatory.
+- SELinux enforcing.
+- SafetyNet passed by default.
+
+• Credits:
+- Thanks to @rk_134 for his tree & kernel.
+- Thanks to @rk_134, @Arifjenong46, and @GhostMaster69_dev for helps.
+- Thanks to @xxdamexx & @shuyshuys for testing.
+- Thanks to @bhhshwXD for providing cloud drive.
+- Thanks to @r1oset for providing cloud server.
