@@ -1,5 +1,24 @@
 |==========| Redmi Note 5A Prime/Lite / ulysse |==========|
 
+Date : 15/05/2022
+
+Changelogs :
+* Upstream kernel to 4.9.313
+* Switch to aidl vibrator hal 
+* Sepolicy: address more denials 
+* Init: Apply aggressive write caching
+* Remove IO read_ahead_kb tune 
+* Switch to qcrild
+* Enable DPM Connection Tracking (CT) 
+* Update ImsRadio HAL to v1.7 
+* Update blobs from LA.UM.9.6.2.r1-04200-89xx.0
+* Remove vendor/lib64/libllvm-qcom.so
+
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+
 Date : 24/10/2021
 
 Device Changelogs :
