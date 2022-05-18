@@ -1,6 +1,32 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
 
+Date 18/05/2022
+
+Android : 12L
+
+Device Changelogs :
+• Enabled Codec
+• revert uprev graphic/display hals
+• add minimal framework compatibility matrix
+• updated May FP Patch
+• upstreamed kernel to 4.9.314
+• use Nusantara Launcher for now
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group
+
+
+|========= Old ChangeLog =========|
+
 Date 08/04/2022
 
 Android : 12L
@@ -24,11 +50,6 @@ Credits
 • Thanks To @Bablus for trees
 • Thanks To @LQmanHkeem for server
 • thanks to all member realme developer group
-
-
-
-|========= Old ChangeLog =========|
-
 
 Date 21/03/2022
 
