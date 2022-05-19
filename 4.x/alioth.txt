@@ -1,5 +1,41 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 19/05/2022 | Sinila 4.5 ------
+
+Device Changelogs :
+• update Adreno firmware from miui_ALIOTHGlobal_V13.0.3.0.SKHMIXM
+• update camera & sensor blobs from miui_ALIOTHGlobal_V13.0.3.0.SKHMIXM
+• overlay: Allow more cached apps in the background
+• overlay: Compact cached app heaps in the background
+• inherit Build time optimizations for platform
+• audio: Use QCOM implementation for audio effects
+• update Adreno Graphics Drivers to V@0615.0 V3
+• parts: Use game thermal as fallback for GameSpace's listed apps
+• parts: Use vendor init to apply mi thermald preset
+• set readahead_size_kb=128 to vendor, product and system_ext
+• set readahead_size_kb=128 to system and data
+• Powerhint: Update some configuration :)
+• power: Decrease launch boost to 3sec
+• remove IO read_ahead_kb tune
+• use phase offset as durations
+• set proper cpusets for kona
+• import qti vibrator effect
+• selinux: Fix more denials
+• build some f2fs tools
+• enable Multi-gen LRU
+• add AiAi allowlist
+
+Notes:
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• Safetynet pass by default
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
 ------ Date : 13/04/2022 | Selat Muria 4.4 ------
 
 Device Changelogs :
