@@ -1,5 +1,28 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 20/05/2022
+
+Device Changelogs:
+• Android 12L
+• Android May 2022 Security update (android-12.1.0_r5)
+• rebase arrow trees
+• Fixed LED Notification
+• Switch kernel to NekoKernel-Lite v4.4.302
+
+Notes :
+• GApps Version
+• Dirty Flash maybe possible, but Clean Flash is very recomended
+
+Credit :
+• Allah SWT
+• Nusantara Project Team
+• All Dev Xiaomi Redmi Note 7 (lavender)
+• @Ratoriku
+• @Genkzsz
+• @bismawy @masaladosaa @levaiiiii1 for testing
+
+|==========| Redmi Note 7 / Lavender |==========|
+
 Date : 08/04/2022
 
 Device Changelogs:
