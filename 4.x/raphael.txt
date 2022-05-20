@@ -1,5 +1,12 @@
 |==========| Redmi K20 Pro/Mi 9T Pro | Raphael |==========|
 
+Date: 20/05/2022
+
+Device Changelog:
+• Now passes safetynet.
+• Upstreamed kernel to 4.14.278 and merged LA.UM.9.1.r1.11900 caf tag.
+• Various improvements. 
+
 Date: 07/04/2022
 
 Device Changelog:
