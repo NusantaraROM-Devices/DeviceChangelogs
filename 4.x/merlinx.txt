@@ -1,5 +1,14 @@
  |==========| Redmi Note 9 |=========|
 
+Build Date: 19/05/22
+
+Device Changelogs :
+• Upstream kernel to 4.14.279
+• Silence some debug logtags
+• Undervolt CPU -30mV
+
+ |===================================|
+
 Build Date: 08/04/22
 
 Device Changelog :
