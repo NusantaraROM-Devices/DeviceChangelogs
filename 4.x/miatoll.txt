@@ -1,9 +1,33 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
+Date : 23/05/2022
+
+Changelogs :
+ • May Security patch / May Fingerprint
+ • Address sepolicy init denial
+ • Don't audit default_prop access by audio HAL
+ • Don't audit diagnostic interface usage
+ • Don't audit untrusted_app to open ashmem_device
+ • Initial sepolicy dontaudit rules
+ • Nuke AiAi allowlist
+ • Nuke QTI Codec2 HAL
+ • Remove IO read_ahead_kb tune
+ • Use FUSE passthrough by default
+ • Update blobs from V12.5.5.0.RJWINXM
+ 
+ 
+Notes :
+ • GApps, Vanilla
+ • Selinux Enforcing
+ • Decrypted by default
+ 
+Credits :
+ • Sairam for DFC Kernel
+ • Testers
 
 Date : 09/04/2022
 
-Changelogs :
+Old Changelogs :
  • Add AiAi allowlist
  • Allow system permission for RPS sysfs nodes
  • Disable SDM rotator downscaler
@@ -25,21 +49,4 @@ Changelogs :
  • Update system permission for RPS sysfs node
  • fixup: Define OEM fast charge sysfs node
  • Switch Fingerprint to Raven Apil
- • Improved UX Smoothness
-
-Notes :
- • GApps, Vanilla
- • Selinux Enforcing
- • Decrypted by default
- 
-Credits :
- • Sairam for DFC Kernel
- • Testers
-
- 
-Date : 23/03/2022
-
-Old Changelogs :
- • Bring-up A12.1 for Seinendan 4.3
- • Switch Fingerprint to Raven:12/S3B1.220218.004
  • Improved UX Smoothness
