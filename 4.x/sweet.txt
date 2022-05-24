@@ -1,5 +1,37 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 24/05/2022
+Changelogs :
+• Added Audio scene selection for Mi Sound customizer (Settings > Sound)
+• Added Dolby audio FX (Settings > Sound)
+• Added Google App (Drive , FMRadio , Gmail , Gphoto , Stk)
+• Added New dirac headset presets
+• Added One Handed Mode (Settings > System > Gestures)
+• Disable Global mode and CDMA choices
+• Fixed Wallpaper & Style (Settings)
+• Misc Fixes, updates and optimizations
+• Update Blobs from v13.0.7.0.SKFMIXM
+• Update Fingerprint v13.0.7.0.SKFMIXM
+• Upstreamed Kernel to v4.14.280 stable release
+• Various Clean ups and performance improvements for kernel
+
+Notes :
+• Clean Flash is Mandatory !!!
+• User Build
+• GApps Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• Encrypted ( If you want your Decrypt flash DFE )
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks @neobuddy89 for trees 
+• Thanks @UnsatisfedError @rejectclass @apinprasetyo @ocoGulu @Hady_doubleh @MuradAli_TR testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 20/05/2022
 Changelogs :
 • Fixed WP & Style in Settings
