@@ -1,9 +1,12 @@
 |==========| Redmi Note 10  (Sunny/Mojito)|==========|
 
+Date : 27/05/2022
 Device Changelog: 
-• Initial Build Android 12L 
-• April Security Patch 
-• 4.4.266 LegionX-Zangetsu
+• Build User
+• May Security Patch 
+• Using WCS Kernel
+• Upstreamed kernel to 281
+• Enforcing
 • And some improvments & fixed
 
 Notes: 
@@ -16,30 +19,6 @@ Credit:
 • HSD Team
 • Thanks All Dev Redmi Note 10 (Mojito/Sunny)
 • @dblenk9 for tree
-• @venom_stark for kernel
-• @UnsatisfedError for helping
-• @M4hesaa @heyrevv for testing
-
-|==========| Redmi Note 10  (Sunny/Mojito)|==========|
-
-Date : 13/02/2022
-Changelog :
-• SELInux Enforcing
-• Use Raven FP
-• GPhotos Unlimited 
-• Using Lawnchair as default launcher
-• Drop cutout services
-• Game mode should be fix
-• And more
-
-Notes :
-• Flash using OFOX
-• Gapps Only
-
-Credits :
-• Thanks to Allah SWT for everything
-• Big Thanks for Nusantara lead dev & other Maintainers
-• Thanks @attack_dns24 For server
-• Thanks @Hasibkk for testing  
-• Thanks @ZIDAN44 & @dblenk9 for trees, vendor & kernel
-• HSD Team
+• @Anush02198 for kernel
+• @bmwtheseries for helping & build this rom
+• @M4hesaa for testing
