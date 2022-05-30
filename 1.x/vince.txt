@@ -1,4 +1,31 @@
-|==========| Redmi Note 5/5 Plus Vince|==========|
+|==========| Redmi Note 5/5 Plus Vince |==========|
+
+Date : 30/05/2022
+
+• Device changelog:
+- Synced with latest source
+- Merge to May 2022 Android secuity patch
+- Shipped with Windstorm Kernel v4.9.310
+- Adding vendor prefix to `post_boot` shell
+- Back to Onclite `V10.2.5.0.PFLCNXM` thermal blobs
+- Fix battery health overlay
+- Fix SIM switching issue
+- Increase maximum visible notification icons to 8
+- Remove thermal profile on boot
+- Set `BUILD_FINGERPRINT` to Vince `V11.0.2.0.OEGMIXM`
+- Turn down debugging on `wpa_supplicant`
+
+• Known issue:
+- Swipe to long screenshot, use another shortcut.
+
+• Notes:
+- Clean flash is recommended.
+- SafetyNet passed by default.
+- SELinux is enforcing.
+- Vanilla build only, NikGapps is recommended.
+- Thanks to @rayrzy & @Jagannath_12345 for helps.
+- Thanks to @xxdamexx, @widagdag & @Clean0270 for testing.
+
 
 Date : 29/03/2022
 
