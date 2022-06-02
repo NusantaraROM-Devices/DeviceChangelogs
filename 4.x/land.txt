@@ -1,0 +1,34 @@
+|==========| Redmi 3S/3X (Land) |==========|
+
+Date : 02/06/2022
+
+* Device Changelogs :
+• Initial release Build
+• Synced with latest source
+• Configure SQLite to operate in MEMORY mode
+• Disable wallpaper zooming
+• Enable zram writeback job scheduler
+• Set config_sustainedPerformanceModeSupported
+• Make the UI smoother
+• Enable adaptive sleep
+• Ignore RSSNR signal level
+• Disable window rounded corner animations
+• Enable AOD but disable it by default
+• Auto select Data/SMS/Voice preference in SIM hotswap.
+• Enable config_fpCancelIfNotIdle
+• Switch to aidl vibrator hal
+• Build libavservices_minijail
+• Disable blurs by default
+• Disable vsync for cpu rendered apps
+• Use zram writeback same as pixels
+• Speed preopt SysUI/Launcher/Settings
+• Kernel: Shipped with Rimuru Kernel v2.1
+• Kernel: Upstreamed kernel to 4.9.316
+• And more...
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @me_cafebabe for tree
+• Tempest Testing Team { T3 }
