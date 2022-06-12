@@ -1,5 +1,22 @@
 |==========| Redmi 10 |=========|
 
+Build Date: 12/06/22
+
+Device Changelogs :
+• Upstream Kernel to 4.14.282
+• Adapt statusbar height for A12L QPR3
+• Import SpeechVol Param for modifications
+• Switxh to 64bit powerhal
+• Make gain control work properly
+• Add GPU scheduling mode change command
+• Add persist.log.tag properties overrides
+• Checkout surfaceflinger offsets from stock
+• Use input boost to improve interaction hint
+• Drop uneeded vendor libs
+• Add in MTK APP TOUCH hints to INTERACTION hint
+
+|===============================|
+
 Build Date: 08/05/22
 
 Device Changelogs :
