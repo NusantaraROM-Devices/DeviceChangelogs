@@ -1,5 +1,43 @@
 |==========| Redmi 4X (Santoni) |==========|
 
+Date : 16/06/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Update deprecated screen power items
+• Disable compressed APEX
+• Remove XiaomiParts
+• Remove FM Radio for now
+• Import WiFi display from LA.UM.10.6.2.r1-01600-89xx.0
+• Update DRM + Widevine from Coral
+• Remove zram writeback leftovers
+• Disable data roaming option by default
+• Enable GL comp backpressure
+• Enable Seamless Transfer
+• Add Moto Dolby
+• Improve dolby configs
+• Inherit Quick Tap
+• Add Netflix-Specific prop
+• Speed up animations
+• Enable Charging LED by default
+• Enable adaptive sleep
+• Make the UI smoother
+• Set config_sustainedPerformanceModeSupported
+• Remove iorapd prefetch props
+• Tune zram performance
+• Nuke WFD jar for now
+• Disable window rounded corner animations
+• Selinux: Address denials
+• Shipped with Rimuru Kernel v3.1
+• And more
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @jabiyeff21 for trees
+• Tempest Testing Team [T3]
+
 Date : 13/05/2022
 
 * Device Changelogs :
