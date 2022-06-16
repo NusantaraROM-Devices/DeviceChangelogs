@@ -1,5 +1,38 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 16/06/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Build libqdMetaData
+• Update lib-imsvideocodec from CMI
+• Remove warning popup while increasing media volume
+• Import deviceInfoServiceModule from CMI
+• Update DRM + Widevine & BT aptX from Coral
+• Build vendor.display.config@1.0
+• Import WiFi display from LA.UM.10.6.2.r1-01600-89xx.0
+• Remove XiaomiParts for now
+• Allow permission for display power
+• Adapt powerhint for msm8917 and msm8937
+• Drop some lineage stuff
+• Remove zram writeback leftovers
+• Disable data roaming option by default
+• Enable GL comp backpressure
+• Add Moto Dolby
+• Set different perf HAL properties
+• Remove iorapd prefetch props
+• Improve dolby configs
+• Remove obsolete eBPF property
+• Selinux: Address denials
+• Shipped with Rimuru Kernel v3.1
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @me_cafebabe for trees
+• Tempest Testing Team [T3]
+
 Date : 13/05/2022
 
 * Device Changelogs :
