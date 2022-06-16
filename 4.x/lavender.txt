@@ -1,5 +1,29 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 16/06/2022
+
+Device Changelogs:
+• Sync Last Source 
+• Update Dirac Blob
+• Fix AOD Animation
+• Enable Call Recording
+• Addess Some Denials
+• Boost Bootup Performance
+• Allow Smart Replies For All Apps
+• Misc. Fixes and Improvements
+
+Notes :
+• GApps Version
+• Dirty flash possible
+
+Credit :
+• Nusantara Project Team
+• All Dev Xiaomi Redmi Note 7 (lavender)
+• Lord Genkzsz
+• bismawy, masaladosaa, Zidangeh for testing
+
+|==========| Redmi Note 7 / Lavender |==========|
+
 Date : 20/05/2022
 
 Device Changelogs:
