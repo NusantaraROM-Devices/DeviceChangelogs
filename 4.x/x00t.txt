@@ -1,5 +1,32 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Data : 17/06/2022
+
+Device Changelogs :
+• Updated FP to Raven June
+• Synced with latest source 4.6 [Sate]
+• Build graphics.allocator @3.0 and @4.0
+• Audio: Increase earpiece volume for calling
+• Added OpenGL ES and update Vulkan dEQP feature flags
+• Re-enabled some audio features
+• Revert some uneeded changes
+• Improve boot time and pull in bootanim display time
+• Update surfaceflinger props
+• Don't warn user about FC in Google TTS
+• Strip off some debug packages
+• Speed profile services and wifi-service to reduce RAM and storage
+• Modify Vulkan and OpenGL version to 2020-03-01
+• Other fixes and improvements
+• CTS passes by default
+
+Notes :
+• SELinux Enforcing
+• GApps already included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
 Date : 09/05/2022
 
 Device Changelogs :
