@@ -1,0 +1,15 @@
+|==========| Mi 6/ sagit |==========|
+
+Date : 16/06/2022
+
+• Device Changelogs :
+    • Initial Release A12.L
+    • Sync Last Source Sate
+    • Jun 2022 ASB Security Patch
+    • Ship Graphene Camera
+
+• Credits :
+    • sbwml and all sagit dev team
+
+• Notes :
+    • Ship Vanilla and Gapps version
