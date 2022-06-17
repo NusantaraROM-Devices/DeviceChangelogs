@@ -1,4 +1,24 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
+
+Date : 17/06/2022
+
+Changelog :
+
+- Enable new LMKD kill strategy
+- Enforce 24-bit audio for offload playback
+- Fix sdcard on third-party apps
+- Switch to Vulkan UI renderer
+- Enable config_avoidGfxAccel to turn off GPU/CPU intensive UI effects and reduces the RAM footprint.
+- Switch to Audio HAL V7
+- Disabled client composition cache
+
+Notes :
+• SELinux Enforcing
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is necessary
+
+-------------------------------------------------
  
 Date : 14/05/2022
 
@@ -9,12 +29,6 @@ Changelog :
 - Adress sepolicy denials
 - Switched to libperfmgr
 - Configured powerhint
-
-Notes :
-• SELinux Enforcing
-• Vendor included
-• NikGapps recommended for vanilla builds
-• Clean flash is necessary
 
 -------------------------------------------------
 
