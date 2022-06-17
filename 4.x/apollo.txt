@@ -1,6 +1,21 @@
 |==========| Xiaomi Mi 10T/Pro / apollo/pro |==========|
 
 
+Date : 11/06/2022
+Android 12L
+Changelog :
+- kwenel upstweam
+- build servicetracker hidl
+- fw eea 13020 
+
+Notes :
+• gapps build only available
+
+Credits :
+• Allah SWT
+• Apollo Brickers Cmmunity.
+• Testers
+
 Date : 9-11/05/2022
 Android 12L
 Changelog :
@@ -11,15 +26,6 @@ Changelog :
 - add back thermal-engine will work alongside mi_thermald,
 - revert vulkan as default renderer from boardconfig
 - move skiagl prop to system.prop
-- fw eea 13020 
-
-Notes :
-• gapps and vanilla build are available
-
-Credits :
-• Allah SWT
-• Apollo Brickers Cmmunity.
-• Testers
 
 Date : 11/04/2022
 Android 12L
