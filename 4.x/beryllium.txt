@@ -1,5 +1,39 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 18/06/2022 | Sate 4.6 ------
+
+Changelogs :
+• Rebased trees
+• Adapt new statusbar dimens
+• Fixed PowerOffAlarm
+• Fixed unable to add Emergency contact
+• Disable slow blur effect
+• Enable usage of dex2oat64
+• Update Surfaceflinger props
+• Update config_wallpaperMaxScale value
+• Added one-handed mode
+• Several SELinux denial fixes
+• Synced with latest Silvercore kernel changes
+
+Notes:
+• Vanilla & GApps build
+• System_Ext Support Not Added
+• You Can Flash Any Non-System_ext Supported Kernel
+• Step Flash same like you do at A12
+• Basic / core flame Gapps recommended
+• Dont flash Full Gapps
+• Clean flash is recommended
+• Safetynet should pass by default or you can flash magisk and enable magisk hide to pass it
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan & #XtremeOrnob for base trees
+• #Excraze & #HeshamGazzaz for help and fixes
+• #Reignz3 for kernel
+
+|==========| POCO F1 / Beryllium |==========|
+
 Changelogs :
 • Synced with latest 4.5 Sinila
 • Android 12L
