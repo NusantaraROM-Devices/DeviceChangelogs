@@ -1,5 +1,34 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 18/06/2022 | Sate 4.6 ------
+
+Device Changelogs :
+• Update Display Targets from vendor_qcom_opensource_interfaces
+• Build servicetracker HIDL
+• Compact cached app heaps in the background
+• Allow more cached apps in the background
+• Bind mount Wifi Aware feature permissions
+• Remove unnecessary QTI logkit directories
+• disable phantom process monitoring
+• Cleanup early_boot script
+• Cleanup useless init service
+• Import qti vibrator effect 
+• Add AOSP RCS packages
+• disable few-debug service
+• Use sdclang
+
+Notes:
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• orangefox recommended
+• cant boot ? flash dfe
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
 ------ Date : 19/05/2022 | Sinila 4.5 ------
 
 Device Changelogs :
