@@ -1,5 +1,32 @@
 |==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
 
+Date : 15/06/2022
+
+* Device Changelogs:
+  * arm
+    • Synced with latest source
+    • Add exFat and NTFS Support
+
+  * arm64
+    • Synced with latest source
+    • Add exFat and NTFS Support
+
+* Known Bug
+  • VoLTE (arm64 build)
+  • Fingerprint sensor on cereus (arm64 builds)
+  • Carrier Video Calling (ViLTE)
+  • Offline Charging
+  • Fingerprint on cereus
+
+* Notes :
+  • Vanilla Build
+  • USE ALPS 0.4 VENDOR
+  • both arm and arm64 build available
+  • vendor not included (Find on cactus/cereus groups)
+  • For cactus user recommended use arm build for better perfomance
+
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
 Date : 14/03/2022
 
 * Device Changelogs:
