@@ -1,5 +1,20 @@
 |==========| Redmi Note 5A Lite/Prime (Ulysse) |==========|
  
+Date : 20/06/2022
+
+Changelogs :
+* Upstream kernel to 4.9.319
+* Merge tag LA.UM.10.6.2.r1-02200-89xx.0 in kernel
+* Set CFQ Scheduler by default
+* Sepolicy: address more denials 
+* wifi: Disable WLAN Firmware loggings 
+* Remove vendor RenderScript implementation  
+
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+ 
 Date : 13/05/2022
 Changelogs :
 * Upstream kernel to 4.9.313
