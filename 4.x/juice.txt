@@ -1,5 +1,26 @@
 |==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
 
+Date : 21/06/2022
+Android 12.1
+Changelogs:
+• Initial OSS release
+• Improvement audio policies
+• Enabled ZRAM and set to 3GB
+• Use blobs from miui_LIMEPRE_22.6.8_391fd5416d_12.0.zip
+• Shipped with SucksGuuji kernel
+• Compiled with AOSP clang 14.0.7
+
+Notes:
+• OSS based
+• GApps included
+
+Credits and thanks:
+• @herobuxx for base device tree
+• Dev Juice ID
+• All my testers for testing
+
+=================================================
+
 Date : 12/05/2022
 Android 12.1
 Changelogs :
