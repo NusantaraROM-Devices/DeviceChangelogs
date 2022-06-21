@@ -1,5 +1,29 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 21/06/2022
+
+Android : 12L
+
+Device Changelogs :
+• updated Vulkan and openGl
+• updated June FP Patch
+• upstreamed kernel to 4.9.319
+• revert Nusantara Launcher
+
+Bug ?
+• QuickTap doest work.
+• Tell me, proper the logcat
+
+Note
+• Gapps only
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group
+
+
+|========= Old ChangeLog =========|
 
 Date 18/05/2022
 
@@ -24,8 +48,6 @@ Credits
 • Thanks To @LQmanHkeem for server
 • thanks to all member realme developer group
 
-
-|========= Old ChangeLog =========|
 
 Date 08/04/2022
 
