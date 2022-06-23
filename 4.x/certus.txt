@@ -1,5 +1,24 @@
 |==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
 
+Date : 23/06/2022
+
+* Device Changelogs:
+• Synced with latest source
+• Initial Android 12.1 build
+• Enable Volte support back
+• Address some denials
+• Add exFat and NTFS support
+
+* Known Bug
+• -
+
+* Notes :
+• Vanilla Build
+• Use alps 0.4 Vendor
+• only arm build available for now
+
+|==========| Redmi 6 / Redmi 6A Unified (Certus) |==========|
+
 Date : 18/11/2021
 
 * Device Changelogs:
