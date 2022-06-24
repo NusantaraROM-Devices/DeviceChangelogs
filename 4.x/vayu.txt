@@ -1,6 +1,13 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
+Date : 25/06/2022
+
+
 Date : 13/05/2022
+• Improvement sepolicy
+• Increase headset and mic volumes 
+• Disable zram writeback
+• Added IHighTouchPollingRate
 
 Device Changelogs :
 • Update proprietary files from V13.0.3.0.SJUMIXM
