@@ -1,4 +1,44 @@
 |==========| POCO F2 Pro / LMI |==========|
+25/06/2022
+
+Changelogs :
+• update to Raven June 2022 fingerprint
+• revert light sensor Debounce (fix auto brightness)
+• adapt UDFPS Vendor Code to source (fix screen off UDFPS)
+• switch back to default launcher (Pixel Launcher)
+• fix HBM and DC Dimming options in settings
+• Compact cached app heaps in the background
+• Allow more cached apps in the background
+• Cleanup early_boot script
+• Disable gms components for better WiFi speeds
+• Nuke vibrator debug logs
+• Kill IMS logspam
+• Apply latest Kryo 785 & 385 Optmiziations
+• Kernel: Do not acquire IPA wakelocks
+• Kernel: Fix netdev watchdog triggering on suspend
+• Kernel: cpuidle: lpm-levels: decrease reported deep idle latency
+• Kernel: Enable garbage collector for userspace wakeup sources
+• Kernel: Enable ExFAT
+• Kernel: BACKPORT: msm: kgsl: Add support to get gpu model from device tree
+• Kernel: BACKPORT: msm: kgsl: Add a property to query gpu model name
+• Kernel: BACKPORT: msm: kgsl: Add support for KGSL_PROP_VK_DEVICE_ID
+• Kernel: merge tag LA.UM.9.12.1.r1-01500-SMxx50.QSSI12.0
+• Kernel: upstream to Linux Kernel v4.19.246 Stable release
+
+Notes :
+• Use FW 12.5.4.0 CN or 12.5.3.0 Global
+• Gapps build only
+• Decrypted build
+
+Bugs :
+• USB connection mode (change via developer options)
+• Report if found more
+
+Credits :
+• Allah SWT
+• TH779 (https://github.com/hh2333) for device tree
+
+|=========================================|
 15/05/2022
 
 Changelogs :
