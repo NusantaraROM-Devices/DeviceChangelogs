@@ -1,0 +1,18 @@
+|==========| Redmi 9A / 10A |=========|
+
+Build Date: 28/06/22
+
+Device Changelogs :
+• Based on R vendor
+• Fix bluetooth audio
+• Fix auto brightness
+• Correct system volume levels
+
+Notes :
+• R vendor only. Don't flash this at 9/Active, 9C, etc
+• Recommended clean flash
+
+Credits:
+• Yurri (ImFatF1sh) , @mikazuuu07 , @Luigiee and wulan17 For Tree
+• @Leo8910 For test
+• Thanks To XZI Team for support
