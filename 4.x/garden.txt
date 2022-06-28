@@ -1,4 +1,16 @@
-|==========| Redmi 9C / 9C NFC / 9A / 9 India / POCO C3 |=========|
+|==========| Redmi 10A / 9A |=========|
+
+Build Date: 28/06/22
+
+Device Changelogs :
+• Based on R vendor
+• Fix bluetooth audio
+• Fix auto brightness
+• Correct system volume levels
+
+Notes : Don't flash this at 9C/9I etc
+
+|=================================================================|
 
 Build Date: 11/05/22
 
