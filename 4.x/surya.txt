@@ -1,5 +1,22 @@
 |==========| POCO X3 NFC / Surya |==========|
 
+Date : 30/06/2022
+Device Changelogs:
+• Update blobs to 12.5.8.0
+• Add Smooth Display
+• Update fp to raven June
+• Drop HBM & CABC Mode & Thermal Setting for now
+• More Improvement
+
+Notes : 
+• Clean Flash is Recommended
+• Firmware not Include, use fw 12.5.8
+• GApps Version
+
+Credit :
+• Thx to all my great tester
+• Thx to @TheStrechh for resource
+
 Date : 09/05/2022
 Device Changelogs :
 • update blobs to 12.5.5.0
