@@ -1,5 +1,25 @@
 |==========| Redmi 3S/3X (Land) |==========|
 
+Date : 02/07/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Update WiFi blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Wake up screen with fingerprint (without recognition)
+• Fixed fingerprint
+• Add Moto Dolby
+• Exclude AudioFx
+• Increase volume speaker
+• Shipped with Rimuru Kernel v4.1
+• Misc. fixes and Improvements
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @me_cafebabe for tree
+• Tempest Testing Team { T3 }
+
 Date : 02/06/2022
 
 * Device Changelogs :
