@@ -1,5 +1,21 @@
 |==========| Mi 6/ sagit |==========|
 
+Date : 14/07/2022
+
+• Device Changelogs :
+    • Sync Last Source Selarong
+    • Jul 2022 ASB Security Patch
+    • Fix DT2W action    
+    • Misc. Fixes and Improvements
+
+• Credits :
+    • sbwml and all sagit dev team
+
+• Notes :
+    • Ship Vanilla and Gapps version
+
+|==========| Mi 6/ sagit |==========|
+
 Date : 16/06/2022
 
 • Device Changelogs :
