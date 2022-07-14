@@ -1,0 +1,9 @@
+|==========| Realme 5/5i/5s/5 NFC | realme_trinket |==========||
+
+Date: 14/07/2022 [4.7 Selaraong]
+
+Device Changelog:
+• Welcome Back Realme Trinket
+• Upstreamed kernel to 4.14.287
+• Drop lot of oppo stuff in kernel and rom side
+• And more fixes and improvement
