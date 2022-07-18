@@ -1,5 +1,31 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 18/07/2022
+
+Device Changelogs :
+• Updated FP to Raven July
+• Synced with latest source 4.7 [Selarong]
+• Set ZRAM size to 50%
+• Changed default GPU Idle timeout to 60s
+• Pull blobs from LA.UM.9.1.r1-10900-SMxxx0.0
+• Reorder proprietary-files list
+• Added night display color temperature calibration from Coral
+• Synced duration props with raven
+• Updated adreno from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+• Ships with latest lawnchair dev version
+• Other fixes and improvements
+• CTS passes by default
+
+Notes :
+• SELinux Enforcing
+• GApps not included
+• Recommended GApps : MindTheGApps,Nikgapps
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Data : 17/06/2022
 
 Device Changelogs :
