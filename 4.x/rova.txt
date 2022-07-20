@@ -1,5 +1,39 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 20/07/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Force disable iorapd
+• Import dolby codecs
+• Update blobs from LA.UM.9.6.3.r1-06200-89xx.0
+• fixup! Increase volume speaker
+• Add haptics generator
+• Merge media hals to LA.UM.10.6.2.r1-02200-89xx.0
+• Add missing props used in blobs
+• Add links to Cell Broadcast app from Settings and MMS app
+• Add new Camera2 hardware features
+• Build more Android 11 camera APIs
+• Import missing camera TNR blobs for mm-camera
+• Update camera from LA.UM.7.6.r1-07800-89xx.0 + compatible blobs
+• Fix camera scanner and Wi-Fi scanner
+• Fix GCam not working
+• Enable window rounded corner animations
+• Remove Gboard navbar spacing
+• Fix Video Calling
+• Use threaded GLES render engine
+• Enable VoLTE support for Bakcell (Azerbaijan)
+• Add gaming perf-profile
+• Address some denials
+• Shipped with Rimuru kernel v4.3
+
+* Notes :
+• Vanilla Build (GApps not included)
+
+* Thanks to :
+• @me_cafebabe for trees
+• Tempest Testing Team [T3]
+
 Date : 16/06/2022
 
 * Device Changelogs :
