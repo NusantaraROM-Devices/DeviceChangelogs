@@ -1,5 +1,29 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 18/07/2022 | Selarong 4.7 ------
+
+Changelogs :
+• Synced with latest source
+• Switch to QTI Bluetooth HAL
+• Build standalone system_ext image
+• Several SEPolicy fixed
+• Misc. Improvements
+
+Notes:
+• Latest TWRP by Reignz is MANDATORY
+• GApps & Vanilla Build
+• System-Ext Support Added
+• Decrypted by default
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan & #XtremeOrnob for base trees
+• #Excraze & #HeshamGazzaz for help and fixes
+• #Reignz3 for kernel
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 18/06/2022 | Sate 4.6 ------
 
 Changelogs :
