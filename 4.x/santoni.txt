@@ -1,5 +1,28 @@
 |==========| Redmi 4X (Santoni) |==========|
 
+Date : 20/07/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Fix Video Calling
+• Use threaded GLES render engine
+• Enable VoLTE support for Bakcell (Azerbaijan)
+• Unset config_lockscreenAntiFalsingClassifierEnabled
+• Disable hwc vds in surface flinger
+• init: Allow permission for display power
+• audio: apply mixer_paths_mtp fixes
+• Build libldacBT_{bco,dec} from source
+• Address some denials
+• Shipped with Rimuru kernel v4.3
+• Misc. Fixes and Improvements
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @jabiyeff21 for trees
+• Tempest Testing Team [T3]
+
 Date : 16/06/2022
 
 * Device Changelogs :
