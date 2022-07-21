@@ -1,8 +1,22 @@
 |==========| POCO Poco M2 Pro/Redmi Note 9S/Pro/Pro Max |==========|
 
-Date : 14/06/2022
+Date : 21/07/2022
 
 Changelogs :
+ • Updated Android Security Patch to July 2022. Increased system security and stability.
+
+
+Notes :
+ • GApps, Vanilla
+ • Selinux Enforcing
+ 
+Credits :
+ • Sairam for DFC Kernel
+ • Testers
+
+Date : 14/06/2022 
+
+Old Changelogs :
  • Jun Security patch / Jun Fingerprint
  • Add OpenGL ES and update Vulkan dEQP feature flags
  • Add chown for audio folder
@@ -17,28 +31,3 @@ Changelogs :
  • Fixed camera memory leaks
  • Set valid and supported channel mask for earpiece
  • Update blobs from Joysus Global V12.5.7.0.RJZMIXM
-
-
-Notes :
- • GApps, Vanilla
- • Selinux Enforcing
- • Decrypted by default
- 
-Credits :
- • Sairam for DFC Kernel
- • Testers
-
-Date : 23/05/2022
-
-Old Changelogs :
- • May Security patch / May Fingerprint
- • Address sepolicy init denial
- • Don't audit default_prop access by audio HAL
- • Don't audit diagnostic interface usage
- • Don't audit untrusted_app to open ashmem_device
- • Initial sepolicy dontaudit rules
- • Nuke AiAi allowlist
- • Nuke QTI Codec2 HAL
- • Remove IO read_ahead_kb tune
- • Use FUSE passthrough by default
- • Update blobs from V12.5.5.0.RJWINXM
