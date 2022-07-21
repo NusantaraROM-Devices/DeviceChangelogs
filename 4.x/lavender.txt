@@ -1,3 +1,23 @@
+
+|==========| Redmi Note 7 / Lavender |==========|
+
+Date : 21/07/2022
+
+Device Changelogs:
+• Sync Last Source Selarong 
+• Bring back FM Radio
+• Tune dalvik heapminfree for devices with 3gb ram
+• Increase mic volume 
+• Stability and improvement
+
+Notes :
+• Ship Gapps and Vanilla Version
+
+Credit :
+• Nusantara Project Team
+• All Dev Xiaomi Redmi Note 7 (lavender)
+• condoriaano levaiiii1 for testing
+
 |==========| Redmi Note 7 / Lavender |==========|
 
 Date : 16/06/2022
