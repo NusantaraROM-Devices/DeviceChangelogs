@@ -1,5 +1,27 @@
 |==========| Redmi 3S/3X (Land) |==========|
 
+Date : 21/07/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Enable window rounded corner animations
+• Remove Gboard navbar spacing
+• Force disable iorapd
+• Update bluetooth blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Import Bluetooth (aptX) blobs from Crosshatch - 11/RQ2A.210405.006/7214111
+• Update FM blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Fix nightlight
+• Address some denials
+• Shipped with Rimuru kernel v4.3
+• Misc. fixes and Improvements
+
+* Notes :
+• Vanilla Build (GApps not included)
+
+* Thanks to :
+• @me_cafebabe for tree
+• Tempest Testing Team { T3 }
+
 Date : 02/07/2022
 
 * Device Changelogs :
