@@ -1,5 +1,19 @@
 |==========| MI A1 / Tissot |==========|
 
+Date : 25/07/2022
+
+• Device Changelogs :
+- Synced with Last Source
+- Merge to July 2022 Android Security Patch
+- Change Kernel to Cakeby, Thanks to @ItsMeKakashii
+
+• Notes:
+- Vanilla Build
+- Use OpenGapps Nano Or Nikkgapps Core is Recommended 
+
+
+|==========| MI A1 / Tissot |==========|
+
 Date : 29/07/2021
 
 • Device Changelogs :
