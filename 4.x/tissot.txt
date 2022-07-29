@@ -1,5 +1,15 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 29/07/2022
+
+Device Changelogs:
+• Synced with Last Source
+• Change Kernel to Cakeby, Thanks to @ItsMeKakashii
+• qcom-caf: media: Merge tag 'LA.UM.10.6.2.r1-02200-89xx.0'
+• Stability and improvement
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 15/05/2022
 
 Device Changelogs:
