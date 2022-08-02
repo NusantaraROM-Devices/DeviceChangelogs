@@ -1,5 +1,29 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 22/07/2022
+
+Android : 12L
+
+Device Changelogs :
+• updated July FP Patch
+• upstreamed kernel to v4.9.324
+• more improvement 
+
+Bug ?
+• QuickTap doest work.
+• Tell me, proper the logcat
+
+Note
+• Gapps & Vanilla
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group
+
+
+|========= Old ChangeLog =========|
+
 Date 21/06/2022
 
 Android : 12L
@@ -22,8 +46,6 @@ Credits
 • Thanks To @LQmanHkeem for server
 • thanks to all member realme developer group
 
-
-|========= Old ChangeLog =========|
 
 Date 18/05/2022
 
