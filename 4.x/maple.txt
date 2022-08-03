@@ -1,5 +1,31 @@
 |==========| Xperia XZ Premium (G8141) / maple |==========|
 
+Date : 03/08/2022
+
+* Device Changelogs :
+• Synced with latest source 4.7 [Selarong]
+• Add cpumasks for big and LITTLE CPU clusters
+• Fix kobject memleak
+• Merge changes from 4.9.309.
+• fix skb_over_panic in __ip6_append_data
+• Enable zram writeback.
+• Switch to Vulkan UI renderer
+• add Doze package from oneplus5 + Add AOD support to Ambient Display
+• Drop QTI datastatusnotification
+• Remove activity_recognition libs
+• Add feature flag for FEATURE_IPSEC_TUNNELS
+
+Notes :
+• GApps Build
+• Vanilla Build
+• Clean flash is always recommended
+• TWRP can't decrypt Data. (Flash patch_DFE.zip for fix TWRP [optional] or you need a microSD to flash the ROM! Put the ROM on microSD, then flash it from there.)
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 08/05/2022
 
 * Device Changelogs :
