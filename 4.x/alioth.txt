@@ -1,5 +1,31 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 03/08/2022 | Selarong 4.7 ------
+
+Device Changelogs :
+• Use DMIC instead of UNPROCESSED for recorder
+• Reconfigure power profile configuration for alioth
+• Update some blobs from miui_ALIOTHGlobal_V13.0.4.0.SKHMIXM
+• Enable asyncronous power updates on HWC
+• Set xiaomi thermal data path
+• Build OSS sound trigger HAL
+• Add back libmisound and audiosphere
+• Allow kernel to access /data/per_boot/zram_swap
+• Allow PowerHAL to set sched
+• Allow PowerHAL to change sched for ADPF
+• Re enable zram
+
+Notes:
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• orangefox recommended
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/RaijinThunderkeX
+
 ------ Date : 18/06/2022 | Sate 4.6 ------
 
 Device Changelogs :
