@@ -1,5 +1,20 @@
 |==========| Pocophone F1 / beryllium |==========|
 
+Date : 12/8/2022
+
+Device Changelogs :
+• Synced with Latest Source
+• Merge to July 2022 Android Security Patch
+• Switch back to stock FP
+• Silvercore v10.14 Kernel
+
+Notes :
+- Vanilla
+- Clean Flash Recommended
+- Use NSE TWRP by Reignz
+
+|==========| Pocophone F1 / beryllium |==========|
+
 Date : 07/9/2021
 
 Device Changelogs :
@@ -8,6 +23,6 @@ Device Changelogs :
 • Add switchbar to disable dynamic thermal
 • update fingerprint to august 2021
 
-• Notes :
+Notes :
 - Clean Flash Recommended
 - Vanilla
