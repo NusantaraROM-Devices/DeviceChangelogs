@@ -1,0 +1,19 @@
+|==========| Realme 8 4g/ Nashc |==========|
+
+Date 20/08/2022
+
+Android : 12L
+
+Device Changelogs :
+• Initial release android 12.1
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps & Vanilla
+
+Credits 
+• Thanks To @bengris32 for amazing trees
+• Thanks To @LQmanHkeem for server
+• Thanks to @sukuna_me & @AdAmsPrOStuDiO as the fast tester
