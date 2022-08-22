@@ -1,5 +1,25 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+Date : 22/08/2022
+
+Changelog :
+
+- Switch to SkiaGL threaded
+- Force disable iorapd
+- Updated Gcam to v3.6.455
+- Disabled Ultra Low Latency to fix crackling audio
+- Use speed tuning for performance critical applications
+- Improvement on WiFi connection
+- Overall performance increased
+
+Notes :
+• SELinux Enforcing
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is necessary
+
+-------------------------------------------------
+
 Date : 17/06/2022
 
 Changelog :
@@ -11,12 +31,6 @@ Changelog :
 - Enable config_avoidGfxAccel to turn off GPU/CPU intensive UI effects and reduces the RAM footprint.
 - Switch to Audio HAL V7
 - Disabled client composition cache
-
-Notes :
-• SELinux Enforcing
-• Vendor included
-• NikGapps recommended for vanilla builds
-• Clean flash is necessary
 
 -------------------------------------------------
  
