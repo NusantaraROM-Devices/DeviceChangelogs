@@ -1,5 +1,31 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 23/08/2022
+
+Device Changelogs :
+• Camera: Imported OSS camera hals
+• Camera: Upstreamed camera blobs from LA.UM.9.2.r1-03600-SDMxx0.0
+• Camera: Disabled lib2d rotation
+• Camera: Link to libhidltransport instead of android.hidl.base
+• Disabled triple buffering
+• Disabled slow blur effect to avoid laggish blur effect
+• Fixed camera lags
+• Uprev IRadio version to 1.5
+• Enable support for protected content GPU composition
+• Set zramsize size to 50% of the total memory
+• Set SOC manufacturer and chipset properties
+• Increase launch boost to 5 sec
+• Other fixes and improvements
+
+Notes :
+• SELinux Enforcing, LV, Non-FBE
+• GApps are included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 18/07/2022
 
 Device Changelogs :
