@@ -1,5 +1,22 @@
 |==========| Redmi Note 10  (Sunny/Mojito)|==========|
 
+Date : 23/08/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Initial Release Build
+• Set physical button/sensor locations
+• Switch to sw enc/dec for vp9 codec
+• Configure side fps properties
+
+* Notes :
+• GApps Build (GApps included)
+
+* Thanks to :
+• @dblenk9 for tree
+• @Anush02198 for kernel
+• @leonknn for test
+
 Date : 27/05/2022
 Device Changelog: 
 • Build User
