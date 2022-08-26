@@ -1,5 +1,25 @@
 |==========| Redmi 10 |=========|
 
+Build Date: 26/08/22
+
+Device Changelogs :
+• Upstream kernel to 4.14.290
+• Fix hotspot issue
+• Cleanup vendor properties
+• Remove 2GB dalvik heap detect
+• Use phase offsets as duration
+• Reduce INTERACTION uclamp value down to 50%
+• Switch to custom powerhal
+• Add support for event-based DT2W gesture control
+• Disable iorapd
+• Import watchdog props from stock V12.5.0.19.0.RKUMIXM
+• Drop DT2W service
+• Actually blacklist fingerprint key events
+• Unpin updatable-media from memory
+• Enable config_wifiDisplaySupportsProtectedBuffers
+
+|===============================|
+
 Build Date: 16/07/22
 
 Device Changelogs :
