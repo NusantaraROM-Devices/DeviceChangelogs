@@ -1,5 +1,28 @@
 |==========| Redmi Note 11 (Spes/Spesn)|==========|
 
+Date : 26/08/2022
+
+Device Changelog:
+• Switch to common tree ( SM6225/Bengal )
+• Fix offline charging
+• More Improvments selinux denials
+
+Notes: 
+• GApps Version 
+• Clean Flash is very recomended
+• MTP go to Dev Option and search "USB default configurations"
+
+Known Issue:
+• Camera Zoom,Discord apps
+
+Credits:
+• Nusantara Project Team
+• VIP Bengal ID Team
+• @frql_qn for amazing test
+• @ItoRenz for server
+
+|====================||====================|
+
 Device Changelog:
 • Initial Official Build
 • May Security Patch 
@@ -19,28 +42,5 @@ Known Issue:
 
 Credits:
 • Nusantara Project Team
-• @frql_qn for amazing test
-• @ItoRenz for server
-
-|====================||====================|
-
-Date : 26/08/2022
-
-Device Changelog:
-• Switch to common tree ( SM6225/Bengal )
-• Fix offline charging
-• More Improvments selinux denials
-
-Notes: 
-• GApps Version 
-• Clean Flash is very recomended
-• MTP go to Dev Option and search "USB default configurations"
-
-Known Issue:
-• Camera Zoom,Discord apps
-
-Credits:
-• Nusantara Project Team
-• VIP Bengal ID Team
 • @frql_qn for amazing test
 • @ItoRenz for server
