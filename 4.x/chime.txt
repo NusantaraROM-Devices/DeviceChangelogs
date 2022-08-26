@@ -1,4 +1,24 @@
-|==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power / Juice |==========|
+|==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power ( Chime ) |==========|
+
+Date : 26/08/2022
+Android 12.1
+Changelogs:
+• Disable adsprpcd
+• Drop QTI thermal HAL
+• Drop QCOM WFD
+• Enable the pre-rendering feature
+• Import boot-time FS tuning from Google Pixels
+• Kang SurfaceFlinger offsets from taro
+• Enable support Alipay fingerprint payment
+
+Notes:
+• OSS based
+• GApps included
+
+Credits and thanks:
+• All my testers for testing this build
+
+=================================================
 
 Date : 21/06/2022
 Android 12.1
