@@ -1,5 +1,18 @@
 |==========| Redmi Note 5A Lite/Prime (Ulysse) |==========|
  
+Date : 27/08/2022
+
+Changelogs :
+* Upstream kernel to 4.9.326 
+* rootdir: Use default allocstall threshold on k4.9
+* rootdir: Give proper permissions for /dev/diag
+* sepolicy: address additional surfaceflinger denial 
+
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+
 Date : 20/06/2022
 
 Changelogs :
