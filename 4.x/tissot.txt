@@ -1,5 +1,14 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 27/08/2022
+• Use Lawnchair for Default Launcher
+• Add App prebuilts: Musicolet, Firefox Lite
+• Remove Chrome
+• Kernel Upstremed to 4.9.326
+• Stability and improvement
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 29/07/2022
 
 Device Changelogs:
