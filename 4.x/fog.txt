@@ -1,0 +1,27 @@
+|==========| Redmi 10C/Power (Fog) |==========|
+
+Date : 26/08/2022
+
+Device Changelog:
+• Initial Official Build
+• August Security Patch
+• Shipping with common tree ( SM6225/Bengal )
+• Shipping with prebuilt kernel
+• OSS Vendor
+• SELinux Enforcing
+
+Notes: 
+• GApps Version 
+• Clean Flash is very recomended
+• MTP go to Dev Option and search "USB default configurations"
+
+Known Issue:
+• Camera Zoom,Discord apps
+• Stock Camera Freeze, using GCam
+
+Credits:
+• Nusantara Project Team
+• Redmi 10C ID Dev Team
+• VIP Bengal ID Team
+• @lloyd for amazing test
+• @ItoRenz for server
