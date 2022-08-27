@@ -1,5 +1,17 @@
 |==========| MI A1 / Tissot |==========|
 
+Date : 27/08/2022
+
+• Device Changelogs :
+- Synced with Last Source
+- Merge to August 2022 Android Security Patch
+- Kernel upstream to 4.9.326
+
+• Notes:- Vanilla Build
+- Use OpenGapps Nano Or Nikkgapps Core is Recommended 
+
+|==========| MI A1 / Tissot |==========|
+
 Date : 25/07/2022
 
 • Device Changelogs :
