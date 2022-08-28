@@ -1,5 +1,22 @@
 |==========| Redmi 4X (Santoni) |==========|
 
+Date : 28/08/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Workaround CPU Clock
+• Use default allocstall threshold on k4.9
+• Address some denials
+• Shipped with Rimuru kernel v4.6
+• Misc. Fixes and Improvements
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @jabiyeff21 for trees
+• Tempest Testing Team [T3]
+
 Date : 20/07/2022
 
 * Device Changelogs :
