@@ -1,5 +1,27 @@
 |==========| Redmi 4A/5A (Rova) |==========|
 
+Date : 27/08/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Use default allocstall threshold on k4.9
+• Add Google Battery HAL entry
+• Disable fluence for speakers
+• Add default SchedTune values for foreground/top-app
+• Boost CPU to max on DT2W & power key wake
+• Apply aggressive write caching
+• Increase CPU boosting to 1.2s on Lock Screen
+• Switch to Proton Clang
+• Address some denials
+• Shippee with Rimuru Kernel v4.6
+
+* Notes :
+• Vanilla Build (GApps not included)
+
+* Thanks to :
+• @me_cafebabe for trees
+• Tempest Testing Team [T3]
+
 Date : 20/07/2022
 
 * Device Changelogs :
