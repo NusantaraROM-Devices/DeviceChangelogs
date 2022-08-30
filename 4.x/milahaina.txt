@@ -1,0 +1,18 @@
+|==========| Mi 11 Ultra/11x Pro/11T Pro | Milahaina |========|
+
+Date: 30/08/2022
+
+Device Changelog:
+• Initial release.
+• Bugs: NFC.
+• Permissive selinux.
+• Credit: Team MiLahaina.
+• Based on Miui 13 firmware.
+
+Flashing instructions:
+• adb reboot bootloader
+• fastboot flash boot_ab boot.img
+• fastboot flash vendor_boot_ab vendor_boot.img
+• fastboot reboot recovery
+• in recovery wipe data (factory reset), then select apply update from adb
+and from pc sideload rom.zip and reboot.
