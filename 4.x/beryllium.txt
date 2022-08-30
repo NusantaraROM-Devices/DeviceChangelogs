@@ -1,5 +1,35 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 28/08/2022 | Surakarta 4.8 ------
+
+Changelogs :
+• Synced with latest source
+• Move renderengine to threaded skia
+• Pick up USB configurations from QCOM
+• Tune PowerHint
+• Fix PowerHAL Nodes
+• Update SurfaceFlinger Offset Values from Raven
+• Tune Keyboard Tap Vibe Pattern
+• Disable phantom process monitoring
+• Several SEPolicy fixed
+• Misc. Changes and Improvements
+
+Notes:
+• Latest TWRP by Reignz is MANDATORY
+• GApps & Vanilla Build
+• System-Ext Support Added
+• NikGapps Basic Recommended
+• Decrypted by default
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan & #XtremeOrnob for base trees
+• #Excraze & #HeshamGazzaz for help and fixes
+• #Reignz3 for kernel
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 18/07/2022 | Selarong 4.7 ------
 
 Changelogs :
