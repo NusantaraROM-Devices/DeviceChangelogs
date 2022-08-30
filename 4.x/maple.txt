@@ -1,5 +1,24 @@
 |==========| Xperia XZ Premium (G8141) / maple |==========|
 
+Date : 30/08/2022
+
+* Device Changelogs :
+• Synced with latest source 4.8 [Surakarta]
+• Update WireGuard to v1.0.20220627
+• Add changes to fix KW errors.
+• Misc. Fixes and Improvements
+
+Notes :
+• GApps Build
+• Vanilla Build
+• Clean flash is always recommended
+• fix decrypt data use latest TWRP Official 
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 03/08/2022
 
 * Device Changelogs :
