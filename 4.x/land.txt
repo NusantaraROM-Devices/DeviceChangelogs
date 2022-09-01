@@ -1,5 +1,38 @@
 |==========| Redmi 3S/3X (Land) |==========|
 
+Date : 31/08/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Import init.class_main.sh from LA.UM.10.6.2.r1-00600-89xx.0
+• audio: Take acdb ids from CAF msm8937
+• Drop XiaomiParts
+• Update media blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• zram: Configure Zram on all devices, if enabled
+• Update sensors blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update TUI blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Update ANT+ blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Update Gatekeeper/Keystore blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update Perf stack from LA.UM.9.6.2.r1-04200-89xx.0
+• Update DRM blobs from LA.UM.9.6.2.r1-04100-89xx.0
+• Update deprecated screen power items
+• Update Graphics & Postprocessing from Nokia Panther
+• Build vendor variant of libqdMetaData
+• Update lib-imsvideocodec from CMI
+• Remove warning popup while increasing media volume
+• Import deviceInfoServiceModule from CMI
+• Update DRM + Widevine & BT aptX from Coral
+• Address some denials
+• Shipped with Rimuru Kernel v4.6
+• Many fixes and improvements
+
+* Notes :
+• Vanilla Build (GApps not included)
+
+* Thanks to :
+• @me_cafebabe for tree
+• Tempest Testing Team { T3 }
+
 Date : 21/07/2022
 
 * Device Changelogs :
