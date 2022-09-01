@@ -1,5 +1,29 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 22/08/2022
+
+Android : 12L
+
+Device Changelogs :
+• drop vulkan driver (fix green screen video)
+• upstreamed kernel to v4.9.325
+• system improvement
+
+Bug ?
+• QuickTap doest work.
+• Tell me, proper the logcat
+
+Note
+• Gapps Only
+
+Credits 
+• Thanks To @Bablus for trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group
+
+
+|========= Old ChangeLog =========|
+
 Date 22/07/2022
 
 Android : 12L
@@ -21,8 +45,6 @@ Credits
 • Thanks To @LQmanHkeem for server
 • thanks to all member realme developer group
 
-
-|========= Old ChangeLog =========|
 
 Date 21/06/2022
 
