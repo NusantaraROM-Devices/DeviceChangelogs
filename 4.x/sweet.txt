@@ -1,5 +1,34 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 01/09/2022
+Changelogs :
+• Version 4.8 Surakarta
+• Android August 2022 Security update
+• Rebase Trees
+• GraphenesOS Camera v45
+• Switch Kernel Vantom & Clang Playground 15
+• Upstreamed Kernel to v4.14.291 stable release
+• Various Clean ups and performance improvements for kernel
+
+Notes :
+• Clean Flash is Mandatory !!!
+• GApps & Vanilla Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• Encrypted ( If you want your Decrypt flash DFE )
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks @Pulkit077 for trees
+• Thanks @Vantom & @redline_soee for Kernel
+• Thanks @PixelOSOfficial for Clang
+• Thanks @Djampt @whyyraku @dodyirawan85 @mrfox2003 @AliHasan7671 for Helping
+• Thanks all for Testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 24/05/2022
 Changelogs :
 • Added Audio scene selection for Mi Sound customizer (Settings > Sound)
