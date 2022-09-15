@@ -1,0 +1,22 @@
+|==========| POCO F3 / Alioth / Aliothin |==========|
+
+------ Date : 15/09/2022 | Tambora 5.0 ------
+
+Device Changelogs :
+• Update some blobs from miui_ALIOTHEEAGlobal_V13.0.8.0.SKHEUXM
+• Add MiSound Enhancer
+• Address more sepolicy denial
+• Adjust Dynamic HZ scaling times
+• Add Preferred refresh rate option
+
+Notes:
+• 13.0.8 EEA firmware recommended
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• orangefox recommended
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/raijin_thunderkex
