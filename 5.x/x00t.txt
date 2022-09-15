@@ -1,0 +1,23 @@
+|==========| Zenfone Max Pro M1 / X00T |==========|
+
+Date : 15/09/2022
+
+Device Changelogs :
+• Updated FP to Raven September
+• Initial A13 build
+• BT, Camera all working 
+• Switched to QTI Health HAL
+• Decrypted by default
+• CTS passed by default
+• Hotspot and tethering issues fixed
+• Latest source changes from v5.0 (Tambora)
+• Some misc improvements and fixes
+• ROM is NON-FBE & LV build
+
+Notes :
+• Orfox R11.1 recovery is recommended
+• SELinux Enforcing, LV, Non-FBE
+• GApps are included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
