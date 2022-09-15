@@ -1,0 +1,13 @@
+|==========| MIA1 / Tissot |==========|
+
+Date : 14/09/2022
+
+
+* Device Changelogs :
+• Initial Android 13 Build
+
+* Credits:
+• Thanks to @ItsMeKakashii for Cakeby Kernel
+• Thanks to @Yincen Which Has Helped Me a Lot
+• Thanks to @MetoIsTaken for Helped
+• Thanks to @S4SPRAY @m_s_syarif29 for Support
