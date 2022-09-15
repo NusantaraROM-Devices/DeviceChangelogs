@@ -1,0 +1,18 @@
+|==========| Xperia XZ Premium (G8141) / maple |==========|
+
+Date : 15/09/2022
+
+* Device Changelogs :
+• Initial Android 13 Build
+• move to vendor & FBE now
+• Selinux Enforcing
+
+Notes :
+• GApps Build
+• Clean flash!!
+• TWRP can't decrypt Data. (You need a microSD to flash the ROM! Put the ROM on microSD, then flash it from there.)
+• Use TWRP for FBE by @derfelot
+  for maple: https://androidfilehost.com/?fid=14655340768118455679
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
