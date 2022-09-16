@@ -1,0 +1,17 @@
+|==========| Redmi 4X (Santoni) |==========|
+
+Date : 16/09/2022
+
+* Device Changelogs :
+• Synced with latest source
+• Initial release build for android 13
+• Address some denials
+• Shipped with Rimuru kernel v4.7
+• Compille kernel with proton-clang
+
+* Notes :
+• Vanilla Build (GApps not included )
+
+* Thanks to :
+• @jabiyeff21 for trees
+• Tempest Testing Team [T3]
