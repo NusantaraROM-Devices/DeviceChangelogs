@@ -1,0 +1,10 @@
+|==========| Redmi Note 9 (Miatoll) |==========|
+
+Date : 17/09/2022
+
+* Device Changelogs :
+• Initial release build for android 13
+• Using trees @dereference from los
+
+* Thanks to :
+• @dereference for trees
