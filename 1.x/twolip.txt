@@ -1,0 +1,16 @@
+|==========| Xiaomi Redmi Note 6 Pro / Twolip |==========|
+
+Date : 15/09/2022
+
+Changelogs:
+• Initial eLTS Builds 
+• Synced with Latest Source
+• Merge to September 2022 Android Security Patch
+
+Known Bugs:
+• You need to flash magisk to make it boot
+
+Notes:
+• CTS Passed out of the box
+• Clean flash is mandatory
+• Vanilla (BitGApps Recommended)
