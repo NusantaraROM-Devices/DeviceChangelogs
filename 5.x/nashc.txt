@@ -1,0 +1,21 @@
+|==========| Realme 8 4g/ Nashc |==========|
+
+Date 15/09/2022
+
+Android : 13
+
+Device Changelogs :
+• Initial release android 13
+• Ship with kernel 4.14.200
+
+Bug ?
+• Rise to wake
+• Tell me, proper the logcat
+
+Note
+• Gapps Only
+
+Credits 
+• Thanks To @bengris32 for amazing trees
+• Thanks To @LQmanHkeem for server
+• Thanks to @AdAmsPrOStuDiO as the fast tester
