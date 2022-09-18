@@ -1,0 +1,23 @@
+|==========| Redmi 7A/8/8A/8A Dual (mi439)|==========|
+
+Date : 18/09/2022 | 5.0 Tambora
+
+Device Changelogs :
+• Initial Android 13 release
+• Synced with latest source
+• Retrofit Dynamic Partitions
+• Misc optimization
+
+Known Issue :
+• You tell me
+
+Notes :
+• Vanilla build
+• Clean flash is mandatory
+• SELinux mode is Enforcing
+• Needs 64bit recovery to flash
+• Mi439 = olives + pine
+
+Credit :
+• 0xCAFEBABE
+• support@nitijana.my.id
