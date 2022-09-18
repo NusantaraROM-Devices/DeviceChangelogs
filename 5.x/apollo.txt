@@ -1,0 +1,26 @@
+|==========| Mi 10T/Pro / apollo/\n |==========|
+
+------ Date : 17/09/2022 | Tambora 5.0 ------
+
+Device Changelogs :
+• Initial public release of Android 13 for apollo/n
+• Update some blobs from miui_APOLLOGlobal_V13.0.6.0.SJDMIXM
+• Added libmisound and audiosphere blobs
+• Added MiSound Enhancer
+• Added HBM preference
+• *mix_r12
+
+Notes:
+• Android 13
+• V13.0.6.0.SJDMIXM firmware
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• currently we're not using FBEv2 encryption
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• Allah SWT
+• APOLLO Brickers Community & Other contributor.
+• Testers
