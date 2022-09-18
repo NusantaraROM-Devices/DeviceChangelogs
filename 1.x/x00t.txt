@@ -1,5 +1,31 @@
 |==========| Asus Zenfone Max Pro M1 / X00T|==========|
 
+Date : 18/09/2022
+
+• Device Changelogs :
+- Updated raven fp to september
+- Merged september securiy patch
+- Regenerated thermal-engine.conf
+- overlay: Smoothen virtual key feedback pattern
+- picked Missed Chromatix blobs from Stock
+- audio: Used qcom implementation for sw effects
+- Dropped non-required audio-flags
+- overlay: Synced brightness values from stock v438
+- Updated media configs
+- Dropped unwanted props
+- Enabled the pre-rendering feature
+- Enabled config_avoidGfxAccel for 3GB variants
+- Some improvements over previous build
+- CTS passed by default
+- SELinux Enforcing
+
+• Notes :
+- Clean flash is recommended
+- Minimal FW is 063
+- Latest recovery is recommended
+- NikGApps is recommended
+
+
 Date : 20/03/2022
 
 • Device Changelogs :
