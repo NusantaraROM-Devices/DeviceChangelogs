@@ -1,0 +1,23 @@
+|==========| POCO F1 / Beryllium |==========|
+
+------ Date : 21/09/2022 | Tambora 5.0 ------
+
+Changelogs :
+• Initial public release of Android 13 for Beryllium
+• Added MotoDolby
+• Switch back to AOSP BT Stack
+
+Notes:
+• Latest TWRP by Reignz is MANDATORY
+• GApps & Vanilla Build
+• System-Ext Support Added
+• NikGapps Basic Recommended
+• Decrypted by default
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
