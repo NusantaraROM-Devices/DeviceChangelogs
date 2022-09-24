@@ -1,0 +1,14 @@
+|==========| Poco F4 5G / Munch |==========|
+
+Date : 24/09/2022Changelogs :
+• Initial release 
+
+Notes :
+• Clean flash 
+• Gapps build for now 
+• Selinux Enforcing 
+
+Credits : 
+• All dev sm8250 and poco f4 5g 
+• thanks to @madmax7896 and @utsavthecunt
+• thanks my tester
