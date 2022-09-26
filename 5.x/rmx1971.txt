@@ -1,0 +1,21 @@
+|==========| Realme 5 Pro/ RMX1971 |==========|
+
+Date 26/09/2022
+
+Android : 13
+
+Device Changelogs :
+• initial release a13
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Vanilla && Gapps 
+
+Credits 
+• Thanks To @Bablus for base trees
+• Thanks To @kssrao13882 for a13 working trees
+• Thanks To @LQmanHkeem for server
+• Thanks To @urstevee for test
+• thanks to all member realme developer group
