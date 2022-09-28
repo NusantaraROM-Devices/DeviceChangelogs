@@ -1,5 +1,41 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 28/09/2022
+
+Device Changelogs:
+• September 2022 ASB build
+• Used EIS2.0 instead of 3.0
+• Disabled SF client composition cache
+• Audio: Increased handset speaker and mic volume
+• Audio: Use qcom implementation for sw effects
+• Audio: reroute speaker dmic to handset mic
+• Dropped userspace LMKD
+• Updated ZRAM configuration from LA.UM.9.2.r1-03000-SDMxx0.0
+• Camera: Skip loading libthermalclient
+• Camera: Disable lib2d rotation
+• Dropped OVERRIDE_RS_DRIVER
+• Addded some missing vendor properties
+• Disabled debug.sf.recomputecrop 
+• Enabled the pre-rendering feature
+• Disabled debug.sf.enable_hwc_vds
+• Disabled sdm rotator downscaler
+• Removed missed QTI bt audio stack blobs
+• Disabled vibrator HAL interface
+• CTS/SafetyNet passed without root
+• Banking apps working
+• Misc.fixes & improvements
+
+Notes:
+• SELinux Enforcing, NON-FBE, NLV
+• Gapps not included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+• Recommended to use NikGApps Basic/Core
+
+
+
+|==========| Zenfone Max Pro M1 / X00T |==========|
+
 Date : 23/04/2022
 
 Device Changelogs:
