@@ -1,5 +1,19 @@
 |==========| Pocophone F1 / beryllium |==========|
 
+Date : 28/9/2022
+
+Device Changelogs :
+• Synced with Latest Source
+• Merged to September 2022 Android Security Patch
+• Switch to Kawaii Kernel
+
+Notes :
+- Vanilla
+- Clean Flash Recommended
+- Use NSE TWRP by Reignz
+
+|==========| Pocophone F1 / beryllium |==========|
+
 Date : 12/8/2022
 
 Device Changelogs :
