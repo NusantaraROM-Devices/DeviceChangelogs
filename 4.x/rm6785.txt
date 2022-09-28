@@ -1,5 +1,30 @@
 |==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
 
+Date : 28/09/2022 | 4.9 LTS
+
+Device Changelogs :
+• September 2022 ASB
+• Fixed IPv6 tethering
+• Add more Dirac Presets
+• Drop MediaTek Log deps
+• Enabled dynamic refresh rate
+• Fixed lag while playing 1080p/2K videos
+• Drop perf profile, Add Back Game Mode Perf
+• Updated CABC configurations from stock RUI
+• Updated lawnchair/icons to latest release (official)
+• Updated vendor blobs and fw to RMX2002_11.C.19
+• Minor performance improvements
+
+Bugs
+• Native video calling (ViLTE) & Voice over WiFi (VoWiFi)
+• USB Audio
+
+Notes
+• Only GApps Build
+
+
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
 Date : 17/05/2022 | 4.5 Sinila
 
 Device Changelogs :
