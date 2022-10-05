@@ -1,5 +1,27 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date : 05/10/2022
+
+Device Changelogs :
+• sync with latest source
+• upstreamed kernel to 4.9.325
+
+Bug ?
+• Battery info on Setting unknown
+• tell me
+
+Notes :
+• Gapps Build
+
+Credits 
+• Thanks To @bablus for trees
+• Thanks to @LQmanHkeem for bring me a server
+• and thanks to @Seanmemeow for donate and tester
+
+
+
+====== Older ChangeLog ======
+
 Date : 18/03/2022
 
 Device Changelogs :
@@ -22,9 +44,6 @@ Credits
 • Thanks To @bablus for trees
 • Thanks to @LQmanHkeem for bring me a server
 • and thanks to all tester
-
-
-====== Older ChangeLog ======
 
 Date : 12/06/2021
 
