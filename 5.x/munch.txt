@@ -1,16 +1,19 @@
 |==========| Poco F4 5G / Munch |==========|
 
-Date : 28/09/2022 Changelogs :
-• Initial release  
-• Added dirac and dolby
-• Update Adreno driver v615
+Date : 08/10/2022 Changelogs :
+• Adreno driver v530
+• Added Dolby Vision support
+• Optimize powerhint 
+• Clean up post_boot
+• Improve haptic patern
+• etc
 
 Notes :
-• Clean flash 
-• Build vanilla only. need install gapps
-• Selinux Enforcing 
+• Clean flash recomended
+• Build vanilla and gapps
+• Selinux Enforcing
 
 Credits : 
-• All dev sm8250 and poco f4 5g 
-• thanks to @madmax7896 and @utsavthecunt
+• All dev sm8250 and poco f4
+• thanks to @madmax7896 @utsavthecunt @johnmart19
 • thanks my tester
