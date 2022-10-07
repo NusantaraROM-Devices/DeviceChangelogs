@@ -1,0 +1,20 @@
+|==========| Redmi 10C / Fog |==========|
+
+Date : 06/10/2022
+
+Device Changelog:
+• Inital A13 build release
+• Switch to RRO Overlays
+• Build source mlipay & mtdservice
+• Added OEM fastcharge
+• Build IFAAService
+• Minor fixes and etc.
+
+Known Issue:
+• Touch Vibra sound
+• Camera Zoom,Discord apps
+
+Credits:
+• Nusantara Project Team
+• Redmi 10C ID Dev Team
+• @lloyd for amazing test
