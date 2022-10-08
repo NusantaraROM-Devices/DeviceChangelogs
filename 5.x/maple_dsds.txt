@@ -1,5 +1,28 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 08/10/2022
+
+* Device Changelogs :
+• Synced with latest source 5.1 [Tidore]
+• switch back to OpenGL
+• Clean up CPU frequency switch back to default
+• Remove Pop up of vendor mismatches
+• Tune GCC for msm8998's CPU
+• Battery life improvement
+• many more
+
+Notes :
+• GApps Build
+• Clean flash!!
+• Good News! fix TWRP can't decrypt data. Use new TWRP for FBE by @derfelot
+   https://sourceforge.net/projects/yoshino/files/maple/twrp
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+• @rifqi Rizaldy for test ROM
+
+|===============================|
+
 Date : 15/09/2022
 
 * Device Changelogs :
