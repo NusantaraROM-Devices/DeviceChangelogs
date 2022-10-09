@@ -1,10 +1,9 @@
 |==========| Poco F4 5G / Munch |==========|
 
-Date : 08/10/2022 Changelogs :
+Date : 10/10/2022 Changelogs :
 • Adreno driver v530
-• Added Dolby Vision support
-• Optimize powerhint 
-• Clean up post_boot
+• Added HBM
+• Remove 90hz refresh rate
 • Improve haptic patern
 • etc
 
