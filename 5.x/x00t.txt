@@ -1,5 +1,34 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 11/10/2022
+
+Device Changelogs :
+• Updated FP to Raven October
+• Enabled zygote critical window
+• Used QTI USB init configs from USB HAL repo
+• Updated Audio HIDL to 7.1
+• Camera: build scudo-free 32-bit libc variant
+• Overlay: Dropped deprecated SystemUI overlays
+• Reverted some changes on DRM
+• Shipped android.system.keystore2
+• Kangged some rendering props
+• Disabled triple buffering
+• Removed vendor RenderScript implementation
+• Added OpenGL ES and update Vulkan dEQP feature flags
+• Modified Vulkan and OpenGL versions
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE
+• GApps are not included
+• Based on 4.4 kernel
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 15/09/2022
 
 Device Changelogs :
