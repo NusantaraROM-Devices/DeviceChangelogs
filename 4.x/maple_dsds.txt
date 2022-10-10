@@ -1,5 +1,22 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 10/10/2022
+
+* Device Changelogs :
+• Switch back to OpenGL
+• Enable Simple LMK
+• Tune GCC for msm8998's CPU
+• Misc. Fixes and Improvements
+
+Notes :
+• GApps only
+• Clean flash is always recommended 
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 30/08/2022
 
 * Device Changelogs :
