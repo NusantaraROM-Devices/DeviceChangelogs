@@ -2,11 +2,23 @@
 
 Date : 14/09/2022
 
-
 * Device Changelogs :
 • Initial Android 13 Build
 
+|==========| MIA1 / Tissot |==========|
+
+Date : 10/10/2022
+
+* Device Changelogs :
+• Sync Last Source
+• Add FM Radio
+• Add Mi Sound
+• Upstreamed Kernel to 4.9.330
+• Some misc improvements
+• CTS passed by default
+
 * Credits:
+• Thanks to @AriefMuttaqin for test this rom
 • Thanks to @ItsMeKakashii for Cakeby Kernel
 • Thanks to @Yincen Which Has Helped Me a Lot
 • Thanks to @MetoIsTaken for Helped
