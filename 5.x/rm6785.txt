@@ -1,0 +1,21 @@
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
+Date : 10/10/2022 | 5.1 TIDORE
+
+Device Changelogs :
+• Initial A13
+• October 2022 ASB
+• Upstream kernel .295
+• Fixed laggy screen recording
+• Added realmeDirac & realmeParts
+
+Known Bug :
+• Native video calling (ViLTE)
+• Voice over WiFi (VoWiFi)
+• USB Audio
+
+Notes :
+• Only GApps Build
+
+Credit :
+• Thanks to all realme-mt6785-devs
