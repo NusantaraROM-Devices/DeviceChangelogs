@@ -1,5 +1,16 @@
 |==========| Redmi Note 9 (Miatoll) |==========|
 
+Date : 11/10/2022
+* Device Changelogs :
+Added dirac & doze
+Fixed camera whats app & some other app
+Downgrade camera blobs to Android 11
+Improvement sepolicy, overlay & etc
+Import 32 bit CamX libraries
+Migrate to AIDL ClearKey DRM HAL
+Set SSR restart level to 'RELATED'
+Update blobs from caf 11500.02 SMxxx0
+
 Date : 17/09/2022
 
 * Device Changelogs :
