@@ -1,5 +1,30 @@
 |==========| Mi 10T/Pro / apollo/\n |==========|
 
+------ Date : 09/09/2022 | Tambora 5.1 ------
+
+Device Changelogs :
+• sepolicy fixes
+• removed HBM and misound enhancer preference
+• implemented FBEv2
+• enable FUSE Passtrough, & incremental
+• switch wifi display blobs from BSP
+• vendor blobs update from v13.0.10.0EEA
+• *mix_r12
+
+Notes:
+• Android 13
+• V13.0.10.0.SJDEUXM firmware
+• Gapps only
+• Clean flash is recommended
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• Allah SWT
+• APOLLO Brickers Community & Other contributor.
+• Testers
+
 ------ Date : 17/09/2022 | Tambora 5.0 ------
 
 Device Changelogs :
@@ -9,18 +34,3 @@ Device Changelogs :
 • Added MiSound Enhancer
 • Added HBM preference
 • *mix_r12
-
-Notes:
-• Android 13
-• V13.0.6.0.SJDMIXM firmware
-• Basic / core Gapps recommended
-• Clean flash is recommended
-• currently we're not using FBEv2 encryption
-
-Bugs:
-• You tell me with proper logs
-
-Thanks To:
-• Allah SWT
-• APOLLO Brickers Community & Other contributor.
-• Testers
