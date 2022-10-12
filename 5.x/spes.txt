@@ -1,0 +1,19 @@
+|==========| Redmi Note 11 / spes |==========|
+
+Date : 12/10/2022
+
+Device Changelog:
+• Inital A13 build release
+• Switch to RRO Overlays
+• Build source mlipay & mtdservice
+• Added OEM fastcharge
+• Build IFAAService
+• Minor fixes and etc.
+
+Known Issue:
+• Camera Zoom,Discord apps
+
+Credits:
+• Nusantara Project Team
+• Bengal VIP ID Team
+• @frqlqn for amazing test
