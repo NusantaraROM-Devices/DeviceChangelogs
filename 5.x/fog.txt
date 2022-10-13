@@ -1,5 +1,16 @@
 |==========| Redmi 10C / Fog |==========|
 
+Date : 12/10/2022
+
+Device Changelog
+• Fix Deep sleep
+• Migrate to AIDL Clearkey DRM HAL
+• Improve SELinux
+• Imporove Low Memory Killer from light
+• Minor fixes and etc.
+
+|===================================|
+
 Date : 06/10/2022
 
 Device Changelog:
