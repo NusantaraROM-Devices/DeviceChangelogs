@@ -1,5 +1,30 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 13/10/2022 | Tidore 5.1 ------
+
+Device Changelogs :
+• Implement HBM & Auto HBM (High Brightness Mode)
+• Disable Skia tracing by default
+• Address perf, Thermal & fingerprint hal denials
+• Disable surface flinger latch unsignaled
+• Disable Few-debug services
+• Unpin updatable-media from memory
+• Improve audio quality
+• Migrate to AIDL ClearKey DRM HAL
+
+
+Notes:
+• 13.0.8 EEA firmware recommended
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• Orangefox recovery recommended
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/raijin_thunderkex
+
 ------ Date : 15/09/2022 | Tambora 5.0 ------
 
 Device Changelogs :
