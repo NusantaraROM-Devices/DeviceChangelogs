@@ -1,0 +1,17 @@
+|==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power ( Chime ) |==========|
+
+Date : 16/10/2022
+Android 13
+Changelogs:
+• Initial Android 13 release
+• Disable encryption
+• Drop Vulkan HWUI renderer
+• Migrate to AIDL ClearKey DRM HAL
+• Apply MIUI build fingerprint for each variant
+• Tune auto-brightness configs
+• Disable intrusive GMS components
+
+Notes:
+• OSS based
+• GApps included
+• Decrypted by default
