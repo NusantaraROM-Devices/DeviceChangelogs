@@ -1,16 +1,17 @@
-|==========| Xiaomi Redmi Note 6 Pro / Twolip |==========|
+|==========| Xiaomi Redmi Note 6 Pro / Twolip / Tulip |==========|
 
-Date : 15/09/2022
+Date : 18/10/2022
 
 Changelogs:
-• Initial eLTS Builds 
-• Synced with Latest Source
-• Merge to September 2022 Android Security Patch
-
-Known Bugs:
-• You need to flash magisk to make it boot
+• End Of Life Builds (No Longer Support) 
+• Merge to October 2022 Android Security Patch
+• Switch to Mystic X9.6 Kernel 
+• Fixed BatteryHealth overlay
+• Import XiaomiParts (Doze, KCAL, Vibration Strength)
 
 Notes:
+• Enforcing 
+• Old Cam Builds
 • CTS Passed out of the box
 • Clean flash is mandatory
-• Vanilla (BitGApps Recommended)
+• Vanilla (BitGApps, NikGapps Recommended)
