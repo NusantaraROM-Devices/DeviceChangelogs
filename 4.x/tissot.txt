@@ -1,5 +1,28 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 19/10/2022
+
+• Bump 4.9
+• Update Security Patch to October 2022
+• Switch to Pringgodani Kernel v1.0 
+(Rebase from Cakeby)
+• Override default Android binutils for arm64
+• Compile kernel with make LLVM=1
+• Allow usage of custom binary linker (LD)
+• Clear settings cache after dirty flash
+• Fix screen tearing issue
+• Disable phantom process monitoring
+• Compile HWUI for performance
+• Switch to SkiaGL threaded
+• Use speed tuning for performance critical applications
+• perf: Enable the pre-rendering feature
+• Always preopt extracted APKs
+• Speed profile services and wifi-service to reduce RAM and Storage
+• Strip off some debug packages
+• Inherit several Android Go configurations
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 27/08/2022
 • Use Lawnchair for Default Launcher
 • Add App prebuilts: Musicolet, Firefox Lite
