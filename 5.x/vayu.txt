@@ -1,0 +1,14 @@
+|==========| POCO X3 Pro / Vayu |==========|
+
+Date : 24/10/2022
+
+Device Changelogs :
+• Initial Android 13.0 Builds  
+
+Notes:
+• Enforcing Build
+• OSS Based
+• GApps Already Included
+• Clean flash is mandatory
+• SafetyNet passes out of the box
+• Recommended Firmware: Stock 12.0.x
