@@ -1,5 +1,33 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 24/10/2022 | Tidore 5.1 ------
+
+Changelogs :
+• Synced latest source changes
+• Dropped MotoDolby
+• Added HiFi Support
+• Added more Dirac presets
+• Fixed cam interfaces on VILTE calls
+• Kill IFAA, soter and mlipay service support
+• Other misc. SEPolicy changes and improvements
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY (Use v3.7.0-A12)
+• GApps & Vanilla Build
+• SELinux Enforcing
+• Decrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 21/09/2022 | Tambora 5.0 ------
 
 Changelogs :
