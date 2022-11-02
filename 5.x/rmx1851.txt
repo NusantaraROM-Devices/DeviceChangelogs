@@ -1,0 +1,13 @@
+|==========| Realme 3 Pro / RMX1851 |==========|
+
+Date : 02/11/2022
+
+Changelog :
+
+- Initial release for Android 13 builds
+
+Notes :
+• SELinux Enforcing
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is a must
