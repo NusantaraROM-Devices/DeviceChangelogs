@@ -1,5 +1,35 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 13/11/2022
+
+Device Changelogs :
+• Updated FP to cheetah November
+• props: tweak bluetooth props
+• props: Cleaned up some display properties
+• power-libperfmgr: Updated to Android 13
+• power-libperfmgr: Dropped CDSchedtuneBoost
+• Added CAMERA in light type for android.hardware.light
+• Removed msadp symlinking
+• Setted kernel target level to 4
+• wifi: Enabled set channel on NDP setup
+• wifi: Cleaned up WCNSS_qcom_cfg.ini
+• Updated props and enabled A2DP offload support
+• Updated aptX encoder libs from crosshatch
+• Cleaned up BT A2DP HAL entries from manifest
+• Defered triggering WiFi load to HAL
+• Enabled legacy _platform compatibility
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE, 4.4 kernel Based
+• GApps are included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 11/10/2022
 
 Device Changelogs :
