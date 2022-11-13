@@ -1,5 +1,28 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 14/11/2022
+
+* Device Changelogs :
+• Synced with latest source 5.2 [Toba]
+• Switch FP to Cheetah
+• Removed msadp symlinking
+• Added camera button support key
+• Enable iWlan legacy mode
+• fix overflow in prog accounting
+• fix UAF of ref->proc caused by race condition
+• fix oops in concurrently setting insn_emulation sysctls
+• Some misc improvements and fixes
+• Enable Adaptive charging
+
+Notes :
+• GApps Build
+• Clean flash!!
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 08/10/2022
 
 * Device Changelogs :
