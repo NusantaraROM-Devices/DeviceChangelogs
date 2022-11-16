@@ -1,15 +1,13 @@
 |==========| Poco F4 5G / Munch |==========|
 
-Date : 10/10/2022 Changelogs :
-• Adreno driver v530
-• Added HBM
-• Remove 90hz refresh rate
-• Improve haptic patern
+Date : 17/11/2022 Changelogs :
+• Adjust perfect pading
+• Added performance init
 • etc
 
 Notes :
 • Clean flash recomended
-• Build vanilla and gapps
+• Build vanilla
 • Selinux Enforcing
 
 Credits : 
