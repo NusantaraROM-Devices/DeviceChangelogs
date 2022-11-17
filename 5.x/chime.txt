@@ -1,5 +1,27 @@
 |==========| POCO M3 / Redmi 9T / Redmi Note 9 4G / Redmi 9 Power ( Chime ) |==========|
 
+Date : 17/11/2022
+Android 13
+Changelogs :
+• Fix several incall mic issue
+• Fix mic volume in some apps
+• Fix Google voice recorder issue
+• Enable zygote critical window
+• Migrate to AIDL bluetooth audio HAL
+• Adjust LMKD kill timeout
+• Add Aperture Camera from LineageOS
+• Update Adreno blobs from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+• Import media configs from LA.UM.9.15.2.r1-05100-KAMORTA.QSSI13.0
+• Update init.qti.dcvs script from LA.UM.9.15.1.r1-07200-KAMORTA.0
+
+Notes :
+• OSS based
+• GApps included
+• Decrypted build
+• Shipped with GreenForce main branch kernel
+
+================================================
+
 Date : 16/10/2022
 Android 13
 Changelogs:
