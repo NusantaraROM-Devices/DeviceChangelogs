@@ -1,5 +1,25 @@
 |==========| MI A1 / Tissot |==========|
 
+Date : 17/11/2022
+
+- End Of Life Builds (No Longer Support) 
+- Update to October Security Patch
+- Switch to Pringgodani Kernel v1.2
+- Upstreamed Kernel to 4.9.333
+- Switch to Yuki Clang 16.0.0
+- Silence clang warnings during kernel compile
+- Override default Android binutils for arm64
+- Compile kernel with make LLVM=1
+- Allow usage of custom binary linker (LD)
+- Pass LLVM_IAS=1 to use LLVM's integrated assembler
+- Set printk.devkmsg=on on kernel cmdline to avoid rate…
+- NusantaraParts : Fix Torch Nodes and Rules Address
+
+• Notes:- Vanilla Build
+- Use Bitgapps Or Nikkgapps Core is Recommended 
+
+|==========| MI A1 / Tissot |==========|
+
 Date : 27/08/2022
 
 • Device Changelogs :
