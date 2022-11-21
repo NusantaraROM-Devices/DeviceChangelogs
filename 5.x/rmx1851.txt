@@ -1,13 +1,31 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+/============ 5.2 Toba ============\
+
+Date : 21/12/2022
+
+Changelog :
+
+- Use QCOM implementation for audio effects
+- Shorten wait time for services exit to optimize shutdown time
+- Improvement for Game rendering perf
+- Reduce number of CPUs for system-background apps
+- enable UXE, Matches stock Qualcomm configuration and improves performance.
+- Enable haptic feedback on text selection/insertion
+- Speed profile services and wifi-service to reduce RAM and storage
+- Switch to Liquid kernel 
+
+Notes :
+• SELinux Enforcing
+• CTS not pass by default, use kdrag0n safetynet-fix instead
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is a must
+
+/============ 5.1 Tidore ============\
+
 Date : 02/11/2022
 
 Changelog :
 
 - Initial release for Android 13 builds
-
-Notes :
-• SELinux Enforcing
-• Vendor included
-• NikGapps recommended for vanilla builds
-• Clean flash is a must
