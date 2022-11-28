@@ -1,5 +1,34 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 27/11/2022 | Toba 5.2 ------
+
+Changelogs :
+• Synced latest source changes
+• Enable Codec2
+• Expose aux cams to Aperture
+• Re-patch lib-imsvideocodec
+• Re-patch com.qti.node.watermark camera component 
+• Fix app opening and QS lag
+• Disable client composition cache
+• Other misc. SEPolicy changes and improvements
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY (Use v3.7.0-A12)
+• GApps & Vanilla Build
+• SELinux Enforcing
+• Encrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 24/10/2022 | Tidore 5.1 ------
 
 Changelogs :
