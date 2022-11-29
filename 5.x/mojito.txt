@@ -1,0 +1,18 @@
+|==========| Redmi Note 10  (Sunny/Mojito)|==========|
+
+Date : 29/11/2022
+
+* Device Changelogs :
+• Initial release build for android 13
+• Kernel v4.14.299-STRIX
+• SafetyNet passed by default
+• seLinux enforcing
+
+* Notes :
+• GApps Build (GApps included)
+
+* Thanks to :
+• ALLAH SWT
+• Nusantara Project
+• @fiqri_ardyansyah for all stuff
+• @super_img & @vendetta94 for test
