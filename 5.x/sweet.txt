@@ -1,0 +1,29 @@
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
+Date : 01/12/2022
+Changelogs :
+• Version v5.2 Toba
+• Inital A13 build release
+• Android November 2022 Security update
+• Added Camera Aperture
+• Added OEM fastcharge
+• Added One-handed mode
+• Added Sweet Parts
+• Added Smooth Display
+• SigmaKernel Upstreamed kernel to v4.14.300 stable release
+
+Notes :
+• Clean Flash is Mandatory !!!
+• GApps Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• TWRP KewL Recommended
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks @neobuddy89 for all stuff
+• Thanks @Pulkit077 for KewL TWRP
+• Thanks @zaidkhan0997 @Aarav_x for Helping
+• Thanks @smithonemo @apriyatna @rons1892 all for Testing
