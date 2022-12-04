@@ -1,18 +1,16 @@
 |==========| Redmi 7A/8/8A/8A Dual (mi439)|==========|
 
-Date : 18/09/2022 | 5.0 Tambora
+Date : 04/12/2022 | 5.2 Toba
 
 Device Changelogs :
-• Initial Android 13 release
-• Synced with latest source
-• Retrofit Dynamic Partitions
-• Misc optimization
+• Synced with November patch
 
 Known Issue :
 • You tell me
 
 Notes :
 • Vanilla build
+• Retrofit Dynamic Partitions
 • Clean flash is mandatory
 • SELinux mode is Enforcing
 • Needs 64bit recovery to flash
