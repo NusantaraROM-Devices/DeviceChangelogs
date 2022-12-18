@@ -1,5 +1,21 @@
 |==========| Redmi Note 9 (Miatoll) |==========|
 
+Date : 18/12/2022
+
+* Device Changelogs :
+• Synced with latest source 5.3 [Tarumanagara]
+• Add back debug.sf.disable_backpressure properties
+• Expose aux cams to Aperture
+• Configure aux camera for Aperture
+• Some misc improvements and fixes
+
+Notes :
+• FBE V2
+
+|===============================|
+
+|==========| Redmi Note 9 (Miatoll) |==========|
+
 Date : 11/10/2022
 * Device Changelogs :
 Added dirac & doze
