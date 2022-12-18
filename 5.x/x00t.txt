@@ -1,5 +1,32 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 18/12/2022
+
+Device Changelogs :
+• Updated FP to cheetah December
+• Compiled HWUI for performance
+• Props: Fix cam interface on vilte calls
+• Props: Disabled Skia tracing by default
+• Props: Disabled SDM Scalar
+• Props: Update surfaceflinger props
+• Props: Used HintManager for HWUI
+• Removed debug.sf.disable_backpressure
+• WifiOverlays: Disabled WPA2 -> WPA3 upgrade
+• Disabled speaker protection feature in audio HAL
+• Audio: fixup audio io policy voip_rx flags
+• Extended buffer size to 256kb for offload playback
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE, 4.4 kernel Based
+• GApps are not included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 13/11/2022
 
 Device Changelogs :
