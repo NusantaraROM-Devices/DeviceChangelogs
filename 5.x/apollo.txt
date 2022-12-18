@@ -1,8 +1,9 @@
 |==========| Mi 10T/Pro / apollo/\n |==========|
 
------- Date : 16/11/2022 | Tambora 5.2 ------
+------ Date : 16/11/2022 | Tarumanegara 5.3 ------
 
 Device Changelogs :
+• parts fixup
 • *mix_r12
 
 Notes:
@@ -18,6 +19,11 @@ Thanks To:
 • Allah SWT
 • APOLLO Brickers Community & Other contributor.
 • Testers
+
+------ Date : 16/11/2022 | Toba 5.2 ------
+
+Device Changelogs :
+• *mix_r12
 
 ------ Date : 09/09/2022 | Tambora 5.1 ------
 
