@@ -1,5 +1,23 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 18/12/2022
+
+* Device Changelogs :
+• Synced with latest source 5.3 [Tarumanagara]
+• Bring the kernel tree up-to-date with 4.9.328 (v4.4-st28)
+• Use Vulkan for UI rendering
+• Update FP to December
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Clean flash!!
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 14/11/2022
 
 * Device Changelogs :
