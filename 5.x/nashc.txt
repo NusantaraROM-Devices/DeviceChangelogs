@@ -1,5 +1,28 @@
 |==========| Realme 8 4g/ Nashc |==========|
 
+Date 19/12/2022
+
+Android : 13
+
+Device Changelogs :
+• updated dtbo to c.13
+• updated blobs to c.13
+• add erofs support
+• move to Ben's kernel
+
+Bug ?
+• Tell me, proper the logcat
+
+Note
+• Gapps Build
+
+Credits 
+• Thanks To @bengris32 for trees
+• Thanks To @LQmanHkeem for server
+• Thanks to @MADARA_GHOST_OF_UCHIHA as tester
+
+|======| Older Changelog |======|
+
 Date 13/10/2022
 
 Android : 13
@@ -21,7 +44,6 @@ Credits
 • Thanks To @LQmanHkeem for server
 • Thanks to @AdAmsPrOStuDiO && @The_ripper_hybrid as tester
 
-|======| Older Changelog |======|
 
 Date 15/09/2022
 
