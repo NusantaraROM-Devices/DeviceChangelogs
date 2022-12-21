@@ -1,9 +1,12 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
-Date : 24/10/2022
+Date : 21/12/2022
 
 Device Changelogs :
-• Initial Android 13.0 Builds  
+• Disable ULL mode
+• Move to init to task_profiles
+• Update Adreno blobs from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+• Update MIUI Blobs from V13.0.4.0.SJUIDXM
 
 Notes:
 • Enforcing Build
