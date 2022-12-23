@@ -1,5 +1,25 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 23/12/2022 | Tarumanagara 5.3 ------
+
+Device Changelogs :
+• Reconfigure Overlay
+• Build graphic IAllocator
+• Add missing systemui permissions 
+• Upstream kernel
+
+Notes:
+• 13.0.9 EEA firmware recommended
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• Orangefox recovery recommended
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/raijin_thunderkex
+
 ------ Date : 13/10/2022 | Tidore 5.1 ------
 
 Device Changelogs :
