@@ -1,18 +1,21 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 27/11/2022 | 5.2 Toba
+Date : 31/12/2022 | 5.3 Tarumanagara
 
 • Device Changelogs :
-• Initial Android 13 Build
+• Initial 4.19 Build
+• Aperture as main cam
+• Based on @pranshoe trees
 • CTS Pass by default
 • Encryption disabled
+• Fixed Camera Freeze
+• Fixed Pixel Offline Charging
 • Gapps / Vanilla Available
+• NothingDot as full family
 • QTI-Haptic Build
 • SELinux Enforcing
-• Build dummy android.hidl.base@1.0.so
-• Update Graphics (SDM) from LA.UM.8.2.r1-07500-sdm660.0
-• Uses GcamGo instead Aperture (Temp)
-• Uses Redfin November 2022 fingerprint
+• Switch to AutoSingleLayer for unsignaled buffer
+• Uses Raven December 2022 fingerprint
 
 • Notes :
 • Always format data first if comes from older android version or any encrypted/dynamic partition roms
@@ -23,10 +26,8 @@ Date : 27/11/2022 | 5.2 Toba
 • ROM comes with AIDL qti vibrator (LED based vibrator), so if you want to use custom kernel, then you'll need to use kernel with qti haptics driver or you'll not get any vibration. 
 Ask the kernel developer if their kernel is support qti haptics driver if you want to use this rom with vibration.
 
-Credit :
-• Sakil (https://t.me/SakilMondal) for trees
-• Yuki (https://t.me/Yuu_ak15) for kernel
-• Rafi (https://t.me/Suzurui) for his help
-• Fauzi (https://t.me/Fauziuzi) for testing 1st-3rd build
+Thanks to :
+• @pranshoe @Rsyd1997 @Yuu_ak15 for helping
+• @account_limited @sssira @arsenaldds for testing
 
 |=============================================|
