@@ -14,7 +14,6 @@ Date : 31/12/2022 | 5.3 Tarumanagara
 • NothingDot as full family
 • QTI-Haptic Build
 • SELinux Enforcing
-• Switch to AutoSingleLayer for unsignaled buffer
 • Uses Raven December 2022 fingerprint
 
 • Notes :
