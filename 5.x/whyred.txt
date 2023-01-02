@@ -18,7 +18,6 @@ Date : 31/12/2022 | 5.3 Tarumanagara
 
 • Notes :
 • Always format data first if comes from older android version or any encrypted/dynamic partition roms
-• Camera may lag randomly on Camera1 API apps (WhatsApp, Telegram, etc.)
 • For root, use Magisk Alpha 25.1+
 • If the phone bootloop even after formatting data, change the /data partition to f2fs
 • Old cam build
