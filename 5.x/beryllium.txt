@@ -1,5 +1,31 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 02/01/2023 | Tarumanagara 5.3 ------
+
+Changelogs:
+• Synced latest source changes
+• Use IR Cam for Face Unlock
+• Update carrier config overlay
+• Update gps blobs
+• Switched to libperfmgr
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY (Use v3.7.0-A12)
+• GApps & Vanilla Build
+• SELinux Enforcing
+• Encrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 27/11/2022 | Toba 5.2 ------
 
 Changelogs :
