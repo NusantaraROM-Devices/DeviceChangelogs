@@ -1,6 +1,6 @@
 |==========| Redmi Note 5 / whyred |==========|
 
-Date : 31/12/2022 | 5.3 Tarumanagara
+Date : 02/01/2023 | 5.3 Tarumanagara | HOTFIX
 
 • Device Changelogs :
 • Initial 4.19 Build
@@ -13,6 +13,7 @@ Date : 31/12/2022 | 5.3 Tarumanagara
 • Gapps / Vanilla Available
 • NothingDot as full family
 • QTI-Haptic Build
+• Revert Vulkan blobs as its crashing several apps
 • SELinux Enforcing
 • Uses Raven December 2022 fingerprint
 
