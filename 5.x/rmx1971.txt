@@ -1,5 +1,32 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 04/01/2023
+
+Android : 13
+
+Device Changelogs :
+• FBE enabled
+• Use kernel kharame5pro 4.9.336 
+• Change to dt base by @kssrao13882
+
+Bug ?
+• Green screen while playing some video on ig
+• CTS false by default
+• Tell me, proper the logcat
+
+Note
+• Gapps 
+
+Credits 
+• Thanks To @Bablus for base trees
+• Thanks To @kssrao13882 for a13 working trees
+• Thanks To @LQmanHkeem for server
+• Thanks To @MysterBeen for test
+• thanks to all member realme developer group
+
+
+|==========| Old ChangeLog |==========|
+
 Date 26/09/2022
 
 Android : 13
