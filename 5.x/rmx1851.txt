@@ -1,5 +1,19 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+/============ 5.4 Trisakti ============\
+
+Date : 13/01/2023
+
+Changelog :
+
+- Synced to latest source
+
+Notes :
+• SELinux Enforcing
+• CTS passed by default
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is a must
 
 /============ 5.3 Tarumanegara ============\
 
@@ -11,13 +25,6 @@ Changelog :
 - Fixed instagram reels
 - Add touch improvements sysprops
 - Enable suspend to RAM
-
-Notes :
-• SELinux Enforcing
-• CTS passed by default
-• Vendor included
-• NikGapps recommended for vanilla builds
-• Clean flash is a must
 
 /============ 5.2 Toba ============\
 
