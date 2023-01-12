@@ -1,5 +1,39 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 12/01/2023
+Changelogs :
+• Synced with latest source 5.4 [Trisakti]
+• Android January 2023 Security update
+• Added Dolby Atmos
+• Added fast charging support for ln8000 charger
+• Configure aux camera for Aperture
+• Drop Sweet Parts
+• Drop Smooth Display
+• Configure additional camera framerates
+• Expose aux cams to Aperture
+• Retuned zram memory configuration
+• Switch to clang 16.0.0 Playground
+• SigmaKernel Upstreamed kernel to v4.14.302 stable release
+• Some misc improvements and Various performance optimizations
+
+Notes :
+• Clean Flash BEST :P !!!
+• GApps Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• TWRP KewL Recommended
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks BMW Team
+• Thanks @neobuddy89 for all stuff
+• Thanks @Pulkit077 for KewL TWRP
+• Thanks @PixelOS for Clang
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 01/12/2022
 Changelogs :
 • Version v5.2 Toba
