@@ -1,11 +1,34 @@
-|==========| MIA1 / Tissot |==========|
+||==========| MIA1 / Tissot |==========|
 
-Date : 14/09/2022
+Date : 11/01/2023
 
 * Device Changelogs :
-• Initial Android 13 Build
+• Sync Last Source
+• Upstreamed Kernel to 4.9.337
+• Import XiaomiParts for A13, Feature : Dirac, Sound Control, Torch, Doze, Vibrate Control
+• XiaomiParts : Add Clear Speaker, Thanks to @HaKaNHZL
+• parts: Fix compilation for QPR1 merge
+• Revert "msm8953-common: Switch to SkiaGL threaded"
+• Revert "msm8953-common: Remove CLANG compile flag"
+• QCamera2: mm-jpeg-interface: exif: supply full AE data in exif
+• QCamera2: Update jpeg exif flash mode data properly
+• Ditch persist.rild.nitz_* props
+• remove DEVICE_PROVISIONED
+• Disable Async MTE on System Server
+• Disable Skia tracing by default
+• set NUM_FRAMEBUFFER_SURFACE_BUFFERS
+• obsolete debug.sf.disable_backpressure property
+• drop debug.hwui.use_buffer_age
+• rootdir: Stop bootanimation service after boot
+• Some misc improvements
+• CTS passed by default
 
-|==========| MIA1 / Tissot |==========|
+* Credits:
+• Thanks to @AriefMuttaqin @MAVERICK14055 for test this rom
+• Thanks to @ItsMeKakashii for Cakeby Kernel
+• Thanks to @Yincen Which Has Helped Me a Lot
+
+==========| MIA1 / Tissot |==========|
 
 Date : 10/10/2022
 
@@ -23,3 +46,10 @@ Date : 10/10/2022
 • Thanks to @Yincen Which Has Helped Me a Lot
 • Thanks to @MetoIsTaken for Helped
 • Thanks to @S4SPRAY @m_s_syarif29 for Support
+
+|==========| MIA1 / Tissot |==========|
+
+Date : 14/09/2022
+
+* Device Changelogs :
+• Initial Android 13 Build
