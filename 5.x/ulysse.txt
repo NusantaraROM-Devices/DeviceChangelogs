@@ -1,0 +1,18 @@
+|==========| Redmi Note 5A Lite/Prime (Ulysse) |==========|
+ 
+Date : 12/01/2023
+
+Changelogs :
+* Initial Android 13 Build
+* Upstream kernel to 4.9.337
+* Rebased with latest MI-Thorium tree, thanks to @me-cafebabe
+* Updated Graphics stack to LA.UM.9.6.3.r1-06200-89xx.0
+* Update GNSS stack to 4.1
+* Switch BtAudio to AIDL 
+* Migrate to AIDL ClearKey DRM HAL 
+
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+* Use Mi8937 latest for recovery, OrangeFOX or TWRP 
