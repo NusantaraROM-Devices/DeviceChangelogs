@@ -1,5 +1,26 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 14/01/2023 | Trisakti 5.4 ------
+
+Device Changelogs :
+• Bring back dolby
+• Update CarrierConfig
+• parts: Fix app mode layout height for Android 13
+• Props: Disable QCRIL power saving
+• Address much denials
+
+Notes:
+• 13.0.9 EEA firmware recommended
+• Basic / core Gapps recommended
+• Clean flash is recommended
+• Orangefox recovery recommended
+
+Bugs:
+• You tell me with proper logs
+
+Thanks To:
+• https://t.me/raijin_thunderkex
+
 ------ Date : 23/12/2022 | Tarumanagara 5.3 ------
 
 Device Changelogs :
