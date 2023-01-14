@@ -1,5 +1,19 @@
 |==========| Redmi 10C / Fog |==========|
 
+Date : 14/01/2023
+
+Device Changelog:
+• Sync with latest source
+• Up to date January Secpatch
+• Fix Zoom video meetings
+• Minor fix changes
+
+Thanks To :
+• @jabiyeff21, @CHRISL7 for Zoom
+• @panglimalangit7 for best test
+
+|===================================|
+
 Date : 12/10/2022
 
 Device Changelog
