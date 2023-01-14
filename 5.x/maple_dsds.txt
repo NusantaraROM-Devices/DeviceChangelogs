@@ -1,5 +1,25 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 14/01/2023
+
+* Device Changelogs :
+• Kernel security updates
+• Dropped keyprovd service
+• Show 4G instead of LTE icon
+• Fix some selinux denials
+• Fixup ViLTE dependencies - this might in theory work again, but it's not enabled yet
+• Fixed green screen while playing some video
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Clean flash!!
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 18/12/2022
 
 * Device Changelogs :
