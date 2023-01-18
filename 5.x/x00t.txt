@@ -1,5 +1,31 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 18/01/2023
+
+Device Changelogs :
+• Updated FP to cheetah January
+• Enabled FUSE passthrough by default
+• Disabled sdm rotator downscaler
+• Disabled ZSL mode
+• Disabled QTI perf lock usage in camera HAL
+• Enabled vendor.perf.gestureflingboost
+• Changed CDS mode to OFF by default
+• Enabled vsync and Disabled backpressure
+• Used threaded GLES render engine
+• Used 2GB dalvik-heap configs
+• Disabled blur on app launch
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE, 4.4 kernel Based
+• GApps are included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 18/12/2022
 
 Device Changelogs :
