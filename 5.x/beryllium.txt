@@ -1,5 +1,28 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 24/01/2023 | Trisakti 5.4 ------
+
+Changelogs:
+• Synced latest source changes
+• Switched to AOSP WFD
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY (Use v3.7.0-A12)
+• GApps & Vanilla Build
+• SELinux Enforcing
+• Encrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 02/01/2023 | Tarumanagara 5.3 ------
 
 Changelogs:
