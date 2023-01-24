@@ -1,0 +1,21 @@
+|==========| Redmi Note 7 / Lavender |==========|
+
+Date : 24/01/2023
+
+* Device Changelogs :
+• Synced with latest source 5.4 [Trisakti]
+• Fix Extra dim
+• Fix Night light
+• Fix Night display
+• Fix Camera crash
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Clean flash!!
+
+* Thanks to :
+• @OmarAlCoptan
+
+|===============================|
+
