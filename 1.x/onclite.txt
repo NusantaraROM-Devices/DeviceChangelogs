@@ -1,5 +1,29 @@
 |==========| Redmi 7 / Onclite |==========|
 
+Date : 21/01/2023
+
+• Device Changelogs:
+
+• Enable VoLTE support for Three , XL Axiata , Indosat and Telkomsel
+• Hide Magisk Better
+• Add Smartcharging address & sepolicy
+• Add overlay Battery Health
+• Enable USB Fast charger by default
+• Enhance charging speed
+• And more
+
+Notes:
+
+• Clean Flash mandatory
+• Vanilla release
+• Recomennded to use NikGapps core/basic
+
+
+
+
+
+|==========| Redmi 7 / Onclite |==========|
+
 Date : 16/06/2021
 
 • Device Changelogs:
