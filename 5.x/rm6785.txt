@@ -1,5 +1,33 @@
 |==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
 
+Date : 29/01/2023 | 5.4 TRISAKTI
+
+Device Changelogs :
+• January 2023 ASB
+• Fixed video playback crash
+• Switched to pixel power-libperfmgr HAL
+• Build Aperture Cam + Enabled AUX
+• Fixed buzzed brightness slider
+• Upstreamed kernel to 4.14.304
+• Pixel offline charging by default
+• Import some wifi configs from rUI-1
+• Import diract audio effects configs
+• Fix display animation while AOD
+• Fix can't connect wifi with 5ghz
+
+Known Bug :
+• Native video calling (ViLTE)
+• Voice over WiFi (VoWiFi)
+
+Notes :
+• Clean Flash recommended!
+• Only GApps Build!
+
+Credit :
+• Thanks to all realme-mt6785-devs
+
+|==========| Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G / RM6785 |==========|
+
 Date : 10/10/2022 | 5.1 TIDORE
 
 Device Changelogs :
