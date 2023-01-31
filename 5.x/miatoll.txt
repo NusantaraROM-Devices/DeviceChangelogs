@@ -1,5 +1,11 @@
 |==========| Redmi Note 9 (Miatoll) |==========|
 
+Date : 31/01/2023
+
+* Device Changelogs :
+• Synced with latest source 5.4 [Trisakti]
+• Fixed charging offline
+
 Date : 18/12/2022
 
 * Device Changelogs :
