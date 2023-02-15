@@ -1,5 +1,30 @@
 |==========| Xperia XZ Premium Dual (G8142) / maple_dsds |==========|
 
+Date : 15/02/2023
+
+* Device Changelogs :
+• Synced with latest source v5.5 [Tarakan]
+• Upstreamed kernel to Linux 4.4-st37
+• OpenCS: Fix notification intent
+• Fix usb issues on previous build [v5.4]
+• Switch to basic USB hal
+• Added USB accessory triggers
+• Added power off alarm
+• Configure correct overlay configuration
+• support LOW_POWER unconditionally
+• Disable WPA2 -> WPA3 upgrade
+• Battery life Improvement
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Clean flash!!
+
+* Thanks to :
+• @derfelot, @whatawurst for trees
+
+|===============================|
+
 Date : 14/01/2023
 
 * Device Changelogs :
