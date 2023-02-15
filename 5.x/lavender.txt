@@ -1,5 +1,26 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 15/02/2023
+
+* Device Changelogs :
+• Synced with latest source 5.5 [Tarakan]
+• switch kernel to NusantaraProject
+• Fix camera freeze (need feedback) [thanks @ImSpiDy & @idkwhoiam322]
+• Merge upstream kernel to linux v4.4-st20
+• kernel security update
+• Update WireGuard to v1.0.20220627
+• Battery life Improvement
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Clean flash is recommended
+
+* Thanks to :
+• @AllTester
+
+|===============================|
+
 Date : 24/01/2023
 
 * Device Changelogs :
