@@ -1,12 +1,14 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
-/============ 5.4 Trisakti ============\
+/============ 5.5 Tarakan ============\
 
-Date : 13/01/2023
+Date : 15/02/2023
 
 Changelog :
 
-- Synced to latest source
+- Switch HWUI rendering backend to opengl
+- Enable display protected contents in Surfaceflinger
+- Enable Offload WM Shell to improve performance when the main System UI thread is busy
 
 Notes :
 • SELinux Enforcing
@@ -14,6 +16,14 @@ Notes :
 • Vendor included
 • NikGapps recommended for vanilla builds
 • Clean flash is a must
+
+/============ 5.4 Trisakti ============\
+
+Date : 13/01/2023
+
+Changelog :
+
+- Synced to latest source
 
 /============ 5.3 Tarumanegara ============\
 
