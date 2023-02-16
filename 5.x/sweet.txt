@@ -1,5 +1,39 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 15/02/2023
+Changelogs :
+• Synced with latest source 5.5 [Tarakan]
+• Android February 2023 Security update
+• Added missing QCOM audio effect libraries
+• Added parts clear speaker in sound
+• Added FMRadio , Stk , GoogleTTS , talback , AndroidAutoStub , Wellbeing
+• Enable QR scanner shortcut in lock screen
+• Updated blobs from V13.0.16.0.SKFMIXM
+• Updated config for various carriers
+• Updated latest camera aperture
+• Switch to clang 16.0.2 for kernel compile
+• Smoother UI experience
+• SigmaKernel Upstreamed kernel to v4.14.305 stable release
+• Some misc improvements and Various performance optimizations
+
+Notes :
+• Dirty ok & Clean Flash BEST :P !!!
+• GApps & Vanilla Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• TWRP KewL or 3.7.0
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks BMW Team
+• Thanks @neobuddy89 for all stuff
+• Thanks @Pulkit077 for KewL TWRP
+• Thanks @rons1892 for testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 12/01/2023
 Changelogs :
 • Synced with latest source 5.4 [Trisakti]
