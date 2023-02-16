@@ -1,5 +1,31 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 16/02/2023
+
+Device Changelogs :
+• Updated FP to cheetah February
+• Added some Android GO configurations
+• Enabled GL comp backpressure
+• Added props to make UI smoother
+• Removed unused tcp property change actions
+• Overlay: Allowed more cached apps in the background
+• Overlay: Compact cached app heaps in the background
+• Specified LLVM Tools support
+• Disabled Async MTE on System Server
+• Disabled zram writeback
+• Disabled the usage of ConfigStore
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE, 4.4 kernel Based
+• GApps are included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 18/01/2023
 
 Device Changelogs :
