@@ -1,0 +1,12 @@
+|==========| Redmi K20 Pro / Mi 9T Pro / Raphael |==========|
+
+Date : 17/02/2023
+
+Device Changelogs :
+• Initial Official Build
+
+Notes:
+• Enforcing Build
+• User Build
+• GApps & Vanilla Available
+• SafetyNet passes out of the box
