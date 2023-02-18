@@ -1,4 +1,21 @@
 |==========| Redmi Note 5A Lite/Prime (Ulysse) |==========|
+
+Date : 18/02/2023
+
+Changelogs :
+* Upstream kernel to 4.9.337
+* Use pixel charging animation 
+* init: Register and enable qcrild & data services on boot
+* Disable Chimera.GmsIntentOperationService 
+* Switch to threaded Skia render engine backend 
+* overlay: Speed up animations
+* wifi: Configure correct overlay configuration.
+
+Notes :
+• SELinux Enforcing
+• NikGapps recommended
+• Clean flash is necessary
+* Use Mi8937 latest for recovery, OrangeFOX or TWRP
  
 Date : 12/01/2023
 
