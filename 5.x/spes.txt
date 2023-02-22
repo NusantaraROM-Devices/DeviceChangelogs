@@ -1,5 +1,29 @@
 |==========| Redmi Note 11 / spes |==========|
 
+Date : 22/02/2023
+
+Device Changelog : 
+- Sync with latest source
+- Update to February security patch
+- Prebuilt kernel from SPESGlobal V13.0.2.0-A12
+- Added Moto Dolby
+- Import XiaomiParts from Xiaomi sdm845-common 
+- Disable Refrest Rate Settings move to Smooth Display
+- Tune memory management using properties
+- Add props to improve battery backup 
+- Enable QR scanner shortcut in lock screen
+- Enable VoLTE and VoWIFI for all
+
+Notes :
+- Use TWRP 3.6.2
+
+Thanks to:
+- @dblenk9 and @jabiyeff21 for Resources
+- @dblenk9 for support 
+- Nusantara Project Team
+
+|==========| Redmi Note 11 / spes |==========|
+
 Date : 13/01/2023
 
 Device Changelog:
