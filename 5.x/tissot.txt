@@ -1,4 +1,20 @@
-||==========| MIA1 / Tissot |==========|
+|==========| MIA1 / Tissot |==========|
+
+Date : 25/02/2023
+
+• Sync Last Source
+• Changes for APEX
+• Enable PSI
+• Bump target level to 3
+• Drop renderscript bits
+• overlay: switch SystemUI to SystemUIGoogle
+• init: Register and enable qcrild & data services on boot
+• rootdir: Drop cpuset creation from postboot
+• sepolicy: Address dataservice denials
+• update datastatusnotification from coral [1/2]
+• CarrierConfig: Enable voLTE/voWIFI/ViLTE for entire 460 mcc
+
+|==========| MIA1 / Tissot |==========|
 
 Date : 11/01/2023
 
@@ -28,7 +44,7 @@ Date : 11/01/2023
 • Thanks to @ItsMeKakashii for Cakeby Kernel
 • Thanks to @Yincen Which Has Helped Me a Lot
 
-==========| MIA1 / Tissot |==========|
+|==========| MIA1 / Tissot |==========|
 
 Date : 10/10/2022
 
