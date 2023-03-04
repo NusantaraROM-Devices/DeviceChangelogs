@@ -1,0 +1,9 @@
+|==========| Realme 2 Pro  (RMX1801)|==========|
+
+Date : 03/03/2023
+
+Changelog:
+• Initial Build.
+
+Known Issue:
+• Auto Brightness (In favor of deep sleep).
