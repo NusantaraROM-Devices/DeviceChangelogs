@@ -1,5 +1,28 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 30/03/2023
+
+* Device Changelogs :
+• Synced with latest source 5.6 [Tumpeng]
+• Completely rebase kernel
+• Reduce TASchedtuneBoost duration
+• Remove aptX(HD) encoder shared libs
+• Set Natural as default color mode
+• Disable vsync for CPU rendered Apps
+• Enable pre-rendering
+• Enable zygote critical window
+• Enable suspend to RAM
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Dirty Flash possible but Clean flash is recommended
+
+* Thanks to :
+• @AllTester
+
+|===============================|
+
 Date : 15/02/2023
 
 * Device Changelogs :
