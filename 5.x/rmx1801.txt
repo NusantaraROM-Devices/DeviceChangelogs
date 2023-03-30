@@ -1,4 +1,21 @@
-|==========| Realme 2 Pro  (RMX1801)|==========|
+|==========| Realme 2 Pro (RMX1801) |==========|
+
+Date: 29/03/2023
+
+Device Changelogs:
+• Synced with latest source 5.6 [Tumpeng]
+• Some misc improvements and fixes
+
+Known Issue:
+• Auto Brightness (In favor of deep sleep).
+
+Notes:
+• Dirty Flash possible but clean flash is recommended
+
+Thanks to:
+• All Devs and tester
+
+|===============================|
 
 Date : 03/03/2023
 
