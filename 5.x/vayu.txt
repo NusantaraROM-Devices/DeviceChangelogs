@@ -1,12 +1,13 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
-Date : 21/12/2022
+Date : 30/03/2023
 
 Device Changelogs :
-• Disable ULL mode
-• Move to init to task_profiles
-• Update Adreno blobs from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
-• Update MIUI Blobs from V13.0.4.0.SJUIDXM
+• Update Blobs from MIUI V13.0.5.0.SJUIDXM
+• Many more underhood changes
+
+Credit:
+• Big Thanks to @GodRae for testing.
 
 Notes:
 • Enforcing Build
