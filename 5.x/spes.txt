@@ -1,4 +1,25 @@
 |==========| Redmi Note 11 / spes |==========|
+Date : 31/03/2023
+
+Device Changelog : 
+- Sync with latest source
+- Update to March security patch QPR2
+- Now source with sm6225-common
+- Update blobs to V13.0.8.0.SGCMIXM
+- Downgrade prebuilt kernel and modules from SPESGlobal V13.0.16.0-A11
+- Dropped Dolby Atmos
+- Clean up useless log spams
+- Increase 5 GHz network signal tolerance
+- Update rounded corners for T
+- Add NotchBar Killer overlay
+- Enable Volte for Indonesian Sim (Telkomsel, indosat, XL Three. Smartfren)
+- Switch to AVC 3.1 for screen recording
+
+Thanks to :
+- Nusantara Project Team
+- @dblenk9 and @fiqri_ardyansyah for helping
+
+|==========| Redmi Note 11 / spes |==========|
 
 Date : 22/02/2023
 
