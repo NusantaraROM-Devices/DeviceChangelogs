@@ -1,7 +1,16 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 30/03/2023
+
+* Device Changelogs :
+• Synced with latest source 5.6 [Tumpeng]
+• Some misc improvements and fixes
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 25/02/2023
 
+* Device Changelogs :
 • Sync Last Source
 • Changes for APEX
 • Enable PSI
