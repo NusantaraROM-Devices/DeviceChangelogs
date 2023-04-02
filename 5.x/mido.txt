@@ -1,0 +1,24 @@
+|==========| Xiaomi Redmi Note 4x / Mido |==========|
+
+Date: 03/04/2023
+
+Device Changelogs: 
+• Decrypted Builds
+• Using 4.9 Kernel
+• March Security Patch 
+• Initial Android 13 Builds (QPR2)
+
+Credit:
+• Thanks to @Nicklas373 for kernel
+• Thanks to @kamikaonashi & @Vastrolorde for helping.
+• Thanks to @zymboe, @ark_kaizer, @aghiltri, @ManisHNMadhaV & @Xrsheueh for testing.
+
+Known Bugs:
+• NavigationBar Light not working. 
+• More ? u tell me.
+
+Notes:
+• Enforcing Build.
+• Clean flash is mandatory.
+• SafetyNet should be passed.
+• Use normal TWRP/OrangeFox Official Recovery.
