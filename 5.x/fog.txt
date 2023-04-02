@@ -1,5 +1,24 @@
 |==========| Redmi 10C / Fog |==========|
 
+Date : 01/04/2023
+
+Device Changelog:
+• Sync with latest source
+• Up to date March Secpatch
+• Fix audio balance
+• Fix mic issue
+• Minor fix changes
+
+Issue:
+• MTP still on Dev Options
+• Wi-Fi dead after reboot
+
+Thanks To :
+• To all my tester
+• @agathasenpai7 for support
+
+|===================================|
+
 Date : 14/01/2023
 
 Device Changelog:
