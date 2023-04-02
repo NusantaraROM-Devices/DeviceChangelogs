@@ -1,21 +1,24 @@
 |==========| Redmi 7A/8/8A/8A Dual (mi439)|==========|
 
-Date : 04/12/2022 | 5.2 Toba
+Date : 02/04/2023 | 5.6 Tumpeng
 
 Device Changelogs :
-• Synced with November patch
+• March Security Patch
+• Import system Perf blobs from LA.QSSI.13.0.r1-05300-qssi.0
+• Use prebuilt vendor.qti.hardware.perf*.so from LA.UM.9.6.3.r1-06200-89xx.0
+• Improve stability
 
 Known Issue :
+• WiFi QR Scanner
 • You tell me
 
 Notes :
-• Vanilla build
+• Vanilla and GApps build available
 • Retrofit Dynamic Partitions
 • Clean flash is mandatory
 • SELinux mode is Enforcing
 • Needs 64bit recovery to flash
 • Mi439 = olives + pine
 
-Credit :
+Credits :
 • 0xCAFEBABE
-• support@nitijana.my.id
