@@ -1,5 +1,32 @@
 |==========| Realme 5 Pro/ RMX1971 |==========|
 
+Date 04/04/2023
+
+Android : 13
+
+Device Changelogs :
+• update latest blobs
+• Enable Qr scanner shortcut on ls
+• use Dolby instead kharame dirac
+• Better ram management 
+• System Improvement 
+
+Bug ?
+• CTS true by default
+• Tell me, proper the logcat
+
+Note
+• Gapps 
+
+Credits 
+• Thanks To @Bablus for base trees
+• Thanks To @kssrao13882 for a13 working trees
+• Thanks To @LQmanHkeem for server
+• thanks to all member realme developer group
+
+
+|==========| Old ChangeLog |==========|
+
 Date 17/02/2023
 
 Android : 13
@@ -21,8 +48,6 @@ Credits
 • Thanks To @LQmanHkeem for server
 • thanks to all member realme developer group
 
-
-|==========| Old ChangeLog |==========|
 
 Date 13/01/2023
 
