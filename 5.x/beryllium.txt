@@ -1,5 +1,29 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 03/04/2023 | Tumpeng 5.6 ------
+
+Changelogs:
+• Synced latest source changes
+• Remove aptX(HD) encoder shared libs
+• Switch to WeebX Clang 17
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY (Use v3.7.0-A12)
+• GApps Build
+• SELinux Enforcing
+• Encrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 22/02/2023 | Tarakan 5.5 ------
 
 Changelogs:
@@ -60,7 +84,7 @@ Changelogs:
 
 Notes:
 • Latest System-Ext TWRP by Reignz is MANDATORY (Use v3.7.0-A12)
-• GApps & Vanilla Build
+• GApps Build
 • SELinux Enforcing
 • Encrypted by default
 • Safetynet pass out of the box
