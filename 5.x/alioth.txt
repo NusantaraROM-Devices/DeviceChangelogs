@@ -1,5 +1,25 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 05/04/2023 | Tumpeng 5.6 ------
+
+Device Changelogs :
+• Update blobs from MIUI 14.0.7.0 SKHEUXM
+• Checkout audio configs from MIUI 14.0.7.0
+• Import QTI Vibrator Effects
+• Improve haptic and vibrate pattern
+• Update rounded corner adjustment
+• Upstream kernel to 4.19.279
+
+Notes :
+• MIUI 14.x.x.x firmware required
+• GApps & Vanilla  available
+• Basic / Core GApps recommended
+• Clean flash recommended
+• OrangeFox recovery recommended
+
+Bugs
+• Tell me with proper logss
+
 ------ Date : 14/01/2023 | Trisakti 5.4 ------
 
 Device Changelogs :
