@@ -1,5 +1,37 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 05/04/2023
+Changelogs :
+• Synced with latest source 5.6 [Tumpeng][QPR2]
+• Android March 2023 Security update
+• Added MIUICamera (4.5.002350.2)
+• Clang Playground 17
+• VantomKernel Upstreamed kernel to v4.14.311 stable release
+• Some misc improvements and Various performance optimizations
+
+Notes :
+• Rebase all stuff
+• Clean Flash MANDATORY !!!
+• MIUI 14.x firmware required
+• GApps Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• Recovery OFOX
+• Non EROFS
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks BMW Team
+• Thanks @Aryannn999 & @ArianK16a for all stuff
+• Thanks @Aryannn999 @Vantom for recovery OFOX
+• Thanks @Vantom for Kernel
+• Thanks @Djampt @oghe3003 @Aryannn999 @zaidkhan0997 for helping
+• Thanks BMWteam for Testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 15/02/2023
 Changelogs :
 • Synced with latest source 5.5 [Tarakan]
