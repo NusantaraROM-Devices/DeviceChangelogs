@@ -1,0 +1,25 @@
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
+Date : 06/04/2023
+Changelogs :
+• Synced with latest source v5.6 Tumpeng
+• Android March 2023 Security update
+• Initial Android 13 Builds (QPR2)
+• Clang Playground 17
+• VantomKernel Upstreamed kernel to v4.14.311 stable release
+
+Notes :
+• GApps Build
+• SafetyNet Passed By Default
+• SELinux Enforcing
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev MI 11 Lite (Courbet)
+• Thanks BMW Team
+• Thanks @yghernan & @ArianK16a for all stuff
+• Thanks @Aryannn999 @Vantom for Clang & OFOX
+• Thanks @Vantom for Kernel
+• Thanks @yghernan for helping
+• Thanks @Adityaruggery for Testing
