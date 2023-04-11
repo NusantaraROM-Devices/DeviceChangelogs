@@ -1,0 +1,20 @@
+|==========| Redmi 9C (Angelica) |==========|
+
+Date: 10/09/2023
+
+
+* Device Changelogs:
+• Initial Official Build
+• Initial Android 13 Build
+• Remove Encryptable flag from /fstab
+• Bring back MTK IMS
+• Audio: set voice call volume steps to 15
+• Adjust Statusbar height and padding
+• Build libhwbinder library
+
+* Notes:
+• Use Q Vendor
+• You can ignore android.mtk.imsApp error (or you can uninstall it)
+• For landscape oos status bar style flash this https://t.me/Redmi9ADocument/160 
+• SELinux Enforcing
+• if u find any bug report to @Krxyzn0
