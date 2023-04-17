@@ -1,16 +1,23 @@
-|==========| Poco F4 5G / Munch |==========|
+|==========| POCO F4 5G / Munch |==========|
 
-Date : 17/11/2022 Changelogs :
-• Adjust perfect pading
-• Added performance init
-• etc
+Date: 19/04/2023 
 
-Notes :
-• Clean flash recomended
-• Build vanilla
-• Selinux Enforcing
+Changelogs:
+• Initial Official Build, Based on Arrow DeviceTree
+• Shipped with Morph Kernel by @whothefvckareyou for now
+• Added Per-app Refresh rate's 
+• Update and Tune up powerhint with some optimizations
+• Update Adreno to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+• Improved system performance
+• Some more underhood changes
 
-Credits : 
-• All dev sm8250 and poco f4
-• thanks to @madmax7896 @utsavthecunt @johnmart19
-• thanks my tester
+Credits:
+• Thanks to all SM8250 and Poco F4 Developer's.
+• Thanks to @madmax7896, @utsavthecunt, @johnmart19 etc.
+• Thanks to @Ludoziel01 & @sexsordied for testing.
+
+Notes:
+• Enforcing Build
+• GApps Already Included
+• Clean flash is mandatory
+• SafetyNet passes without root
