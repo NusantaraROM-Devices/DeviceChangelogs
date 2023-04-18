@@ -1,5 +1,14 @@
 |==========| Redmi Note 9 (Miatoll) |==========|
 
+
+Date : 19/04/2023
+
+* Device Changelogs :
+• Fixed Fingerprint fpc
+• Enable ro.hwui.render_ahead and set it to 20 frames
+• Unsignaled buffer latch property to Android 13
+• Some misc improvements and fixes
+
 Date : 31/01/2023
 
 * Device Changelogs :
@@ -17,10 +26,6 @@ Date : 18/12/2022
 
 Notes :
 • FBE V2
-
-|===============================|
-
-|==========| Redmi Note 9 (Miatoll) |==========|
 
 Date : 11/10/2022
 * Device Changelogs :
