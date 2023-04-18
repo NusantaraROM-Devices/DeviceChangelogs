@@ -1,5 +1,22 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 18/04/2023 | Tapanuli 5.7 ------
+
+Device Changelogs :
+• Sync with latest source
+• Update and Tune up powerhint with some optimizations
+• Improved system performance
+• Some more underhood changes
+
+Notes :
+• MIUI 14.x.x.x firmware required
+• Only GApps build
+• Clean flash recommended
+• OrangeFox recovery recommended
+
+Bugs
+• Tell me with proper logss
+
 ------ Date : 05/04/2023 | Tumpeng 5.6 ------
 
 Device Changelogs :
