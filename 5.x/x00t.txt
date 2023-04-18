@@ -1,5 +1,35 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 18/04/2023
+
+Device Changelogs :
+• Updated FP to cheetah April
+• Enabled aptX(HD) offload
+• Enabled ro.hwui.render_ahead
+• Audio: Boosted headset volume
+• Enabled AOSP bluetooth audio HAL v2
+• Audio: reroute speaker dmic to handset mic
+• Audio: Removed hw_acc form audio effects
+• Enabled perf hint window
+• Updated multiple vibration intensity levels
+• Disabled zram writeback
+• Disabled hwc vds in surface flinger
+• Enabled Seamless Transfer support
+• Removed max ZRAM compression streams setting
+• Updated Display and Adreno Blobs 
+• Dropped renderscript pin 
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE, 4.4 kernel Based
+• GApps are included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 16/02/2023
 
 Device Changelogs :
