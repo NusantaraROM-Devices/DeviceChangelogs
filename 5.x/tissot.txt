@@ -1,5 +1,13 @@
 |==========| MIA1 / Tissot |==========|
 
+Date : 18/04/2023
+
+* Device Changelogs :
+• Synced with latest source 5.7 [Tapanuli]
+• Some misc improvements and fixes
+
+|==========| MIA1 / Tissot |==========|
+
 Date : 30/03/2023
 
 * Device Changelogs :
