@@ -1,5 +1,29 @@
 |==========| Redmi 10C / Fog |==========|
 
+Date : 19/04/2023
+
+Device Changelog:
+• Sync with latest source
+• Up to date April Secpatch
+• Fix wifi driver load after reboot
+• Update CarrierConfig to LA.QSSI.13.0.r1-07400-qssi.0
+• Enable back NFC with hwname SKUs
+• Add TetheringConfigOverlays
+•Few checkout media configs from LA.UM.9.15.r1-06800-KAMORTA.QSSI13.0
+• Re-implement OMX google raw decoder
+
+Notes:
+• GAPPS versions
+
+Issue:
+• MTP still on Dev Options
+
+Thanks To :
+• Redmi 10C Dev ID
+• To all my tester
+
+|===================================|
+
 Date : 01/04/2023
 
 Device Changelog:
