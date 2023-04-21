@@ -1,5 +1,25 @@
 |==========| Redmi Note 10  (Sunny/Mojito)|==========|
 
+Date : 20/04/2023
+
+Device Changelog:
+• Sync with latest source
+• Up to date April Secpatch
+• Add speed profile to reduce RAM
+• Update media sdmmagpie CLO
+• Minor fix changes.
+
+Notes:
+• Vanilla versions
+
+Thanks To :
+• Nusantara Project
+• Redmi 10C Dev ID
+• @fiqri_ardyansyah for kernel
+• @all my tester
+
+|===================================|
+
 Date : 29/11/2022
 
 * Device Changelogs :
