@@ -1,5 +1,38 @@
 |==========| Redmi Note 10 Pro / Sweet|==========|
 
+Date : 23/04/2023
+Changelogs :
+• Synced with latest source 5.7 [Tapanuli]
+• Android April 2023 Security update
+• Fixed offline charging
+• Fixed volte
+• Fixed few UI crashes in few instances
+• Fixed unlock higher fps in games for ultra in MLBB
+• Upstreamed kernel to v4.14.313 stable release
+• Merge tag 'LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0
+• Some misc improvements and Various performance optimizations
+
+Notes :
+• MIUI 14.x firmware (OPTIONAL)
+• GApps & Vanilla Build
+• Nikgapps , Litegapps , Mindthegapps
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• Recovery OFOX
+• Non EROFS
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev Redmi Note 10 Pro/Max (Sweet/Sweetin)
+• Thanks BMW Team
+• Thanks @Aryannn999 & @ArianK16a for all stuff
+• Thanks @Aryannn999 @Vantom for recovery OFOX
+• Thanks @Vantom & @PixelOS for Kernel & Clang
+• Thanks @Vaarah28 @allonevpn @BMWteam for Testing
+
+|==========| Redmi Note 10 Pro / Sweet|==========|
+
 Date : 05/04/2023
 Changelogs :
 • Synced with latest source 5.6 [Tumpeng][QPR2]
