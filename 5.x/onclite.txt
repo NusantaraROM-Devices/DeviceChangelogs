@@ -1,0 +1,25 @@
+|==========| Redmi 7 / Onclite |==========|
+
+------ Date : 23/04/2023 | Tapanuli 5.7 ------
+
+Device Changelogs :
+• Sync with latest source
+• Fixed Camera & GCam Freeze
+• Small changes from kernel source
+• onclite: overlay: enable VoLTE support for Indosat and XL Axiata
+• onclite: added volte support for bangladesh sm prover gp and robi
+• And More
+
+Notes :
+• Vanilla build
+• Clean flash recommended
+• OrangeFox recovery recommended
+
+Know issues :
+• If you turned on WiFi , you can reboot first to turned on Hotspot
+
+Thanks to :
+• @MrUn1corn
+• @Risawitama
+• @Hadadrjt
+• My All tester
