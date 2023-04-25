@@ -1,5 +1,30 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 25/04/2023 | Tapanuli 5.7 ------
+
+Changelogs:
+• Synced latest source changes (April 2023 Patch)
+• Enable ro.hwui.render_ahead and set it to 10 frames
+• Added Dirac QS Tile
+• Other Misc. Changes & Improvements 
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY
+• GApps & Vanilla Build
+• SELinux Enforcing
+• Encrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 03/04/2023 | Tumpeng 5.6 ------
 
 Changelogs:
