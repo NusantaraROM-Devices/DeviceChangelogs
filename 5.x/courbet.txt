@@ -1,4 +1,39 @@
-|==========| Redmi Note 10 Pro / Sweet|==========|
+|==========| Xiaomi MI 11 Lite / Courbet|==========|
+
+Date : 25/04/2023
+Changelogs :
+• Synced with latest source 5.7 [Tapanuli]
+• Android April 2023 Security update
+• Added One-handed mode
+• Added MiCamera
+• Fixed offline charging
+• Fixed volte
+• Fixed few UI crashes in few instances
+• Fixed unlock higher fps in games for ultra in MLBB
+• Upstreamed kernel to v4.14.313 stable release
+• Merge tag 'LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0
+• Some misc improvements and Various performance optimizations
+
+Notes :
+• GApps & Vanilla Build
+• Nikgapps (if you want to try other gapps just try it yourself)
+• SafetyNet Passed By Default
+• SELinux Enforcing
+• Recovery OFOX
+• Non EROFS
+
+Credits :
+• Thanks Allah SWT for everything
+• Thanks Nusantara Project Team
+• Thanks All Dev MI 11 Lite (Courbet)
+• Thanks BMW Team
+• Thanks @yghernan & @ArianK16a for all stuff
+• Thanks @Aryannn999 @Vantom for Clang & OFOX
+• Thanks @Vantom for Kernel
+• Thanks @yghernan for helping
+• Thanks @xonertt for Testing
+
+|==========| Xiaomi MI 11 Lite / Courbet|==========|
 
 Date : 06/04/2023
 Changelogs :
