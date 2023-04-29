@@ -1,0 +1,18 @@
+|==========| POCO X3 NFC / Surya |==========|
+
+Date : 29/04/2023
+
+Device Changelogs :
+• Initial Release
+
+Credit:
+• subhajeetmuhuri for Device Tree
+• TheStrechh for implement MiuiCamera
+
+Notes:
+• Enforcing Build
+• OSS Based
+• GApps Already Included
+• Clean flash is mandatory
+• SafetyNet passes out of the box
+• Recommended Latest Firmware
