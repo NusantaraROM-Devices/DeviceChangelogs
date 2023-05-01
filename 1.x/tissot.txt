@@ -3,6 +3,22 @@
 Date : 17/11/2022
 
 - End Of Life Builds (No Longer Support) 
+- Update to March 2023 Security Patch
+- Bump Pringgodani Kernel v1.8
+- Upstreamed Kernel to 4.9.337
+- Switch to Proton Clang 15
+- Add Support KernelSU
+- Add Support Wireguard
+- And Some misc improvements
+
+• Notes:- Vanilla Build
+- Use Bitgapps is Recommended 
+
+|==========| MI A1 / Tissot |==========|
+
+Date : 17/11/2022
+
+- End Of Life Builds (No Longer Support) 
 - Update to October Security Patch
 - Switch to Pringgodani Kernel v1.2
 - Upstreamed Kernel to 4.9.333
