@@ -1,6 +1,6 @@
 |==========| MI A1 / Tissot |==========|
 
-Date : 17/11/2022
+Date : 01/05/2023
 
 - End Of Life Builds (No Longer Support) 
 - Update to March 2023 Security Patch
@@ -9,6 +9,7 @@ Date : 17/11/2022
 - Switch to Proton Clang 15
 - Add Support KernelSU
 - Add Support Wireguard
+- Fix Cts Failed
 - And Some misc improvements
 
 • Notes:- Vanilla Build
