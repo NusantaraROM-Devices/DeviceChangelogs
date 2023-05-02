@@ -1,9 +1,9 @@
 |==========| MI A1 / Tissot |==========|
 
-Date : 01/05/2023
+Date : 02/05/2023
 
 - End Of Life Builds (No Longer Support) 
-- Update to March 2023 Security Patch
+- Update to April 2023 Security Patch
 - Bump Pringgodani Kernel v1.8
 - Upstreamed Kernel to 4.9.337
 - Switch to Proton Clang 15
