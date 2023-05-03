@@ -1,0 +1,19 @@
+|==========| Redmi 10 (Selene) |==========|
+
+Date: 03/05/2023
+
+
+ * Device Changelogs :
+ • Initial Official Build
+ • Initial Android 13 Build
+ • VoLTE & VoWIFI Working !
+
+ * Notes:
+ • Use R Vendor
+ • Don't flash it on MIUI 13
+ • SELinux Enforcing 
+ • if u find any bug report to @itseunbinn
+
+ * Credit :
+ • @atharv2951 For Source
+ • @fdrxyzn_ @askairt For Support
