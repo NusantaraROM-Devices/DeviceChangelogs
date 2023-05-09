@@ -1,4 +1,29 @@
 |==========| Redmi Note 11 / spes |==========|
+Date : 10/05/2023
+Device Changelog : 
+- Sync Latest Source
+- May Security Patch
+- Update blobs from MIUI V13.0.12.0.SGCMIXM
+- Set fast charging indicator threshold to 10.8W
+- Add UFS sysfs path 
+- Add Google Battery HAL entry 
+- Enable adaptive charging feature
+- Add ignore RSSNR signal level 
+- Disable client composition cache
+- Disable sf EGL image tracking 
+- tweak some auto brightness configs
+- Disable FRP
+- Adjust thread count and cpuset after setup wizard
+- Misc changes and fixes
+- More Improvement And Stability
+
+Thanks to :
+- Nusantara Project Team
+
+Notes :
+- Can Flash and reflash TWRP 3.7,0 and 3.6.2
+
+|==========| Redmi Note 11 / spes |==========|
 Date : 18/04/2023
 
 Device Changelog : 
