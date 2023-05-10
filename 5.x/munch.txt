@@ -1,15 +1,15 @@
 |==========| POCO F4 5G / Munch |==========|
 
-Date: 19/04/2023 
+Date: 10/05/2023 
 
 Changelogs:
-• Initial Official Build, Based on Arrow DeviceTree
-• Shipped with Morph Kernel by @whothefvckareyou for now
-• Added Per-app Refresh rate's 
-• Update and Tune up powerhint with some optimizations
-• Update Adreno to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
-• Improved system performance
-• Some more underhood changes
+• Switch to Nexus Kernel
+• Added DC Dimming
+• Include KProfiles
+• Switch to vendor defined colors
+• Add touch profiles for gaming and benchmarking
+• Do not balance msm_drm and kgsl-3d0 IRQs
+• More underhood changes & some optimization
 
 Credits:
 • Thanks to all SM8250 and Poco F4 Developer's.
