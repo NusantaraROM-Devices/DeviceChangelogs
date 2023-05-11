@@ -1,5 +1,34 @@
 |==========| Redmi K20 Pro / Mi 9T Pro / Raphael |==========|
 
+Date : 11/05/2023
+
+Device Changelogs :
+• Specify ambient color temperature sensor
+• Tune uclampset for display
+• Sync to Boolx-Kernel for uclamp tune 
+• Adapt to uclamp
+• Use jemalloc to fix camera 
+• Switch to jemalloc for libc
+• Add KernelSU support
+• Switch to boolx-kernel
+• Set display mode to DCI-P3
+• Update alarm, nfc, keymaster, gatekeeper, perf, etc from LA.UM.9.1.r1-12900-SMxxx0.0
+• Utilize task_profiles.json + cgroups.json
+• Set 3 frame render ahead
+• Always report max cpu freq to unity tasks
+• Remove UnityMain from sched_lib_name 
+• Register framebuffer lib to cached freq reporting
+• Report max frequency to miHoYo games
+• Fix remain bugs on previous build
+
+Notes:
+• Enforcing Build
+• User Build
+• GApps & Vanilla Available
+• SafetyNet passes out of the box
+
+|==========| Redmi K20 Pro / Mi 9T Pro / Raphael |==========|
+
 Date : 17/02/2023
 
 Device Changelogs :
