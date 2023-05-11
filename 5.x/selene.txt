@@ -1,5 +1,31 @@
 |==========| Redmi 10 (Selene) |==========|
 
+Date: 11/05/2023
+
+ * Device Changelogs:
+ • May Security Patch
+ • Aperture Camera by Default
+ • Yukina Kernel by Default
+ • Fixed Offline Charging
+ • Some misc improvements and Fixes
+
+ * Known Issue:
+ • Double Tap To Wake
+
+ * Notes:
+ • SELinux Enforcing
+ • GApps Build
+ • Use R Vendor
+ • Don't flash it on MIUI 13
+ • if u find any bug, report to @itseunbinn
+
+ * Credit: 
+ • @arthav2951 For Source
+ • @fdrxyzn @askairt For Support
+ • Thanks For All Tester !
+
+|==========| Redmi 10 (Selene) |==========|
+
 Date: 03/05/2023
 
 
