@@ -1,5 +1,28 @@
 |==========| Redmi 10C / Fog |==========|
 
+Date : 10/05/2023
+
+Device  Changelogs:
+• Update blobs to MIUI V13.0.6.0.SGEMIXM
+• Drop unused IR Blaster
+• Disable client composition cache
+• Disable surfaceflinger EGL image tracking
+• Add support CLO BoostFramework
+• Update Perf blobs to CLO/CAF blobs ( from AOSPA topaz )
+• Minor fix changes.
+
+Notes:
+• GAPPS versions
+
+Issue:
+• MTP still on Dev Options
+
+Thanks To :
+• Redmi 10C Dev ID
+• To @@agathasenpai7, @powerrangermerah for support
+
+|===================================|
+
 Date : 19/04/2023
 
 Device Changelog:
