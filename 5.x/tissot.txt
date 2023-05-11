@@ -1,88 +1,31 @@
 |==========| MIA1 / Tissot |==========|
 
-Date : 18/04/2023
+Date : 11/05/2023
 
 * Device Changelogs :
-• Synced with latest source 5.7 [Tapanuli]
-• Some misc improvements and fixes
+• Initial Treble Release
+• Update wcnss_service from LA.UM.10.6.2.r1-01600-89xx.0
+• Update keystore from LA.UM.10.6.2.r1-01600-89xx.0
+• Update gatekeeper from LA.UM.10.6.2.r1-01600-89xx.0
+• Update Perf stack from LA.UM.10.6.2.r1-01600-89xx.0
+• Update ANT+ from LA.UM.10.6.2.r1-01600-89xx.0
+• Update ADSP from LA.UM.10.6.2.r1-01600-89xx.0
+• Some Misc Improvements and Fixed
 
-|==========| MIA1 / Tissot |==========|
+Notes :
+• Bitgapps recommended for Vanilla build
+• You Must Clean Flash because this rom is Treble Build
 
-Date : 30/03/2023
+Step Installation :
+Follow these instructions carefully:
+1. Backup your internal storage files
+2. Switch to Zignas' TWRP: https://github.com/zignas/twrp_device_xiaomi_tissot_treble/releases
+3. Install the vendor--adder.zip file: https://drive.google.com/file/d/1Gj-eDIttfJU5Ad-ApGdL94yYp0KD3FlL/view?usp=share_link
+4. Install the ROM. (Magisk is optional)
 
-* Device Changelogs :
-• Synced with latest source 5.6 [Tumpeng]
-• Some misc improvements and fixes
+The vendor--adder.zip will only be flashed once and you can disregard it for future dirty flashes.
 
-|==========| MIA1 / Tissot |==========|
-
-Date : 25/02/2023
-
-* Device Changelogs :
-• Sync Last Source
-• Changes for APEX
-• Enable PSI
-• Bump target level to 3
-• Drop renderscript bits
-• overlay: switch SystemUI to SystemUIGoogle
-• init: Register and enable qcrild & data services on boot
-• rootdir: Drop cpuset creation from postboot
-• sepolicy: Address dataservice denials
-• update datastatusnotification from coral [1/2]
-• CarrierConfig: Enable voLTE/voWIFI/ViLTE for entire 460 mcc
-
-|==========| MIA1 / Tissot |==========|
-
-Date : 11/01/2023
-
-* Device Changelogs :
-• Sync Last Source
-• Upstreamed Kernel to 4.9.337
-• Import XiaomiParts for A13, Feature : Dirac, Sound Control, Torch, Doze, Vibrate Control
-• XiaomiParts : Add Clear Speaker, Thanks to @HaKaNHZL
-• parts: Fix compilation for QPR1 merge
-• Revert "msm8953-common: Switch to SkiaGL threaded"
-• Revert "msm8953-common: Remove CLANG compile flag"
-• QCamera2: mm-jpeg-interface: exif: supply full AE data in exif
-• QCamera2: Update jpeg exif flash mode data properly
-• Ditch persist.rild.nitz_* props
-• remove DEVICE_PROVISIONED
-• Disable Async MTE on System Server
-• Disable Skia tracing by default
-• set NUM_FRAMEBUFFER_SURFACE_BUFFERS
-• obsolete debug.sf.disable_backpressure property
-• drop debug.hwui.use_buffer_age
-• rootdir: Stop bootanimation service after boot
-• Some misc improvements
-• CTS passed by default
-
-* Credits:
-• Thanks to @AriefMuttaqin @MAVERICK14055 for test this rom
-• Thanks to @ItsMeKakashii for Cakeby Kernel
-• Thanks to @Yincen Which Has Helped Me a Lot
-
-|==========| MIA1 / Tissot |==========|
-
-Date : 10/10/2022
-
-* Device Changelogs :
-• Sync Last Source
-• Add FM Radio
-• Add Mi Sound
-• Upstreamed Kernel to 4.9.330
-• Some misc improvements
-• CTS passed by default
-
-* Credits:
-• Thanks to @AriefMuttaqin for test this rom
-• Thanks to @ItsMeKakashii for Cakeby Kernel
-• Thanks to @Yincen Which Has Helped Me a Lot
-• Thanks to @MetoIsTaken for Helped
-• Thanks to @S4SPRAY @m_s_syarif29 for Support
-
-|==========| MIA1 / Tissot |==========|
-
-Date : 14/09/2022
-
-* Device Changelogs :
-• Initial Android 13 Build
+Credits to : 
+• @Giovix92 for vendor--adder.zip
+• @hklknz for Tree Reference
+• @AriefMuttaqin for Testing this Rom
