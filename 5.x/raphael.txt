@@ -19,6 +19,7 @@ Device Changelogs :
 • Remove UnityMain from sched_lib_name 
 • Register framebuffer lib to cached freq reporting
 • Report max frequency to miHoYo games
+• Switch to Leica Camera
 • Fix remain bugs on previous build
 
 Notes:
