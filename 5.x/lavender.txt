@@ -1,5 +1,20 @@
 |==========| Redmi Note 7 / Lavender |==========|
 
+Date : 12/05/2023
+
+* Device Changelogs :
+• Synced with latest source 5.8 [Tangkuban]
+• Some misc improvements and fixes
+
+Notes :
+• Vanilla & GApps Build
+• Dirty Flash possible but Clean flash is recommended
+
+* Thanks to :
+• @AllTester
+
+|===============================|
+
 Date : 30/03/2023
 
 * Device Changelogs :
