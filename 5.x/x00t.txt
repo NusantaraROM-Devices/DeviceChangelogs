@@ -1,5 +1,33 @@
 |==========| Zenfone Max Pro M1 / X00T |==========|
 
+Date : 12/05/2023
+
+Device Changelogs :
+• Updated FP to cheetah May
+• Added brightness ramp rate 
+• Enabled TFA98XX audio amplifier 
+• Switched audio HAL to V7 
+• Audio: Increased handset volume 
+• Audio: Removed FM Tuner from audio input devices
+• Audio: Set valid and supported channel mask for earpiece
+• Audio: Remove dynamic attributes from APS config
+• Removed pro audio capability 
+• Updated irqbalance for better performance 
+• Extended audio offload buffer size to 256kb
+• Disabled debug.sf.latch_unsignaled
+• Imported more surface flinger flags 
+• Some misc improvements and fixes
+• CTS passed by default
+
+Notes :
+• Orfox R11.1/BRP/Twrp-3.6.19.0 recovery is Recommended
+• SELinux Enforcing, LV, Non-FBE, 4.4 kernel Based
+• GApps are included
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
+
+
+
 Date : 18/04/2023
 
 Device Changelogs :
