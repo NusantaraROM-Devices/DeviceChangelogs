@@ -1,5 +1,28 @@
 |==========| POCO F1 / Beryllium |==========|
 
+------ Date : 13/05/2023 | Tangkuban 5.8 ------
+
+Changelogs:
+• Synced latest source changes (May 2023 Patch)
+• Disable SurfaceFlinger EGL image tracking
+
+Notes:
+• Latest System-Ext TWRP by Reignz is MANDATORY
+• GApps & Vanilla Build
+• SELinux Enforcing
+• Encrypted by default
+• Safetynet pass out of the box
+
+Thanks To:
+• Allah SWT
+• Nusantara Project Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 ------ Date : 25/04/2023 | Tapanuli 5.7 ------
 
 Changelogs:
