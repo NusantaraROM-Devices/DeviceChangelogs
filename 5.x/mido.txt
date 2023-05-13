@@ -3,13 +3,13 @@
 Date: 17/04/2023
 
 Device Changelogs: 
-• Enable Framework Boost
-• Fixed Hardware Light 
-• Tune some msm_irqbalance.conf
+• Disable Frameworks Boost
+• Revert msm_irqbalance tune
+• Switch to zLos Kernel for now
+• Set 3 frame render ahead 
 • Many more improvements from device tree
 
 Credit:
-• Thanks to @Nicklas373 for kernel
 • Thanks to @zymboe for testing.
 
 Notes:
