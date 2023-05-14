@@ -1,17 +1,14 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
-Date : 11/05/2023
+Date : 14/05/2023
 
 Device Changelogs :
-• Fixed Charging issue when devices goes to sleep 
-• Include Leica Camera
-• Set render ahead to 3 frame 
-• Don't boost top-app when screen is off
-• Disable prefer_idle when screen goes off
-• Move to task_profiles
-• Disable color inversion
-• Nuke rebalance_interrupts and switch back to msm_irqbalance
-• Update blobs from miui_VAYUIDGlobal_V14.0.3.0.TJUIDXM
+• Hotfix builds
+• Fixed Calling issue
+• Fixed IMS Crashing issue
+• Fixed Offline Charging issue
+• Revert back to V13.0.2.0 blobs
+• Build with ThinLTO for improving some performance
 
 Credit:
 • Big Thanks to https:@MochiJr, @Nusantarangers, @GodRae for testing.
