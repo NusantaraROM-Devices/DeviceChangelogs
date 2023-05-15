@@ -1,19 +1,19 @@
 |==========| Xiaomi Redmi Note 6 Pro / Tulip |==========|
 
-Date: 28/04/2023
+Date: 15/05/2023
 
 Changelogs:
-• Switch to Mocha Device Tree
-• Shipped with Pitron Kernel
-• Fixed Freezing issue
+• Back to Evox base device tree
+• Shipped with Radical Ice 1.5
+• Fixed Extra Dim and Nightlight
 
 Credits:
-• Thanks to xyz-mocha for device, and kernel tree.
-• Thanks to all sdm660 Developer's.
+• Thanks to tedomi2705 for device, and kernel tree.
+• Thanks to all sdm660 developer's.
 • Thanks for anyone giving time for testing this build.
 
 Notes:
 • GApss Already included.
 • Enforcing Build.
 • Clean flash is mandatory.
-• SafetyNet passes without root.
+• SafetyNet should be passed.
