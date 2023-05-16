@@ -1,5 +1,32 @@
 |==========| Redmi Note 10  (Sunny/Mojito)|==========|
 
+Date : 16/05/2023
+
+Device Changelog:
+• Sync With May SecPatch
+• Update blobs to MIUI V14.0.2.0.SKGMIXM
+• Update surfaceflinger durations from MIUI
+• Add support CLO's BoostFramework
+• Add App resume boost
+• Swith to Auto SingleLayer latch
+• Enable ODM Partitions
+• Enable QCOM hw aac encoder
+• Use audio SW decoder
+• Fix some lagging UI
+• Minor fix changes.
+
+Notes:
+• Switch to GApps versions
+
+Thanks To :
+• Nusantara Project
+• Redmi 10C Dev ID
+• @fiqri_ardyansyah for kernel
+• @venom_stark for Support
+• My Tester @msyfrr
+
+|===================================|
+
 Date : 20/04/2023
 
 Device Changelog:
