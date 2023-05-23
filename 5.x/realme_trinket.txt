@@ -1,0 +1,26 @@
+|==========| Realme 5/5i/5s/5 NFC | realme_trinket |==========||
+
+Date: 23/05/2023 [5.8 Tangkuban]
+
+Device Changelog:
+• Welcome Back Realme Trinket
+• Upstreamed kernel to 4.14.315
+• props: Enable ro.hwui.render_ahead and set it to 20 frames
+• init: Set permissions to rawdump node
+• And more fixes and improvement
+
+Notes : 
+• Selinux Enforcing 
+• Clean Flash mandatory 
+• Recomend to use lastest fwrui 
+• OSS Vendor 
+
+Known Issue:
+• You tell me with proper log please
+
+Credits : 
+• Thanks Nusantara Project Team
+• Thanks Realme 5 Indo Lab (Irawan, Nanta, Adit, Amsar and more) for everything 
+• Thanks All peoples who contributed on this rom
+• Thanks @Nnd_st for testing
+• Thanks @eLSanzi for server donation
