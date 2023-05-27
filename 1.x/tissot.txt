@@ -1,5 +1,17 @@
 |==========| MI A1 / Tissot |==========|
 
+Date : 28/05/2023
+
+- End Of Life Builds (No Longer Support) 
+- Update to May 2023 Security Patch
+- Update KernelSU
+- And Some misc improvements
+
+• Notes:- Vanilla Build
+- Use Bitgapps is Recommended
+
+|==========| MI A1 / Tissot |==========|
+
 Date : 02/05/2023
 
 - End Of Life Builds (No Longer Support) 
