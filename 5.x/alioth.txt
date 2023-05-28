@@ -1,5 +1,19 @@
 |==========| POCO F3 / Alioth / Aliothin |==========|
 
+------ Date : 28/05/2023 | Tangkuban 5.8 ------
+
+Device Changelogs :
+• Sync with latest source
+• Kernel upstream to 4.14.282
+• Improved system performance
+• Some more underhood changes
+
+Notes :
+• MIUI 14.x.x.x firmware required
+• Only GApps build
+• Clean flash recommended
+• OrangeFox recovery recommended
+
 ------ Date : 18/04/2023 | Tapanuli 5.7 ------
 
 Device Changelogs :
