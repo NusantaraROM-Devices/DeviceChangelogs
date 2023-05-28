@@ -1,0 +1,23 @@
+|==========| Redmi Note 9 | Merlinx |==========|
+
+Date : 27/05/2023
+
+Device Changelog:
+- Initial official 
+- Sync with latest source 5.8 [Tangkuban]
+- May Security Patch
+- And more fixes and improvement
+
+Notes : 
+• Gapps Build
+• Selinux Enforcing 
+• Clean Flash mandatory 
+• R Vendor
+
+Known Issue:
+• You tell me with proper log please
+
+Thanks To :
+• Thanks to all tester
+• Thanks to GengKapak
+• Thanks to Redmi MT6768 Team
