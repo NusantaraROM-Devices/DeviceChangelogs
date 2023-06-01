@@ -1,0 +1,28 @@
+|==========| Xiaomi Redmi Note 7 Pro / violet |==========|
+
+------ Date : 01/06/2023 | Tangkuban 5.8 ------
+
+Device Changelogs :
+• Initial Official A13
+• Xcalibur-v2.1 kernel by default
+• MiuiCamera Included
+• Sony Dolby Included
+
+Notes :
+• Firmware Included
+• Rom is encrypted by default
+• Gapps and Vanilla both available
+• Use latest Twrp A13 by @Joker_V2_0 or Orrangefox
+• For vanilla build Nikgapps
+
+Flash Instructions :
+• Wipe (dalvik, Caches,system,vendor,data) 
+• Flash ROM zip
+• Flash GApps (If u flash Vanilla Build) 
+• Flash FcryptV4(Decryption)
+• Format data(Format if u are encrypted)
+• Boot into System.
+
+Credits :
+• Thanks to  @𝑱𝒐𝒌𝒆𝒓_𝑽2_0 @𝒅𝒂𝒔𝒔𝒉𝒖𝒃𝒉𝒂𝒎762 for tree
+• Thanks to @undiscovered_element for test
