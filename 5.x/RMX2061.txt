@@ -1,0 +1,23 @@
+|==========| Realme 6 Pro (RMX2061) |==========|
+
+------ Date : 06/06/2023 | Tangkuban 5.8 ------
+
+Device Changelogs :
+• Initial Official A13
+• Falcon-X kernel by default
+• No F2FS compression support 
+
+Notes :
+• Gapps build available
+• Use latest OrangeFox by @Ctapchuk
+• Report bugs (if any) with proper logs
+
+Flash Instructions :
+• Wipe partitions (Dalvik, Cache, Metadata, Data, Internal storage). 
+• Flash rom
+• Wipe again 
+• Boot into the system and have fun 
+
+
+Credits :
+• Thanks to  all the testers
