@@ -1,5 +1,27 @@
 |==========| Realme 3 Pro / RMX1851 |==========|
 
+/============ 5.8 Tangkuban ============\
+
+Date : 13/06/2023
+
+Changelog :
+
+- Adjust lmkd kill timeout
+- Adjust RIL props for power saving
+- Import Google photos properties from pixelify
+- Restore pre a13 battery warning threshold
+- Import more surfacflinger flags
+- Show memory usage in app info
+- Cleanup unused daemon services
+- Add SystemUI speed compiler filter
+
+Notes :
+• SELinux Enforcing
+• CTS passed by default
+• Vendor included
+• NikGapps recommended for vanilla builds
+• Clean flash is a must
+
 /============ 5.5 Tarakan ============\
 
 Date : 15/02/2023
@@ -9,13 +31,6 @@ Changelog :
 - Switch HWUI rendering backend to opengl
 - Enable display protected contents in Surfaceflinger
 - Enable Offload WM Shell to improve performance when the main System UI thread is busy
-
-Notes :
-• SELinux Enforcing
-• CTS passed by default
-• Vendor included
-• NikGapps recommended for vanilla builds
-• Clean flash is a must
 
 /============ 5.4 Trisakti ============\
 
